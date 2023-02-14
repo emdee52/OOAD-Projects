@@ -51,6 +51,7 @@ abstract public class Vehicle {
 
         return nameGen;
     }
+
     // Getters
     public String getName() {
         return this.name;

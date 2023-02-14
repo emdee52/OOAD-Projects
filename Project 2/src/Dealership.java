@@ -11,4 +11,8 @@ public class Dealership {
     private ArrayList<Staff> departedEmployees;
     private int numDays;
     private String day;
+
+    public void open() {
+
+    }
 }
