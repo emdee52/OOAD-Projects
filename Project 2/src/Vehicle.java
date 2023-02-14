@@ -1,4 +1,3 @@
-import java.util.Random;
 import java.util.SplittableRandom;
 
 abstract public class Vehicle {
