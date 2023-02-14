@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.SplittableRandom;
 
 abstract public class Vehicle {
-    Random rand = new Random();
+    SplittableRandom random = new SplittableRandom(); // SplittableRandom allows the use of begin(inclusive) and end(exclusive) parameters
     protected String condition; // randomly chosen from (Like New, Used, Broken)
     protected double costModifier; // modifier applied to cost
     protected String cleanliness; // (5% Sparking, 35% Clean, 60% Dirty)
@@ -15,15 +15,14 @@ abstract public class Vehicle {
     protected Vehicle() { // Constructor that applies for all vehicles regardless of the "type"(subclass) of Vehicle
         String[] conditions = {"Like New", "Used", "Broken"}; // conditions
         double[] conditionsCost = {1.0, .8, .5}; // the cost modifier for the condition generate
-        int conditionIndex = rand.nextInt(conditions.length); // chooses a random condition index
+        int conditionIndex = random.nextInt(conditions.length); // chooses a random condition index
         this.condition = conditions[conditionIndex]; // random condition based on a random index
         this.costModifier = conditionsCost[conditionIndex]; // costModifier that gets applied to the cost of the Vehicle
         this.cleanliness = rngCleanliness(); // generate a cleanliness value through a random weighted algorithm
         this.sold = false; // vehicles aren't sold when initialized
     }
 
-    public static String rngCleanliness() {
-        SplittableRandom random = new SplittableRandom(); // SplittableRandom allows the use of begin(inclusive) and end(exclusive) parameters
+    private String rngCleanliness() {
         int randGen = random.nextInt(1, 101); // randInt between 1 and 100
         //System.out.println("RandGen: " + randGen);
         if (randGen <= 5) // 5% chance, if randGen is a number between 1-5 out of 100
@@ -37,7 +36,7 @@ abstract public class Vehicle {
     protected String genName() { // needs to be updated with better names
         String[] model = {"Dodge", "Toyota", "Ford"};
         String[] make = {"Coupe", "Sedan", "Truck"};
-        int index = rand.nextInt(model.length);
+        int index = random.nextInt(model.length);
         String nameGen = "";
         if (this instanceof Performance) {
             nameGen = model[index] + " Super" + make[index];
@@ -110,15 +109,16 @@ abstract public class Vehicle {
     public void setStatus(boolean newStatus) {
         this.sold = newStatus;
     }
+
     public void report() { // for debug only
-        System.out.println(getName() + " " + this.getClass());
-        System.out.println(getCleanliness());
-        System.out.println(getCondition());
-        System.out.println(getCost());
-        System.out.println(getSalesPrice());
-        System.out.println(getWorkBonus());
-        System.out.println(getStatus());
-        System.out.println();
+        System.out.println("\nType:        " + this.getClass());
+        System.out.println("Name:        " + getName());
+        System.out.println("Condition:   " + getCondition());
+        System.out.println("Cleanliness: " + getCleanliness());
+        System.out.println("Cost:        " + getCost());
+        System.out.println("SalesPrice:  " + getSalesPrice());
+        System.out.println("WorkBonus:   " + getWorkBonus());
+        System.out.println("Sold?:       " + getStatus());
     }
 }
 
@@ -127,7 +127,8 @@ class Performance extends Vehicle {
     public Performance() {
         super();
         this.name = genName();
-        this.cost = Math.floor((rand.nextInt(40000 - 20000 + 1) + 20000) * this.costModifier); // The cost of a Performance Car will be between $20000 and $40000
+        this.cost = Math.round(random.nextInt(20000, 40001) * this.costModifier); // Performance vehicle cost will be between $20000 and $40000
+        this.cost = Math.floor((rand.nextInt(40000 - 20000 + 1) + 20000) * this.costModifier);
         this.salesPrice = this.cost * 2;
         this.workBonus = 0; // need to find a working value
     }
@@ -139,7 +140,7 @@ class Car extends Vehicle {
     public Car() {
         super();
         this.name = genName();
-        this.cost = Math.floor((rand.nextInt(20000 - 10000 + 1) + 20000) * this.costModifier); // The cost of a regular car will be $10000 to $20000
+        this.cost = Math.round(random.nextInt(10000, 20001) * this.costModifier); // regular Car cost will be between $10000 and $20000
         this.salesPrice = this.cost * 2;
         this.workBonus = 0; // need to find a working value
     }
@@ -150,7 +151,7 @@ class Pickup extends Vehicle {
     public Pickup() {
         super();
         this.name = genName();
-        this.cost = Math.floor((rand.nextInt(40000 - 10000 + 1) + 20000) * this.costModifier); // The cost of a Pickup will be $10000 to $40000
+        this.cost = Math.round(random.nextInt(10000, 40001) * this.costModifier); // Pickup vehicle cost will between $10000 and $40000
         this.salesPrice = this.cost * 2;
         this.workBonus = 0; // need to find a working value
     }
