@@ -123,20 +123,16 @@ abstract public class Vehicle {
 }
 
 class Performance extends Vehicle {
-    Random rand = new Random();
     public Performance() {
         super();
         this.name = genName();
         this.cost = Math.round(random.nextInt(20000, 40001) * this.costModifier); // Performance vehicle cost will be between $20000 and $40000
-        this.cost = Math.floor((rand.nextInt(40000 - 20000 + 1) + 20000) * this.costModifier);
         this.salesPrice = this.cost * 2;
         this.workBonus = 0; // need to find a working value
     }
-
 }
 
 class Car extends Vehicle {
-    Random rand = new Random();
     public Car() {
         super();
         this.name = genName();
@@ -147,7 +143,6 @@ class Car extends Vehicle {
 }
 
 class Pickup extends Vehicle {
-    Random rand = new Random();
     public Pickup() {
         super();
         this.name = genName();
@@ -155,5 +150,4 @@ class Pickup extends Vehicle {
         this.salesPrice = this.cost * 2;
         this.workBonus = 0; // need to find a working value
     }
-
 }
