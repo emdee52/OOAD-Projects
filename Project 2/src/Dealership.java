@@ -263,6 +263,7 @@ public class Dealership {
             budget -= employees.get(i).getBonus();
             employees.get(i).addTotalBonus(employees.get(i).getSalary());
             employees.get(i).setBonus(0); // reset daily bonus earned
+            employees.get(i).daysWorked += 1;
             if(employees.get(i) instanceof intern) {
                 if (random.nextInt(10) >= 9 && numInterns == 3) { // 10% chance to quit and makes sure only one quits per day
                     System.out.printf("%s %d- Days Worked: %d, Total Pay: %s, Total Bonus: %s, Employment: has quit the FNCD\n", 
