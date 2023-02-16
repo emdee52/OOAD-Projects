@@ -39,10 +39,6 @@ public class Staff {
         return Id;
     }
 
-    public String getType(){
-        return this.type;
-    }
-
     public void addBonus(double bonus) { //adds bonus to bonus already received
         this.bonus = this.bonus + bonus;
     }
@@ -78,6 +74,9 @@ public class Staff {
     }
 
     //getter functions
+    public String getType(){
+        return this.type;
+    }
     public int getIDCounter() {
         return IdCounter;
     }
@@ -339,6 +338,7 @@ class intern extends Staff {
                 clean.get(washChooser).cleanliness = "Dirty";
                 System.out.printf("Intern %d washed %s and made it Clean\n", 
                 this.employeeID, clean.get(washChooser).getName());
-            }}
+            }
+        }
     }
 }
