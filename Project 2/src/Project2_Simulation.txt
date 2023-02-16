@@ -1,0 +1,503 @@
+*** FNCD Day 1 ***
+Opening... (current budget $500000.00)
+Hired Intern 1
+Hired Intern 2
+Hired Intern 3
+Promoted Intern 3 into Mechanic
+Promoted Intern 2 into Mechanic
+Promoted Intern 1 into Mechanic
+Hired Intern 7
+Hired Intern 8
+Hired Intern 9
+Promoted Intern 9 into Salesperson
+Promoted Intern 8 into Salesperson
+Promoted Intern 7 into Salesperson
+Hired Intern 13
+Hired Intern 14
+Hired Intern 15
+Purchased Like New, Clean Performance Dodge Hatchback for $28253.00 Cost
+Purchased Used, Dirty Performance Toyota Hatchback for $19559.00 Cost   
+Purchased Like New, Dirty Performance Dodge Coupe for $28130.00 Cost    
+Purchased Broken, Dirty Performance Chevrolet Coupe for $11286.00 Cost  
+Purchased Broken, Clean Car Chevrolet Wagon for $8113.00 Cost
+Purchased Used, Clean Car Dodge Wagon for $14841.00 Cost
+Purchased Broken, Dirty Car Ford Sedan for $9539.00 Cost
+Purchased Like New, Clean Car Ford SUV for $14755.00 Cost
+Purchased Used, Clean Pickup Dodge Dually for $25694.00 Cost
+Purchased Like New, Clean Pickup Honda Shortbed for $18115.00 Cost
+Purchased Like New, Dirty Pickup Chevrolet Dually for $33702.00 Cost
+Purchased Like New, Clean Pickup Honda Longbed for $39159.00 Cost
+Intern 15 washed Performance Chevrolet Coupe and made it Clean
+Mechanic 2 repaired Broken Car Ford Sedan and made it Used (Earned $500.00 bonus)
+Mechanic 1 repaired Broken Performance Chevrolet Coupe and made it Used (Earned $2000.00 bonus)      
+Mechanic 1 repaired Used Pickup Dodge Dually and made it Like New (Earned $1250.00 bonus)
+Salesperson 8 sold Clean Like New Pickup Honda Longbed to Buyer for $78318.00 (earned $1250.00 bonus)
+Intern 15- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed        
+Salesperson 8- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed        
+Salesperson 9- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed        
+Mechanic 1- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 2- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 3- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+*** FNCD Day 2 ***
+Opening... (current budget $314672.00)
+Purchased Used, Dirty Pickup Volkswagen Shortbed for $22882.00 Cost
+Intern 13 washed Performance Chevrolet Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 13 washed Car Ford Sedan and made it Sparkling (earned $500.00 bonus)
+Intern 15 washed Pickup Dodge Dually and made it Sparkling (earned $1250.00 bonus)
+Mechanic 1 repaired Used Car Ford Sedan and made it Like New (Earned $500.00 bonus)
+Salesperson 7 sold Clean Like New Performance Dodge Hatchback to Buyer for $56506.00 (earned $2000.00 bonus)
+Salesperson 7 sold Dirty Like New Pickup Chevrolet Dually to Buyer for $67404.00 (earned $1250.00 bonus)    
+Intern 15- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 8- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: has quit the FNCD        
+Salesperson 9- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 2- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 3- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+*** FNCD Day 3 ***
+Opening... (current budget $400700.00)
+Promoted Intern 15 into Salesperson
+Hired Intern 17
+Purchased Like New, Dirty Performance Dodge Coupe for $20420.00 Cost
+Purchased Used, Dirty Pickup Ford Shortbed for $20597.00 Cost
+Intern 14 washed Performance Dodge Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 17 washed Performance Dodge Coupe and made it Clean
+Salesperson 7 sold Sparkling Like New Pickup Dodge Dually to Buyer for $64235.00 (earned $1250.00 bonus)      
+Intern 17- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 1500.00, Total Bonus: 1500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 1500.00, Total Bonus: 1500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 2- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 3- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: has quit the FNCD
+*** FNCD Day 4 ***
+Opening... (current budget $413168.00)
+Promoted Intern 17 into Mechanic
+Hired Intern 19
+Purchased Broken, Dirty Pickup Chevrolet Longbed for $18235.00 Cost
+Intern 13 washed Pickup Chevrolet Longbed and made it Clean
+Intern 19 washed Car Ford Sedan and made it Sparkling (earned $500.00 bonus)
+Mechanic 17 repaired Used Car Dodge Wagon and made it Like New (Earned $500.00 bonus)
+Salesperson 7 sold Dirty Used Pickup Volkswagen Shortbed to Buyer for $45764.00 (earned $1250.00 bonus)       
+Salesperson 9 sold Dirty Used Pickup Ford Shortbed to Buyer for $41194.00 (earned $1250.00 bonus)
+Salesperson 7 sold Dirty Like New Car Dodge Wagon to Buyer for $37102.50 (earned $500.00 bonus)
+Intern 19- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 17- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: has quit the FNCD
+Salesperson 15- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 2- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+*** FNCD Day 5 ***
+Opening... (current budget $507493.50)
+Promoted Intern 19 into Mechanic
+Hired Intern 21
+Purchased Used, Dirty Car Toyota Wagon for $15940.00 Cost
+Purchased Broken, Dirty Pickup Volkswagen Longbed for $19598.00 Cost
+Purchased Used, Dirty Pickup Toyota Longbed for $12090.00 Cost
+Intern 13 washed Pickup Toyota Longbed and made it Sparkling (earned $1250.00 bonus)
+Intern 14 washed Performance Toyota Hatchback and made it Sparkling (earned $2000.00 bonus)
+Mechanic 1 repaired Used Performance Chevrolet Coupe and made it Like New (Earned $2000.00 bonus)
+Salesperson 7 sold Dirty Broken Pickup Volkswagen Longbed to Buyer for $39196.00 (earned $1250.00 bonus)      
+Salesperson 15 sold Sparkling Like New Performance Dodge Coupe to Buyer for $56260.00 (earned $2000.00 bonus) 
+Salesperson 7 sold Clean Like New Performance Chevrolet Coupe to Buyer for $42322.50 (earned $2000.00 bonus)  
+Intern 21- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 2500.00, Total Bonus: 2500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 2500.00, Total Bonus: 2500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Mechanic 2- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: has quit the FNCD
+*** FNCD Day 6 ***
+Opening... (current budget $579644.00)
+Promoted Intern 21 into Mechanic
+Hired Intern 23
+Purchased Broken, Dirty Performance Toyota Coupe for $18457.00 Cost
+Purchased Broken, Dirty Performance Volkswagen Coupe for $13762.00 Cost
+Purchased Broken, Dirty Pickup Dodge Dually for $15641.00 Cost
+Intern 14 washed Performance Volkswagen Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 23 washed Pickup Dodge Dually and made it Sparkling (earned $1250.00 bonus)
+Intern 23 washed Performance Toyota Coupe and made it Sparkling (earned $2000.00 bonus)
+Mechanic 21 repaired Broken Performance Toyota Coupe and made it Used (Earned $2000.00 bonus)
+Salesperson 9 sold Clean Broken Pickup Chevrolet Longbed to Buyer for $36470.00 (earned $1250.00 bonus)       
+Intern 23- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 21- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+*** FNCD Day 7 ***
+FNCD is closed on Sundays.
+*** FNCD Day 8 ***
+Opening... (current budget $552254.00)
+Purchased Broken, Dirty Pickup Volkswagen Shortbed for $14962.00 Cost
+Intern 13 washed Pickup Volkswagen Shortbed and made it Clean
+Intern 14 washed Car Chevrolet Wagon and made it Sparkling (earned $500.00 bonus)
+Mechanic 1 repaired Used Performance Toyota Hatchback and made it Like New (Earned $2000.00 bonus)
+Salesperson 15 sold Clean Used Performance Toyota Coupe to Buyer for $55371.00 (earned $2000.00 bonus)        
+Salesperson 7 sold Sparkling Like New Car Ford Sedan to Buyer for $35771.25 (earned $500.00 bonus)
+Intern 23- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 21- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 3500.00, Total Bonus: 3500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 3500.00, Total Bonus: 3500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+*** FNCD Day 9 ***
+Opening... (current budget $615934.25)
+Purchased Used, Dirty Performance Toyota Coupe for $21202.00 Cost
+Purchased Like New, Clean Car Ford Wagon for $18314.00 Cost
+Mechanic 1 repaired Used Pickup Toyota Longbed and made it Like New (Earned $1250.00 bonus)
+Mechanic 1 repaired Broken Car Chevrolet Wagon and made it Used (Earned $500.00 bonus)
+Mechanic 19 repaired Broken Pickup Volkswagen Shortbed and made it Used (Earned $1250.00 bonus)
+Mechanic 21 repaired Used Car Toyota Wagon and made it Like New (Earned $500.00 bonus)
+Mechanic 21 repaired Broken Pickup Dodge Dually and made it Used (Earned $1250.00 bonus)
+Intern 23- Days Worked: 0, Total Pay: 1500.00, Total Bonus: 1500.00, Employment: employed
+Mechanic 21- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Intern 14- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+*** FNCD Day 10 ***
+Opening... (current budget $564168.25)
+Intern 13 washed Performance Toyota Hatchback and made it Clean
+Intern 14 washed Car Toyota Wagon and made it Sparkling (earned $500.00 bonus)
+Intern 23 washed Car Chevrolet Wagon and made it Clean
+Intern 23 washed Pickup Dodge Dually and made it Sparkling (earned $1250.00 bonus)
+Mechanic 1 repaired Used Pickup Volkswagen Shortbed and made it Like New (Earned $1250.00 bonus)
+Mechanic 19 repaired Broken Performance Volkswagen Coupe and made it Used (Earned $2000.00 bonus)
+Mechanic 21 repaired Used Performance Volkswagen Coupe and made it Like New (Earned $2000.00 bonus)
+Salesperson 15 sold Dirty Like New Pickup Volkswagen Shortbed to Buyer for $56107.50 (earned $1250.00 bonus)  
+Salesperson 7 sold Sparkling Used Pickup Dodge Dually to Buyer for $46923.00 (earned $1250.00 bonus)
+Salesperson 15 sold Clean Like New Pickup Honda Shortbed to Buyer for $36230.00 (earned $1250.00 bonus)       
+Salesperson 9 sold Sparkling Like New Car Toyota Wagon to Buyer for $39850.00 (earned $500.00 bonus)
+Intern 23- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 21- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: has quit the FNCD
+Mechanic 19- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Salesperson 15- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: has quit the FNCD       
+Intern 14- Days Worked: 0, Total Pay: 4500.00, Total Bonus: 4500.00, Employment: has quit the FNCD
+Intern 13- Days Worked: 0, Total Pay: 4500.00, Total Bonus: 4500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+*** FNCD Day 11 ***
+Opening... (current budget $724528.75)
+Hired Intern 24
+Promoted Intern 24 into Mechanic
+Hired Intern 26
+Promoted Intern 26 into Salesperson
+Hired Intern 28
+Purchased Like New, Clean Car Ford SUV for $16948.00 Cost
+Purchased Like New, Clean Pickup Ford Shortbed for $26998.00 Cost
+Purchased Used, Dirty Pickup Ford Longbed for $25256.00 Cost
+Purchased Broken, Clean Pickup Toyota Shortbed for $6398.00 Cost
+Intern 23 washed Car Chevrolet Wagon and made it Sparkling (earned $500.00 bonus)
+Intern 28 washed Pickup Ford Longbed and made it Sparkling (earned $1250.00 bonus)
+Mechanic 1 repaired Broken Pickup Toyota Shortbed and made it Used (Earned $1250.00 bonus)
+Mechanic 19 repaired Used Pickup Ford Longbed and made it Like New (Earned $1250.00 bonus)
+Mechanic 24 repaired Used Car Chevrolet Wagon and made it Like New (Earned $500.00 bonus)
+Salesperson 26 sold Clean Like New Car Ford Wagon to Buyer for $36628.00 (earned $500.00 bonus)
+Intern 28- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 26- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 2500.00, Total Bonus: 2500.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+*** FNCD Day 12 ***
+Opening... (current budget $672806.75)
+Purchased Like New, Clean Car Volkswagen SUV for $15806.00 Cost
+Intern 13 washed Performance Volkswagen Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 13 washed Performance Toyota Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 23 washed Pickup Toyota Shortbed and made it Clean
+Intern 28 washed Car Chevrolet Wagon and made it Sparkling (earned $500.00 bonus)
+Mechanic 1 repaired Used Performance Toyota Coupe and made it Like New (Earned $2000.00 bonus)
+Mechanic 19 repaired Used Pickup Toyota Shortbed and made it Like New (Earned $1250.00 bonus)
+Salesperson 9 sold Clean Like New Performance Toyota Coupe to Buyer for $53005.00 (earned $2000.00 bonus)
+Intern 28- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 26- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 5500.00, Total Bonus: 5500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: employed
+Salesperson 9- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: has quit the FNCD      
+Mechanic 1- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: employed
+*** FNCD Day 13 ***
+Opening... (current budget $692755.75)
+Promoted Intern 28 into Salesperson
+Hired Intern 30
+Purchased Used, Dirty Performance Toyota Hatchback for $16992.00 Cost
+Intern 13 washed Performance Toyota Hatchback and made it Sparkling (earned $2000.00 bonus)
+Mechanic 24 repaired Used Performance Toyota Hatchback and made it Like New (Earned $2000.00 bonus)
+Salesperson 28 sold Clean Like New Car Ford SUV to Buyer for $33896.00 (earned $500.00 bonus)
+Intern 30- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 28- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: has quit the FNCD       
+Salesperson 26- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 3500.00, Total Bonus: 3500.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 12000.00, Total Bonus: 12000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 12000.00, Total Bonus: 12000.00, Employment: employed
+*** FNCD Day 14 ***
+FNCD is closed on Sundays.
+*** FNCD Day 15 ***
+Opening... (current budget $697659.75)
+Promoted Intern 30 into Salesperson
+Hired Intern 32
+Purchased Like New, Dirty Car Volkswagen Wagon for $10736.00 Cost
+Intern 23 washed Pickup Toyota Shortbed and made it Sparkling (earned $1250.00 bonus)
+Intern 23 washed Pickup Toyota Longbed and made it Clean
+Intern 32 washed Car Volkswagen Wagon and made it Clean
+Intern 32 washed Performance Toyota Hatchback and made it Sparkling (earned $2000.00 bonus)
+Salesperson 30 sold Clean Like New Car Volkswagen SUV to Buyer for $31612.00 (earned $500.00 bonus)
+Intern 32- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 26- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 19- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: has quit the FNCD
+Intern 13- Days Worked: 0, Total Pay: 6500.00, Total Bonus: 6500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 13000.00, Total Bonus: 13000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 13000.00, Total Bonus: 13000.00, Employment: employed
+*** FNCD Day 16 ***
+Opening... (current budget $707285.75)
+Promoted Intern 32 into Mechanic
+Hired Intern 34
+Purchased Like New, Clean Car Chevrolet Sedan for $16667.00 Cost
+Intern 13 washed Performance Dodge Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 13 washed Car Chevrolet Sedan and made it Sparkling (earned $500.00 bonus)
+Intern 23 washed Performance Toyota Hatchback and made it Sparkling (earned $2000.00 bonus)
+Intern 23 washed Pickup Toyota Longbed and made it Sparkling (earned $1250.00 bonus)
+Intern 34 washed Car Volkswagen Wagon and made it Sparkling (earned $500.00 bonus)
+Intern 34 washed Pickup Ford Longbed and made it Clean
+Intern 34- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 26- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 4500.00, Total Bonus: 4500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 14000.00, Total Bonus: 14000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 14000.00, Total Bonus: 14000.00, Employment: employed
+*** FNCD Day 17 ***
+Opening... (current budget $676868.75)
+Intern 34- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 26- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: has quit the FNCD       
+Mechanic 24- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 7500.00, Total Bonus: 7500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 15000.00, Total Bonus: 15000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 15000.00, Total Bonus: 15000.00, Employment: employed
+*** FNCD Day 18 ***
+Opening... (current budget $669368.75)
+Promoted Intern 34 into Salesperson
+Hired Intern 36
+Intern 13 washed Pickup Ford Longbed and made it Sparkling (earned $1250.00 bonus)
+Intern 23 washed Pickup Ford Shortbed and made it Clean
+Intern 23 washed Pickup Ford Shortbed and made it Sparkling (earned $1250.00 bonus)
+Intern 36 washed Car Ford SUV and made it Sparkling (earned $500.00 bonus)
+Salesperson 7 sold Sparkling Like New Performance Volkswagen Coupe to Buyer for $51607.50 (earned $2000.00 bonus)
+Intern 36- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: has quit the FNCD
+Salesperson 34- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 5500.00, Total Bonus: 5500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 16000.00, Total Bonus: 16000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 16000.00, Total Bonus: 16000.00, Employment: employed
+*** FNCD Day 19 ***
+Opening... (current budget $708476.25)
+Hired Intern 37
+Purchased Like New, Dirty Performance Chevrolet Roadster for $30555.00 Cost
+Intern 13 washed Performance Chevrolet Roadster and made it Clean
+Intern 23 washed Performance Chevrolet Roadster and made it Sparkling (earned $2000.00 bonus)
+Intern 37- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 34- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Mechanic 24- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: has quit the FNCD
+Intern 23- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 8500.00, Total Bonus: 8500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 17000.00, Total Bonus: 17000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 17000.00, Total Bonus: 17000.00, Employment: employed
+*** FNCD Day 20 ***
+Opening... (current budget $668421.25)
+Promoted Intern 37 into Mechanic
+Hired Intern 39
+Salesperson 34 sold Sparkling Like New Performance Chevrolet Roadster to Buyer for $61110.00 (earned $2000.00 
+bonus)
+Salesperson 7 sold Sparkling Like New Pickup Ford Longbed to Buyer for $63140.00 (earned $1250.00 bonus)      
+Salesperson 7 sold Sparkling Like New Pickup Ford Shortbed to Buyer for $53996.00 (earned $1250.00 bonus)     
+Salesperson 30 sold Sparkling Like New Car Chevrolet Sedan to Buyer for $33334.00 (earned $500.00 bonus)      
+Intern 39- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 37- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 34- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: has quit the FNCD
+Mechanic 32- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 6500.00, Total Bonus: 6500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 18000.00, Total Bonus: 18000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 18000.00, Total Bonus: 18000.00, Employment: employed
+*** FNCD Day 21 ***
+FNCD is closed on Sundays.
+*** FNCD Day 22 ***
+Opening... (current budget $867501.25)
+Promoted Intern 39 into Salesperson
+Hired Intern 41
+Purchased Like New, Clean Performance Honda Hatchback for $20054.00 Cost
+Purchased Like New, Dirty Car Honda Wagon for $16303.00 Cost
+Purchased Used, Dirty Pickup Dodge Dually for $11947.00 Cost
+Purchased Used, Clean Pickup Ford Longbed for $25907.00 Cost
+Intern 41 washed Pickup Dodge Dually and made it Sparkling (earned $1250.00 bonus)
+Mechanic 1 repaired Used Pickup Dodge Dually and made it Like New (Earned $1250.00 bonus)
+Mechanic 1 repaired Used Pickup Ford Longbed and made it Like New (Earned $1250.00 bonus)
+Salesperson 39 sold Dirty Like New Car Honda Wagon to Buyer for $32606.00 (earned $500.00 bonus)
+Intern 41- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 37- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: has quit the FNCD
+Mechanic 32- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 9500.00, Total Bonus: 9500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 19000.00, Total Bonus: 19000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 19000.00, Total Bonus: 19000.00, Employment: employed
+*** FNCD Day 23 ***
+Opening... (current budget $814146.25)
+Promoted Intern 41 into Mechanic
+Hired Intern 43
+Purchased Used, Dirty Car Volkswagen Sedan for $11345.00 Cost
+Intern 43 washed Pickup Ford Longbed and made it Sparkling (earned $1250.00 bonus)
+Intern 43 washed Car Volkswagen Sedan and made it Sparkling (earned $500.00 bonus)
+Salesperson 39 sold Sparkling Like New Car Chevrolet Wagon to Buyer for $30423.75 (earned $500.00 bonus)      
+Intern 43- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 41- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 7500.00, Total Bonus: 7500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 20000.00, Total Bonus: 20000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 20000.00, Total Bonus: 20000.00, Employment: employed
+*** FNCD Day 24 ***
+Opening... (current budget $823475.00)
+Purchased Used, Clean Car Chevrolet SUV for $9490.00 Cost
+Intern 43 washed Car Volkswagen Sedan and made it Sparkling (earned $500.00 bonus)
+Mechanic 32 repaired Used Car Volkswagen Sedan and made it Like New (Earned $500.00 bonus)
+Intern 43- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 41- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 10500.00, Total Bonus: 10500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 21000.00, Total Bonus: 21000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 21000.00, Total Bonus: 21000.00, Employment: employed
+*** FNCD Day 25 ***
+Opening... (current budget $805485.00)
+Mechanic 41 repaired Used Car Chevrolet SUV and made it Like New (Earned $500.00 bonus)
+Salesperson 30 sold Sparkling Like New Performance Toyota Hatchback to Buyer for $48897.50 (earned $2000.00 bonus)
+Intern 43- Days Worked: 0, Total Pay: 1500.00, Total Bonus: 1500.00, Employment: employed
+Mechanic 41- Days Worked: 0, Total Pay: 3000.00, Total Bonus: 3000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 8500.00, Total Bonus: 8500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 22000.00, Total Bonus: 22000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 22000.00, Total Bonus: 22000.00, Employment: employed
+*** FNCD Day 26 ***
+Opening... (current budget $844382.50)
+Purchased Broken, Clean Performance Toyota Roadster for $12284.00 Cost
+Intern 23 washed Car Chevrolet SUV and made it Clean
+Intern 43 washed Pickup Dodge Dually and made it Sparkling (earned $1250.00 bonus)
+Intern 43 washed Performance Toyota Roadster and made it Sparkling (earned $2000.00 bonus)
+Salesperson 30 sold Sparkling Like New Performance Toyota Hatchback to Buyer for $42480.00 (earned $2000.00 bonus)
+Salesperson 39 sold Sparkling Like New Performance Dodge Coupe to Buyer for $40840.00 (earned $2000.00 bonus) 
+Intern 43- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Mechanic 41- Days Worked: 0, Total Pay: 4000.00, Total Bonus: 4000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 9000.00, Total Bonus: 9000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 11500.00, Total Bonus: 11500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 23000.00, Total Bonus: 23000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 23000.00, Total Bonus: 23000.00, Employment: employed
+*** FNCD Day 27 ***
+Opening... (current budget $900668.50)
+Purchased Like New, Dirty Performance Honda Coupe for $35173.00 Cost
+Purchased Broken, Dirty Performance Dodge Coupe for $10192.00 Cost
+Intern 13 washed Performance Toyota Roadster and made it Clean
+Intern 23 washed Performance Dodge Coupe and made it Sparkling (earned $2000.00 bonus)
+Salesperson 39 sold Dirty Like New Performance Honda Coupe to Buyer for $70346.00 (earned $2000.00 bonus)     
+Intern 43- Days Worked: 0, Total Pay: 2500.00, Total Bonus: 2500.00, Employment: employed
+Mechanic 41- Days Worked: 0, Total Pay: 5000.00, Total Bonus: 5000.00, Employment: has quit the FNCD
+Salesperson 39- Days Worked: 0, Total Pay: 6000.00, Total Bonus: 6000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 11000.00, Total Bonus: 11000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 12000.00, Total Bonus: 12000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 9500.00, Total Bonus: 9500.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 12000.00, Total Bonus: 12000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 24000.00, Total Bonus: 24000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 24000.00, Total Bonus: 24000.00, Employment: employed
+*** FNCD Day 28 ***
+FNCD is closed on Sundays.
+*** FNCD Day 29 ***
+Opening... (current budget $914149.50)
+Promoted Intern 43 into Mechanic
+Hired Intern 45
+Purchased Broken, Dirty Performance Honda Coupe for $14188.00 Cost
+Intern 13 washed Performance Toyota Roadster and made it Sparkling (earned $2000.00 bonus)
+Intern 23 washed Performance Honda Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 45 washed Performance Dodge Coupe and made it Sparkling (earned $2000.00 bonus)
+Intern 45 washed Car Chevrolet SUV and made it Sparkling (earned $500.00 bonus)
+Mechanic 32 repaired Broken Performance Dodge Coupe and made it Used (Earned $2000.00 bonus)
+Salesperson 39 sold Clean Like New Performance Honda Hatchback to Buyer for $40108.00 (earned $2000.00 bonus) 
+Intern 45- Days Worked: 0, Total Pay: 500.00, Total Bonus: 500.00, Employment: employed
+Mechanic 43- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 7000.00, Total Bonus: 7000.00, Employment: employed
+Mechanic 32- Days Worked: 0, Total Pay: 12000.00, Total Bonus: 12000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 13000.00, Total Bonus: 13000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 10000.00, Total Bonus: 10000.00, Employment: employed
+Intern 13- Days Worked: 0, Total Pay: 12500.00, Total Bonus: 12500.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 25000.00, Total Bonus: 25000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 25000.00, Total Bonus: 25000.00, Employment: employed
+*** FNCD Day 30 ***
+Opening... (current budget $922069.50)
+Purchased Used, Dirty Performance Honda Coupe for $30461.00 Cost
+Mechanic 1 repaired Broken Performance Honda Coupe and made it Used (Earned $2000.00 bonus)
+Mechanic 32 repaired Used Performance Honda Coupe and made it Like New (Earned $2000.00 bonus)
+Salesperson 39 sold Dirty Used Performance Honda Coupe to Buyer for $60922.00 (earned $2000.00 bonus)
+Intern 45- Days Worked: 0, Total Pay: 1000.00, Total Bonus: 1000.00, Employment: employed
+Mechanic 43- Days Worked: 0, Total Pay: 2000.00, Total Bonus: 2000.00, Employment: employed
+Salesperson 39- Days Worked: 0, Total Pay: 8000.00, Total Bonus: 8000.00, Employment: has quit the FNCD       
+Mechanic 32- Days Worked: 0, Total Pay: 13000.00, Total Bonus: 13000.00, Employment: employed
+Salesperson 30- Days Worked: 0, Total Pay: 14000.00, Total Bonus: 14000.00, Employment: employed
+Intern 23- Days Worked: 0, Total Pay: 10500.00, Total Bonus: 10500.00, Employment: has quit the FNCD
+Intern 13- Days Worked: 0, Total Pay: 13000.00, Total Bonus: 13000.00, Employment: employed
+Salesperson 7- Days Worked: 0, Total Pay: 26000.00, Total Bonus: 26000.00, Employment: employed
+Mechanic 1- Days Worked: 0, Total Pay: 26000.00, Total Bonus: 26000.00, Employment: employed

@@ -43,15 +43,18 @@ public class Dealership {
             return;
         }
         System.out.printf("Opening... (current budget $%s)\n", df.format(budget));
+        
+        //Basic day process
+        hireInterns();
+        promoteInterns(numMechanics, 0);
+        hireInterns();
+        promoteInterns(numSalesPerson, 1);
         hireInterns();
         buyVehicles();
         washing();
         repairing();
-        System.out.println(budget);
         selling();
-        System.out.println(budget);
         ending();
-        System.out.println(budget);
     }
 
     // Getters
@@ -117,31 +120,25 @@ public class Dealership {
     }
 
     public void hireInterns() {
-
-
         while (numInterns < 3) {
             intern intern = new intern();
             System.out.println("Hired Intern " +  intern.getEmployeeID());
             addEmployees(intern);
             numInterns += 1;
-            if (numMechanics < 3)
-                promoteInterns(numMechanics, 0);
-            if (numSalesPerson < 3)
-                promoteInterns(numSalesPerson, 1);
         }
+
     }
 
-    public void promoteInterns(int current, int type) {
+    public void promoteInterns(int current, int type) { //Current used to get how many people are filling that special position
         for (int i = employees.size() - 1; i>=0; i--) {
-            if (employees.get(i) instanceof intern) {
+            if (employees.get(i) instanceof intern) { //gets instances of interns and not other positions
                 if (current < 3) {
                     Staff newStaff = employees.get(i).promote(employees.get(i), type);
                     System.out.printf("Promoted Intern %d into %s\n", employees.get(i).getEmployeeID(), newStaff.getType());
                     employees.add(newStaff);
                     employees.remove(i);
                     current += 1;
-                    System.out.println("Type: " + type);
-                    if (type == 0)
+                    if (type == 0) //type used to determine what new position the intern gets
                         numMechanics += 1;
                     else if (type == 1)
                         numSalesPerson += 1;
@@ -152,6 +149,7 @@ public class Dealership {
     }
 
     public void buyVehicles() {
+        //Makes sure we always buy 4 cars of each type
         while (numPerformance < 4) {
             numPerformance += 1;
             Vehicle newVehicle = new Performance();
@@ -183,6 +181,13 @@ public class Dealership {
             if (employee instanceof intern) {
                 intern workingIntern = (intern) employee;
                 while (washLimit < 2) {
+
+                    //Abstraction
+                    /*The function wash is a good use of abstraction as it hides a lot of 
+                     * unnecessary detail and makes it easer to look at the washing function.
+                     * Also the function is a useful tool to help achieve the goal of washing
+                     * a vehicle
+                     */
                     workingIntern.wash(inventory);
                     washLimit += 1;
                 }
@@ -216,18 +221,18 @@ public class Dealership {
     public void selling() {
         int totalBuyers;
         ArrayList<Integer> salespersonIndices = new ArrayList<>();
+
+        //Checks days
         if (numDays % 7 == 6 || numDays % 7 == 5)
             totalBuyers = random.nextInt(2,9); // 2 to 8 buyers
         else
             totalBuyers = random.nextInt(0, 6); // 0 to 5 buyers
 
-        System.out.println(employees.size());
         for (int i = 0; i < employees.size(); i++) { // gets all the indices of salespersons and stores them in salespersonIndices to randomly assign to buyer
             if (employees.get(i) instanceof salesPerson) {
                 salespersonIndices.add(i);
             }
         }
-        System.out.println(salespersonIndices.size());
         for (int i = 0; i < totalBuyers; i ++) {
             Buyer customer = new Buyer();
             salesPerson seller = (salesPerson) employees.get(salespersonIndices.get(random.nextInt(salespersonIndices.size()))); // assign random salesPerson to buyer
@@ -235,6 +240,15 @@ public class Dealership {
             if (saleVehicle.getStatus()) { // if sold
                 budget += saleVehicle.getSalesPrice();
                 sales += saleVehicle.getSalesPrice();
+                if(saleVehicle instanceof Performance){
+                    numPerformance -= 1;
+                }
+                else if(saleVehicle instanceof Car){
+                    numCars -= 1;
+                }
+                else {
+                    numPickups -= 1;
+                }
                 removeSoldVehicles();
             }
             
@@ -242,7 +256,6 @@ public class Dealership {
     }
 
     public void ending() {
-        System.out.println(employees.size());
         for (int i = employees.size() - 1; i>=0; i--) {
             budget -= employees.get(i).getSalary();
             employees.get(i).addTotalPay(employees.get(i).getSalary());
@@ -251,23 +264,28 @@ public class Dealership {
             employees.get(i).addTotalBonus(employees.get(i).getSalary());
             employees.get(i).setBonus(0); // reset daily bonus earned
             if(employees.get(i) instanceof intern) {
-                if (random.nextInt(10) >= 9 && numInterns == 3) { // 10% chance to quit
+                if (random.nextInt(10) >= 9 && numInterns == 3) { // 10% chance to quit and makes sure only one quits per day
                     System.out.printf("%s %d- Days Worked: %d, Total Pay: %s, Total Bonus: %s, Employment: has quit the FNCD\n", 
                     employees.get(i).getType(), employees.get(i).getEmployeeID(), employees.get(i).getDaysWorked(), df.format(employees.get(i).getTotalPay()), df.format(employees.get(i).getTotalBonus()));
+                    
+                    //update employee status, move them to departed Array, and updates employee count
                     employees.get(i).setEmployeeStatus(false);
                     departedEmployees.add(employees.get(i));
                     employees.remove(i);
+                    numInterns -= 1;
                 }
-                else {
+                else {//carry on as normal
                     System.out.printf("%s %d- Days Worked: %d, Total Pay: %s, Total Bonus: %s, Employment: employed\n", 
                     employees.get(i).getType(), employees.get(i).getEmployeeID(), employees.get(i).getDaysWorked(), df.format(employees.get(i).getTotalPay()), df.format(employees.get(i).getTotalBonus()));
                 }
             }
             else if(employees.get(i) instanceof mechanic) {
 
-                if (random.nextInt(10) >= 9 && numMechanics == 3) { // 10% chance to quit
+                if (random.nextInt(10) >= 9 && numMechanics == 3) { // 10% chance to quit and makes sure only one quits per day
                     System.out.printf("%s %d- Days Worked: %d, Total Pay: %s, Total Bonus: %s, Employment: has quit the FNCD\n", 
                     employees.get(i).getType(), employees.get(i).getEmployeeID(), employees.get(i).getDaysWorked(), df.format(employees.get(i).getTotalPay()), df.format(employees.get(i).getTotalBonus()));
+                    
+                    //update employee status, move them to departed Array, and updates employee count
                     employees.get(i).setEmployeeStatus(false);
                     departedEmployees.add(employees.get(i));
                     employees.remove(i);
@@ -279,9 +297,11 @@ public class Dealership {
                 }
             }
             else {
-                if (random.nextInt(10) >= 9 && numSalesPerson == 3) { // 10% chance to quit
+                if (random.nextInt(10) >= 9 && numSalesPerson == 3) { // 10% chance to quit and makes sure only one quits per day
                     System.out.printf("%s %d- Days Worked: %d, Total Pay: %s, Total Bonus: %s, Employment: has quit the FNCD\n", 
                     employees.get(i).getType(), employees.get(i).getEmployeeID(), employees.get(i).getDaysWorked(), df.format(employees.get(i).getTotalPay()), df.format(employees.get(i).getTotalBonus()));
+                    
+                    //update employee status, move them to departed Array, and updates employee count
                     employees.get(i).setEmployeeStatus(false);
                     departedEmployees.add(employees.get(i));
                     employees.remove(i);
@@ -293,9 +313,5 @@ public class Dealership {
                 }
             }
         }  
-    }
-
-    public void printReport() {
-
     }
 }

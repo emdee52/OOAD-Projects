@@ -2,6 +2,11 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Random;
 
+//Encapsulation
+/*The staff class is a good example of encapsulation as the class bundles together 
+ * many different data types like classes(mechanic, intern, etc.), ints, strings, etc. You
+ * can also access them all through a single point and that is the class Staff
+*/
 public class Staff {
     DecimalFormat df = new DecimalFormat("##.00"); // Rounds to 2 decimal places
     Random random = new Random();
@@ -20,6 +25,12 @@ public class Staff {
         bonus = 0;
         employed = true;
     }
+
+    //Cohesion
+    /*GenID is an example of high cohesion because ID generator is used to create IDs
+     * for each instance of Staff and that is it's sole purpose and it used multiple times
+     * mainly in the constructor arguments of each class below
+     */
 
     public int genID() {
         int Id = getIDCounter();
@@ -118,7 +129,12 @@ public class Staff {
         totalBonus += bonus;
     }
 
-    public void printReport() { //debugging
+    //Polymorphism
+    /* The function has the same name as another in vehicle class and they both do different things
+     * without us having to redfine the function. This function prints out the data of Staff class
+     * while the other function prints out the data of vehicle class
+    */
+    public void report() { //debugging
         System.out.println("\nClass:       " + this.getClass());
         System.out.println("ID:          " + getEmployeeID());
         System.out.println("Days Worked: " + getDaysWorked());
@@ -206,7 +222,7 @@ class salesPerson extends Staff{
         
         //Finding highest price vehicle that buyer wants
         int buyOdds = random.nextInt(100);
-        if(buyerWants.size() != 0) {
+        if(buyerWants.size() != 0) { //Goes through car type buyer wants and will got to else if none availiable
             Vehicle highestPrice = buyerWants.get(0);
             for(int i = 0; i < buyerWants.size(); i++) {
                 if(buyerWants.get(i).salesPrice > highestPrice.salesPrice) {
@@ -214,6 +230,7 @@ class salesPerson extends Staff{
                 }
             }
 
+            //Increases chances based on car status
             if (highestPrice.cleanliness == "Sparkling") {
                 buyer.buyingChance = buyer.buyingChance + 10.0;
             }
@@ -221,6 +238,7 @@ class salesPerson extends Staff{
                 buyer.buyingChance = buyer.buyingChance + 10.0;
             }
 
+            //will return cars that get bought
             if(buyOdds > buyer.buyingChance) {
                 this.addBonus(highestPrice.workBonus);
                 highestPrice.sold = true;
@@ -229,8 +247,8 @@ class salesPerson extends Staff{
                 return highestPrice;
             }
         }
-        else {
-            
+        else { //goes through other car types
+            System.out.println("Vehicle Size: " + vehicles.size());
             Vehicle highestPrice = vehicles.get(0);
             for(int i = 0; i < vehicles.size(); i++) {
                 if(vehicles.get(i).salesPrice > highestPrice.salesPrice) {
@@ -238,6 +256,7 @@ class salesPerson extends Staff{
                 }
             }
             
+            //updating car sell chances
             buyer.buyingChance = buyer.buyingChance - 20.0;
 
             if (highestPrice.cleanliness == "Sparkling") {
@@ -246,7 +265,8 @@ class salesPerson extends Staff{
             if (highestPrice.condition == "Like New") {
                 buyer.buyingChance = buyer.buyingChance + 10.0;
             }
-            System.out.println("here");
+
+            //sees if car is sold and will update values if sold
             if(buyOdds > buyer.buyingChance) {
                 this.addBonus(highestPrice.workBonus);
                 highestPrice.sold = true;
@@ -254,7 +274,6 @@ class salesPerson extends Staff{
                 this.employeeID, highestPrice.getCleanliness(), highestPrice.getCondition(), highestPrice.getName(), df.format(highestPrice.getSalesPrice()), df.format(highestPrice.getWorkBonus()));
                 return highestPrice;
             }
-            System.out.println("here2");
         }
         
         return vehicles.get(0);

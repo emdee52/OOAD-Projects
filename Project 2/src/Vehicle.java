@@ -1,5 +1,10 @@
 import java.util.SplittableRandom;
 
+//Coupling
+/* Class Vehicle and the subclasses are loosely coupled as changes made in the subclasses
+ * dont really affect Vehicle but changes in Vehicle can affect the subclasses but not really
+ * they're mostly independent
+*/
 abstract public class Vehicle {
     SplittableRandom random = new SplittableRandom(); // SplittableRandom allows the use of begin(inclusive) and end(exclusive) parameters
     protected String condition; // randomly chosen from (Like New, Used, Broken)
@@ -112,6 +117,10 @@ abstract public class Vehicle {
     }
 }
 
+    //Identity
+    /*The class names here are a good example of identity rules because the names are unqiue
+     * and it is easy to tell what each name means making it even easier to distinguish them
+     */
 class Performance extends Vehicle {
     public Performance() {
         super();
