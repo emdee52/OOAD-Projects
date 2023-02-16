@@ -2,9 +2,9 @@ import java.util.SplittableRandom;
 
 public class Buyer {
     SplittableRandom random = new SplittableRandom();
-    private String buyerType;
-    private String vehicleType;
-    private double buyingChance;
+    public String buyerType;
+    public String vehicleType;
+    public double buyingChance;
 
     Buyer() {
         vehicleType = new String[]{"Performance", "Car", "Pickup"}[random.nextInt(3)];

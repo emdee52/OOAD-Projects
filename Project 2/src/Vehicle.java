@@ -32,19 +32,21 @@ abstract public class Vehicle {
             return "Dirty";
     }
 
-    protected String genName() { // needs to be updated with better names
-        String[] model = {"Dodge", "Toyota", "Ford"};
-        String[] make = {"Coupe", "Sedan", "Truck"};
+    protected String genName() {
+        String[] model = {"Dodge", "Toyota", "Ford", "Chevrolet", "Honda", "Volkswagen"};
+        String[] perfMakes = {"Coupe", "Roadster", "Hatchback"};
+        String[] carMakes = {"Sedan", "SUV", "Wagon"};
+        String[] pickupMakes = {"Longbed", "Shortbed", "Dually"};
         int index = random.nextInt(model.length);
         String nameGen = "";
         if (this instanceof Performance) {
-            nameGen = model[index] + " Super" + make[index];
+            nameGen = "Performance " + model[index] + " " + perfMakes[random.nextInt(perfMakes.length)];
         }
         else if (this instanceof Car) {
-            nameGen = model[index] + " " + make[index] + " Touring";
+            nameGen = "Car " + model[index] + " " + carMakes[random.nextInt(carMakes.length)];
         }
         else if (this instanceof Pickup) {
-            nameGen = model[index] + " " + make[index] + " 1500";
+            nameGen = "Pickup " + model[index] + " " + pickupMakes[random.nextInt(pickupMakes.length)];
         }
         else
             System.err.println("ERROR: Not a vehicle");
@@ -56,27 +58,21 @@ abstract public class Vehicle {
     public String getName() {
         return this.name;
     }
-
     public String getCleanliness() {
         return this.cleanliness;
     }
-
     public String getCondition() {
         return this.condition;
     }
-
     public Double getCost() {
         return this.cost;
     }
-
     public Double getSalesPrice() {
         return this.salesPrice;
     }
-
     public Double getWorkBonus() {
         return this.workBonus;
     }
-
     public Boolean getStatus() {
         return this.sold;
     }
@@ -85,27 +81,21 @@ abstract public class Vehicle {
     public void setName(String newName) {
         this.name = newName;
     }
-
     public void setCleanliness(String newCleanliness) {
         this.cleanliness = newCleanliness;
     }
-
     public void setCondition(String newCondition) {
         this.condition = newCondition;
     }
-
     public void setCost(double newCost) {
         this.cost = newCost;
     }
-
     public void setSalesPrice(double newPrice) {
         this.salesPrice = newPrice;
     }
-
     public void setWorkBonus(double newBonus) {
         this.workBonus = newBonus;
     }
-
     public void setStatus(boolean newStatus) {
         this.sold = newStatus;
     }
@@ -128,7 +118,7 @@ class Performance extends Vehicle {
         this.name = genName();
         this.cost = Math.round(random.nextInt(20000, 40001) * this.costModifier); // Performance vehicle cost will be between $20000 and $40000
         this.salesPrice = this.cost * 2;
-        this.workBonus = 0; // need to find a working value
+        this.workBonus = 2000; // need to find a working value
     }
 }
 
@@ -138,7 +128,7 @@ class Car extends Vehicle {
         this.name = genName();
         this.cost = Math.round(random.nextInt(10000, 20001) * this.costModifier); // regular Car cost will be between $10000 and $20000
         this.salesPrice = this.cost * 2;
-        this.workBonus = 0; // need to find a working value
+        this.workBonus = 500; // need to find a working value
     }
 }
 
@@ -148,6 +138,6 @@ class Pickup extends Vehicle {
         this.name = genName();
         this.cost = Math.round(random.nextInt(10000, 40001) * this.costModifier); // Pickup vehicle cost will between $10000 and $40000
         this.salesPrice = this.cost * 2;
-        this.workBonus = 0; // need to find a working value
+        this.workBonus = 1250; // need to find a working value
     }
 }
