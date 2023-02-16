@@ -8,6 +8,8 @@ import java.util.SplittableRandom;
 public class Main {
     public static void main(String[] args) {
         Dealership FNCD = new Dealership();
-        FNCD.open();
+        for(int i = 0; i < 30; i++) {
+            FNCD.open();
+        }
     }
 }
