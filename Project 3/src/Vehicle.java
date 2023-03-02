@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
 public abstract class Vehicle{
     String name;
@@ -107,5 +108,57 @@ class Pickup extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
+    }
+}
+
+class Electric extends Vehicle {
+    static List<String> names = Arrays.asList("Taycan","Bolt","EQS","EV6");
+    static Namer namer = new Namer(names);
+    int range;
+    Electric() {
+        super();
+        type = Enums.VehicleType.Electric;
+        name = namer.getNext();  // every new electric car gets a unique new name
+        cost = getCost(25000,45000);
+        price = cost * 2;
+        repair_bonus = 200;
+        wash_bonus = 75;
+        sale_bonus = 750;
+        range = Utility.rndFromRange(60, 400);
+    }
+}
+
+class Motorcycle extends Vehicle {
+    static List<String> names = Arrays.asList("Grom","Ninja","Softail","CBR1000");
+    static Namer namer = new Namer(names);
+    double engineSize;
+    Random rand = new Random();
+    int stdev = 300;
+    int mean = 700;
+    Motorcycle() {
+        super();
+        type = Enums.VehicleType.Motorcycle;
+        name = namer.getNext();  // every new bike gets a unique new name
+        cost = getCost(5000,20000);
+        price = cost * 2;
+        repair_bonus = 400;
+        wash_bonus = 150;
+        sale_bonus = 1250;
+        engineSize = rand.nextGaussian() * stdev + mean; // https://stackoverflow.com/questions/31754209/can-random-nextgaussian-sample-values-from-a-distribution-with-different-mean
+    }
+}
+
+class MonsterTruck extends Vehicle {
+    static List<String> names = Arrays.asList("Batman","Avenger","Bigfoot","Grave Digger", "Predator", "Raminator");
+    static Namer namer = new Namer(names);
+    MonsterTruck() {
+        super();
+        type = Enums.VehicleType.MonsterTruck;
+        name = namer.getNext();  // every new monster truck gets a unique new name
+        cost = getCost(20000,45000);
+        price = cost * 2;
+        repair_bonus = 500;
+        wash_bonus = 120;
+        sale_bonus = 1000;
     }
 }
