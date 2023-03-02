@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Objects;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements SysOut {
@@ -176,8 +177,31 @@ public class FNCD implements SysOut {
     // Huh - no one wants to quit my FNCD!
     // I left this as an exercise to the reader...
     void checkForQuitters() {
-        outP("No-one on the staff is leaving!", announcer, dayCount);
+        ArrayList<String> namesList = new ArrayList<>();
+        for (int i = staff.size() - 1; i>=0; i--) {
+            Staff currentStaff = staff.get(i);
+            double chance = Utility.rnd();
 
+            if (chance <= .1){
+                departedStaff.add(currentStaff);
+                outP(currentStaff.type+" "+ currentStaff.name + " is leaving", announcer, dayCount);
+                namesList.add(currentStaff.name);
+
+                if (currentStaff.type != Enums.StaffType.Intern){
+                    ArrayList<Staff> interns = Staff.getStaffByType(staff,  Enums.StaffType.Intern);
+                    Staff intern = interns.get(0);
+                    outP(intern.type+" "+ intern.name + " has been promoted to " + currentStaff.type, announcer, dayCount);
+                    Staff p = intern.promote(intern, currentStaff.type);
+                    staff.removeIf ( n -> Objects.equals(n.name, intern.name) && n.type == Enums.StaffType.Intern);
+                    staff.add(p);
+                    namesList.add(intern.name);
+                }
+                staff.removeIf ( n -> Objects.equals(n.name, currentStaff.name));
+            }
+        }
+
+        //staff.removeIf ( n -> Objects.equals(n.name, currentStaff.name));
+        //outP("No-one on the staff is leaving!", announcer, dayCount);
         // I would check the percentages here
         // Move quitters to the departedStaff list
         // If an intern quits, you're good

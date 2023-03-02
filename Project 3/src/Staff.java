@@ -36,6 +36,33 @@ public abstract class Staff implements SysOut {
         }
         return n;
     }
+
+    public Staff promote(Staff intern, Enums.StaffType t) { //promote an intern;
+        String currentName = intern.name; //Get current values that need to be transferred
+        int daysWorked = intern.daysWorked;
+        double currentBonus = intern.bonusEarned;
+        double currentSalaryEarned = intern.salaryEarned;
+
+        if (t == Enums.StaffType.Mechanic) {         //Mechanic Position
+            intern = new Mechanic();                //Transfer Position
+        }
+        else if (t == Enums.StaffType.Salesperson) {    //Sales Person Position
+            intern = new Salesperson();
+        }
+//        else if (t == Enums.StaffType.Racer) {    //Racer Position
+//            intern = new Racer();
+//        }
+        else {
+            System.err.println("Error: Invalid Position");
+        }
+
+        intern.name = currentName;  //Transfer all values that way inter stats arent reset
+        intern.daysWorked = daysWorked;
+        intern.bonusEarned = currentBonus;
+        intern.salaryEarned = currentSalaryEarned;
+
+        return intern;
+    }
 }
 
 class Intern extends Staff {
