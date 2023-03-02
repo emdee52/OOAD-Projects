@@ -155,6 +155,9 @@ public class FNCD implements SysOut {
         if (t == Enums.VehicleType.Car) v = new Car();
         if (t == Enums.VehicleType.PerfCar) v = new PerfCar();
         if (t == Enums.VehicleType.Pickup) v = new Pickup();
+        if (t == Enums.VehicleType.Electric) v = new Electric();
+        if (t == Enums.VehicleType.Motorcycle) v = new Motorcycle();
+        if (t == Enums.VehicleType.MonsterTruck) v = new MonsterTruck();
         moneyOut(v.cost);  // pay for the vehicle
         outP("Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
         inventory.add(v);
