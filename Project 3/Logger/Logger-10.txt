@@ -1,0 +1,18 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Cayman-3 Dirty to Clean
+Intern Fred washed Colorado-2 Dirty to Clean
+Intern Ethel washed Colorado Clean to Clean
+Intern Ethel washed Probe-2 Clean to Clean
+Intern Lucy washed Colorado Clean to Clean
+Intern Lucy washed Probe-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-7 wants a Pickup (WantsOne)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Car (NeedsOne)
+Buyer Leia-7 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-7 bought Sparkling LikeNew Probe for base price of $34,460.62
+No-one on the staff is leaving!
+That's it for the day.

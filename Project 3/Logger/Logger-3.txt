@@ -1,0 +1,29 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Probe Dirty to Sparkling
+Intern Fred washed Cayman Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Corvette Dirty to Sparkling
+Intern Ethel washed Mustang Dirty to Clean
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed F-250-2 Dirty to Sparkling
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Escort Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Broken to Used
+Mechanic James did not fix the Used F-250-2
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-3 wants a Car (JustLooking)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Car (NeedsOne)
+Buyer Leia-3 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia-3 bought Clean LikeNew Fiesta for base price of $38,426.00
+No-one on the staff is leaving!
+That's it for the day.

@@ -1,0 +1,25 @@
+The FNCD is opening...
+Bought Corvette-6, a Dirty Broken PerfCar for $17,232.50
+The FNCD interns are washing...
+Intern Fred washed Corvette-6 Dirty to Clean
+Intern Fred washed Colorado-4 Clean to Clean
+Intern Ethel washed Colorado-4 Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Cayman-6 Clean to Sparkling
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed Colorado-4 Clean to Sparkling
+Intern Lucy washed Corvette-6 Clean to Dirty
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-6 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-6 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-21 wants a PerfCar (WantsOne)
+Buyer Chewy-21 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-21 bought Dirty LikeNew Corvette-6 for base price of $64,621.88
+Buyer Luke-22 wants a Car (JustLooking)
+Buyer Luke-22 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

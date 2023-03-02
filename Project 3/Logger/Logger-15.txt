@@ -1,0 +1,28 @@
+The FNCD is opening...
+Bought Probe-3, a Clean LikeNew Car for $12,963.00
+Bought Escort-3, a Dirty Broken Car for $7,961.00
+Bought Europa-4, a Dirty Used PerfCar for $23,648.80
+The FNCD interns are washing...
+Intern Fred washed Escort-3 Dirty to Clean
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Europa-4 Dirty to Sparkling
+Intern Ethel washed Corvette-3 Clean to Clean
+Intern Ethel washed Mustang-3 Clean to Clean
+Intern Lucy washed Corvette-3 Clean to Clean
+Intern Lucy washed Mustang-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-3 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-4 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-9 wants a Car (NeedsOne)
+Buyer Han-9 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-9 bought Dirty LikeNew Escort-3 for base price of $29,853.75
+Buyer Chewy-9 wants a Pickup (NeedsOne)
+Buyer Chewy-9 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

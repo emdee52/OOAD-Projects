@@ -1,0 +1,54 @@
+The FNCD is opening...
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Bought Probe, a Clean Broken Car for $9,189.50
+Bought Escort, a Dirty Used Car for $14,080.80
+Bought Taurus, a Dirty LikeNew Car for $19,193.00
+Bought Fiesta, a Dirty Used Car for $15,370.40
+Bought Europa, a Clean LikeNew PerfCar for $28,260.00
+Bought Cayman, a Dirty Broken PerfCar for $10,992.50
+Bought Corvette, a Dirty Broken PerfCar for $11,050.00
+Bought Mustang, a Dirty Used PerfCar for $16,020.00
+Bought Ranger, a Clean LikeNew Pickup for $23,658.00
+Bought F-250, a Dirty LikeNew Pickup for $30,009.00
+Bought Colorado, a Clean LikeNew Pickup for $11,572.00
+Bought Tundra, a Dirty LikeNew Pickup for $38,925.00
+The FNCD interns are washing...
+Intern Fred washed Escort Dirty to Clean
+Intern Fred washed Taurus Dirty to Clean
+Intern Ethel washed Fiesta Dirty to Clean
+Intern Ethel washed Cayman Dirty to Clean
+Intern Lucy washed Corvette Dirty to Clean
+Intern Lucy washed Mustang Dirty to Dirty
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Probe
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe Broken to Used
+Mechanic Scotty did not fix the Used Fiesta
+Mechanic Spock did not fix the Used Probe
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a Car (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Pickup (NeedsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia bought Dirty LikeNew Tundra for base price of $77,850.00
+Buyer Han wants a PerfCar (WantsOne)
+Buyer Han is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han bought Clean LikeNew Europa for base price of $56,520.00
+Buyer Chewy wants a Pickup (NeedsOne)
+Buyer Chewy is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy bought Dirty LikeNew F-250 for base price of $60,018.00
+No-one on the staff is leaving!
+That's it for the day.

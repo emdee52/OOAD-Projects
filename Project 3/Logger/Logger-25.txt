@@ -1,0 +1,49 @@
+The FNCD is opening...
+Bought Cayman-5, a Dirty Broken PerfCar for $12,431.50
+Bought Corvette-5, a Clean Broken PerfCar for $11,790.50
+Bought Tundra-3, a Dirty LikeNew Pickup for $17,504.00
+Bought Ranger-4, a Dirty Broken Pickup for $6,804.50
+Bought F-250-4, a Sparkling Used Pickup for $11,528.80
+The FNCD interns are washing...
+Intern Fred washed Taurus-5 Dirty to Clean
+Intern Fred washed Cayman-5 Dirty to Clean
+Intern Ethel washed Tundra-3 Dirty to Clean
+Intern Ethel washed Ranger-4 Dirty to Dirty
+Intern Lucy washed Ranger-4 Dirty to Clean
+Intern Lucy washed Taurus-5 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-5 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-5 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-5 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-5 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-4 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Luke-19 wants a PerfCar (NeedsOne)
+Buyer Luke-19 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-19 bought Dirty LikeNew Cayman-5 for base price of $46,618.12
+Buyer Leia-19 wants a Pickup (WantsOne)
+Buyer Leia-19 decided not to buy.
+Buyer Han-19 wants a Pickup (JustLooking)
+Buyer Han-19 decided not to buy.
+Buyer Chewy-19 wants a Car (NeedsOne)
+Buyer Chewy-19 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Chewy-19 bought Clean LikeNew Taurus-5 for base price of $34,633.12
+Buyer Luke-20 wants a Pickup (JustLooking)
+Buyer Luke-20 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-20 bought Clean LikeNew Tundra-3 for base price of $35,008.00
+Buyer Leia-20 wants a Car (WantsOne)
+Buyer Leia-20 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia-20 bought Sparkling LikeNew Escort-4 for base price of $22,957.50
+Buyer Han-20 wants a PerfCar (NeedsOne)
+Buyer Han-20 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-20 bought Dirty LikeNew Corvette-5 for base price of $44,214.38
+No-one on the staff is leaving!
+That's it for the day.

@@ -1,0 +1,22 @@
+The FNCD is opening...
+Bought Mustang-4, a Dirty LikeNew PerfCar for $37,925.00
+The FNCD interns are washing...
+Intern Fred washed Colorado-3 Dirty to Dirty
+Intern Fred washed Mustang-4 Dirty to Clean
+Intern Ethel washed Colorado-3 Dirty to Dirty
+Intern Ethel washed Taurus-4 Clean to Dirty
+Intern Lucy washed Taurus-4 Dirty to Clean
+Intern Lucy washed Colorado-3 Dirty to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-16 wants a PerfCar (WantsOne)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a PerfCar (NeedsOne)
+Buyer Han-16 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-16 bought Clean LikeNew Mustang-4 for base price of $75,850.00
+Buyer Chewy-16 wants a Car (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy-16 bought Clean LikeNew Probe-5 for base price of $35,324.00
+No-one on the staff is leaving!
+That's it for the day.

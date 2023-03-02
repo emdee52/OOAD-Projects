@@ -1,0 +1,27 @@
+The FNCD is opening...
+Bought Fiesta-2, a Dirty Used Car for $10,272.80
+The FNCD interns are washing...
+Intern Fred washed Fiesta-2 Dirty to Clean
+Intern Fred got a bonus of $75.00!
+Intern Fred washed Colorado Clean to Sparkling
+Intern Ethel washed Probe-2 Clean to Clean
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Escort-2 Clean to Sparkling
+Intern Lucy washed Probe-2 Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Mustang-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-7 wants a PerfCar (JustLooking)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a PerfCar (WantsOne)
+Buyer Chewy-7 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-7 bought Sparkling LikeNew Mustang-2 for base price of $79,770.00
+Buyer Luke-8 wants a PerfCar (WantsOne)
+Buyer Luke-8 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-8 bought Clean LikeNew Europa-3 for base price of $64,462.50
+No-one on the staff is leaving!
+That's it for the day.

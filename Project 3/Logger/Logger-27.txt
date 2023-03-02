@@ -1,0 +1,30 @@
+The FNCD is opening...
+Bought Fiesta-5, a Dirty LikeNew Car for $19,241.00
+Bought Probe-6, a Clean Used Car for $8,452.80
+Bought Mustang-5, a Dirty LikeNew PerfCar for $35,253.00
+Bought Europa-6, a Clean Used PerfCar for $29,172.00
+Bought Colorado-4, a Clean LikeNew Pickup for $22,304.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00!
+Intern Fred washed Ranger-4 Dirty to Sparkling
+Intern Fred washed Fiesta-5 Dirty to Clean
+Intern Ethel washed Mustang-5 Dirty to Clean
+Intern Ethel washed F-250-4 Clean to Clean
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed F-250-4 Clean to Sparkling
+Intern Lucy washed Fiesta-5 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-4 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-6 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-6 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-20 wants a Pickup (WantsOne)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a PerfCar (WantsOne)
+Buyer Luke-21 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

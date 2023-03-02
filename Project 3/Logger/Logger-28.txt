@@ -1,0 +1,18 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Probe-6 Dirty to Sparkling
+Intern Fred washed Europa-6 Dirty to Clean
+Intern Ethel washed Ranger-4 Clean to Clean
+Intern Ethel washed Fiesta-5 Clean to Clean
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed Ranger-4 Clean to Sparkling
+Intern Lucy washed Fiesta-5 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-21 wants a PerfCar (WantsOne)
+Buyer Leia-21 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-21 bought Clean LikeNew Europa-6 for base price of $72,930.00
+No-one on the staff is leaving!
+That's it for the day.

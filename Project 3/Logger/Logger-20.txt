@@ -1,0 +1,35 @@
+The FNCD is opening...
+Bought Escort-4, a Dirty Broken Car for $6,122.00
+Bought Taurus-4, a Dirty Broken Car for $5,852.50
+Bought Fiesta-4, a Dirty LikeNew Car for $18,869.00
+Bought Probe-5, a Dirty LikeNew Car for $17,662.00
+The FNCD interns are washing...
+Intern Fred washed Ranger-3 Dirty to Clean
+Intern Fred washed Escort-4 Dirty to Clean
+Intern Ethel washed Taurus-4 Dirty to Clean
+Intern Ethel washed Fiesta-4 Dirty to Clean
+Intern Lucy washed Probe-5 Dirty to Clean
+Intern Lucy washed Cayman-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-4 Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-4 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-4 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy-14 wants a PerfCar (NeedsOne)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Car (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke-15 bought Clean LikeNew Fiesta-4 for base price of $37,738.00
+Buyer Leia-15 wants a Pickup (JustLooking)
+Buyer Leia-15 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia-15 bought Clean LikeNew Ranger-3 for base price of $57,754.00
+Buyer Han-15 wants a Car (JustLooking)
+Buyer Han-15 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

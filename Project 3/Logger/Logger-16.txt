@@ -1,0 +1,34 @@
+The FNCD is opening...
+Bought Taurus-3, a Clean Used Car for $12,228.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Corvette-3 Clean to Sparkling
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Mustang-3 Clean to Sparkling
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Probe-3 Clean to Sparkling
+Intern Ethel washed Europa-4 Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Europa-4 Clean to Sparkling
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Taurus-3 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-10 wants a PerfCar (WantsOne)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Pickup (NeedsOne)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a Car (WantsOne)
+Buyer Han-10 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-10 bought Clean LikeNew Taurus-3 for base price of $30,570.00
+Buyer Chewy-10 wants a Pickup (WantsOne)
+Buyer Chewy-10 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-10 bought Sparkling LikeNew Ranger for base price of $47,316.00
+Buyer Luke-11 wants a PerfCar (NeedsOne)
+Buyer Luke-11 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-11 bought Sparkling LikeNew Europa-4 for base price of $59,122.00
+No-one on the staff is leaving!
+That's it for the day.

@@ -1,0 +1,31 @@
+The FNCD is opening...
+Bought Escort-2, a Dirty Broken Car for $6,055.50
+Bought Cayman-2, a Clean Used PerfCar for $21,808.00
+Bought Corvette-2, a Dirty Broken PerfCar for $10,853.50
+The FNCD interns are washing...
+Intern Fred washed Probe-2 Dirty to Clean
+Intern Fred washed Escort-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Corvette-2 Dirty to Sparkling
+Intern Ethel washed Mustang Clean to Clean
+Intern Lucy washed Mustang Clean to Clean
+Intern Lucy washed Ranger Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Escort-2
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Broken to Used
+Mechanic Scotty did not fix the Broken Corvette-2
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-4 wants a Pickup (JustLooking)
+Buyer Han-4 decided not to buy.
+Buyer Chewy-4 wants a PerfCar (NeedsOne)
+Buyer Chewy-4 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

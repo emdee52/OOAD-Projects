@@ -1,0 +1,36 @@
+The FNCD is opening...
+Bought Europa-2, a Dirty Broken PerfCar for $19,339.00
+Bought Ranger-2, a Clean LikeNew Pickup for $34,097.00
+Bought F-250-2, a Dirty Used Pickup for $12,113.60
+The FNCD interns are washing...
+Intern Fred washed Probe Dirty to Clean
+Intern Fred washed Escort Dirty to Clean
+Intern Ethel washed Fiesta Dirty to Dirty
+Intern Ethel washed Mustang Dirty to Clean
+Intern Lucy washed Fiesta Dirty to Clean
+Intern Lucy washed Europa-2 Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-2 wants a Car (WantsOne)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a Pickup (JustLooking)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Car (NeedsOne)
+Buyer Han-2 decided not to buy.
+Buyer Chewy-2 wants a PerfCar (NeedsOne)
+Buyer Chewy-2 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

@@ -1,0 +1,27 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Corvette-3 Dirty to Clean
+Intern Fred washed Mustang-3 Dirty to Clean
+Intern Ethel washed Probe-2 Clean to Clean
+Intern Ethel washed Colorado-2 Clean to Clean
+Intern Lucy washed Probe-2 Clean to Clean
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed Colorado-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-8 wants a PerfCar (WantsOne)
+Buyer Leia-8 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-8 bought Sparkling LikeNew Cayman-3 for base price of $55,426.88
+Buyer Han-8 wants a Car (JustLooking)
+Buyer Han-8 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-8 bought Clean LikeNew Probe-2 for base price of $27,637.50
+Buyer Chewy-8 wants a PerfCar (WantsOne)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Car (JustLooking)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Car (JustLooking)
+Buyer Leia-9 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-9 bought Clean LikeNew Fiesta-2 for base price of $25,682.00
+No-one on the staff is leaving!
+That's it for the day.

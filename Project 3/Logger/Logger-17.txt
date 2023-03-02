@@ -1,0 +1,41 @@
+The FNCD is opening...
+Bought Fiesta-3, a Clean Used Car for $8,980.80
+Bought Cayman-4, a Dirty Used PerfCar for $18,751.20
+Bought Tundra-2, a Dirty Broken Pickup for $5,978.50
+The FNCD interns are washing...
+Intern Fred washed Cayman-4 Dirty to Clean
+Intern Fred washed Tundra-2 Dirty to Clean
+Intern Ethel washed Fiesta-3 Clean to Clean
+Intern Ethel washed Cayman-4 Clean to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Fiesta-3 Clean to Sparkling
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Cayman-4 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-4 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Leia-11 wants a Pickup (NeedsOne)
+Buyer Leia-11 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia-11 bought Sparkling LikeNew Colorado-2 for base price of $38,718.00
+Buyer Han-11 wants a Car (WantsOne)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-11 bought Sparkling LikeNew Probe-3 for base price of $25,926.00
+Buyer Chewy-11 wants a PerfCar (JustLooking)
+Buyer Chewy-11 decided not to buy.
+Buyer Luke-12 wants a Car (JustLooking)
+Buyer Luke-12 decided not to buy.
+Buyer Leia-12 wants a PerfCar (WantsOne)
+Buyer Leia-12 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-12 bought Sparkling LikeNew Mustang-3 for base price of $48,296.00
+Buyer Han-12 wants a Car (JustLooking)
+Buyer Han-12 decided not to buy.
+No-one on the staff is leaving!
+That's it for the day.

@@ -1,0 +1,23 @@
+The FNCD is opening...
+Bought Colorado-3, a Clean Broken Pickup for $16,537.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Cayman-4 Clean to Sparkling
+Intern Fred washed Corvette-4 Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Corvette-4 Clean to Sparkling
+Intern Ethel washed Taurus-4 Clean to Dirty
+Intern Lucy washed Taurus-4 Dirty to Clean
+Intern Lucy washed Taurus-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-3 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-16 wants a PerfCar (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-16 bought Sparkling LikeNew Corvette-4 for base price of $69,602.00
+No-one on the staff is leaving!
+That's it for the day.
