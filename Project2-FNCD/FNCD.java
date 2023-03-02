@@ -6,6 +6,7 @@ public class FNCD implements SysOut {
     ArrayList<Staff> departedStaff;   // folks that left
     ArrayList<Vehicle> inventory;   // vehicles at the FNCD
     ArrayList<Vehicle> soldVehicles;   // vehicles the buyers bought
+    ArrayList<Vehicle> racingVehicles;
     private double budget;   // big money pile
     FNCD() {
         staff = new ArrayList<>();
@@ -32,9 +33,77 @@ public class FNCD implements SysOut {
     // I debated about moving the individual activities out to an Activity class
     // It would make the normal day less of a monster maybe, eh...
 
-    void closedDay(Enums.DayOfWeek day) {   // Nothing really special about closed days
-        out("Sorry, FNCD is closed on "+day);
+    void raceDay(Enums.DayOfWeek day) {   // Race Day
+        normalDay(day); //Continue normal day operations
+
+        out("Its Racing Time!");
+
+        Enums.VehicleType raceType = Utility.randomEnum(Enums.VehicleType.class);
+
+        while(raceType == Enums.VehicleType.Car || raceType == Enums.VehicleType.Electric){
+            raceType = Utility.randomEnum(Enums.VehicleType.class);
+        }
+
+        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        ArrayList<String> racingList = generateRacers(drivers);
+        ArrayList<String> placement = new ArrayList<String>();
+        ArrayList<Vehicle> raceCars = getRaceCars(raceType);
+
+        for (int i = 0; i < 20; i++) {
+            int raceplacer = Utility.rndFromRange(0, racingList.size() - 1);
+            placement.add(racingList.get(raceplacer));
+            racingList.remove(raceplacer);
+            
+            out("Place: " + (i + 1) + " " + placement.get(i));
+            if (i < 3) {
+                for(Staff s: drivers) {
+                    Driver d = (Driver) s;
+                    if (d.name == placement.get(i)) {
+                        Vehicle carDriven = raceCars.get(Utility.rndFromRange(0, raceCars.size() -1));
+                        carDriven.racesWon++;
+                        d.racesWon++;
+                        d.bonusEarned += carDriven.race_bonus;
+                    }
+                }
+            }
+            if(i >= 15){
+                for(Staff s: drivers) {
+                    Driver d = (Driver) s;
+                    if (d.name == placement.get(i)) {
+                        Vehicle carDriven = raceCars.get(Utility.rndFromRange(0, raceCars.size() -1));
+                        carDriven.condition = Enums.Condition.Broken;
+                    }
+                }
+            }
+        }
     }
+
+    ArrayList<Vehicle> getRaceCars(Enums.VehicleType vehicle) {
+        ArrayList<Vehicle> AvailableCars = Vehicle.getVehiclesByType(inventory, vehicle);
+        ArrayList<Vehicle> raceCars = new ArrayList<Vehicle>();
+
+        for(int i = 0; i < AvailableCars.size(); i++) {
+            if (AvailableCars.get(i).condition != Enums.Condition.Broken && raceCars.size() < 3) {
+                raceCars.add(AvailableCars.get(i));
+            }
+        }
+
+        return raceCars;
+    }
+
+    ArrayList<String> generateRacers(ArrayList<Staff> drivers) {//Gets all of the FNCD drivers and creates other drivers and puts them into a list
+        ArrayList<String> racers = new ArrayList<String>();
+        
+        for (Staff d : drivers) {
+            racers.add(d.name);
+        }
+        for (int i = racers.size(); i < 20; i++) {
+            racers.add("Racer" + (racers.size() + 1));
+        }
+        return racers;
+    }
+
+    
 
     void normalDay(Enums.DayOfWeek day) {  // On a normal day, we do all the activities
 
@@ -119,6 +188,7 @@ public class FNCD implements SysOut {
         if (t == Enums.StaffType.Intern) newStaff = new Intern();
         if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
         if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
+        if (t == Enums.StaffType.Driver) newStaff = new Driver();
         out("Hired a new "+newStaff.type+" named "+ newStaff.name);
         staff.add(newStaff);
     }
@@ -140,6 +210,9 @@ public class FNCD implements SysOut {
         if (t == Enums.VehicleType.Car) v = new Car();
         if (t == Enums.VehicleType.PerfCar) v = new PerfCar();
         if (t == Enums.VehicleType.Pickup) v = new Pickup();
+        if (t == Enums.VehicleType.Electric) v = new Electric();
+        if (t == Enums.VehicleType.Motorcycle) v = new Motorcycle();
+        if (t == Enums.VehicleType.MonsterTruck) v = new MonsterTruck();
         moneyOut(v.cost);  // pay for the vehicle
         out ("Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost));
         inventory.add(v);
@@ -174,6 +247,5 @@ public class FNCD implements SysOut {
         out("Vehicles in inventory "+inventory.size());
         out("Vehicles sold count "+soldVehicles.size());
         out("Money in the budget "+ Utility.asDollar(getBudget()));
-        out("That's it for the day.");
     }
 }

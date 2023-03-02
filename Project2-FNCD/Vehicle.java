@@ -1,8 +1,9 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
-public abstract class Vehicle {
+public abstract class Vehicle{
     String name;
     Enums.VehicleType type;
     Enums.Condition condition;
@@ -12,6 +13,9 @@ public abstract class Vehicle {
     double repair_bonus;
     double wash_bonus;
     double sale_bonus;
+    double race_bonus;
+    int racesWon;
+
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -20,6 +24,7 @@ public abstract class Vehicle {
         else cleanliness = Enums.Cleanliness.Dirty;
         // all vehicles have the same condition arrival chance (even chance of any)
         condition = Utility.randomEnum(Enums.Condition.class);
+        racesWon = 0;
     }
 
     // utility for getting adjusted cost by condition
@@ -49,6 +54,19 @@ public abstract class Vehicle {
         }
         return n;
     }
+    public String addOn(){ return ""; }
+    public double price(){ return price;}
+    public void report() { // for debug only
+        System.out.println("\nType:        " + this.getClass());
+        System.out.println("Name:        " + name);
+        System.out.println("Condition:   " + condition);
+        System.out.println("Cleanliness: " + cleanliness);
+        System.out.println("Cost:        " + cost);
+        System.out.println("SalesPrice:  " + price);
+    }
+    public void setPrice(double p) {
+        this.price = p;
+    }
 }
 
 class Car extends Vehicle {
@@ -64,6 +82,7 @@ class Car extends Vehicle {
         repair_bonus = 100;
         wash_bonus = 20;
         sale_bonus = 500;
+        race_bonus = 200;
     }
 }
 
@@ -79,6 +98,7 @@ class PerfCar extends Vehicle {
         repair_bonus = 300;
         wash_bonus = 100;
         sale_bonus = 1000;
+        race_bonus = 400;
     }
 }
 
@@ -94,5 +114,63 @@ class Pickup extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
+        race_bonus = 300;
     }
 }
+
+class Electric extends Vehicle {
+    static List<String> names = Arrays.asList("Taycan","Bolt","EQS","EV6");
+    static Namer namer = new Namer(names);
+    int range;
+    Electric() {
+        super();
+        type = Enums.VehicleType.Electric;
+        name = namer.getNext();  // every new electric car gets a unique new name
+        cost = getCost(25000,45000);
+        price = cost * 2;
+        repair_bonus = 200;
+        wash_bonus = 75;
+        sale_bonus = 750;
+        race_bonus = 300;
+        range = Utility.rndFromRange(60, 400);
+    }
+}
+
+class Motorcycle extends Vehicle {
+    static List<String> names = Arrays.asList("Grom","Ninja","Softail","CBR1000");
+    static Namer namer = new Namer(names);
+    double engineSize;
+    Random rand = new Random();
+    int stdev = 300;
+    int mean = 700;
+    Motorcycle() {
+        super();
+        type = Enums.VehicleType.Motorcycle;
+        name = namer.getNext();  // every new bike gets a unique new name
+        cost = getCost(5000,20000);
+        price = cost * 2;
+        repair_bonus = 400;
+        wash_bonus = 150;
+        sale_bonus = 1250;
+        race_bonus = 300;
+        engineSize = rand.nextGaussian() * stdev + mean; // https://stackoverflow.com/questions/31754209/can-random-nextgaussian-sample-values-from-a-distribution-with-different-mean
+    }
+}
+
+class MonsterTruck extends Vehicle {
+    static List<String> names = Arrays.asList("Batman","Avenger","Bigfoot","Grave Digger", "Predator", "Raminator");
+    static Namer namer = new Namer(names);
+    MonsterTruck() {
+        super();
+        type = Enums.VehicleType.MonsterTruck;
+        name = namer.getNext();  // every new monster truck gets a unique new name
+        cost = getCost(20000,45000);
+        price = cost * 2;
+        repair_bonus = 500;
+        wash_bonus = 120;
+        sale_bonus = 1000;
+        race_bonus = 350;
+    }
+}
+
+

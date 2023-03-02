@@ -1,4 +1,3 @@
-import javax.lang.model.util.Types;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
@@ -40,15 +39,16 @@ public abstract class Staff implements SysOut {
 class Intern extends Staff {
     static List<String> names = Arrays.asList("Fred","Ethel","Lucy","Desi");
     static Namer namer = new Namer(names);
+    Enums.WashType washType;
     Intern() {
         super();
+        washType = Utility.randomEnum(Enums.WashType.class);
         type = Enums.StaffType.Intern;
         name = namer.getNext();  // every new intern gets a new name
         salary = 60; // daily salary
     }
 
     // How an intern washes cars
-    // TODO: There's some duplication in this - it's a little clumsy - refactor me!
     void washVehicles(ArrayList<Vehicle> vList) {
         int washCount = 0;
         Enums.Cleanliness startAs;
@@ -57,14 +57,16 @@ class Intern extends Staff {
             if (v.cleanliness == Enums.Cleanliness.Dirty) {
                 washCount += 1;
                 startAs = Enums.Cleanliness.Dirty;
-                double chance = Utility.rnd();
-                if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
-                if (chance >.8 && chance <=.9) {
-                    v.cleanliness = Enums.Cleanliness.Sparkling;
-                    bonusEarned += v.wash_bonus;
-                    out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                if (washType == Enums.WashType.Chemical) {
+                    Chemical(startAs, v);
                 }
-                out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
+                else if (washType == Enums.WashType.ElbowGrease) {
+                    ElbowGrease(startAs, v);
+                }
+                else {
+                    Detailed(startAs, v);
+                }
+                out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness + " using " + washType + " method");
                 if (washCount == 2) break;
             }
         }
@@ -74,16 +76,96 @@ class Intern extends Staff {
                 if (v.cleanliness == Enums.Cleanliness.Clean) {
                     washCount += 1;
                     startAs = Enums.Cleanliness.Clean;
-                    double chance = Utility.rnd();
-                    if (chance <= .05) v.cleanliness = Enums.Cleanliness.Dirty;
-                    if (chance >.05 && chance <=.35) {
-                        v.cleanliness = Enums.Cleanliness.Sparkling;
-                        bonusEarned += v.wash_bonus;
-                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                    if (washType == Enums.WashType.Chemical) {
+                        Chemical(startAs, v);
                     }
-                    out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
+                    else if (washType == Enums.WashType.ElbowGrease) {
+                        ElbowGrease(startAs, v);
+                    }
+                    else {
+                        Detailed(startAs, v);
+                    }
+                    out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness + " using " + washType + " method");
                     if (washCount == 2) break;
                 }
+            }
+        }
+    }
+
+    void Chemical(Enums.Cleanliness vehicleState, Vehicle v) {
+        double chance = Utility.rnd();
+        double conditionChance = Utility.rnd();
+        if (vehicleState == Enums.Cleanliness.Dirty) {
+            if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
+            if (chance >.8 && chance <=.9) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+            }
+            if (conditionChance <=.1) {
+                v.condition = Enums.Condition.Broken;
+                out(v.name + " became " + v.condition);
+            }
+        }
+        else if (vehicleState == Enums.Cleanliness.Clean) {
+            if (chance <= .1) v.cleanliness = Enums.Cleanliness.Dirty;
+            if (chance > .1 && chance <= .2) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+            }
+            if (conditionChance <=.1) {
+                v.condition = Enums.Condition.Broken;
+                out(v.name + " became " + v.condition);
+            }
+        }
+    }
+
+    void ElbowGrease(Enums.Cleanliness vehicleState, Vehicle v) {
+        double chance = Utility.rnd();
+        double conditionChance = Utility.rnd();
+        if (vehicleState == Enums.Cleanliness.Dirty) {
+            if (chance <= .7) v.cleanliness = Enums.Cleanliness.Clean;
+            if (chance >.7 && chance <=.75) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+            }
+            if (conditionChance <=.1) {
+                v.condition = Enums.Condition.LikeNew;
+                out(v.name + " became " + v.condition);
+            }
+        }
+        else if (vehicleState == Enums.Cleanliness.Clean) {
+            if (chance <= .15) v.cleanliness = Enums.Cleanliness.Dirty;
+            if (chance >.15 && chance <=.30) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+            }
+            if (conditionChance <=.1) {
+                v.condition = Enums.Condition.LikeNew;
+                out(v.name + " became " + v.condition);
+            }
+        }
+    }
+
+    void Detailed(Enums.Cleanliness vehicleState, Vehicle v) {
+        double chance = Utility.rnd();
+        if (vehicleState == Enums.Cleanliness.Dirty) {
+            if (chance <= .6) v.cleanliness = Enums.Cleanliness.Clean;
+            if (chance >.6 && chance <=.8) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+            }
+        }
+        else if (vehicleState == Enums.Cleanliness.Clean) {
+            if (chance <= .05) v.cleanliness = Enums.Cleanliness.Dirty;
+            if (chance >.05 && chance <=.45) {
+                v.cleanliness = Enums.Cleanliness.Sparkling;
+                bonusEarned += v.wash_bonus;
+                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
             }
         }
     }
@@ -168,6 +250,7 @@ class Salesperson extends Staff {
         else { //sell this car!
             if (v.condition == Enums.Condition.LikeNew) saleChance += .1;
             if (v.cleanliness == Enums.Cleanliness.Sparkling) saleChance += .1;
+            saleChance += .1 * v.racesWon;
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
@@ -198,5 +281,18 @@ class Salesperson extends Staff {
         }
         if (selected == -1) return null;
         else return vList.get(selected);
+    }
+}
+
+class Driver extends Staff {
+    static List<String> names = Arrays.asList("Billy", "Bob", "Joe", "Junior", "Kat", "Caitlyn");
+    static Namer namer = new Namer(names);
+    int racesWon;
+    Driver() {
+        super();
+        type = Enums.StaffType.Driver;
+        name = namer.getNext();  // every new driver gets a new name
+        salary = 100; // daily salary
+        racesWon = 0;
     }
 }
