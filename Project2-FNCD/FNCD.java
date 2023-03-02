@@ -45,9 +45,18 @@ public class FNCD implements SysOut {
         }
 
         ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        ArrayList<Vehicle> raceCars = getRaceCars(raceType);
+
+        while(drivers.size() != raceCars.size()){
+            drivers.remove(drivers.size() - 1) ;
+        }
+
         ArrayList<String> racingList = generateRacers(drivers);
         ArrayList<String> placement = new ArrayList<String>();
-        ArrayList<Vehicle> raceCars = getRaceCars(raceType);
+
+        if(drivers.size() != raceCars.size()){
+
+        }
 
         for (int i = 0; i < 20; i++) {
             int raceplacer = Utility.rndFromRange(0, racingList.size() - 1);
@@ -63,6 +72,7 @@ public class FNCD implements SysOut {
                         carDriven.racesWon++;
                         d.racesWon++;
                         d.bonusEarned += carDriven.race_bonus;
+                        budget -= carDriven.race_bonus;
                     }
                 }
             }
@@ -185,7 +195,23 @@ public class FNCD implements SysOut {
     // smells like we need a factory or something...
     void addStaff(Enums.StaffType t) {
         Staff newStaff = null;
-        if (t == Enums.StaffType.Intern) newStaff = new Intern();
+        if (t == Enums.StaffType.Intern) {
+            int washChooser = Utility.rndFromRange(0, 2);
+            switch (washChooser) {
+                case 0:
+                newStaff = new Intern(new Chemical());
+                    break;
+                case 1:
+                newStaff = new Intern(new ElbowGrease());
+                    break;
+                case 2:
+                newStaff = new Intern(new Detailed());
+                    break;
+                default:
+                System.err.println("What did you do");
+                    break;
+            }
+        }
         if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
         if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
         if (t == Enums.StaffType.Driver) newStaff = new Driver();

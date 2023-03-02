@@ -36,138 +36,26 @@ public abstract class Staff implements SysOut {
     }
 }
 
-class Intern extends Staff {
+class Intern extends Staff{
     static List<String> names = Arrays.asList("Fred","Ethel","Lucy","Desi");
     static Namer namer = new Namer(names);
-    Enums.WashType washType;
-    Intern() {
+    private WashBehavior washType;
+
+    Intern(WashBehavior w) {
         super();
-        washType = Utility.randomEnum(Enums.WashType.class);
         type = Enums.StaffType.Intern;
         name = namer.getNext();  // every new intern gets a new name
         salary = 60; // daily salary
+        washType = w;
+    }
+
+    public void setWashType (WashBehavior w) {
+        this.washType = w;
     }
 
     // How an intern washes cars
-    void washVehicles(ArrayList<Vehicle> vList) {
-        int washCount = 0;
-        Enums.Cleanliness startAs;
-        for (Vehicle v:vList) {
-            // wash the first dirty car I see
-            if (v.cleanliness == Enums.Cleanliness.Dirty) {
-                washCount += 1;
-                startAs = Enums.Cleanliness.Dirty;
-                if (washType == Enums.WashType.Chemical) {
-                    Chemical(startAs, v);
-                }
-                else if (washType == Enums.WashType.ElbowGrease) {
-                    ElbowGrease(startAs, v);
-                }
-                else {
-                    Detailed(startAs, v);
-                }
-                out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness + " using " + washType + " method");
-                if (washCount == 2) break;
-            }
-        }
-        if (washCount<2) {
-            for (Vehicle v:vList) {
-                // wash the first clean car I see
-                if (v.cleanliness == Enums.Cleanliness.Clean) {
-                    washCount += 1;
-                    startAs = Enums.Cleanliness.Clean;
-                    if (washType == Enums.WashType.Chemical) {
-                        Chemical(startAs, v);
-                    }
-                    else if (washType == Enums.WashType.ElbowGrease) {
-                        ElbowGrease(startAs, v);
-                    }
-                    else {
-                        Detailed(startAs, v);
-                    }
-                    out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness + " using " + washType + " method");
-                    if (washCount == 2) break;
-                }
-            }
-        }
-    }
-
-    void Chemical(Enums.Cleanliness vehicleState, Vehicle v) {
-        double chance = Utility.rnd();
-        double conditionChance = Utility.rnd();
-        if (vehicleState == Enums.Cleanliness.Dirty) {
-            if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
-            if (chance >.8 && chance <=.9) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-            if (conditionChance <=.1) {
-                v.condition = Enums.Condition.Broken;
-                out(v.name + " became " + v.condition);
-            }
-        }
-        else if (vehicleState == Enums.Cleanliness.Clean) {
-            if (chance <= .1) v.cleanliness = Enums.Cleanliness.Dirty;
-            if (chance > .1 && chance <= .2) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-            if (conditionChance <=.1) {
-                v.condition = Enums.Condition.Broken;
-                out(v.name + " became " + v.condition);
-            }
-        }
-    }
-
-    void ElbowGrease(Enums.Cleanliness vehicleState, Vehicle v) {
-        double chance = Utility.rnd();
-        double conditionChance = Utility.rnd();
-        if (vehicleState == Enums.Cleanliness.Dirty) {
-            if (chance <= .7) v.cleanliness = Enums.Cleanliness.Clean;
-            if (chance >.7 && chance <=.75) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-            if (conditionChance <=.1) {
-                v.condition = Enums.Condition.LikeNew;
-                out(v.name + " became " + v.condition);
-            }
-        }
-        else if (vehicleState == Enums.Cleanliness.Clean) {
-            if (chance <= .15) v.cleanliness = Enums.Cleanliness.Dirty;
-            if (chance >.15 && chance <=.30) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-            if (conditionChance <=.1) {
-                v.condition = Enums.Condition.LikeNew;
-                out(v.name + " became " + v.condition);
-            }
-        }
-    }
-
-    void Detailed(Enums.Cleanliness vehicleState, Vehicle v) {
-        double chance = Utility.rnd();
-        if (vehicleState == Enums.Cleanliness.Dirty) {
-            if (chance <= .6) v.cleanliness = Enums.Cleanliness.Clean;
-            if (chance >.6 && chance <=.8) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-        }
-        else if (vehicleState == Enums.Cleanliness.Clean) {
-            if (chance <= .05) v.cleanliness = Enums.Cleanliness.Dirty;
-            if (chance >.05 && chance <=.45) {
-                v.cleanliness = Enums.Cleanliness.Sparkling;
-                bonusEarned += v.wash_bonus;
-                out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            }
-        }
+    public void washVehicles(ArrayList<Vehicle> vList) {
+        washType.wash(vList, this);
     }
 }
 
