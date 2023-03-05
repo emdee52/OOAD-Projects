@@ -167,7 +167,7 @@ class Salesperson extends Staff {
         else { //sell this car!
             if (v.condition == Enums.Condition.LikeNew) saleChance += .1;
             if (v.cleanliness == Enums.Cleanliness.Sparkling) saleChance += .1;
-            saleChance += .1 * v.racesWon;
+            saleChance += .1 * v.racesWon; //add chances for each race won
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
