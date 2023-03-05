@@ -1,0 +1,38 @@
+The FNCD is opening...
+Hired a new Intern named Fred-6
+Bought F-250-3, a Dirty Used Pickup for $22,038.40
+The FNCD interns are washing...
+Intern Ethel-5 got a bonus of $150.00!
+Intern Ethel-5 washed Grom-2 Dirty to Sparkling using Detailed method
+Intern Ethel-5 got a bonus of $100.00!
+Intern Ethel-5 washed Cayman-4 Dirty to Sparkling using Detailed method
+Intern Lucy-5 washed F-250-3 Dirty to Clean using ElbowGrease method
+Intern Lucy-5 washed Taurus-2 Clean to Dirty using ElbowGrease method
+Intern Fred-6 washed Taurus-2 Dirty to Dirty using Detailed method
+Intern Fred-6 washed Taycan-2 Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6-3 Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Batman-4 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed F-250-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Luke-23 wants a MonsterTruck (NeedsOne)
+Buyer Luke-23 decided not to buy.
+Buyer Leia-23 wants a Motorcycle (WantsOne)
+Buyer Leia-23 is buying! Salesperson Lucy-2 gets a bonus of $1,250.00!
+Buyer Leia-23 bought Sparkling LikeNew Grom-2 for base price of $23,748.75
+Buyer Han-23 wants a Pickup (JustLooking)
+Buyer Han-23 decided not to buy.
+Buyer Chewy-23 wants a Pickup (JustLooking)
+Buyer Chewy-23 decided not to buy.
+Buyer Luke-24 wants a PerfCar (JustLooking)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Pickup (JustLooking)
+Buyer Leia-24 decided not to buy.
+Salesperson Desi-3 is leaving
+Intern Ethel-5 has been promoted to Salesperson
+Mechanic Ethel-2 is leaving
+Intern Lucy-5 has been promoted to Mechanic

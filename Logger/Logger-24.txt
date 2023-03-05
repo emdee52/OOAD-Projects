@@ -1,0 +1,80 @@
+The FNCD is opening...
+Hired a new Intern named Ethel-5
+Bought Fiesta-2, a Dirty Used Car for $13,371.20
+Bought Mustang-3, a Clean Used PerfCar for $27,721.60
+Bought Tundra-2, a Dirty Broken Pickup for $15,144.00
+Bought Ranger-3, a Clean Broken Pickup for $6,983.00
+Bought Grom-3, a Dirty Used Motorcycle for $7,628.80
+Bought Grave Digger-3, a Clean LikeNew MonsterTruck for $40,355.00
+Bought Predator-3, a Clean LikeNew MonsterTruck for $35,179.00
+The FNCD interns are washing...
+Intern Lucy-4 got a bonus of $100.00!
+Intern Lucy-4 washed Europa-3 Dirty to Sparkling using Detailed method
+Intern Lucy-4 got a bonus of $100.00!
+Intern Lucy-4 washed Corvette-3 Dirty to Sparkling using Detailed method
+Intern Desi-4 washed Fiesta-2 Dirty to Clean using ElbowGrease method
+Intern Desi-4 washed Tundra-2 Dirty to Clean using ElbowGrease method
+Intern Ethel-5 got a bonus of $150.00!
+Intern Ethel-5 washed Grom-3 Dirty to Sparkling using Detailed method
+Intern Ethel-5 washed CBR1000 Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-3 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed Tundra-2 Broken to Used
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed Ranger-3 Broken to Used
+Mechanic Fred-4 got a bonus of $200.00!
+Mechanic Fred-4 fixed Tundra-2 Used to LikeNew
+Mechanic Fred-4 got a bonus of $200.00!
+Mechanic Fred-4 fixed Ranger-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-20 wants a MonsterTruck (WantsOne)
+Buyer Leia-20 decided not to buy.
+Intern Desi-4 is leaving
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Junior
+FNCD driver participating: Caitlyn
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Junior
+Place: 2 Racer8
+Place: 3 Racer9
+Place: 4 Racer18
+Place: 5 Racer11
+Place: 6 Racer4
+Place: 7 Racer16
+Place: 8 Racer14
+Place: 9 Caitlyn
+Place: 10 Racer5
+Place: 11 Racer7
+Place: 12 Racer20
+Place: 13 Racer6
+Place: 14 Racer19
+Place: 15 Racer13
+Place: 16 Racer12
+Place: 17 Racer15
+Place: 18 Racer10
+Place: 19 Racer17
+Place: 20 Billy
+Europa-3 is now broken.
+Driver Billy is leaving due to injury

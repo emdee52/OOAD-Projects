@@ -1,0 +1,36 @@
+The FNCD is opening...
+Hired a new Intern named Lucy-4
+Bought Bolt-3, a Dirty LikeNew Electric for $43,994.00
+Bought Predator-2, a Dirty Broken MonsterTruck for $11,104.50
+The FNCD interns are washing...
+Intern Fred-4 washed Corvette-2 Dirty to Clean using Chemical method
+Intern Fred-4 washed Taycan-3 Dirty to Clean using Chemical method
+Intern Ethel-4 washed CBR1000-2 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Bolt-3 Dirty to Clean using Chemical method
+Intern Lucy-4 washed Predator-2 Dirty to Clean using Detailed method
+Intern Lucy-4 got a bonus of $20.00!
+Intern Lucy-4 washed Probe Clean to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Corvette-2
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Taycan-3 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-2 Used to LikeNew
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed CBR1000-2 Broken to Used
+Mechanic Ethel-2 got a bonus of $400.00!
+Mechanic Ethel-2 fixed CBR1000-2 Used to LikeNew
+Mechanic Ethel-2 did not fix the Broken Predator-2
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-14 wants a MonsterTruck (NeedsOne)
+Buyer Han-14 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
+Buyer Han-14 bought Clean LikeNew Raminator for base price of $52,668.75
+Buyer Chewy-14 wants a MonsterTruck (WantsOne)
+Buyer Chewy-14 is buying! Salesperson Ethel-3 gets a bonus of $1,000.00!
+Buyer Chewy-14 bought Sparkling LikeNew Batman for base price of $48,754.00
+Buyer Luke-15 wants a MonsterTruck (NeedsOne)
+Buyer Luke-15 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
+Buyer Luke-15 bought Clean LikeNew Batman-2 for base price of $48,150.00
+Mechanic James is leaving
+Intern Fred-4 has been promoted to Mechanic

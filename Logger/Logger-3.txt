@@ -1,0 +1,67 @@
+The FNCD is opening...
+Hired a new Intern named Fred-2
+Bought Probe-2, a Sparkling LikeNew Car for $15,184.00
+Bought Grom-2, a Dirty LikeNew Motorcycle for $6,333.00
+Bought Raminator, a Dirty Broken MonsterTruck for $14,045.00
+Bought Batman-2, a Clean Used MonsterTruck for $19,260.00
+The FNCD interns are washing...
+Intern Ethel washed Ranger Dirty to Clean using Chemical method
+Intern Ethel washed F-250 Dirty to Clean using Chemical method
+Intern Desi washed Colorado Dirty to Dirty using Detailed method
+Intern Desi washed Tundra Dirty to Dirty using Detailed method
+Intern Fred-2 washed Colorado Dirty to Clean using Chemical method
+Intern Fred-2 washed Tundra Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken EV6
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Ninja Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6 Broken to Used
+Mechanic Spock did not fix the Used Ninja
+Mechanic Fred did not fix the Used EV6
+Mechanic Fred did not fix the Used Ninja
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-4 wants a MonsterTruck (JustLooking)
+Buyer Leia-4 decided not to buy.
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Bob
+FNCD driver participating: Joe
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer4
+Place: 2 Racer12
+Place: 3 Racer6
+Place: 4 Racer7
+Place: 5 Racer19
+Place: 6 Bob
+Place: 7 Racer17
+Place: 8 Racer18
+Place: 9 Racer5
+Place: 10 Joe
+Place: 11 Racer20
+Place: 12 Billy
+Place: 13 Racer9
+Place: 14 Racer11
+Place: 15 Racer13
+Place: 16 Racer16
+Place: 17 Racer10
+Place: 18 Racer8
+Place: 19 Racer14
+Place: 20 Racer15

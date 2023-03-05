@@ -1,0 +1,21 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Ethel washed Taycan Dirty to Clean using Chemical method
+Intern Ethel washed Bolt Dirty to Clean using Chemical method
+Intern Desi washed EV6 Dirty to Clean using Detailed method
+Intern Desi washed Grom-2 Dirty to Clean using Detailed method
+Intern Fred-2 washed Raminator Dirty to Clean using Chemical method
+Intern Fred-2 washed Probe Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Softail
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed CBR1000 Used to LikeNew
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Softail Used to LikeNew
+Mechanic Spock did not fix the Used Batman
+Mechanic Fred got a bonus of $500.00!
+Mechanic Fred fixed Batman Used to LikeNew
+Mechanic Fred got a bonus of $500.00!
+Mechanic Fred fixed Bigfoot Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...

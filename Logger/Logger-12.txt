@@ -1,0 +1,20 @@
+The FNCD is opening...
+Hired a new Intern named Ethel-3
+The FNCD interns are washing...
+Intern Desi-2 washed Cayman Dirty to Clean using ElbowGrease method
+Intern Desi-2 washed Probe Clean to Dirty using ElbowGrease method
+Intern Fred-3 washed Probe Dirty to Clean using ElbowGrease method
+Intern Fred-3 washed Probe Clean to Clean using ElbowGrease method
+Intern Ethel-3 washed Probe Clean to Clean using  Chemical method
+Intern Ethel-3 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-8 wants a Motorcycle (JustLooking)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a Motorcycle (WantsOne)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a Pickup (WantsOne)
+Buyer Han-8 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Han-8 bought Clean LikeNew F-250 for base price of $60,800.00
+Intern Fred-3 is leaving

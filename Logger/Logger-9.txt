@@ -1,0 +1,20 @@
+The FNCD is opening...
+Hired a new Intern named Desi-2
+Bought Taycan-2, a Dirty Broken Electric for $18,477.00
+Bought Ninja-2, a Dirty Broken Motorcycle for $9,149.00
+The FNCD interns are washing...
+Intern Ethel-2 washed Avenger-2 Dirty to Dirty using ElbowGrease method
+Intern Ethel-2 washed Taurus-2 Dirty to Dirty using ElbowGrease method
+Intern Lucy-2 washed Avenger-2 Dirty to Clean using Chemical method
+Intern Lucy-2 washed Taurus-2 Dirty to Clean using Chemical method
+Taycan-2 became LikeNew
+Intern Desi-2 washed Taycan-2 Dirty to Clean using ElbowGrease method
+Ninja-2 became LikeNew
+Intern Desi-2 washed Ninja-2 Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-7 wants a Car (WantsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Motorcycle (JustLooking)
+Buyer Chewy-7 decided not to buy.

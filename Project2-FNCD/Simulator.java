@@ -22,8 +22,7 @@ public class Simulator implements SysOut {
         FNCD fncd = new FNCD();
         for (int day = 1; day <= numDays; ++day) {
             out(">>> Start Simulation Day "+day+" "+dayOfWeek);
-            if (dayOfWeek == Enums.DayOfWeek.Sun || dayOfWeek == Enums.DayOfWeek.Wed) fncd.raceDay(dayOfWeek);  // race on sunday and wednesday
-            else fncd.normalDay(dayOfWeek);  // normal stuff on other days
+            fncd.normalDay(dayOfWeek, day);  // normal stuff on other days
             out("That's it for the day.");
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day

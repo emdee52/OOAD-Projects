@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
@@ -9,6 +10,7 @@ public abstract class Staff implements SysOut {
     double bonusEarned;
     Enums.StaffType type;
     int daysWorked;
+    static double staffEarned = 0;
     Staff() {
         salaryEarned = 0;
         bonusEarned = 0;
@@ -34,6 +36,30 @@ public abstract class Staff implements SysOut {
         }
         return n;
     }
+
+    public Staff promote(Staff intern, Enums.StaffType t) { //promote an intern;
+        String currentName = intern.name; //Get current values that need to be transferred
+        int daysWorked = intern.daysWorked;
+        double currentBonus = intern.bonusEarned;
+        double currentSalaryEarned = intern.salaryEarned;
+
+        if (t == Enums.StaffType.Mechanic) {         //Mechanic Position
+            intern = new Mechanic();                //Transfer Position
+        }
+        else if (t == Enums.StaffType.Salesperson) {    //Sales Person Position
+            intern = new Salesperson();
+        }  
+        else {
+            System.err.println("Error: Invalid Position");
+        }
+
+        intern.name = currentName;  //Transfer all values that way intern stats arent reset
+        intern.daysWorked = daysWorked;
+        intern.bonusEarned = currentBonus;
+        intern.salaryEarned = currentSalaryEarned;
+
+        return intern;
+    }
 }
 
 class Intern extends Staff{
@@ -49,13 +75,16 @@ class Intern extends Staff{
         washType = w;
     }
 
+    /*
+     * Commands below were created in the implmentation of the Wash Strategy Pattern
+     */
     public void setWashType (WashBehavior w) {
         this.washType = w;
     }
 
     // How an intern washes cars
-    public void washVehicles(ArrayList<Vehicle> vList) {
-        washType.wash(vList, this);
+    public void washVehicles(ArrayList<Vehicle> vList, Announcer announcer, int day, Intern i) {
+        washType.wash(vList, announcer, day, this);
     }
 }
 
@@ -70,7 +99,7 @@ class Mechanic extends Staff {
     }
 
     // how Mechanics repair Vehicles - not as complicated as the Wash thing above
-    void repairVehicles(ArrayList<Vehicle> vList) {
+    void repairVehicles(ArrayList<Vehicle> vList, Announcer announcer, int day) {
         int fixCount = 0;
         Enums.Condition startAs;
         // I'm just grabbing the first Vehicle I find - would be easy to randomly pick one
@@ -91,12 +120,12 @@ class Mechanic extends Staff {
                         v.price = v.price * 1.5;  // 50% increase for Broken to Used
                     }
                     bonusEarned += v.repair_bonus;
-                    out("Mechanic "+name+" got a bonus of "+Utility.asDollar(v.repair_bonus)+"!");
-                    out("Mechanic "+name+" fixed "+v.name+" "+startAs+" to "+v.condition);
+                    outP("Mechanic "+name+" got a bonus of "+Utility.asDollar(v.repair_bonus)+"!", announcer, day);
+                    outP("Mechanic "+name+" fixed "+v.name+" "+startAs+" to "+v.condition, announcer, day);
                 }
                 else {
                     fixCount += 1;   // I'm saying a failed repair still took up a fix attempt
-                    out("Mechanic "+name+" did not fix the "+v.condition+" "+v.name);
+                    outP("Mechanic "+name+" did not fix the "+v.condition+" "+v.name, announcer, day);
                 }
             }
             if (fixCount==2) break;
@@ -115,7 +144,7 @@ class Salesperson extends Staff {
 
     // Someone is asking this Salesperson to sell to this Buyer
     // We'll return any car we sell for the FNCD to keep track of (null if no sale)
-    Vehicle sellVehicle(Buyer b, ArrayList<Vehicle> vList) {
+    Vehicle sellVehicle(Buyer b, ArrayList<Vehicle> vList, Announcer announcer, int day) {
         // buyer type determines initial purchase chance
         double saleChance = .7; // needs one
         if (b.type == Enums.BuyerType.WantsOne) saleChance = .4;
@@ -132,7 +161,7 @@ class Salesperson extends Staff {
             v = getMostExpensiveNotBroken(vList);  // could still be null
         }
         if (v == null) {
-            out("Salesperson "+name+" has no car for buyer "+b.name);
+            outP("Salesperson "+name+" has no car for buyer "+b.name, announcer, day);
             return null;
         }
         else { //sell this car!
@@ -142,12 +171,36 @@ class Salesperson extends Staff {
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
-                out("Buyer "+b.name+" is buying! Salesperson "+name+" gets a bonus of "+Utility.asDollar(v.sale_bonus)+"!");
-                out("Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name+" for "+Utility.asDollar(v.price));
+                staffEarned += v.sale_bonus;
+                outP("Buyer "+b.name+" is buying! Salesperson "+name+" gets a bonus of "+Utility.asDollar(v.sale_bonus)+"!", announcer, day);
+                outP("Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name+" for base price of "+Utility.asDollar(v.price()), announcer, day);
+                Vehicle v1 = v;
+                double addOnChance = Utility.rnd();
+                /*
+                 * 
+                 * Decorator Pattern being implemented into the Sales Person class
+                 * 
+                 */
+                if (addOnChance <= .2){
+                    v1 = new WarrantyDecorator(v1);
+                }
+                if (addOnChance <= .1){
+                    v1 = new UndercoatingDecorator(v1);
+                }
+                if (addOnChance <= .05){
+                    v1 = new AAADecorator(v1);
+                }
+                if (addOnChance <= .4){
+                    v1 = new SatRadioDecorator(v1);
+                }
+                System.out.print(v1.addOn());
+                //announcer.publishEvent(v1.addOn(), day);
+                v.setPrice(v1.price());
+
                 return v;
             }
             else {  // no sale!
-                out("Buyer "+b.name+" decided not to buy.");
+                outP("Buyer "+b.name+" decided not to buy.", announcer, day);
                 return null;
             }
         }

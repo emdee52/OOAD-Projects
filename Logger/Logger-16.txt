@@ -1,0 +1,37 @@
+The FNCD is opening...
+Hired a new Intern named Ethel-4
+Bought Bolt-2, a Dirty Broken Electric for $21,156.50
+Bought EQS-2, a Sparkling Broken Electric for $12,593.00
+Bought Softail-2, a Dirty Used Motorcycle for $5,659.20
+The FNCD interns are washing...
+Intern Desi-3 washed F-250-2 Dirty to Clean using ElbowGrease method
+Intern Desi-3 washed Cayman-2 Dirty to Clean using ElbowGrease method
+Intern Fred-4 washed Bolt-2 Dirty to Clean using Chemical method
+Intern Fred-4 washed Softail-2 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Probe Clean to Clean using  Chemical method
+Intern Ethel-4 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Bolt-2 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EQS-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bolt-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EQS-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $400.00!
+Mechanic Ethel-2 fixed Softail-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy-12 wants a PerfCar (WantsOne)
+Buyer Chewy-12 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
+Buyer Chewy-12 bought Clean LikeNew Corvette for base price of $73,900.00
+Buyer Luke-13 wants a Electric (NeedsOne)
+Buyer Luke-13 is buying! Salesperson Desi-2 gets a bonus of $750.00!
+Buyer Luke-13 bought Dirty LikeNew Bolt-2 for base price of $79,336.88
+Buyer Leia-13 wants a Electric (NeedsOne)
+Buyer Leia-13 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Leia-13 bought Clean LikeNew EQS for base price of $54,438.00
+Buyer Han-13 wants a Motorcycle (JustLooking)
+Buyer Han-13 is buying! Salesperson Lucy-2 gets a bonus of $1,250.00!
+Buyer Han-13 bought Clean LikeNew Ninja-2 for base price of $18,298.00

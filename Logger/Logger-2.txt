@@ -1,0 +1,45 @@
+The FNCD is opening...
+Hired a new Intern named Desi
+Bought Predator, a Clean LikeNew MonsterTruck for $38,479.00
+The FNCD interns are washing...
+Intern Ethel washed Probe Dirty to Clean using Chemical method
+Intern Ethel washed Escort Dirty to Clean using Chemical method
+Intern Lucy washed Cayman Dirty to Clean using ElbowGrease method
+Intern Lucy washed Corvette Dirty to Clean using ElbowGrease method
+Intern Desi washed Mustang Dirty to Clean using Detailed method
+Intern Desi washed Ranger Dirty to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger Used to LikeNew
+Mechanic James did not fix the Used F-250
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed Taycan Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed Bolt Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-2 wants a MonsterTruck (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-2 bought Dirty LikeNew Grave Digger for base price of $84,026.00
+Buyer Han-2 wants a Motorcycle (WantsOne)
+Buyer Han-2 decided not to buy.
+Buyer Chewy-2 wants a MonsterTruck (JustLooking)
+Buyer Chewy-2 decided not to buy.
+Buyer Luke-3 wants a Pickup (JustLooking)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Car (JustLooking)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a MonsterTruck (NeedsOne)
+Buyer Han-3 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-3 bought Clean LikeNew Predator for base price of $76,958.00
+Buyer Chewy-3 wants a Car (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Chewy-3 bought Clean LikeNew Fiesta for base price of $35,390.00
+Buyer Luke-4 wants a Motorcycle (WantsOne)
+Buyer Luke-4 is buying! Salesperson Monica gets a bonus of $1,250.00!
+Buyer Luke-4 bought Clean LikeNew Grom for base price of $23,448.00
+Intern Lucy is leaving

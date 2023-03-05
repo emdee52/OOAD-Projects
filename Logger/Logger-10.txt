@@ -1,0 +1,56 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Ethel-2 washed Probe Clean to Clean using ElbowGrease method
+Intern Ethel-2 washed Escort Clean to Clean using ElbowGrease method
+Intern Lucy-2 washed Probe Clean to Dirty using  Chemical method
+Intern Lucy-2 washed Escort Clean to Dirty using  Chemical method
+Intern Desi-2 washed Probe Dirty to Dirty using ElbowGrease method
+Intern Desi-2 washed Escort Dirty to Dirty using ElbowGrease method
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Mechanic Fred is leaving
+Intern Ethel-2 has been promoted to Mechanic
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Joe
+FNCD driver participating: Junior
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Junior
+Place: 2 Racer8
+Place: 3 Racer5
+Place: 4 Racer10
+Place: 5 Racer18
+Place: 6 Racer20
+Place: 7 Racer17
+Place: 8 Racer16
+Place: 9 Racer13
+Place: 10 Racer15
+Place: 11 Racer6
+Place: 12 Racer14
+Place: 13 Racer7
+Place: 14 Billy
+Place: 15 Racer9
+Place: 16 Joe
+Cayman is now broken.
+Driver Joe is leaving due to injury
+Place: 17 Racer12
+Place: 18 Racer19
+Place: 19 Racer11
+Place: 20 Racer4

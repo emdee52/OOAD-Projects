@@ -1,0 +1,37 @@
+The FNCD is opening...
+Hired a new Intern named Desi-3
+Hired a new Intern named Fred-4
+Bought Europa-2, a Dirty Used PerfCar for $25,828.00
+Bought F-250-2, a Clean Broken Pickup for $15,248.50
+Bought Bigfoot-2, a Clean LikeNew MonsterTruck for $29,645.00
+The FNCD interns are washing...
+Ranger-2 became Broken
+Intern Ethel-3 washed Ranger-2 Dirty to Clean using Chemical method
+Europa-2 became Broken
+Intern Ethel-3 washed Europa-2 Dirty to Clean using Chemical method
+Intern Desi-3 washed Probe Clean to Clean using ElbowGrease method
+Intern Desi-3 washed Escort Clean to Clean using ElbowGrease method
+Intern Fred-4 washed Probe Clean to Clean using  Chemical method
+Intern Fred-4 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-2 Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Broken to Used
+Mechanic Spock did not fix the Used Ranger-2
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed Ranger-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed F-250-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-10 wants a MonsterTruck (NeedsOne)
+Buyer Luke-10 is buying! Salesperson Desi-2 gets a bonus of $1,000.00!
+Buyer Luke-10 bought Clean LikeNew Bigfoot-2 for base price of $59,290.00
+Buyer Leia-10 wants a Car (WantsOne)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a PerfCar (NeedsOne)
+Buyer Han-10 is buying! Salesperson Desi-2 gets a bonus of $1,000.00!
+Buyer Han-10 bought Dirty LikeNew Europa-2 for base price of $96,855.00

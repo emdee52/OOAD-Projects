@@ -1,0 +1,76 @@
+The FNCD is opening...
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Driver named Billy
+Hired a new Driver named Bob
+Hired a new Driver named Joe
+Bought Probe, a Sparkling Broken Car for $7,711.50
+Bought Escort, a Clean Broken Car for $5,180.00
+Bought Taurus, a Sparkling LikeNew Car for $11,097.00
+Bought Fiesta, a Dirty LikeNew Car for $17,695.00
+Bought Europa, a Dirty LikeNew PerfCar for $34,003.00
+***Budget overrun*** Added $250K, budget now: $246,714.30
+Bought Cayman, a Dirty Used PerfCar for $27,599.20
+Bought Corvette, a Dirty LikeNew PerfCar for $36,950.00
+Bought Mustang, a Clean Used PerfCar for $28,448.00
+Bought Ranger, a Dirty Used Pickup for $12,234.40
+Bought F-250, a Dirty Used Pickup for $24,320.00
+Bought Colorado, a Dirty Used Pickup for $12,858.40
+Bought Tundra, a Dirty LikeNew Pickup for $12,834.00
+Bought Taycan, a Clean Used Electric for $34,284.80
+Bought Bolt, a Dirty Used Electric for $25,556.80
+Bought EQS, a Dirty LikeNew Electric for $27,219.00
+Bought EV6, a Dirty Broken Electric for $15,735.50
+Bought Grom, a Clean LikeNew Motorcycle for $11,724.00
+***Budget overrun*** Added $250K, budget now: $245,868.40
+Bought Ninja, a Clean Broken Motorcycle for $8,681.00
+Bought Softail, a Clean Used Motorcycle for $9,400.80
+Bought CBR1000, a Clean Used Motorcycle for $4,733.60
+Bought Batman, a Clean Used MonsterTruck for $19,501.60
+Bought Avenger, a Dirty LikeNew MonsterTruck for $43,505.00
+Bought Bigfoot, a Dirty Broken MonsterTruck for $22,333.50
+Bought Grave Digger, a Dirty LikeNew MonsterTruck for $42,013.00
+The FNCD interns are washing...
+Fiesta became LikeNew
+Intern Fred washed Fiesta Dirty to Dirty using ElbowGrease method
+Europa became LikeNew
+Intern Fred washed Europa Dirty to Dirty using ElbowGrease method
+Intern Ethel washed Fiesta Dirty to Dirty using Chemical method
+Intern Ethel washed Europa Dirty to Dirty using Chemical method
+Intern Lucy washed Fiesta Dirty to Clean using ElbowGrease method
+Intern Lucy washed Europa Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke wants a Pickup (NeedsOne)
+Buyer Luke decided not to buy.
+Buyer Leia wants a MonsterTruck (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a MonsterTruck (NeedsOne)
+Buyer Han is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han bought Dirty LikeNew Avenger for base price of $87,010.00
+Buyer Chewy wants a Pickup (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Pickup (JustLooking)
+Buyer Luke-2 decided not to buy.
+Mechanic Scotty is leaving
+Intern Fred has been promoted to Mechanic

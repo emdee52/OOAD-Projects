@@ -1,7 +1,6 @@
 // OOAD Spring 2023 Project 2
 // Friendly Neighborhood Car Dealership (FNCD)
-// Bruce Montgomery - 2/19/23
-// I spent about six hours on this monster...
+// Project 3 code has been implemented and built upon Bruce Montgomery's code for Project 3
 
 public class Main {
     public static void main(String[] args) {

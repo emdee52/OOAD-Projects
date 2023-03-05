@@ -1,0 +1,29 @@
+The FNCD is opening...
+Hired a new Intern named Desi-4
+Bought Raminator-2, a Dirty LikeNew MonsterTruck for $22,009.00
+Bought Batman-3, a Dirty Broken MonsterTruck for $14,758.50
+Bought Avenger-3, a Clean LikeNew MonsterTruck for $29,214.00
+The FNCD interns are washing...
+Intern Ethel-4 washed Corvette-2 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Taycan-3 Dirty to Clean using Chemical method
+Intern Lucy-4 got a bonus of $150.00!
+Intern Lucy-4 washed CBR1000-2 Dirty to Sparkling using Detailed method
+Intern Lucy-4 got a bonus of $120.00!
+Intern Lucy-4 washed Predator-2 Dirty to Sparkling using Detailed method
+Intern Desi-4 washed Raminator-2 Dirty to Clean using ElbowGrease method
+Intern Desi-4 washed Batman-3 Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Predator-2 Broken to Used
+Mechanic Spock did not fix the Broken Batman-3
+Mechanic Ethel-2 did not fix the Used Predator-2
+Mechanic Ethel-2 got a bonus of $500.00!
+Mechanic Ethel-2 fixed Batman-3 Broken to Used
+Mechanic Fred-4 got a bonus of $500.00!
+Mechanic Fred-4 fixed Predator-2 Used to LikeNew
+Mechanic Fred-4 got a bonus of $500.00!
+Mechanic Fred-4 fixed Batman-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-15 wants a Electric (WantsOne)
+Buyer Leia-15 decided not to buy.

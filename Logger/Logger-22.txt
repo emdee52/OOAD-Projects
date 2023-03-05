@@ -1,0 +1,40 @@
+The FNCD is opening...
+Bought Mustang-2, a Clean Used PerfCar for $26,577.60
+Bought Colorado-2, a Dirty LikeNew Pickup for $11,357.00
+Bought Bigfoot-3, a Clean Broken MonsterTruck for $22,486.00
+The FNCD interns are washing...
+Intern Ethel-4 washed Colorado-2 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Tundra Clean to Dirty using  Chemical method
+Intern Lucy-4 washed Tundra Dirty to Clean using Detailed method
+Intern Lucy-4 got a bonus of $75.00!
+Intern Lucy-4 washed Tundra Clean to Sparkling using Detailed method
+Intern Desi-4 washed CBR1000 Clean to Clean using ElbowGrease method
+Intern Desi-4 washed Grom-2 Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-2 Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Bigfoot-3 Broken to Used
+Mechanic Ethel-2 got a bonus of $500.00!
+Mechanic Ethel-2 fixed Bigfoot-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Chewy-16 wants a Electric (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Lucy-2 gets a bonus of $750.00!
+Buyer Chewy-16 bought Clean LikeNew Bolt-3 for base price of $87,988.00
+Buyer Luke-17 wants a PerfCar (JustLooking)
+Buyer Luke-17 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
+Buyer Luke-17 bought Clean LikeNew Corvette-2 for base price of $69,069.38
+Buyer Leia-17 wants a Electric (NeedsOne)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a PerfCar (WantsOne)
+Buyer Han-17 is buying! Salesperson Desi-3 gets a bonus of $1,000.00!
+Buyer Han-17 bought Sparkling LikeNew Europa for base price of $68,006.00
+Buyer Chewy-17 wants a PerfCar (WantsOne)
+Buyer Chewy-17 is buying! Salesperson Desi-3 gets a bonus of $1,000.00!
+Buyer Chewy-17 bought Dirty LikeNew Mustang-2 for base price of $66,444.00
+Buyer Luke-18 wants a Pickup (WantsOne)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a PerfCar (JustLooking)
+Buyer Leia-18 decided not to buy.
+Intern Ethel-4 is leaving

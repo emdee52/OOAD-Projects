@@ -1,0 +1,42 @@
+The FNCD is opening...
+Hired a new Intern named Lucy-2
+Bought Taurus-2, a Dirty Used Car for $11,345.60
+The FNCD interns are washing...
+Ninja became Broken
+Intern Fred-2 washed Ninja Dirty to Clean using Chemical method
+Avenger-2 became Broken
+Intern Fred-2 washed Avenger-2 Dirty to Clean using Chemical method
+Intern Ethel-2 washed Taurus-2 Dirty to Clean using ElbowGrease method
+Intern Ethel-2 washed Probe Clean to Clean using ElbowGrease method
+Intern Lucy-2 washed Probe Clean to Clean using  Chemical method
+Intern Lucy-2 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Ninja Broken to Used
+Mechanic James did not fix the Broken Avenger-2
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Ninja Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Avenger-2 Broken to Used
+Mechanic Fred got a bonus of $500.00!
+Mechanic Fred fixed Avenger-2 Used to LikeNew
+Mechanic Fred got a bonus of $100.00!
+Mechanic Fred fixed Taurus-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Luke-6 wants a Motorcycle (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Monica gets a bonus of $1,250.00!
+Buyer Luke-6 bought Dirty LikeNew Ninja for base price of $114,446.78
+Buyer Leia-6 wants a Motorcycle (JustLooking)
+Buyer Leia-6 decided not to buy.
+Buyer Han-6 wants a MonsterTruck (NeedsOne)
+Buyer Han-6 decided not to buy.
+Buyer Chewy-6 wants a PerfCar (JustLooking)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a Electric (NeedsOne)
+Buyer Luke-7 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-7 bought Clean LikeNew Taycan for base price of $160,710.00
+Buyer Leia-7 wants a Motorcycle (WantsOne)
+Buyer Leia-7 decided not to buy.
+Salesperson Rachel is leaving
+Intern Fred-2 has been promoted to Salesperson

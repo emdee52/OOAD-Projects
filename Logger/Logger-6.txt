@@ -1,0 +1,72 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Ethel washed Softail Dirty to Clean using Chemical method
+Intern Ethel washed CBR1000 Dirty to Clean using Chemical method
+Intern Desi got a bonus of $120.00!
+Intern Desi washed Batman Dirty to Sparkling using Detailed method
+Intern Desi washed Probe Clean to Clean using Detailed method
+Intern Fred-2 washed Probe Clean to Clean using  Chemical method
+Intern Fred-2 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bigfoot Used to LikeNew
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Raminator Broken to Used
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Raminator Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Batman-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-4 wants a Car (WantsOne)
+Buyer Chewy-4 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Chewy-4 bought Sparkling LikeNew Probe-2 for base price of $30,368.00
+Buyer Luke-5 wants a MonsterTruck (NeedsOne)
+Buyer Luke-5 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-5 bought Dirty LikeNew Bigfoot for base price of $83,750.62
+Buyer Leia-5 wants a MonsterTruck (JustLooking)
+Buyer Leia-5 decided not to buy.
+Intern Ethel is leaving
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Bob
+FNCD driver participating: Joe
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer16
+Place: 2 Racer11
+Place: 3 Racer12
+Place: 4 Racer20
+Place: 5 Joe
+Place: 6 Racer14
+Place: 7 Billy
+Place: 8 Racer8
+Place: 9 Racer15
+Place: 10 Racer18
+Place: 11 Racer7
+Place: 12 Racer13
+Place: 13 Racer10
+Place: 14 Racer6
+Place: 15 Racer4
+Place: 16 Racer17
+Place: 17 Racer5
+Place: 18 Racer9
+Place: 19 Racer19
+Place: 20 Bob
+Ninja is now broken.
+Driver Bob is leaving due to injury

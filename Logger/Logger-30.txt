@@ -1,0 +1,33 @@
+The FNCD is opening...
+Hired a new Intern named Ethel-6
+Hired a new Intern named Lucy-6
+Bought Ninja-3, a Dirty Broken Motorcycle for $7,264.50
+The FNCD interns are washing...
+Intern Fred-6 got a bonus of $20.00!
+Intern Fred-6 washed Taurus-2 Dirty to Sparkling using Detailed method
+Intern Fred-6 got a bonus of $75.00!
+Intern Fred-6 washed EV6-3 Dirty to Sparkling using Detailed method
+Intern Ethel-6 washed F-250-3 Dirty to Clean using Detailed method
+Intern Ethel-6 washed Ninja-3 Dirty to Clean using Detailed method
+Intern Lucy-6 washed Taycan-2 Clean to Clean using Detailed method
+Intern Lucy-6 washed EQS-2 Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Ninja-3 Broken to Used
+Mechanic Lucy-4 got a bonus of $400.00!
+Mechanic Lucy-4 fixed Ninja-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-24 wants a Motorcycle (JustLooking)
+Buyer Han-24 decided not to buy.
+Buyer Chewy-24 wants a PerfCar (JustLooking)
+Buyer Chewy-24 decided not to buy.
+Buyer Luke-25 wants a Electric (JustLooking)
+Buyer Luke-25 decided not to buy.
+Buyer Leia-25 wants a Car (NeedsOne)
+Buyer Leia-25 is buying! Salesperson Lucy-2 gets a bonus of $500.00!
+Buyer Leia-25 bought Sparkling LikeNew Fiesta-2 for base price of $33,428.00
+Salesperson Ethel-5 is leaving
+Intern Fred-6 has been promoted to Salesperson
+Mechanic Spock is leaving
+Intern Ethel-6 has been promoted to Mechanic

@@ -1,0 +1,58 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Ethel-4 got a bonus of $120.00!
+Intern Ethel-4 washed Predator-2 Dirty to Sparkling using Chemical method
+Intern Ethel-4 got a bonus of $120.00!
+Intern Ethel-4 washed Batman-3 Dirty to Sparkling using Chemical method
+Intern Lucy-4 washed Escort Clean to Clean using Detailed method
+Intern Lucy-4 washed Europa Clean to Clean using Detailed method
+Intern Desi-4 washed Escort Clean to Clean using ElbowGrease method
+Intern Desi-4 washed Europa Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-15 wants a Motorcycle (JustLooking)
+Buyer Han-15 decided not to buy.
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Junior
+FNCD driver participating: Kat
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer17
+Place: 2 Racer11
+Place: 3 Billy
+Place: 4 Racer19
+Place: 5 Racer7
+Place: 6 Racer20
+Place: 7 Racer10
+Place: 8 Racer5
+Place: 9 Racer13
+Place: 10 Junior
+Place: 11 Racer8
+Place: 12 Racer4
+Place: 13 Racer15
+Place: 14 Racer12
+Place: 15 Racer14
+Place: 16 Racer9
+Place: 17 Racer18
+Place: 18 Racer16
+Place: 19 Racer6
+Place: 20 Kat
+Predator-2 is now broken.
+Driver Kat is leaving due to injury

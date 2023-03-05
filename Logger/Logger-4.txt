@@ -1,0 +1,29 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Taycan became Broken
+Intern Ethel washed Taycan Dirty to Clean using Chemical method
+Bolt became Broken
+Intern Ethel washed Bolt Dirty to Clean using Chemical method
+Intern Desi washed EQS Dirty to Clean using Detailed method
+Intern Desi washed EV6 Dirty to Clean using Detailed method
+Intern Fred-2 got a bonus of $150.00!
+Intern Fred-2 washed Ninja Dirty to Sparkling using Chemical method
+Intern Fred-2 got a bonus of $120.00!
+Intern Fred-2 washed Bigfoot Dirty to Sparkling using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Taycan Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Bolt Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Taycan Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bolt Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed EV6 Used to LikeNew
+Mechanic Fred got a bonus of $400.00!
+Mechanic Fred fixed Ninja Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-4 wants a MonsterTruck (JustLooking)
+Buyer Han-4 decided not to buy.
