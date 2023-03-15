@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.List;
-s
+
 // Quick little buyer class that can take care of its name and initialization
 public class Buyer {
     String name;
