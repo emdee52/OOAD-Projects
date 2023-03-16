@@ -2,12 +2,23 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 /*
- * 
- * This file is used to help implement the Observer pattern
+ *
+ * This file is used to help implement the Observer pattern and singleton pattern
+ * The singleton pattern is implemented using the lazy method
  * 
  * 
  */
 public class Logger implements Listener{
+    private static Logger instance;
+
+    private Logger() {}
+
+    public static Logger getInstance() {
+        if (instance == null) {
+            instance = new Logger();
+        }
+        return instance;
+    }
     @Override
     public void notifyEvent(String event, int day) {
         try {

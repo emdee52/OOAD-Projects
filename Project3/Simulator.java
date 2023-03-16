@@ -23,7 +23,6 @@ public class Simulator implements SysOut {
         for (int day = 1; day <= numDays; ++day) {
             out(">>> Start Simulation Day "+day+" "+dayOfWeek);
             fncd.normalDay(dayOfWeek, day);  // normal stuff on other days
-            out("That's it for the day.");
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
