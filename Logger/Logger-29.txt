@@ -1,26 +1,44 @@
-The FNCD is opening...
-Bought Bigfoot-2, a Dirty LikeNew MonsterTruck for $25,261.00
-The FNCD interns are washing...
-Intern Fred-5 washed Bigfoot-2 Dirty to Clean using Chemical method
-Intern Fred-5 washed Taycan-2 Clean to Clean using  Chemical method
-Intern Ethel-5 washed Taycan-2 Clean to Clean using Detailed method
-Intern Ethel-5 washed Europa-3 Clean to Clean using Detailed method
-Intern Lucy-5 got a bonus of $75.00!
-Intern Lucy-5 washed Taycan-2 Clean to Sparkling using Detailed method
-Intern Lucy-5 got a bonus of $100.00!
-Intern Lucy-5 washed Europa-3 Clean to Sparkling using Detailed method
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Chewy-21 wants a Pickup (JustLooking)
-Buyer Chewy-21 decided not to buy.
-Buyer Luke-22 wants a PerfCar (JustLooking)
-Buyer Luke-22 decided not to buy.
-Buyer Leia-22 wants a Pickup (JustLooking)
-Buyer Leia-22 decided not to buy.
-Buyer Han-22 wants a Electric (JustLooking)
-Buyer Han-22 decided not to buy.
-Buyer Chewy-22 wants a MonsterTruck (JustLooking)
-Buyer Chewy-22 decided not to buy.
-Intern Fred-5 is leaving
+The North FNCD is opening...
+The South FNCD is opening...
+The North FNCD interns are washing...
+Intern Ethel-12 washed Softail-7 Dirty to Clean using Detailed method
+Intern Ethel-12 washed CBR1000-7 Dirty to Clean using Detailed method
+Intern Lucy-12 washed Raminator-4 Dirty to Clean using ElbowGrease method
+Intern Lucy-12 washed Softail Clean to Clean using ElbowGrease method
+Intern Fred-13 washed Softail Clean to Dirty using  Chemical method
+Intern Fred-13 washed Europa-3 Clean to Dirty using  Chemical method
+The South FNCD interns are washing...
+Intern Lucy-11 washed Grave Digger-4 Dirty to Clean using Detailed method
+Intern Lucy-11 washed EV6-6 Dirty to Clean using Detailed method
+Intern Desi-11 got a bonus of $75.00!
+Intern Desi-11 washed Colorado-7 Dirty to Sparkling using Chemical method
+Intern Desi-11 washed Bigfoot-2 Clean to Clean using  Chemical method
+Intern Desi-12 washed Bigfoot-2 Clean to Clean using ElbowGrease method
+Intern Desi-12 washed F-250-5 Clean to Clean using ElbowGrease method
+The North FNCD mechanics are repairing...
+The South FNCD mechanics are repairing...
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Tundra-7 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Bolt-7 Broken to Used
+Mechanic Ethel-7 did not fix the Used Bolt-7
+Mechanic Ethel-7 got a bonus of $500.00!
+Mechanic Ethel-7 fixed Batman-5 Used to LikeNew
+Mechanic Ethel-11 got a bonus of $200.00!
+Mechanic Ethel-11 fixed Bolt-7 Used to LikeNew
+Mechanic Ethel-11 got a bonus of $300.00!
+Mechanic Ethel-11 fixed Europa-6 Broken to Used
+The North FNCD salespeople are selling...
+Buyer Chewy-51 wants a Car (NeedsOne)
+Buyer Chewy-51 is buying! Salesperson Desi-8 gets a bonus of $500.00!
+Buyer Chewy-51 bought Clean LikeNew Probe-7 for base price of $26,998.00
+Buyer Luke-52 wants a Pickup (JustLooking)
+Buyer Luke-52 decided not to buy.
+Buyer Leia-52 wants a Car (JustLooking)
+Buyer Leia-52 decided not to buy.
+Buyer Han-52 wants a Motorcycle (JustLooking)
+Buyer Han-52 decided not to buy.
+Buyer Chewy-52 wants a MonsterTruck (JustLooking)
+Buyer Chewy-52 decided not to buy.
+The South FNCD salespeople are selling...
 That's it for the day.

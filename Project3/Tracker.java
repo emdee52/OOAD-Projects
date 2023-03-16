@@ -38,7 +38,7 @@ public class Tracker implements Listener {
             if (strArray[1].equals("it")) {
                 System.out.println("\nTracker: Day " + day);
                 System.out.println("Total money earned by all Staff: $" + f.format(staffTotal));
-                System.out.println("Total money earned by the FNCD: $" + f.format(fncdTotal));
+                System.out.println("Total money earned by all FNCDs: $" + f.format(fncdTotal));
             }
         }
     }

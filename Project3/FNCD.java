@@ -3,25 +3,28 @@ import java.util.Objects;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements SysOut {
+    String name;
     ArrayList<Staff> staff;  // folks working
     ArrayList<Staff> departedStaff;   // folks that left
     ArrayList<Vehicle> inventory;   // vehicles at the FNCD
     ArrayList<Vehicle> soldVehicles;   // vehicles the buyers bought
     ArrayList<Vehicle> racingVehicles;
+    double moneyEarned;
     private double budget;   // big money pile
-    private double moneyEarned;
     private int dayCount;
     public Announcer announcer;
     public Logger logger;
     public Tracker tracker;
 
-    FNCD() {
+    FNCD(String name, Announcer ann) {
+        this.name = name;
         staff = new ArrayList<>();
         departedStaff = new ArrayList<>();
         inventory = new ArrayList<>();
         soldVehicles = new ArrayList<>();
         budget = 100000;  // I changed this just to see additions to the budget happen
         moneyEarned = 0;
+        announcer = ann;
     }
     double getBudget() {
         return budget;    // I'm keeping this private to be on the safe side
@@ -34,7 +37,7 @@ public class FNCD implements SysOut {
         budget -= cash;
         if (budget<0) {
             budget += 250000;
-            outP("***Budget overrun*** Added $250K, budget now: " + Utility.asDollar(budget), announcer, dayCount);
+            outP(this.name + ": ***Budget overrun*** Added $250K, budget now: " + Utility.asDollar(budget), announcer, dayCount);
         }
     }
 
@@ -43,7 +46,7 @@ public class FNCD implements SysOut {
     // It would make the normal day less of a monster maybe, eh...
 
     void raceDay() {   // Race Day
-        outP("Its Racing Time!", announcer, dayCount);
+        outP(this.name + ": Its Racing Time!", announcer, dayCount);
 
         Enums.VehicleType raceType = Utility.randomEnum(Enums.VehicleType.class); //Gets the type of race
 
@@ -125,81 +128,13 @@ public class FNCD implements SysOut {
         
         for (Staff d : drivers) {
             racers.add(d.name);
-            outP("FNCD driver participating: " + d.name , announcer, dayCount);
+            outP(this.name+" FNCD driver participating: " + d.name , announcer, dayCount);
         }
         for (int i = racers.size(); i < 20; i++) {
             racers.add("Racer" + (racers.size() + 1));
             outP("Other driver participating: " + racers.get(i), announcer, dayCount);
         }
         return racers;
-    }
-
-    
-
-    void normalDay(Enums.DayOfWeek day, int dayNum) {  // On a normal day, we do all the activities
-
-        // opening
-        announcer = new Announcer();
-        logger = Logger.getInstance();
-        Tracker tracker = Tracker.getInstance();
-        announcer.addListener(logger);
-        announcer.addListener(tracker);
-        dayCount = dayNum;
-
-        outP("The FNCD is opening...", announcer, dayCount);
-        hireNewStaff();    // hire up to 3 of each staff type
-        updateInventory();  // buy up to 4 of each type
-
-        // washing - tell the interns to do the washing up
-        outP("The FNCD interns are washing...", announcer, dayCount);
-        ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
-        for (Staff s:interns) {
-            Intern i = (Intern) s;
-            i.washVehicles(inventory, announcer, dayCount, i);
-        }
-
-        // repairing - tell the mechanics to do their repairing
-        outP("The FNCD mechanics are repairing...", announcer, dayCount);
-        ArrayList<Staff> mechanics = Staff.getStaffByType(staff, Enums.StaffType.Mechanic);
-        for (Staff s:mechanics) {
-            Mechanic m = (Mechanic) s;
-            m.repairVehicles(inventory, announcer, dayCount);
-        }
-
-        // selling
-        outP("The FNCD salespeople are selling...", announcer, dayCount);
-        ArrayList<Buyer> buyers = getBuyers(day);
-        ArrayList<Staff> salespeople = Staff.getStaffByType(staff, Enums.StaffType.Salesperson);
-        // tell a random salesperson to sell each buyer a car - may get bonus
-        for(Buyer b: buyers) {
-            outP("Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")", announcer, dayCount);
-            int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
-            Salesperson seller = (Salesperson) salespeople.get(randomSeller);
-            Vehicle vSold = seller.sellVehicle(b, inventory, announcer, dayCount);
-            // What the FNCD needs to do if a car is sold - change budget and inventory
-            if (vSold != null) {
-                soldVehicles.add(vSold);
-                moneyIn(vSold.price);
-                inventory.removeIf ( n -> n.name == vSold.name);
-            }
-        }
-
-        // ending
-        // pay all the staff their salaries
-        payStaff();
-        // anyone quitting? replace with an intern (if not an intern)
-        checkForQuitters();
-
-        if(Enums.DayOfWeek.Wed == day || Enums.DayOfWeek.Sun == day){
-            raceDay();
-        }
-        // daily report
-        reportOut();
-
-        tracker.updateFncdTotal(moneyEarned);
-        tracker.updateStaffTotal(Staff.staffEarned);
-
-        outP("That's it for the day.", announcer, dayCount);
     }
 
     // generate buyers
@@ -214,7 +149,7 @@ public class FNCD implements SysOut {
         ArrayList<Buyer> buyers = new ArrayList<>();
         int buyerCount = Utility.rndFromRange(buyerMin,buyerMax);
         for (int i=1; i<=buyerCount; ++i) buyers.add(new Buyer());
-        outP("The FNCD has "+buyerCount+" buyers today...", announcer, dayCount);
+        outP("The " +this.name+ " FNCD has "+buyerCount+" buyers today...", announcer, dayCount);
         return buyers;
     }
 
@@ -233,8 +168,7 @@ public class FNCD implements SysOut {
     void addStaff(Enums.StaffType t) {
         StaffFactory factory = StaffFactory.getFactory(t); // Abstract factory, we won't know what object will call createStaff()
         Staff newStaff = factory.createStaff();
-
-        outP("Hired a new "+newStaff.type+" named "+ newStaff.name, announcer, dayCount);
+        outP(this.name + ": Hired a new "+newStaff.type+" named "+ newStaff.name, announcer, dayCount);
         staff.add(newStaff);
     }
 
@@ -255,7 +189,7 @@ public class FNCD implements SysOut {
         Vehicle v = factory.createVehicle();
 
         moneyOut(v.cost);  // pay for the vehicle
-        outP("Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
+        outP(this.name + ": Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
         inventory.add(v);
     }
 
@@ -281,19 +215,18 @@ public class FNCD implements SysOut {
             double chance = Utility.rnd();
 
             if(currentStaff.type == Enums.StaffType.Driver); //Pass over drivers since their quit condition is special
-            
 
             else if (chance <= .1){
                 if(currentStaff.type == Enums.StaffType.Salesperson && salesPersonQuit == 0) { //Only one person of each type can quit
                     //Annonces and adds departing staff to departed staff
                     departedStaff.add(currentStaff);
-                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving", announcer, dayCount);
+                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving the "+this.name+" FNCD", announcer, dayCount);
                     namesList.add(currentStaff.name);
 
                     //Begins process of promoting Intern by removing the intern and bringing them back as the new position
                     ArrayList<Staff> interns = Staff.getStaffByType(staff,  Enums.StaffType.Intern);
                     Staff intern = interns.get(0);
-                    outP(intern.type+" "+ intern.name + " has been promoted to " + currentStaff.type, announcer, dayCount);
+                    outP(intern.type+" "+ intern.name + " has been promoted to " + currentStaff.type + " in the "+this.name+" FNCD", announcer, dayCount);
                     Staff p = intern.promote(intern, currentStaff.type);
                     staff.removeIf ( n -> Objects.equals(n.name, intern.name) && n.type == Enums.StaffType.Intern);
                     staff.add(p);
@@ -305,12 +238,12 @@ public class FNCD implements SysOut {
                 }
                 else if (currentStaff.type == Enums.StaffType.Mechanic && mechanicQuit == 0) { //Same process for mechanic as salesperson above
                     departedStaff.add(currentStaff);
-                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving", announcer, dayCount);
+                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving the "+this.name+" FNCD", announcer, dayCount);
                     namesList.add(currentStaff.name);
 
                     ArrayList<Staff> interns = Staff.getStaffByType(staff,  Enums.StaffType.Intern);
                     Staff intern = interns.get(0);
-                    outP(intern.type+" "+ intern.name + " has been promoted to " + currentStaff.type, announcer, dayCount);
+                    outP(intern.type+" "+ intern.name + " has been promoted to " + currentStaff.type + " in the "+this.name+" FNCD", announcer, dayCount);
                     Staff p = intern.promote(intern, currentStaff.type);
                     staff.removeIf ( n -> Objects.equals(n.name, intern.name) && n.type == Enums.StaffType.Intern);
                     staff.add(p);
@@ -322,7 +255,7 @@ public class FNCD implements SysOut {
                 else if(currentStaff.type == Enums.StaffType.Intern && internQuit == 0){
                     //removes intern and adds them to departed staff
                     departedStaff.add(currentStaff);
-                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving", announcer, dayCount);
+                    outP(currentStaff.type+" "+ currentStaff.name + " is leaving the " +this.name+" FNCD", announcer, dayCount);
                     namesList.add(currentStaff.name);
 
                     internQuit++;
@@ -337,8 +270,8 @@ public class FNCD implements SysOut {
         // We're all good here, how are you?
         // Quick little summary of happenings, you could do better
 
-        out("Vehicles in inventory "+inventory.size());
-        out("Vehicles sold count "+soldVehicles.size());
-        out("Money in the budget "+ Utility.asDollar(getBudget()));
+        out(this.name+" FNCD: Vehicles in inventory "+inventory.size());
+        out(this.name+" FNCD: Vehicles sold count "+soldVehicles.size());
+        out(this.name+" FNCD: Money in the budget "+ Utility.asDollar(getBudget()));
     }
 }

@@ -1,39 +1,61 @@
-The FNCD is opening...
-Hired a new Intern named Ethel-5
-Bought CBR1000-2, a Dirty LikeNew Motorcycle for $11,033.00
-The FNCD interns are washing...
-Softail-2 became Broken
-Intern Desi-4 washed Softail-2 Dirty to Clean using Chemical method
-CBR1000-2 became Broken
-Intern Desi-4 washed CBR1000-2 Dirty to Clean using Chemical method
-Intern Fred-5 washed Ranger-2 Clean to Clean using  Chemical method
-Intern Fred-5 washed Escort-2 Clean to Clean using  Chemical method
-Intern Ethel-5 got a bonus of $75.00!
-Intern Ethel-5 washed Ranger-2 Clean to Sparkling using Detailed method
-Intern Ethel-5 got a bonus of $20.00!
-Intern Ethel-5 washed Escort-2 Clean to Sparkling using Detailed method
-The FNCD mechanics are repairing...
-Mechanic Fred-2 got a bonus of $400.00!
-Mechanic Fred-2 fixed Ninja Broken to Used
-Mechanic Fred-2 got a bonus of $400.00!
-Mechanic Fred-2 fixed Softail-2 Broken to Used
-Mechanic Lucy-3 got a bonus of $400.00!
-Mechanic Lucy-3 fixed Ninja Used to LikeNew
-Mechanic Lucy-3 got a bonus of $400.00!
-Mechanic Lucy-3 fixed Softail-2 Used to LikeNew
-Mechanic Lucy-4 got a bonus of $400.00!
-Mechanic Lucy-4 fixed CBR1000-2 Broken to Used
-The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Han-17 wants a Pickup (NeedsOne)
-Buyer Han-17 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-17 bought Sparkling LikeNew Tundra-2 for base price of $54,268.12
-Buyer Chewy-17 wants a Motorcycle (JustLooking)
-Buyer Chewy-17 decided not to buy.
-Buyer Luke-18 wants a PerfCar (NeedsOne)
-Buyer Luke-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Luke-18 bought Sparkling LikeNew Mustang for base price of $62,308.12
-Buyer Leia-18 wants a PerfCar (NeedsOne)
-Buyer Leia-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Leia-18 bought Sparkling LikeNew Cayman-2 for base price of $52,132.00
+The North FNCD is opening...
+The South FNCD is opening...
+The North FNCD interns are washing...
+Intern Fred-9 washed EV6 Dirty to Clean using Chemical method
+Intern Fred-9 washed Batman-4 Dirty to Clean using Chemical method
+Intern Desi-10 washed Probe-6 Dirty to Clean using Detailed method
+Intern Desi-10 got a bonus of $75.00!
+Intern Desi-10 washed EV6 Clean to Sparkling using Detailed method
+Intern Fred-11 washed Grom Clean to Clean using  Chemical method
+Intern Fred-11 washed Softail Clean to Clean using  Chemical method
+The South FNCD interns are washing...
+Intern Ethel-10 washed Softail-4 Dirty to Clean using ElbowGrease method
+Intern Ethel-10 washed Colorado-6 Dirty to Clean using ElbowGrease method
+Intern Ethel-11 got a bonus of $20.00!
+Intern Ethel-11 washed Escort-6 Dirty to Sparkling using Detailed method
+Intern Ethel-11 washed Bigfoot-2 Clean to Clean using Detailed method
+Intern Lucy-11 washed Bigfoot-2 Clean to Dirty using Detailed method
+Intern Lucy-11 washed Softail-4 Clean to Dirty using Detailed method
+The North FNCD mechanics are repairing...
+Mechanic Scotty did not fix the Used Corvette-5
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-6 Broken to Used
+Mechanic Ethel-8 did not fix the Used Corvette-5
+Mechanic Ethel-8 did not fix the Used F-250-6
+Mechanic Lucy-8 got a bonus of $300.00!
+Mechanic Lucy-8 fixed Corvette-5 Used to LikeNew
+Mechanic Lucy-8 got a bonus of $200.00!
+Mechanic Lucy-8 fixed F-250-6 Used to LikeNew
+The South FNCD mechanics are repairing...
+The North FNCD salespeople are selling...
+Buyer Han-42 wants a Car (NeedsOne)
+Buyer Han-42 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-42 bought Clean LikeNew Probe-6 for base price of $28,272.00
+Buyer Chewy-42 wants a Electric (WantsOne)
+Buyer Chewy-42 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-42 bought Sparkling LikeNew EV6 for base price of $91,353.52
+Buyer Luke-43 wants a Electric (WantsOne)
+Buyer Luke-43 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-43 bought Clean LikeNew EQS-5 for base price of $57,308.00
+The South FNCD salespeople are selling...
+Buyer Leia-43 wants a Motorcycle (NeedsOne)
+Buyer Leia-43 is buying! Salesperson Ethel-6 gets a bonus of $1,250.00!
+Buyer Leia-43 bought Dirty LikeNew Softail-4 for base price of $47,910.00
+Buyer Han-43 wants a Car (NeedsOne)
+Buyer Han-43 is buying! Salesperson Ethel-6 gets a bonus of $500.00!
+Buyer Han-43 bought Sparkling LikeNew Escort-6 for base price of $29,544.00
+Buyer Chewy-43 wants a MonsterTruck (WantsOne)
+Buyer Chewy-43 is buying! Salesperson Fred-8 gets a bonus of $1,000.00!
+Buyer Chewy-43 bought Clean LikeNew Bigfoot-3 for base price of $107,193.75
+Buyer Luke-44 wants a PerfCar (NeedsOne)
+Buyer Luke-44 is buying! Salesperson Fred-8 gets a bonus of $1,000.00!
+Buyer Luke-44 bought Clean LikeNew Corvette-4 for base price of $59,102.00
+Buyer Leia-44 wants a Electric (JustLooking)
+Buyer Leia-44 is buying! Salesperson Lucy-5 gets a bonus of $750.00!
+Buyer Leia-44 bought Clean LikeNew EV6-5 for base price of $82,942.00
+Buyer Han-44 wants a MonsterTruck (JustLooking)
+Buyer Han-44 decided not to buy.
+Buyer Chewy-44 wants a Motorcycle (WantsOne)
+Buyer Chewy-44 is buying! Salesperson Ethel-6 gets a bonus of $1,250.00!
+Buyer Chewy-44 bought Clean LikeNew Ninja-6 for base price of $26,218.12
 That's it for the day.

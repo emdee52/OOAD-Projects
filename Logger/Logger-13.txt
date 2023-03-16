@@ -1,73 +1,46 @@
-The FNCD is opening...
-Hired a new Intern named Lucy-3
-Bought Taycan-2, a Clean LikeNew Electric for $28,146.00
-Bought Raminator, a Dirty LikeNew MonsterTruck for $24,139.00
-The FNCD interns are washing...
-Intern Desi-2 washed Fiesta-2 Dirty to Dirty using ElbowGrease method
-Intern Desi-2 washed Raminator Dirty to Dirty using ElbowGrease method
-Intern Ethel-3 got a bonus of $20.00!
-Intern Ethel-3 washed Fiesta-2 Dirty to Sparkling using Detailed method
-Intern Ethel-3 got a bonus of $120.00!
-Intern Ethel-3 washed Raminator Dirty to Sparkling using Detailed method
-Intern Lucy-3 washed Bolt Clean to Clean using ElbowGrease method
-Intern Lucy-3 washed EV6 Clean to Clean using ElbowGrease method
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Chewy-9 wants a PerfCar (JustLooking)
-Buyer Chewy-9 is buying! Salesperson Desi gets a bonus of $1,000.00!
-Buyer Chewy-9 bought Sparkling LikeNew Cayman for base price of $65,503.12
-Buyer Luke-10 wants a Pickup (WantsOne)
-Buyer Luke-10 is buying! Salesperson Desi gets a bonus of $750.00!
-Buyer Luke-10 bought Clean LikeNew Colorado-2 for base price of $53,616.00
-Buyer Leia-10 wants a Pickup (JustLooking)
-Buyer Leia-10 decided not to buy.
-Buyer Han-10 wants a Pickup (WantsOne)
-Buyer Han-10 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Han-10 bought Sparkling LikeNew Ranger for base price of $34,176.00
-Salesperson Desi is leaving
-Intern Desi-2 has been promoted to Salesperson
-Its Racing Time!
-FNCD driver participating: Bob
-FNCD driver participating: Joe
-FNCD driver participating: Junior
-Other driver participating: Racer4
-Other driver participating: Racer5
-Other driver participating: Racer6
-Other driver participating: Racer7
-Other driver participating: Racer8
-Other driver participating: Racer9
-Other driver participating: Racer10
-Other driver participating: Racer11
-Other driver participating: Racer12
-Other driver participating: Racer13
-Other driver participating: Racer14
-Other driver participating: Racer15
-Other driver participating: Racer16
-Other driver participating: Racer17
-Other driver participating: Racer18
-Other driver participating: Racer19
-Other driver participating: Racer20
-Place: 1 Racer6
-Place: 2 Racer17
-Place: 3 Racer12
-Place: 4 Racer7
-Place: 5 Racer11
-Place: 6 Racer10
-Place: 7 Racer4
-Place: 8 Bob
-Place: 9 Racer13
-Place: 10 Racer18
-Place: 11 Racer16
-Place: 12 Racer8
-Place: 13 Racer14
-Place: 14 Racer15
-Place: 15 Junior
-Place: 16 Racer20
-Place: 17 Joe
-Grom is now broken.
-Driver Joe is leaving due to injury
-Place: 18 Racer9
-Place: 19 Racer19
-Place: 20 Racer5
+The North FNCD is opening...
+The South FNCD is opening...
+The North FNCD interns are washing...
+Intern Fred-4 washed Cayman-4 Dirty to Clean using Chemical method
+Intern Fred-4 washed Grom-4 Dirty to Clean using Chemical method
+Intern Fred-5 washed Colorado-4 Dirty to Clean using Detailed method
+Intern Fred-5 washed Predator-2 Dirty to Clean using Detailed method
+Intern Ethel-5 washed F-250 Clean to Clean using Detailed method
+Intern Ethel-5 washed EV6 Clean to Clean using Detailed method
+The South FNCD interns are washing...
+Intern Desi-5 washed CBR1000-4 Dirty to Clean using Detailed method
+Intern Desi-5 washed F-250-5 Dirty to Clean using Detailed method
+Intern Fred-6 washed Grom-5 Dirty to Clean using ElbowGrease method
+Intern Fred-6 washed Predator Clean to Clean using ElbowGrease method
+Intern Ethel-6 washed Predator Clean to Dirty using  Chemical method
+Intern Ethel-6 washed Avenger-2 Clean to Dirty using  Chemical method
+The North FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Broken to Used
+Mechanic Scotty did not fix the Broken Europa-3
+Mechanic Fred did not fix the Used Europa
+Mechanic Fred got a bonus of $300.00!
+Mechanic Fred fixed Europa-3 Broken to Used
+Mechanic Lucy-2 got a bonus of $300.00!
+Mechanic Lucy-2 fixed Europa Used to LikeNew
+Mechanic Lucy-2 did not fix the Used Europa-3
+The South FNCD mechanics are repairing...
+Mechanic Scotty-2 got a bonus of $500.00!
+Mechanic Scotty-2 fixed Predator Broken to Used
+Mechanic Scotty-2 got a bonus of $400.00!
+Mechanic Scotty-2 fixed Grom-5 Broken to Used
+Mechanic Ethel-3 did not fix the Used Predator
+Mechanic Ethel-3 got a bonus of $400.00!
+Mechanic Ethel-3 fixed Grom-5 Used to LikeNew
+Mechanic Lucy-4 got a bonus of $500.00!
+Mechanic Lucy-4 fixed Predator Used to LikeNew
+Mechanic Lucy-4 got a bonus of $500.00!
+Mechanic Lucy-4 fixed Raminator-2 Broken to Used
+The North FNCD salespeople are selling...
+Buyer Han-24 wants a Motorcycle (NeedsOne)
+Buyer Han-24 is buying! Salesperson Lucy-3 gets a bonus of $1,250.00!
+Buyer Han-24 bought Clean LikeNew Grom-4 for base price of $66,881.25
+Buyer Chewy-24 wants a PerfCar (JustLooking)
+Buyer Chewy-24 decided not to buy.
+The South FNCD salespeople are selling...
 That's it for the day.
