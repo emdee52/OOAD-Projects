@@ -30,3 +30,47 @@ Buyer Leia-16 decided not to buy.
 Buyer Han-16 wants a PerfCar (NeedsOne)
 Buyer Han-16 is buying! Salesperson Desi-3 gets a bonus of $1,000.00!
 Buyer Han-16 bought Sparkling LikeNew Mustang for base price of $71,120.00
+The FNCD is opening...
+Hired a new Intern named Ethel-4
+Bought F-250-3, a Dirty Used Pickup for $13,668.80
+Bought Bolt-4, a Sparkling Broken Electric for $16,030.00
+Bought EQS-4, a Dirty Used Electric for $24,350.40
+The FNCD interns are washing...
+Intern Desi-3 washed Corvette-2 Dirty to Clean using Chemical method
+Intern Desi-3 washed Ranger-3 Dirty to Clean using Chemical method
+Intern Fred-4 washed Taycan-4 Dirty to Clean using Chemical method
+Intern Fred-4 washed CBR1000-3 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Cayman-3 Dirty to Clean using Chemical method
+Intern Ethel-4 washed F-250-3 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Ninja-3 Broken to Used
+Mechanic James did not fix the Broken Softail-3
+Mechanic Spock did not fix the Used Ninja-3
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Softail-3 Broken to Used
+Mechanic Lucy-3 got a bonus of $400.00!
+Mechanic Lucy-3 fixed Ninja-3 Used to LikeNew
+Mechanic Lucy-3 got a bonus of $400.00!
+Mechanic Lucy-3 fixed Softail-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-19 wants a Motorcycle (NeedsOne)
+Buyer Leia-19 is buying! Salesperson Rachel gets a bonus of $1,250.00!
+Buyer Leia-19 bought Dirty LikeNew Ninja-3 for base price of $16,884.38
+Buyer Han-19 wants a Electric (NeedsOne)
+Buyer Han-19 decided not to buy.
+Buyer Chewy-19 wants a Motorcycle (JustLooking)
+Buyer Chewy-19 decided not to buy.
+Buyer Luke-20 wants a Car (JustLooking)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a Pickup (JustLooking)
+Buyer Leia-20 decided not to buy.
+Buyer Han-20 wants a Pickup (WantsOne)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a MonsterTruck (NeedsOne)
+Buyer Chewy-20 is buying! Salesperson Fred-2 gets a bonus of $1,000.00!
+Buyer Chewy-20 bought Clean LikeNew Raminator for base price of $86,652.00
+Buyer Luke-21 wants a Electric (WantsOne)
+Buyer Luke-21 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Luke-21 bought Sparkling LikeNew Taycan-3 for base price of $54,648.00

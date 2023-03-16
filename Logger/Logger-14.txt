@@ -35,3 +35,34 @@ Buyer Leia-10 decided not to buy.
 Buyer Han-10 wants a PerfCar (NeedsOne)
 Buyer Han-10 is buying! Salesperson Desi-2 gets a bonus of $1,000.00!
 Buyer Han-10 bought Dirty LikeNew Europa-2 for base price of $96,855.00
+The FNCD is opening...
+Bought Tundra-2, a Clean Used Pickup for $18,204.00
+Bought Bolt-3, a Clean LikeNew Electric for $38,315.00
+The FNCD interns are washing...
+Intern Ethel-2 washed Colorado-2 Dirty to Clean using Detailed method
+Intern Ethel-2 washed Predator Clean to Clean using Detailed method
+Intern Desi-2 washed Predator Clean to Dirty using Detailed method
+Intern Desi-2 washed Europa-2 Clean to Dirty using Detailed method
+Intern Ethel-3 washed Predator Dirty to Clean using Chemical method
+Intern Ethel-3 washed Europa-2 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Han-12 wants a Electric (WantsOne)
+Buyer Han-12 decided not to buy.
+Buyer Chewy-12 wants a Motorcycle (JustLooking)
+Buyer Chewy-12 is buying! Salesperson Rachel gets a bonus of $1,250.00!
+Buyer Chewy-12 bought Clean LikeNew Softail-2 for base price of $33,756.00
+Buyer Luke-13 wants a Electric (NeedsOne)
+Buyer Luke-13 decided not to buy.
+Buyer Leia-13 wants a Motorcycle (WantsOne)
+Buyer Leia-13 is buying! Salesperson Rachel gets a bonus of $1,250.00!
+Buyer Leia-13 bought Sparkling LikeNew Grom for base price of $19,899.38
+Buyer Han-13 wants a Electric (WantsOne)
+Buyer Han-13 decided not to buy.
+Buyer Chewy-13 wants a Car (NeedsOne)
+Buyer Chewy-13 decided not to buy.
+Mechanic Scotty is leaving
+Intern Ethel-2 has been promoted to Mechanic

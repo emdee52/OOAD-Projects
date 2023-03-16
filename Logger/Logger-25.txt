@@ -24,3 +24,80 @@ The FNCD has 1 buyers today...
 Buyer Han-20 wants a MonsterTruck (NeedsOne)
 Buyer Han-20 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
 Buyer Han-20 bought Clean LikeNew Grave Digger-3 for base price of $80,710.00
+The FNCD is opening...
+Hired a new Intern named Fred-5
+Hired a new Intern named Ethel-5
+The FNCD interns are washing...
+Intern Ethel-4 washed Bolt-4 Dirty to Clean using Chemical method
+Intern Ethel-4 washed Grom-4 Dirty to Clean using Chemical method
+Intern Fred-5 washed Avenger-2 Dirty to Clean using ElbowGrease method
+Intern Fred-5 washed Corvette-3 Dirty to Clean using ElbowGrease method
+Intern Ethel-5 washed Mustang-3 Dirty to Dirty using Detailed method
+Intern Ethel-5 washed Grom-2 Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-3 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-3 Used to LikeNew
+Mechanic Lucy-3 did not fix the Broken Taycan-5
+Mechanic Lucy-3 got a bonus of $500.00!
+Mechanic Lucy-3 fixed Bigfoot-2 Broken to Used
+Mechanic Desi-3 got a bonus of $200.00!
+Mechanic Desi-3 fixed Taycan-5 Broken to Used
+Mechanic Desi-3 got a bonus of $500.00!
+Mechanic Desi-3 fixed Bigfoot-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-22 wants a MonsterTruck (JustLooking)
+Buyer Han-22 decided not to buy.
+Buyer Chewy-22 wants a PerfCar (JustLooking)
+Buyer Chewy-22 decided not to buy.
+Buyer Luke-23 wants a Motorcycle (NeedsOne)
+Buyer Luke-23 is buying! Salesperson Desi-2 gets a bonus of $1,250.00!
+Buyer Luke-23 bought Clean LikeNew Grom-4 for base price of $17,004.00
+Buyer Leia-23 wants a Car (NeedsOne)
+Buyer Leia-23 is buying! Salesperson Fred-2 gets a bonus of $500.00!
+Buyer Leia-23 bought Sparkling LikeNew Probe-3 for base price of $31,200.00
+Salesperson Desi-2 is leaving
+Intern Ethel-4 has been promoted to Salesperson
+Its Racing Time!
+FNCD driver participating: Caitlyn
+FNCD driver participating: Billy-2
+FNCD driver participating: Bob-2
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer19
+Place: 2 Racer4
+Place: 3 Racer7
+Place: 4 Racer16
+Place: 5 Racer6
+Place: 6 Racer11
+Place: 7 Racer18
+Place: 8 Racer13
+Place: 9 Caitlyn
+Place: 10 Racer5
+Place: 11 Racer17
+Place: 12 Racer10
+Place: 13 Racer14
+Place: 14 Bob-2
+Place: 15 Billy-2
+Place: 16 Racer9
+Place: 17 Racer12
+Place: 18 Racer15
+Place: 19 Racer8
+Place: 20 Racer20

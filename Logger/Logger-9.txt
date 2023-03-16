@@ -18,3 +18,32 @@ Buyer Han-7 wants a Car (WantsOne)
 Buyer Han-7 decided not to buy.
 Buyer Chewy-7 wants a Motorcycle (JustLooking)
 Buyer Chewy-7 decided not to buy.
+The FNCD is opening...
+Bought Taurus-2, a Dirty Used Car for $14,032.80
+The FNCD interns are washing...
+Intern Ethel-2 washed Europa-2 Dirty to Clean using Detailed method
+Intern Ethel-2 washed Grom-2 Dirty to Clean using Detailed method
+Intern Desi-2 washed Escort-2 Dirty to Clean using Detailed method
+Intern Desi-2 washed Ranger-2 Dirty to Clean using Detailed method
+Intern Fred-3 washed EQS-2 Dirty to Dirty using ElbowGrease method
+Intern Fred-3 washed Taurus-2 Dirty to Dirty using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EV6-2 Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Used to LikeNew
+Mechanic Scotty did not fix the Used EV6-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-8 wants a Car (WantsOne)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a PerfCar (JustLooking)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a Car (WantsOne)
+Buyer Han-8 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-8 bought Dirty LikeNew Taurus-2 for base price of $35,082.00
+Buyer Chewy-8 wants a Pickup (NeedsOne)
+Buyer Chewy-8 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-8 bought Clean LikeNew Ranger for base price of $67,760.00

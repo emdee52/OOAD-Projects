@@ -27,3 +27,40 @@ The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
 Buyer Leia-15 wants a Electric (WantsOne)
 Buyer Leia-15 decided not to buy.
+The FNCD is opening...
+Hired a new Intern named Desi-3
+Bought Europa-3, a Clean Broken PerfCar for $19,616.50
+Bought CBR1000-3, a Dirty Broken Motorcycle for $3,794.50
+The FNCD interns are washing...
+Intern Desi-2 got a bonus of $75.00!
+Intern Desi-2 washed Ranger-2 Dirty to Sparkling using Detailed method
+Intern Desi-2 got a bonus of $75.00!
+Intern Desi-2 washed Colorado-2 Dirty to Sparkling using Detailed method
+EV6-3 became Broken
+Intern Lucy-3 washed EV6-3 Dirty to Dirty using Chemical method
+Ninja-3 became Broken
+Intern Lucy-3 washed Ninja-3 Dirty to Dirty using Chemical method
+EV6-3 became Broken
+Intern Desi-3 washed EV6-3 Dirty to Clean using Chemical method
+Ninja-3 became Broken
+Intern Desi-3 washed Ninja-3 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-2 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EV6-3 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6-3 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $500.00!
+Mechanic Ethel-2 fixed Raminator Used to LikeNew
+Mechanic Ethel-2 got a bonus of $300.00!
+Mechanic Ethel-2 fixed Corvette-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-18 wants a PerfCar (NeedsOne)
+Buyer Leia-18 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-18 bought Sparkling LikeNew Cayman for base price of $63,195.00
+Salesperson Phoebe is leaving
+Intern Desi-2 has been promoted to Salesperson

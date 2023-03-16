@@ -72,3 +72,28 @@ Place: 17 Racer17
 Place: 18 Racer7
 Place: 19 Racer11
 Place: 20 Racer15
+The FNCD is opening...
+Bought Colorado-2, a Dirty Used Pickup for $9,141.60
+The FNCD interns are washing...
+Intern Ethel-2 washed Colorado-2 Dirty to Clean using Detailed method
+Intern Ethel-2 got a bonus of $120.00!
+Intern Ethel-2 washed Batman Clean to Sparkling using Detailed method
+Intern Desi-2 got a bonus of $120.00!
+Intern Desi-2 washed Avenger Clean to Sparkling using Detailed method
+Intern Desi-2 got a bonus of $120.00!
+Intern Desi-2 washed Grave Digger Clean to Sparkling using Detailed method
+Intern Ethel-3 washed Predator Clean to Clean using  Chemical method
+Intern Ethel-3 washed Bolt-2 Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-11 wants a PerfCar (JustLooking)
+Buyer Chewy-11 decided not to buy.
+Buyer Luke-12 wants a Pickup (JustLooking)
+Buyer Luke-12 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-12 bought Sparkling LikeNew Tundra for base price of $46,052.00
+Buyer Leia-12 wants a Electric (WantsOne)
+Buyer Leia-12 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Leia-12 bought Clean LikeNew Bolt-2 for base price of $56,536.00

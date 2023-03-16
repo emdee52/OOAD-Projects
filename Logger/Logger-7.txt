@@ -27,3 +27,51 @@ Buyer Chewy-5 wants a Car (JustLooking)
 Buyer Chewy-5 is buying! Salesperson Phoebe gets a bonus of $500.00!
 Buyer Chewy-5 bought Clean LikeNew Escort-2 for base price of $38,290.00
 Intern Desi is leaving
+The FNCD is opening...
+Hired a new Intern named Desi-2
+Bought Europa-2, a Dirty Broken PerfCar for $17,014.50
+Bought Grom-2, a Dirty Used Motorcycle for $4,973.60
+The FNCD interns are washing...
+Intern Ethel-2 washed Batman Dirty to Clean using Detailed method
+Intern Ethel-2 washed Grave Digger Dirty to Clean using Detailed method
+Intern Lucy-2 washed Predator Dirty to Clean using Chemical method
+Intern Lucy-2 washed Europa-2 Dirty to Clean using Chemical method
+Intern Desi-2 washed Grom-2 Dirty to Clean using Detailed method
+Intern Desi-2 got a bonus of $20.00!
+Intern Desi-2 washed Probe Clean to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Predator Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Taycan-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Taycan-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bolt-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-2 Broken to Used
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Grom-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-5 wants a MonsterTruck (WantsOne)
+Buyer Leia-5 decided not to buy.
+Buyer Han-5 wants a Electric (WantsOne)
+Buyer Han-5 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-5 bought Dirty LikeNew Taycan-2 for base price of $77,017.50
+Buyer Chewy-5 wants a Car (JustLooking)
+Buyer Chewy-5 decided not to buy.
+Buyer Luke-6 wants a Pickup (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-6 bought Clean LikeNew F-250 for base price of $73,868.00
+Buyer Leia-6 wants a PerfCar (JustLooking)
+Buyer Leia-6 decided not to buy.
+Buyer Han-6 wants a PerfCar (WantsOne)
+Buyer Han-6 decided not to buy.
+Buyer Chewy-6 wants a Electric (WantsOne)
+Buyer Chewy-6 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Chewy-6 bought Clean LikeNew Bolt for base price of $64,648.12
+Buyer Luke-7 wants a Car (WantsOne)
+Buyer Luke-7 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-7 bought Clean LikeNew Probe-2 for base price of $30,990.00
+Intern Lucy-2 is leaving

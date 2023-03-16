@@ -19,3 +19,29 @@ Mechanic Fred got a bonus of $500.00!
 Mechanic Fred fixed Bigfoot Broken to Used
 The FNCD salespeople are selling...
 The FNCD has 0 buyers today...
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi washed EV6 Dirty to Clean using ElbowGrease method
+Intern Desi washed Grom Dirty to Clean using ElbowGrease method
+Intern Fred-2 got a bonus of $150.00!
+Intern Fred-2 washed Ninja Dirty to Sparkling using Chemical method
+Intern Fred-2 got a bonus of $150.00!
+Intern Fred-2 washed Softail Dirty to Sparkling using Chemical method
+Intern Ethel-2 washed Probe-2 Dirty to Clean using Detailed method
+Intern Ethel-2 washed Predator Dirty to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Softail Used to LikeNew
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed CBR1000 Broken to Used
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed CBR1000 Used to LikeNew
+Mechanic Scotty did not fix the Broken Batman
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Batman Broken to Used
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Avenger Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Salesperson Fred is leaving
+Intern Desi has been promoted to Salesperson

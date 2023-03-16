@@ -31,3 +31,25 @@ Salesperson Ethel-5 is leaving
 Intern Fred-6 has been promoted to Salesperson
 Mechanic Spock is leaving
 Intern Ethel-6 has been promoted to Mechanic
+The FNCD is opening...
+Hired a new Driver named Joe-2
+Bought Bolt-6, a Clean LikeNew Electric for $44,348.00
+Bought Grave Digger-2, a Clean LikeNew MonsterTruck for $29,452.00
+The FNCD interns are washing...
+Grom-5 became LikeNew
+Intern Lucy-5 washed Grom-5 Dirty to Dirty using ElbowGrease method
+Batman-2 became LikeNew
+Intern Lucy-5 washed Batman-2 Clean to Clean using ElbowGrease method
+Intern Desi-5 washed Grom-5 Dirty to Clean using Chemical method
+Intern Desi-5 washed Batman-2 Clean to Clean using  Chemical method
+Intern Fred-6 washed Batman-2 Clean to Clean using Detailed method
+Intern Fred-6 washed Softail-3 Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Bigfoot-2 Broken to Used
+Mechanic Lucy-3 got a bonus of $500.00!
+Mechanic Lucy-3 fixed Bigfoot-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Mechanic Lucy-3 is leaving
+Intern Lucy-5 has been promoted to Mechanic

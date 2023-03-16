@@ -70,3 +70,47 @@ Place: 19 Racer19
 Place: 20 Bob
 Ninja is now broken.
 Driver Bob is leaving due to injury
+The FNCD is opening...
+Hired a new Intern named Lucy-2
+The FNCD interns are washing...
+Intern Fred-2 washed CBR1000 Dirty to Clean using Chemical method
+Intern Fred-2 washed Batman Dirty to Clean using Chemical method
+Intern Ethel-2 got a bonus of $120.00!
+Intern Ethel-2 washed Avenger Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed Bolt-2 Dirty to Sparkling using Detailed method
+Intern Lucy-2 washed Probe Clean to Clean using  Chemical method
+Intern Lucy-2 washed Escort Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Batman
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Avenger Used to LikeNew
+Mechanic Scotty did not fix the Used Batman
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Grave Digger Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Batman Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Predator Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-3 wants a Pickup (WantsOne)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a Motorcycle (JustLooking)
+Buyer Han-3 is buying! Salesperson Phoebe gets a bonus of $1,250.00!
+Buyer Han-3 bought Clean LikeNew CBR1000 for base price of $48,532.50
+Buyer Chewy-3 wants a Car (WantsOne)
+Buyer Chewy-3 decided not to buy.
+Buyer Luke-4 wants a Electric (JustLooking)
+Buyer Luke-4 decided not to buy.
+Buyer Leia-4 wants a Car (WantsOne)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a PerfCar (WantsOne)
+Buyer Han-4 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-4 bought Clean LikeNew Europa for base price of $73,542.00
+Buyer Chewy-4 wants a Motorcycle (WantsOne)
+Buyer Chewy-4 decided not to buy.
+Buyer Luke-5 wants a MonsterTruck (JustLooking)
+Buyer Luke-5 decided not to buy.
+Salesperson Desi is leaving
+Intern Fred-2 has been promoted to Salesperson

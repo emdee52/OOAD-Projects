@@ -65,3 +65,34 @@ Place: 17 Racer10
 Place: 18 Racer8
 Place: 19 Racer14
 Place: 20 Racer15
+The FNCD is opening...
+Hired a new Intern named Fred-2
+Hired a new Intern named Ethel-2
+Bought Taycan-2, a Clean Broken Electric for $20,538.00
+The FNCD interns are washing...
+Intern Desi washed Corvette Dirty to Dirty using ElbowGrease method
+Intern Desi washed Mustang Dirty to Dirty using ElbowGrease method
+Intern Fred-2 washed Corvette Dirty to Clean using Chemical method
+Intern Fred-2 washed Mustang Dirty to Clean using Chemical method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed Colorado Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed Bolt Dirty to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Bolt Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed EQS Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bolt Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EQS Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Chewy-2 wants a Motorcycle (NeedsOne)
+Buyer Chewy-2 is buying! Salesperson Fred gets a bonus of $750.00!
+Buyer Chewy-2 bought Dirty LikeNew EQS for base price of $76,950.00

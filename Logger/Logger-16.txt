@@ -35,3 +35,45 @@ Buyer Leia-13 bought Clean LikeNew EQS for base price of $54,438.00
 Buyer Han-13 wants a Motorcycle (JustLooking)
 Buyer Han-13 is buying! Salesperson Lucy-2 gets a bonus of $1,250.00!
 Buyer Han-13 bought Clean LikeNew Ninja-2 for base price of $18,298.00
+The FNCD is opening...
+Hired a new Driver named Caitlyn
+Hired a new Driver named Billy-2
+Hired a new Driver named Bob-2
+Bought Cayman-2, a Dirty Broken PerfCar for $18,436.50
+Bought EQS-3, a Dirty Used Electric for $33,476.80
+Bought EV6-3, a Dirty Broken Electric for $18,574.00
+Bought Raminator, a Clean Used MonsterTruck for $34,660.80
+The FNCD interns are washing...
+Intern Desi-2 washed CBR1000-2 Dirty to Dirty using Detailed method
+Intern Desi-2 washed Grom-3 Dirty to Dirty using Detailed method
+Intern Ethel-3 washed CBR1000-2 Dirty to Clean using Chemical method
+Intern Ethel-3 washed Grom-3 Dirty to Clean using Chemical method
+Intern Lucy-3 washed Cayman-2 Dirty to Clean using Chemical method
+Intern Lucy-3 washed EQS-3 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Broken to Used
+Mechanic James did not fix the Broken Ranger-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Used to LikeNew
+Mechanic Spock did not fix the Broken Ranger-2
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed Ranger-2 Broken to Used
+Mechanic Ethel-2 did not fix the Broken Colorado-2
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-15 wants a MonsterTruck (NeedsOne)
+Buyer Leia-15 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-15 bought Sparkling LikeNew Batman for base price of $81,061.88
+Buyer Han-15 wants a Motorcycle (NeedsOne)
+Buyer Han-15 is buying! Salesperson Fred-2 gets a bonus of $1,250.00!
+Buyer Han-15 bought Clean LikeNew CBR1000-2 for base price of $23,610.00
+Buyer Chewy-15 wants a PerfCar (NeedsOne)
+Buyer Chewy-15 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-15 bought Clean LikeNew Europa-2 for base price of $63,804.38
+Buyer Luke-16 wants a Electric (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Luke-16 bought Clean Used EQS-3 for base price of $66,953.60
+Buyer Leia-16 wants a Pickup (NeedsOne)
+Buyer Leia-16 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Leia-16 bought Dirty LikeNew Colorado for base price of $74,265.00

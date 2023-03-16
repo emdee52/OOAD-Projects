@@ -18,3 +18,27 @@ Buyer Han-8 wants a Pickup (WantsOne)
 Buyer Han-8 is buying! Salesperson Fred-2 gets a bonus of $750.00!
 Buyer Han-8 bought Clean LikeNew F-250 for base price of $60,800.00
 Intern Fred-3 is leaving
+The FNCD is opening...
+Bought Taycan-3, a Sparkling LikeNew Electric for $27,324.00
+Bought Softail-2, a Clean LikeNew Motorcycle for $16,878.00
+The FNCD interns are washing...
+Intern Ethel-2 got a bonus of $20.00!
+Intern Ethel-2 washed Probe-3 Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $150.00!
+Intern Ethel-2 washed Ninja-2 Dirty to Sparkling using Detailed method
+Intern Desi-2 washed Batman Clean to Clean using Detailed method
+Intern Desi-2 washed Avenger Clean to Clean using Detailed method
+Intern Ethel-3 washed Batman Clean to Clean using  Chemical method
+Intern Ethel-3 washed Avenger Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Ninja-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-11 wants a MonsterTruck (JustLooking)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Car (JustLooking)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Pickup (WantsOne)
+Buyer Han-11 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Han-11 bought Sparkling LikeNew F-250-2 for base price of $71,240.00

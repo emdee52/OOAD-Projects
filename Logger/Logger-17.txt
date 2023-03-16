@@ -73,3 +73,41 @@ Place: 17 Racer14
 Place: 18 Racer6
 Place: 19 Racer12
 Place: 20 Racer15
+The FNCD is opening...
+Bought Corvette-2, a Dirty Broken PerfCar for $17,938.00
+Bought Ranger-3, a Dirty LikeNew Pickup for $24,358.00
+Bought Taycan-4, a Clean Used Electric for $20,744.00
+Bought Ninja-3, a Dirty Broken Motorcycle for $4,502.50
+Bought Batman-2, a Dirty LikeNew MonsterTruck for $22,184.00
+The FNCD interns are washing...
+Intern Desi-2 washed Ranger-2 Dirty to Dirty using Detailed method
+Intern Desi-2 washed Colorado-2 Dirty to Dirty using Detailed method
+Intern Ethel-3 washed Ranger-2 Dirty to Clean using Chemical method
+Intern Ethel-3 washed Colorado-2 Dirty to Clean using Chemical method
+Intern Lucy-3 washed EV6-3 Dirty to Clean using Chemical method
+Intern Lucy-3 washed Corvette-2 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-2 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-2 Broken to Used
+Mechanic Ethel-2 got a bonus of $300.00!
+Mechanic Ethel-2 fixed Cayman-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed EV6-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-16 wants a MonsterTruck (WantsOne)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Motorcycle (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Fred-2 gets a bonus of $1,250.00!
+Buyer Chewy-16 bought Clean LikeNew Ninja-2 for base price of $14,480.62
+Buyer Luke-17 wants a PerfCar (NeedsOne)
+Buyer Luke-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-17 bought Dirty LikeNew Cayman-2 for base price of $69,136.88
+Buyer Leia-17 wants a Motorcycle (WantsOne)
+Buyer Leia-17 decided not to buy.

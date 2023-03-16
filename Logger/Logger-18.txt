@@ -34,3 +34,82 @@ Buyer Luke-15 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
 Buyer Luke-15 bought Clean LikeNew Batman-2 for base price of $48,150.00
 Mechanic James is leaving
 Intern Fred-4 has been promoted to Mechanic
+The FNCD is opening...
+Bought Mustang-2, a Dirty LikeNew PerfCar for $37,199.00
+Bought Softail-3, a Dirty Broken Motorcycle for $2,579.00
+The FNCD interns are washing...
+Intern Desi-2 washed Ranger-2 Dirty to Dirty using Detailed method
+Intern Desi-2 washed Colorado-2 Dirty to Dirty using Detailed method
+Ranger-2 became Broken
+Intern Ethel-3 washed Ranger-2 Dirty to Clean using Chemical method
+Colorado-2 became Broken
+Intern Ethel-3 washed Colorado-2 Dirty to Clean using Chemical method
+EV6-3 became Broken
+Intern Lucy-3 washed EV6-3 Dirty to Clean using Chemical method
+Ranger-3 became Broken
+Intern Lucy-3 washed Ranger-3 Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-2 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Broken to Used
+Mechanic Spock did not fix the Used Ranger-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed Ranger-2 Used to LikeNew
+Mechanic Ethel-2 got a bonus of $200.00!
+Mechanic Ethel-2 fixed EV6-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-17 wants a Motorcycle (NeedsOne)
+Buyer Han-17 is buying! Salesperson Phoebe gets a bonus of $1,250.00!
+Buyer Han-17 bought Clean LikeNew Grom-3 for base price of $13,158.00
+Buyer Chewy-17 wants a Car (JustLooking)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a PerfCar (JustLooking)
+Buyer Luke-18 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-18 bought Dirty LikeNew Mustang-2 for base price of $74,398.00
+Intern Ethel-3 is leaving
+Its Racing Time!
+FNCD driver participating: Caitlyn
+FNCD driver participating: Billy-2
+FNCD driver participating: Bob-2
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Bob-2
+Place: 2 Racer16
+Place: 3 Racer4
+Place: 4 Racer20
+Place: 5 Racer10
+Place: 6 Racer15
+Place: 7 Billy-2
+Place: 8 Racer7
+Place: 9 Racer6
+Place: 10 Racer8
+Place: 11 Racer17
+Place: 12 Racer19
+Place: 13 Racer12
+Place: 14 Racer14
+Place: 15 Racer18
+Place: 16 Racer5
+Place: 17 Racer11
+Place: 18 Racer13
+Place: 19 Caitlyn
+Tundra-2 is now broken.
+Place: 20 Racer9

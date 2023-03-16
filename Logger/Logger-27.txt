@@ -64,3 +64,37 @@ Driver Junior is leaving due to injury
 Place: 18 Racer15
 Place: 19 Racer7
 Place: 20 Racer12
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred-5 washed Taycan-5 Dirty to Dirty using ElbowGrease method
+Intern Fred-5 washed Escort-3 Dirty to Dirty using ElbowGrease method
+Intern Ethel-5 got a bonus of $75.00!
+Intern Ethel-5 washed Taycan-5 Dirty to Sparkling using Detailed method
+Intern Ethel-5 got a bonus of $20.00!
+Intern Ethel-5 washed Escort-3 Dirty to Sparkling using Detailed method
+Intern Lucy-5 washed Ninja-4 Dirty to Clean using ElbowGrease method
+Intern Lucy-5 got a bonus of $20.00!
+Intern Lucy-5 washed Escort-2 Clean to Sparkling using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic Spock did not fix the Used Escort-3
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Ninja-4 Used to LikeNew
+Mechanic Lucy-3 got a bonus of $100.00!
+Mechanic Lucy-3 fixed Escort-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-23 wants a MonsterTruck (WantsOne)
+Buyer Chewy-23 decided not to buy.
+Buyer Luke-24 wants a Electric (JustLooking)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Car (NeedsOne)
+Buyer Leia-24 decided not to buy.
+Buyer Han-24 wants a Electric (JustLooking)
+Buyer Han-24 decided not to buy.
+Buyer Chewy-24 wants a Electric (WantsOne)
+Buyer Chewy-24 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-24 bought Clean LikeNew EQS-4 for base price of $60,876.00
+Buyer Luke-25 wants a Motorcycle (NeedsOne)
+Buyer Luke-25 is buying! Salesperson Ethel-4 gets a bonus of $1,250.00!
+Buyer Luke-25 bought Dirty LikeNew Ninja-4 for base price of $30,823.12
+Intern Ethel-5 is leaving

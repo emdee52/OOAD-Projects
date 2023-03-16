@@ -54,3 +54,35 @@ Place: 17 Racer12
 Place: 18 Racer19
 Place: 19 Racer11
 Place: 20 Racer4
+The FNCD is opening...
+Bought Fiesta-2, a Clean Used Car for $13,099.20
+Bought F-250-2, a Sparkling LikeNew Pickup for $35,620.00
+The FNCD interns are washing...
+Intern Ethel-2 washed EQS-2 Dirty to Clean using Detailed method
+Intern Ethel-2 washed EV6-2 Dirty to Clean using Detailed method
+Intern Desi-2 washed Corvette Clean to Dirty using Detailed method
+Intern Desi-2 washed Mustang Clean to Dirty using Detailed method
+Intern Fred-3 got a bonus of $100.00!
+Intern Fred-3 washed Corvette Dirty to Sparkling using ElbowGrease method
+Intern Fred-3 got a bonus of $100.00!
+Intern Fred-3 washed Mustang Dirty to Sparkling using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Fiesta-2
+Mechanic Scotty did not fix the Used Fiesta-2
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-9 wants a Motorcycle (WantsOne)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Pickup (JustLooking)
+Buyer Leia-9 decided not to buy.
+Buyer Han-9 wants a Car (NeedsOne)
+Buyer Han-9 is buying! Salesperson Fred-2 gets a bonus of $500.00!
+Buyer Han-9 bought Dirty LikeNew Fiesta-2 for base price of $32,748.00
+Buyer Chewy-9 wants a Motorcycle (WantsOne)
+Buyer Chewy-9 decided not to buy.
+Buyer Luke-10 wants a Motorcycle (JustLooking)
+Buyer Luke-10 is buying! Salesperson Rachel gets a bonus of $1,250.00!
+Buyer Luke-10 bought Sparkling LikeNew Ninja for base price of $31,233.75
+Intern Fred-3 is leaving

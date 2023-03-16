@@ -74,3 +74,120 @@ Buyer Luke-2 wants a Pickup (JustLooking)
 Buyer Luke-2 decided not to buy.
 Mechanic Scotty is leaving
 Intern Fred has been promoted to Mechanic
+The FNCD is opening...
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Driver named Billy
+Hired a new Driver named Bob
+Hired a new Driver named Joe
+Bought Probe, a Dirty Used Car for $8,726.40
+Bought Escort, a Dirty Used Car for $10,492.80
+Bought Taurus, a Dirty Broken Car for $5,134.50
+Bought Fiesta, a Dirty LikeNew Car for $19,878.00
+Bought Europa, a Clean LikeNew PerfCar for $36,771.00
+Bought Cayman, a Clean Broken PerfCar for $16,852.00
+***Budget overrun*** Added $250K, budget now: $237,837.80
+Bought Corvette, a Dirty Broken PerfCar for $14,307.50
+Bought Mustang, a Sparkling Broken PerfCar for $17,544.50
+Bought Ranger, a Clean LikeNew Pickup for $33,880.00
+Bought F-250, a Dirty LikeNew Pickup for $36,934.00
+Bought Colorado, a Clean Used Pickup for $15,843.20
+Bought Tundra, a Clean Used Pickup for $18,420.80
+Bought Taycan, a Dirty LikeNew Electric for $38,356.00
+Bought Bolt, a Dirty Broken Electric for $17,239.50
+Bought EQS, a Dirty Broken Electric for $20,520.00
+Bought EV6, a Clean Used Electric for $22,262.40
+Bought Grom, a Dirty Broken Motorcycle for $5,306.50
+Bought Ninja, a Dirty Broken Motorcycle for $8,329.00
+***Budget overrun*** Added $250K, budget now: $246,979.90
+Bought Softail, a Clean LikeNew Motorcycle for $6,222.00
+Bought CBR1000, a Clean LikeNew Motorcycle for $12,942.00
+Bought Batman, a Clean Broken MonsterTruck for $21,616.50
+Bought Avenger, a Clean Broken MonsterTruck for $14,355.00
+Bought Bigfoot, a Dirty LikeNew MonsterTruck for $35,548.00
+Bought Grave Digger, a Clean Used MonsterTruck for $33,912.80
+The FNCD interns are washing...
+Intern Fred washed Probe Dirty to Clean using Chemical method
+Intern Fred washed Escort Dirty to Clean using Chemical method
+Intern Ethel washed Taurus Dirty to Dirty using ElbowGrease method
+Intern Ethel washed Fiesta Dirty to Dirty using ElbowGrease method
+Intern Lucy washed Taurus Dirty to Clean using Detailed method
+Intern Lucy washed Fiesta Dirty to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a MonsterTruck (WantsOne)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Car (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a MonsterTruck (WantsOne)
+Buyer Han is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han bought Dirty LikeNew Bigfoot for base price of $71,096.00
+Buyer Chewy wants a Car (NeedsOne)
+Buyer Chewy is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy bought Clean LikeNew Fiesta for base price of $39,756.00
+Intern Ethel is leaving
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Bob
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer7
+Place: 2 Racer3
+Place: 3 Racer17
+Place: 4 Racer20
+Place: 5 Racer16
+Place: 6 Racer5
+Place: 7 Racer11
+Place: 8 Racer12
+Place: 9 Racer4
+Place: 10 Racer6
+Place: 11 Racer15
+Place: 12 Racer9
+Place: 13 Racer8
+Place: 14 Racer18
+Place: 15 Racer19
+Place: 16 Billy
+CBR1000 is now broken.
+Driver Billy is leaving due to injury
+Place: 17 Bob
+Softail is now broken.
+Driver Bob is leaving due to injury
+Place: 18 Racer14
+Place: 19 Racer10
+Place: 20 Racer13

@@ -224,29 +224,11 @@ public class FNCD implements SysOut {
     }
 
     // adding staff
-    // smells like we need a factory or something...
+    // Factory method implemented for Staff
     void addStaff(Enums.StaffType t) {
-        Staff newStaff = null;
-        if (t == Enums.StaffType.Intern) {
-            int washChooser = Utility.rndFromRange(0, 2);
-            switch (washChooser) { //Determines what wash the intern will be instantiated with
-                case 0:
-                newStaff = new Intern(new Chemical());
-                    break;
-                case 1:
-                newStaff = new Intern(new ElbowGrease());
-                    break;
-                case 2:
-                newStaff = new Intern(new Detailed());
-                    break;
-                default:
-                System.err.println("What did you do");
-                    break;
-            }
-        }
-        if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
-        if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
-        if (t == Enums.StaffType.Driver) newStaff = new Driver();
+        StaffFactory factory = StaffFactory.getFactory(t); // Abstract factory, we won't know what object will call createStaff()
+        Staff newStaff = factory.createStaff();
+
         outP("Hired a new "+newStaff.type+" named "+ newStaff.name, announcer, dayCount);
         staff.add(newStaff);
     }

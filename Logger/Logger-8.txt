@@ -40,3 +40,78 @@ Buyer Leia-7 wants a Motorcycle (WantsOne)
 Buyer Leia-7 decided not to buy.
 Salesperson Rachel is leaving
 Intern Fred-2 has been promoted to Salesperson
+The FNCD is opening...
+Hired a new Intern named Fred-3
+Bought Escort-2, a Dirty LikeNew Car for $10,112.00
+Bought Ranger-2, a Dirty Broken Pickup for $10,724.00
+Bought EQS-2, a Dirty Broken Electric for $15,270.00
+Bought EV6-2, a Sparkling Broken Electric for $14,867.00
+The FNCD interns are washing...
+Intern Ethel-2 washed Predator Dirty to Dirty using Detailed method
+Intern Ethel-2 washed Europa-2 Dirty to Dirty using Detailed method
+Intern Desi-2 washed Predator Dirty to Clean using Detailed method
+Intern Desi-2 washed Europa-2 Dirty to Clean using Detailed method
+Intern Fred-3 washed Grom-2 Dirty to Dirty using ElbowGrease method
+Intern Fred-3 washed Escort-2 Dirty to Dirty using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Used to LikeNew
+Mechanic James did not fix the Broken Ranger-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-2 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed EQS-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-2 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EQS-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-7 wants a Car (JustLooking)
+Buyer Leia-7 is buying! Salesperson Fred-2 gets a bonus of $500.00!
+Buyer Leia-7 bought Clean LikeNew Escort for base price of $26,232.00
+Buyer Han-7 wants a Motorcycle (WantsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a MonsterTruck (NeedsOne)
+Buyer Chewy-7 decided not to buy.
+Its Racing Time!
+FNCD driver participating: Joe
+FNCD driver participating: Junior
+FNCD driver participating: Kat
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer20
+Place: 2 Joe
+Place: 3 Racer6
+Place: 4 Racer8
+Place: 5 Kat
+Place: 6 Racer4
+Place: 7 Racer16
+Place: 8 Racer11
+Place: 9 Racer12
+Place: 10 Racer5
+Place: 11 Racer19
+Place: 12 Racer17
+Place: 13 Junior
+Place: 14 Racer18
+Place: 15 Racer13
+Place: 16 Racer7
+Place: 17 Racer15
+Place: 18 Racer10
+Place: 19 Racer14
+Place: 20 Racer9

@@ -1,7 +1,7 @@
 public abstract class StaffFactory {
     protected abstract Staff createStaff();
 
-    public StaffFactory getFactory(Enums.StaffType type) {
+    static public StaffFactory getFactory(Enums.StaffType type) {
         switch(type) {
             case Intern:
                 return new InternFactory();
