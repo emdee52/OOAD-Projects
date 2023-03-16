@@ -59,7 +59,7 @@ public class FNCD implements SysOut {
         }
 
         ArrayList<String> racingList = generateRacers(drivers); //Get the other racers
-        ArrayList<String> placement = new ArrayList<String>();
+        ArrayList<String> placement = new ArrayList<>();
 
         for (int i = 0; i < 20; i++) {
             int raceplacer = Utility.rndFromRange(0, racingList.size() - 1);
@@ -109,7 +109,7 @@ public class FNCD implements SysOut {
 
     ArrayList<Vehicle> getRaceCars(Enums.VehicleType vehicle) { //Returns a list of available race cars depending on type
         ArrayList<Vehicle> AvailableCars = Vehicle.getVehiclesByType(inventory, vehicle);
-        ArrayList<Vehicle> raceCars = new ArrayList<Vehicle>();
+        ArrayList<Vehicle> raceCars = new ArrayList<>();
 
         for(int i = 0; i < AvailableCars.size(); i++) {
             if (AvailableCars.get(i).condition != Enums.Condition.Broken && raceCars.size() < 3) {
@@ -121,7 +121,7 @@ public class FNCD implements SysOut {
     }
 
     ArrayList<String> generateRacers(ArrayList<Staff> drivers) {//Gets all of the FNCD drivers and creates other drivers and puts them into a list
-        ArrayList<String> racers = new ArrayList<String>();
+        ArrayList<String> racers = new ArrayList<>();
         
         for (Staff d : drivers) {
             racers.add(d.name);
@@ -206,7 +206,7 @@ public class FNCD implements SysOut {
             buyerMin = 2;
             buyerMax = 8;
         }
-        ArrayList<Buyer> buyers = new ArrayList<Buyer>();
+        ArrayList<Buyer> buyers = new ArrayList<>();
         int buyerCount = Utility.rndFromRange(buyerMin,buyerMax);
         for (int i=1; i<=buyerCount; ++i) buyers.add(new Buyer());
         outP("The FNCD has "+buyerCount+" buyers today...", announcer, dayCount);
@@ -246,13 +246,9 @@ public class FNCD implements SysOut {
 
     // add a vehicle of a type to the inventory
     void addVehicle(Enums.VehicleType t) {
-        Vehicle v = null;
-        if (t == Enums.VehicleType.Car) v = new Car();
-        if (t == Enums.VehicleType.PerfCar) v = new PerfCar();
-        if (t == Enums.VehicleType.Pickup) v = new Pickup();
-        if (t == Enums.VehicleType.Electric) v = new Electric();
-        if (t == Enums.VehicleType.Motorcycle) v = new Motorcycle();
-        if (t == Enums.VehicleType.MonsterTruck) v = new MonsterTruck();
+        VehicleFactory factory = VehicleFactory.getFactory(t); // Abstract factory, we won't know what object will call createStaff()
+        Vehicle v = factory.createVehicle();
+
         moneyOut(v.cost);  // pay for the vehicle
         outP("Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
         inventory.add(v);
@@ -274,7 +270,7 @@ public class FNCD implements SysOut {
         int mechanicQuit = 0;
         int internQuit = 0;
         int salesPersonQuit = 0;
-        ArrayList<String> namesList = new ArrayList<String>();
+        ArrayList<String> namesList = new ArrayList<>();
         for (int i = staff.size() - 1; i>=0; i--) {
             Staff currentStaff = staff.get(i);
             double chance = Utility.rnd();

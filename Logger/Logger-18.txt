@@ -113,3 +113,67 @@ Place: 18 Racer13
 Place: 19 Caitlyn
 Tundra-2 is now broken.
 Place: 20 Racer9
+The FNCD is opening...
+Hired a new Intern named Ethel-5
+Bought Colorado-2, a Dirty Used Pickup for $8,848.80
+Bought Taycan-3, a Dirty LikeNew Electric for $42,341.00
+Bought CBR1000-3, a Clean Broken Motorcycle for $8,600.50
+The FNCD interns are washing...
+Intern Desi-4 washed Corvette-3 Dirty to Clean using ElbowGrease method
+Intern Desi-4 washed Grom-3 Dirty to Clean using ElbowGrease method
+Intern Fred-5 washed Colorado-2 Dirty to Clean using ElbowGrease method
+Intern Fred-5 washed Taycan-3 Dirty to Clean using ElbowGrease method
+Intern Ethel-5 washed Escort Clean to Clean using ElbowGrease method
+Intern Ethel-5 washed Taurus Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed CBR1000-3 Broken to Used
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed CBR1000-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-14 wants a Electric (NeedsOne)
+Buyer Leia-14 is buying! Salesperson Lucy-3 gets a bonus of $750.00!
+Buyer Leia-14 bought Clean LikeNew Taycan-3 for base price of $84,682.00
+Buyer Han-14 wants a Car (JustLooking)
+Buyer Han-14 decided not to buy.
+Mechanic Desi-3 is leaving
+Intern Desi-4 has been promoted to Mechanic
+The FNCD is opening...
+Hired a new Intern named Ethel-4
+Bought Taurus-2, a Clean Used Car for $8,156.80
+Bought Bolt-3, a Dirty Used Electric for $21,242.40
+The FNCD interns are washing...
+Intern Desi-3 washed Mustang-2 Dirty to Dirty using Detailed method
+Intern Desi-3 washed CBR1000-2 Dirty to Dirty using Detailed method
+Intern Fred-4 washed Mustang-2 Dirty to Clean using ElbowGrease method
+Intern Fred-4 washed CBR1000-2 Dirty to Clean using ElbowGrease method
+Intern Ethel-4 got a bonus of $150.00!
+Intern Ethel-4 washed Grom-3 Dirty to Sparkling using Detailed method
+Intern Ethel-4 got a bonus of $75.00!
+Intern Ethel-4 washed Bolt-3 Dirty to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-2 Used to LikeNew
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Grom-3 Used to LikeNew
+Mechanic Desi got a bonus of $500.00!
+Mechanic Desi fixed Bigfoot-2 Broken to Used
+Mechanic Desi got a bonus of $100.00!
+Mechanic Desi fixed Taurus-2 Used to LikeNew
+Mechanic Lucy-3 got a bonus of $500.00!
+Mechanic Lucy-3 fixed Bigfoot-2 Used to LikeNew
+Mechanic Lucy-3 did not fix the Used Bolt-3
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-14 wants a Pickup (NeedsOne)
+Buyer Han-14 is buying! Salesperson Lucy gets a bonus of $750.00!
+Buyer Han-14 bought Clean LikeNew Colorado-2 for base price of $31,496.00
+Buyer Chewy-14 wants a Pickup (JustLooking)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Car (JustLooking)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Pickup (JustLooking)
+Buyer Leia-15 decided not to buy.

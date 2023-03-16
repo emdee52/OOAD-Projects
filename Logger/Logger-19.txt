@@ -64,3 +64,69 @@ Buyer Leia-18 is buying! Salesperson Rachel gets a bonus of $1,000.00!
 Buyer Leia-18 bought Sparkling LikeNew Cayman for base price of $63,195.00
 Salesperson Phoebe is leaving
 Intern Desi-2 has been promoted to Salesperson
+The FNCD is opening...
+Hired a new Intern named Lucy-5
+Bought Bolt-3, a Clean Used Electric for $31,508.00
+The FNCD interns are washing...
+Intern Fred-5 washed Colorado-2 Dirty to Clean using ElbowGrease method
+Intern Fred-5 washed CBR1000-3 Dirty to Clean using ElbowGrease method
+Escort became LikeNew
+Intern Ethel-5 washed Escort Clean to Clean using ElbowGrease method
+Taurus became LikeNew
+Intern Ethel-5 washed Taurus Clean to Clean using ElbowGrease method
+Escort became LikeNew
+Intern Lucy-5 washed Escort Clean to Clean using ElbowGrease method
+Taurus became LikeNew
+Intern Lucy-5 washed Taurus Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Bolt-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-14 wants a PerfCar (JustLooking)
+Buyer Chewy-14 is buying! Salesperson Desi gets a bonus of $1,000.00!
+Buyer Chewy-14 bought Clean LikeNew Mustang-3 for base price of $62,787.20
+Buyer Luke-15 wants a Car (JustLooking)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Electric (JustLooking)
+Buyer Leia-15 decided not to buy.
+Intern Lucy-5 is leaving
+Salesperson Lucy-3 is leaving
+Intern Fred-5 has been promoted to Salesperson
+The FNCD is opening...
+Bought Tundra-2, a Clean Used Pickup for $18,669.60
+The FNCD interns are washing...
+Intern Desi-3 washed Mustang-2 Dirty to Clean using Detailed method
+Intern Desi-3 washed Bigfoot-2 Dirty to Clean using Detailed method
+Intern Fred-4 washed Taurus-2 Dirty to Clean using ElbowGrease method
+Intern Fred-4 washed F-250 Clean to Clean using ElbowGrease method
+Intern Ethel-4 washed F-250 Clean to Clean using Detailed method
+Intern Ethel-4 washed Softail Clean to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bolt-3 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Han-15 wants a MonsterTruck (WantsOne)
+Buyer Han-15 decided not to buy.
+Buyer Chewy-15 wants a PerfCar (WantsOne)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a PerfCar (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Desi-2 gets a bonus of $1,000.00!
+Buyer Luke-16 bought Clean LikeNew Cayman-2 for base price of $59,714.00
+Buyer Leia-16 wants a Car (NeedsOne)
+Buyer Leia-16 is buying! Salesperson Desi-2 gets a bonus of $500.00!
+Buyer Leia-16 bought Clean LikeNew Escort-2 for base price of $25,016.00
+Buyer Han-16 wants a PerfCar (WantsOne)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Motorcycle (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Lucy gets a bonus of $1,250.00!
+Buyer Chewy-16 bought Clean LikeNew Grom-3 for base price of $35,428.12
+Buyer Luke-17 wants a Car (WantsOne)
+Buyer Luke-17 decided not to buy.
+Salesperson Fred-2 is leaving
+Intern Desi-3 has been promoted to Salesperson
+Mechanic Desi is leaving
+Intern Fred-4 has been promoted to Mechanic

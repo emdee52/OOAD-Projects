@@ -53,3 +53,76 @@ The FNCD salespeople are selling...
 The FNCD has 0 buyers today...
 Mechanic Lucy-3 is leaving
 Intern Lucy-5 has been promoted to Mechanic
+The FNCD is opening...
+Bought Probe-3, a Dirty Used Car for $11,880.00
+Bought Corvette-4, a Dirty Used PerfCar for $23,209.60
+Bought EV6-3, a Clean LikeNew Electric for $39,718.00
+Bought Taycan-4, a Clean Used Electric for $20,241.60
+Bought Batman-3, a Dirty LikeNew MonsterTruck for $26,593.00
+Bought Avenger-3, a Clean Used MonsterTruck for $22,373.60
+The FNCD interns are washing...
+Intern Desi-6 washed Cayman-4 Dirty to Clean using ElbowGrease method
+Intern Desi-6 washed Probe-3 Dirty to Clean using ElbowGrease method
+Intern Ethel-7 washed Corvette-4 Dirty to Clean using Detailed method
+Intern Ethel-7 washed Batman-3 Dirty to Clean using Detailed method
+Cayman-4 became LikeNew
+Intern Lucy-7 washed Cayman-4 Clean to Clean using ElbowGrease method
+Probe-3 became LikeNew
+Intern Lucy-7 washed Probe-3 Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-4 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Taycan-4 Used to LikeNew
+Mechanic Scotty did not fix the Used Avenger-3
+Mechanic Desi-4 got a bonus of $500.00!
+Mechanic Desi-4 fixed Avenger-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Chewy-22 wants a Electric (JustLooking)
+Buyer Chewy-22 decided not to buy.
+Buyer Luke-23 wants a Pickup (WantsOne)
+Buyer Luke-23 decided not to buy.
+Buyer Leia-23 wants a Electric (JustLooking)
+Buyer Leia-23 decided not to buy.
+Buyer Han-23 wants a Electric (WantsOne)
+Buyer Han-23 decided not to buy.
+Buyer Chewy-23 wants a Pickup (WantsOne)
+Buyer Chewy-23 is buying! Salesperson Fred-5 gets a bonus of $750.00!
+Buyer Chewy-23 bought Sparkling LikeNew Ranger-3 for base price of $40,864.00
+Buyer Luke-24 wants a Car (JustLooking)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Pickup (NeedsOne)
+Buyer Leia-24 is buying! Salesperson Desi-5 gets a bonus of $750.00!
+Buyer Leia-24 bought Sparkling LikeNew F-250-2 for base price of $30,065.60
+Buyer Han-24 wants a Electric (NeedsOne)
+Buyer Han-24 decided not to buy.
+The FNCD is opening...
+Hired a new Intern named Ethel-6
+Bought Taurus-3, a Dirty Broken Car for $7,325.00
+Bought Fiesta-3, a Dirty Used Car for $12,580.80
+Bought Mustang-3, a Dirty Used PerfCar for $20,377.60
+The FNCD interns are washing...
+Intern Desi-5 washed F-250-2 Dirty to Clean using Chemical method
+Intern Desi-5 washed Colorado-3 Dirty to Clean using Chemical method
+Intern Fred-6 washed CBR1000-3 Dirty to Clean using Chemical method
+Intern Fred-6 washed Taurus-3 Dirty to Clean using Chemical method
+Intern Ethel-6 washed Fiesta-3 Dirty to Clean using Detailed method
+Intern Ethel-6 washed Mustang-3 Dirty to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed CBR1000-3 Used to LikeNew
+Mechanic Spock did not fix the Broken Taurus-3
+Mechanic Lucy-3 got a bonus of $100.00!
+Mechanic Lucy-3 fixed Taurus-3 Broken to Used
+Mechanic Lucy-3 did not fix the Used Fiesta-3
+Mechanic Lucy-5 got a bonus of $100.00!
+Mechanic Lucy-5 fixed Taurus-3 Used to LikeNew
+Mechanic Lucy-5 got a bonus of $100.00!
+Mechanic Lucy-5 fixed Fiesta-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-25 wants a Motorcycle (JustLooking)
+Buyer Leia-25 decided not to buy.
+Mechanic Spock is leaving
+Intern Desi-5 has been promoted to Mechanic

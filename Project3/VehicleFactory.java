@@ -1,7 +1,7 @@
 public abstract class VehicleFactory {
     protected abstract Vehicle createVehicle();
 
-    public VehicleFactory getFactory(Enums.VehicleType type) {
+    static public VehicleFactory getFactory(Enums.VehicleType type) {
         switch(type) {
             case Car:
                 return new CarFactory();

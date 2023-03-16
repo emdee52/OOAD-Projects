@@ -45,3 +45,71 @@ The FNCD salespeople are selling...
 The FNCD has 0 buyers today...
 Salesperson Fred is leaving
 Intern Desi has been promoted to Salesperson
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Desi washed Tundra Dirty to Dirty using ElbowGrease method
+Intern Desi washed Taycan Dirty to Dirty using ElbowGrease method
+Intern Fred-2 got a bonus of $75.00!
+Intern Fred-2 washed Tundra Dirty to Sparkling using Detailed method
+Intern Fred-2 got a bonus of $75.00!
+Intern Fred-2 washed Taycan Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed Bolt Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed EV6 Dirty to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Bolt Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EV6 Used to LikeNew
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed Grom Broken to Used
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed Softail Broken to Used
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Grom Used to LikeNew
+Mechanic Spock did not fix the Used Softail
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Chewy-2 wants a MonsterTruck (WantsOne)
+Buyer Chewy-2 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Chewy-2 bought Dirty Used Grave Digger for base price of $47,968.00
+The FNCD is opening...
+The FNCD interns are washing...
+Colorado became Broken
+Intern Desi washed Colorado Dirty to Clean using Chemical method
+EQS became Broken
+Intern Desi washed EQS Dirty to Clean using Chemical method
+Intern Fred-2 washed EV6 Dirty to Clean using Detailed method
+Intern Fred-2 washed Grom Dirty to Clean using Detailed method
+Intern Ethel-2 washed Taycan-2 Dirty to Clean using ElbowGrease method
+Intern Ethel-2 washed Bolt-2 Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Broken to Used
+Mechanic James did not fix the Broken EQS
+Mechanic Spock did not fix the Used Colorado
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EQS Broken to Used
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed Colorado Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed EQS Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Luke-3 wants a Motorcycle (WantsOne)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Motorcycle (JustLooking)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a Pickup (WantsOne)
+Buyer Han-3 decided not to buy.
+Buyer Chewy-3 wants a Electric (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Lucy gets a bonus of $750.00!
+Buyer Chewy-3 bought Dirty LikeNew EQS for base price of $93,410.16
+Buyer Luke-4 wants a PerfCar (NeedsOne)
+Buyer Luke-4 is buying! Salesperson Lucy gets a bonus of $1,000.00!
+Buyer Luke-4 bought Clean LikeNew Mustang for base price of $67,843.12
+Buyer Leia-4 wants a MonsterTruck (JustLooking)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a Electric (JustLooking)
+Buyer Han-4 decided not to buy.

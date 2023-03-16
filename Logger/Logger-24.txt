@@ -110,3 +110,153 @@ The FNCD has 0 buyers today...
 Intern Desi-4 is leaving
 Mechanic James is leaving
 Intern Desi-3 has been promoted to Mechanic
+The FNCD is opening...
+Hired a new Intern named Lucy-6
+Hired a new Intern named Desi-6
+Bought Fiesta-2, a Dirty LikeNew Car for $10,481.00
+Bought EQS-3, a Dirty Broken Electric for $16,386.00
+Bought Grom-4, a Dirty LikeNew Motorcycle for $18,340.00
+The FNCD interns are washing...
+Intern Desi-5 washed Taurus-2 Dirty to Dirty using Detailed method
+Intern Desi-5 washed Fiesta-2 Dirty to Dirty using Detailed method
+Intern Lucy-6 washed Taurus-2 Dirty to Clean using Detailed method
+Intern Lucy-6 washed Fiesta-2 Dirty to Clean using Detailed method
+Intern Desi-6 got a bonus of $75.00!
+Intern Desi-6 washed EQS-3 Dirty to Sparkling using ElbowGrease method
+Intern Desi-6 got a bonus of $150.00!
+Intern Desi-6 washed Grom-4 Dirty to Sparkling using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EQS-3 Broken to Used
+Mechanic Scotty did not fix the Used EQS-3
+Mechanic Desi-4 got a bonus of $200.00!
+Mechanic Desi-4 fixed EQS-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Intern Lucy-6 is leaving
+Salesperson Ethel-5 is leaving
+Intern Desi-5 has been promoted to Salesperson
+Its Racing Time!
+FNCD driver participating: Bob
+FNCD driver participating: Junior
+FNCD driver participating: Kat
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer18
+Place: 2 Racer19
+Place: 3 Racer6
+Place: 4 Racer7
+Place: 5 Racer4
+Place: 6 Racer11
+Place: 7 Kat
+Place: 8 Racer8
+Place: 9 Bob
+Place: 10 Racer16
+Place: 11 Racer5
+Place: 12 Racer14
+Place: 13 Racer13
+Place: 14 Junior
+Place: 15 Racer12
+Place: 16 Racer10
+Place: 17 Racer17
+Place: 18 Racer15
+Place: 19 Racer9
+Place: 20 Racer20
+The FNCD is opening...
+Bought Cayman-3, a Dirty LikeNew PerfCar for $34,733.00
+The FNCD interns are washing...
+Intern Ethel-4 got a bonus of $75.00!
+Intern Ethel-4 washed F-250 Dirty to Sparkling using Detailed method
+Intern Ethel-4 got a bonus of $150.00!
+Intern Ethel-4 washed Softail Dirty to Sparkling using Detailed method
+Cayman-3 became Broken
+Intern Desi-4 washed Cayman-3 Dirty to Clean using Chemical method
+Ranger-2 became Broken
+Intern Desi-4 washed Ranger-2 Clean to Clean using  Chemical method
+Intern Fred-5 washed Ranger-2 Clean to Dirty using  Chemical method
+Intern Fred-5 washed Raminator Clean to Dirty using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic Spock did not fix the Used F-250
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-2 Broken to Used
+Mechanic Lucy-3 did not fix the Used F-250
+Mechanic Lucy-3 got a bonus of $200.00!
+Mechanic Lucy-3 fixed Ranger-2 Used to LikeNew
+Mechanic Fred-4 did not fix the Used F-250
+Mechanic Fred-4 got a bonus of $300.00!
+Mechanic Fred-4 fixed Cayman-3 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-20 wants a Motorcycle (NeedsOne)
+Buyer Leia-20 is buying! Salesperson Desi-2 gets a bonus of $1,250.00!
+Buyer Leia-20 bought Sparkling LikeNew Softail for base price of $57,234.38
+Buyer Han-20 wants a Electric (WantsOne)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a Motorcycle (WantsOne)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a MonsterTruck (JustLooking)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a Car (NeedsOne)
+Buyer Leia-21 is buying! Salesperson Desi-3 gets a bonus of $500.00!
+Buyer Leia-21 bought Clean LikeNew Probe-3 for base price of $34,480.00
+Intern Ethel-4 is leaving
+Salesperson Desi-2 is leaving
+Intern Desi-4 has been promoted to Salesperson
+Its Racing Time!
+FNCD driver participating: Joe
+FNCD driver participating: Junior
+FNCD driver participating: Kat
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer4
+Place: 2 Junior
+Place: 3 Racer7
+Place: 4 Racer8
+Place: 5 Racer20
+Place: 6 Racer15
+Place: 7 Racer16
+Place: 8 Racer10
+Place: 9 Racer12
+Place: 10 Racer19
+Place: 11 Racer18
+Place: 12 Racer14
+Place: 13 Kat
+Place: 14 Racer6
+Place: 15 Joe
+Place: 16 Racer17
+Place: 17 Racer9
+Place: 18 Racer5
+Place: 19 Racer11
+Place: 20 Racer13

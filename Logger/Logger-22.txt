@@ -110,3 +110,58 @@ Tundra-2 is now broken.
 Place: 18 Racer15
 Place: 19 Racer19
 Place: 20 Racer4
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Ethel-5 washed Escort-2 Dirty to Clean using ElbowGrease method
+Intern Ethel-5 washed Ranger Clean to Dirty using ElbowGrease method
+Intern Desi-5 washed Ranger Dirty to Clean using Detailed method
+Intern Desi-5 got a bonus of $75.00!
+Intern Desi-5 washed Ranger Clean to Sparkling using Detailed method
+Intern Ethel-6 got a bonus of $75.00!
+Intern Ethel-6 washed EV6 Clean to Sparkling using Detailed method
+Intern Ethel-6 got a bonus of $150.00!
+Intern Ethel-6 washed Grom-2 Clean to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-16 wants a Pickup (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Car (NeedsOne)
+Buyer Han-16 is buying! Salesperson Fred-5 gets a bonus of $500.00!
+Buyer Han-16 bought Sparkling LikeNew Taurus for base price of $36,300.00
+Buyer Chewy-16 wants a Electric (WantsOne)
+Buyer Chewy-16 decided not to buy.
+Buyer Luke-17 wants a Pickup (WantsOne)
+Buyer Luke-17 is buying! Salesperson Desi gets a bonus of $750.00!
+Buyer Luke-17 bought Sparkling LikeNew Ranger for base price of $54,982.50
+Buyer Leia-17 wants a MonsterTruck (WantsOne)
+Buyer Leia-17 is buying! Salesperson Lucy-4 gets a bonus of $1,000.00!
+Buyer Leia-17 bought Clean LikeNew Avenger-2 for base price of $183,670.31
+The FNCD is opening...
+Hired a new Driver named Kat
+Bought EQS-3, a Dirty Broken Electric for $21,212.50
+The FNCD interns are washing...
+Intern Ethel-4 washed F-250 Dirty to Clean using Detailed method
+Intern Ethel-4 washed Softail Dirty to Clean using Detailed method
+Intern Desi-4 got a bonus of $75.00!
+Intern Desi-4 washed Ranger-3 Dirty to Sparkling using Chemical method
+Intern Desi-4 got a bonus of $75.00!
+Intern Desi-4 washed EQS-3 Dirty to Sparkling using Chemical method
+Intern Fred-5 washed F-250 Clean to Clean using  Chemical method
+Intern Fred-5 washed Softail Clean to Clean using  Chemical method
+The FNCD mechanics are repairing...
+Mechanic Spock did not fix the Broken F-250-2
+Mechanic Spock did not fix the Broken EQS-3
+Mechanic Lucy-3 got a bonus of $200.00!
+Mechanic Lucy-3 fixed F-250-2 Broken to Used
+Mechanic Lucy-3 got a bonus of $200.00!
+Mechanic Lucy-3 fixed EQS-3 Broken to Used
+Mechanic Fred-4 got a bonus of $200.00!
+Mechanic Fred-4 fixed F-250-2 Used to LikeNew
+Mechanic Fred-4 got a bonus of $200.00!
+Mechanic Fred-4 fixed EQS-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-19 wants a Car (JustLooking)
+Buyer Leia-19 is buying! Salesperson Desi-3 gets a bonus of $500.00!
+Buyer Leia-19 bought Clean LikeNew Fiesta-2 for base price of $31,116.00

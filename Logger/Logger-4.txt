@@ -97,3 +97,57 @@ Place: 18 Racer10
 Place: 19 Joe
 Predator is now broken.
 Place: 20 Racer12
+The FNCD is opening...
+Hired a new Intern named Ethel-2
+Bought Predator, a Dirty Broken MonsterTruck for $15,952.50
+The FNCD interns are washing...
+F-250 became LikeNew
+Intern Desi washed F-250 Dirty to Dirty using ElbowGrease method
+Colorado became LikeNew
+Intern Desi washed Colorado Dirty to Dirty using ElbowGrease method
+Intern Fred-2 washed F-250 Dirty to Dirty using Detailed method
+Intern Fred-2 washed Colorado Dirty to Dirty using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed F-250 Dirty to Sparkling using Detailed method
+Intern Ethel-2 got a bonus of $75.00!
+Intern Ethel-2 washed Colorado Dirty to Sparkling using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Taycan Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Taycan Used to LikeNew
+Mechanic Scotty did not fix the Broken Bolt
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Bolt Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+The FNCD is opening...
+Hired a new Intern named Ethel-2
+Bought Ranger-2, a Dirty Broken Pickup for $7,465.00
+Bought Taycan-2, a Dirty LikeNew Electric for $35,472.00
+Bought Bolt-2, a Dirty Broken Electric for $13,782.50
+The FNCD interns are washing...
+Intern Desi washed F-250 Dirty to Clean using Chemical method
+Intern Desi washed Colorado Dirty to Clean using Chemical method
+Intern Fred-2 washed EQS Dirty to Clean using Detailed method
+Intern Fred-2 washed Grave Digger Dirty to Clean using Detailed method
+Intern Ethel-2 washed Predator Dirty to Clean using ElbowGrease method
+Intern Ethel-2 washed Ranger-2 Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed EQS Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed EV6 Broken to Used
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Grom Broken to Used
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed EV6 Used to LikeNew
+Mechanic Fred did not fix the Used Grom
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...

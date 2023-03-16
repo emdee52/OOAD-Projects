@@ -81,3 +81,73 @@ Buyer Han-2 decided not to buy.
 Salesperson Monica is leaving
 Intern Fred has been promoted to Salesperson
 Intern Lucy is leaving
+The FNCD is opening...
+Bought Taycan-2, a Clean Broken Electric for $21,609.00
+Bought Grom-2, a Dirty Broken Motorcycle for $2,593.00
+The FNCD interns are washing...
+Intern Fred washed Probe Dirty to Clean using Chemical method
+Intern Fred washed Taurus Dirty to Clean using Chemical method
+Intern Ethel washed Europa Dirty to Dirty using ElbowGrease method
+Intern Ethel washed Cayman Dirty to Dirty using ElbowGrease method
+Intern Lucy washed Europa Dirty to Clean using ElbowGrease method
+Intern Lucy washed Cayman Dirty to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Used to LikeNew
+Mechanic James did not fix the Broken Corvette
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han wants a Electric (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Motorcycle (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a MonsterTruck (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a PerfCar (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-2 bought Dirty LikeNew Mustang for base price of $74,730.00
+Salesperson Monica is leaving
+Intern Fred has been promoted to Salesperson
+Intern Ethel is leaving
+The FNCD is opening...
+Hired a new Intern named Desi
+The FNCD interns are washing...
+Intern Ethel washed Escort Dirty to Clean using Chemical method
+Intern Ethel washed Fiesta Dirty to Clean using Chemical method
+Intern Lucy washed Europa Dirty to Clean using ElbowGrease method
+Intern Lucy washed Cayman Dirty to Clean using ElbowGrease method
+Intern Desi washed Corvette Dirty to Clean using Chemical method
+Intern Desi washed Taycan Dirty to Clean using Chemical method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Broken to Used
+Mechanic James did not fix the Broken Ranger
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Broken to Used
+Mechanic Fred did not fix the Used Ranger
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed F-250 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a MonsterTruck (WantsOne)
+Buyer Luke is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke bought Dirty Used Bigfoot for base price of $61,128.00
+Buyer Leia wants a Car (WantsOne)
+Buyer Leia decided not to buy.
+Buyer Han wants a Electric (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Car (NeedsOne)
+Buyer Chewy is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy bought Clean LikeNew Taurus for base price of $29,392.00
+Salesperson Rachel is leaving
+Intern Ethel has been promoted to Salesperson

@@ -114,3 +114,108 @@ Buyer Luke-5 wants a MonsterTruck (JustLooking)
 Buyer Luke-5 decided not to buy.
 Salesperson Desi is leaving
 Intern Fred-2 has been promoted to Salesperson
+The FNCD is opening...
+Bought Raminator, a Dirty Used MonsterTruck for $16,045.60
+The FNCD interns are washing...
+Intern Desi washed Grom Dirty to Clean using ElbowGrease method
+Intern Desi washed Softail Dirty to Clean using ElbowGrease method
+Intern Fred-2 washed Batman Dirty to Clean using Detailed method
+Intern Fred-2 washed Avenger Dirty to Clean using Detailed method
+Intern Ethel-2 washed Grom-2 Dirty to Clean using Detailed method
+Intern Ethel-2 washed Europa-2 Dirty to Clean using Detailed method
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Softail
+Mechanic James did not fix the Broken CBR1000
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed Softail Used to LikeNew
+Mechanic Scotty got a bonus of $400.00!
+Mechanic Scotty fixed CBR1000 Broken to Used
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed CBR1000 Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Batman Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Intern Fred-2 is leaving
+Salesperson Fred is leaving
+Intern Desi has been promoted to Salesperson
+Its Racing Time!
+FNCD driver participating: Billy
+FNCD driver participating: Bob
+FNCD driver participating: Joe
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer14
+Place: 2 Racer6
+Place: 3 Racer13
+Place: 4 Racer12
+Place: 5 Racer10
+Place: 6 Joe
+Place: 7 Racer19
+Place: 8 Racer7
+Place: 9 Billy
+Place: 10 Racer11
+Place: 11 Racer18
+Place: 12 Racer17
+Place: 13 Bob
+Place: 14 Racer4
+Place: 15 Racer15
+Place: 16 Racer16
+Place: 17 Racer5
+Place: 18 Racer8
+Place: 19 Racer20
+Place: 20 Racer9
+The FNCD is opening...
+Bought Europa-2, a Clean LikeNew PerfCar for $38,682.00
+Bought EQS-2, a Clean Broken Electric for $18,467.50
+The FNCD interns are washing...
+Intern Desi washed Colorado Dirty to Clean using Chemical method
+Intern Desi washed Probe Clean to Clean using  Chemical method
+Intern Fred-2 washed Probe Clean to Clean using Detailed method
+Intern Fred-2 washed Escort Clean to Clean using Detailed method
+Intern Ethel-2 washed Probe Clean to Clean using ElbowGrease method
+Intern Ethel-2 washed Escort Clean to Clean using ElbowGrease method
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $400.00!
+Mechanic James fixed Grom Used to LikeNew
+Mechanic James did not fix the Broken Ninja
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Ninja Broken to Used
+Mechanic Spock got a bonus of $400.00!
+Mechanic Spock fixed Softail Broken to Used
+Mechanic Fred got a bonus of $400.00!
+Mechanic Fred fixed Ninja Used to LikeNew
+Mechanic Fred got a bonus of $400.00!
+Mechanic Fred fixed Softail Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Chewy-4 wants a Motorcycle (JustLooking)
+Buyer Chewy-4 decided not to buy.
+Buyer Luke-5 wants a PerfCar (WantsOne)
+Buyer Luke-5 decided not to buy.
+Buyer Leia-5 wants a Electric (WantsOne)
+Buyer Leia-5 decided not to buy.
+Buyer Han-5 wants a MonsterTruck (NeedsOne)
+Buyer Han-5 is buying! Salesperson Ethel gets a bonus of $1,000.00!
+Buyer Han-5 bought Clean Used Predator for base price of $51,851.20
+Buyer Chewy-5 wants a PerfCar (JustLooking)
+Buyer Chewy-5 decided not to buy.
+Buyer Luke-6 wants a Pickup (JustLooking)
+Buyer Luke-6 decided not to buy.
+Mechanic James is leaving
+Intern Desi has been promoted to Mechanic
