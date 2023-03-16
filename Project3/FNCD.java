@@ -141,7 +141,7 @@ public class FNCD implements SysOut {
         // opening
         announcer = new Announcer();
         logger = Logger.getInstance();
-        tracker = new Tracker(moneyEarned, Staff.staffEarned);
+        Tracker tracker = Tracker.getInstance();
         announcer.addListener(logger);
         announcer.addListener(tracker);
         dayCount = dayNum;
@@ -195,6 +195,10 @@ public class FNCD implements SysOut {
         }
         // daily report
         reportOut();
+
+        tracker.updateFncdTotal(moneyEarned);
+        tracker.updateStaffTotal(Staff.staffEarned);
+
         outP("That's it for the day.", announcer, dayCount);
     }
 

@@ -14,7 +14,7 @@ public class Logger implements Listener{
     private Logger() {}
 
     public static Logger getInstance() {
-        if (instance == null) {
+        if (instance == null) { // Lazy method for singleton instantiation
             instance = new Logger();
         }
         return instance;
