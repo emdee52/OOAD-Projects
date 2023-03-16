@@ -15,6 +15,12 @@ public abstract class VehicleFactory {
                 return new MotorcycleFactory();
             case MonsterTruck:
                 return new MonsterTruckFactory();
+            case SUV:
+                return new SUVFactory();
+            case SportsCar:
+                return new SportsCarFactory();
+            case Sedan:
+                return new SedanFactory();
             default:
                 return null;
         }
@@ -66,6 +72,30 @@ class MonsterTruckFactory extends VehicleFactory {
     @Override
     protected Vehicle createVehicle() {
         return new MonsterTruck();
+    }
+}
+
+class SUVFactory extends VehicleFactory{
+
+    @Override
+    protected Vehicle createVehicle() {
+        return new SUV();
+    }
+}
+
+class SportsCarFactory extends VehicleFactory{
+
+    @Override
+    protected Vehicle createVehicle() {
+        return new SportsCar();
+    }
+}
+
+class SedanFactory extends VehicleFactory{
+
+    @Override
+    protected Vehicle createVehicle() {
+        return new Sedan();
     }
 }
 
