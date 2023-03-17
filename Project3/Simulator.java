@@ -7,6 +7,7 @@ public class Simulator implements SysOut {
     public Announcer announcer;
     public Logger logger;
     public Tracker tracker;
+    ArrayList<FNCD> FNCDTracker;
     Simulator() {
         numDays = 30;  // magic number for days to run here
         dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class);  // we'll start on a random day (for fun)

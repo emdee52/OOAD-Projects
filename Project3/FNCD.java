@@ -110,6 +110,10 @@ public class FNCD implements SysOut {
         }
     }
 
+    void BuyerDay() {
+
+    }
+
     ArrayList<Vehicle> getRaceCars(Enums.VehicleType vehicle) { //Returns a list of available race cars depending on type
         ArrayList<Vehicle> AvailableCars = Vehicle.getVehiclesByType(inventory, vehicle);
         ArrayList<Vehicle> raceCars = new ArrayList<>();
