@@ -3,20 +3,20 @@ public interface BuyerCommand extends SysOut{
 }
 
 class FNCDSelect implements BuyerCommand{
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public FNCDSelect(BuyerRequest BuyerRequest) {
+    public FNCDSelect(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
-        bRequest.choosingFNCD();
+        bRequest.choosingFNCD(bRequest.currentFNCD);
     }
 }
 
 class AskName implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public AskName(BuyerRequest BuyerRequest) {
+    public AskName(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -25,9 +25,9 @@ class AskName implements BuyerCommand {
 }
 
 class AskTime implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public AskTime(BuyerRequest BuyerRequest) {
+    public AskTime(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -36,9 +36,9 @@ class AskTime implements BuyerCommand {
 }
 
 class newSalesPerson implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public newSalesPerson(BuyerRequest BuyerRequest) {
+    public newSalesPerson(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -47,9 +47,9 @@ class newSalesPerson implements BuyerCommand {
 }
 
 class AskInventory implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public AskInventory(BuyerRequest BuyerRequest) {
+    public AskInventory(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -58,9 +58,9 @@ class AskInventory implements BuyerCommand {
 }
 
 class InventoryItemDetails implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public InventoryItemDetails(BuyerRequest BuyerRequest) {
+    public InventoryItemDetails(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -69,9 +69,9 @@ class InventoryItemDetails implements BuyerCommand {
 }
 
 class BuyItem implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public BuyItem(BuyerRequest BuyerRequest) {
+    public BuyItem(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {
@@ -80,9 +80,9 @@ class BuyItem implements BuyerCommand {
 }
 
 class endInteractions implements BuyerCommand {
-    private BuyerRequest bRequest;
+    private Buyer bRequest;
 
-    public endInteractions(BuyerRequest BuyerRequest) {
+    public endInteractions(Buyer BuyerRequest) {
         this.bRequest = BuyerRequest;
     }
     public void execute() {

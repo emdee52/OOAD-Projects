@@ -152,7 +152,7 @@ public class FNCD implements SysOut {
         }
         ArrayList<Buyer> buyers = new ArrayList<>();
         int buyerCount = Utility.rndFromRange(buyerMin,buyerMax);
-        for (int i=1; i<=buyerCount; ++i) buyers.add(new Buyer());
+        for (int i=1; i<=buyerCount; ++i) buyers.add(new Buyer(this));
         outP("The " +this.name+ " FNCD has "+buyerCount+" buyers today...", announcer, dayCount);
         return buyers;
     }

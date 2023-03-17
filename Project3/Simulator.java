@@ -7,7 +7,6 @@ public class Simulator implements SysOut {
     public Announcer announcer;
     public Logger logger;
     public Tracker tracker;
-    ArrayList<FNCD> FNCDTracker;
     Simulator() {
         numDays = 30;  // magic number for days to run here
         dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class);  // we'll start on a random day (for fun)
@@ -22,6 +21,60 @@ public class Simulator implements SysOut {
         Enums.DayOfWeek[] days = Enums.DayOfWeek.values();
         nextIndex %= days.length;
         return days[nextIndex];
+    }
+
+    void buyerDay(FNCD defaultFNCD) {
+        Buyer user = new Buyer(defaultFNCD);
+        BuyerInvoker invoker = new BuyerInvoker();
+        int buyerChoice = 0;
+        while (buyerChoice != 8) {
+            outP("What would you like to do?", announcer, numDays);
+            outP("1. Choose FNCD", announcer, numDays);
+            outP("2. Ask Salesperson name", announcer, numDays);
+            outP("3. Ask time", announcer, numDays);
+            outP("4. Request new Salesperson", announcer, numDays);
+            outP("5. Show Inventory", announcer, numDays);
+            outP("6. Ask for details of item", announcer, numDays);
+            outP("7. Buy item", announcer, numDays);
+            outP("8. Leave FNCD", announcer, numDays);
+            switch (buyerChoice) {
+                case 1:
+                    FNCDSelect fncdSelectcommand = new FNCDSelect(user);
+                    invoker.takeCommand(fncdSelectcommand);
+                    break;
+                case 2:
+                    AskName askNamecommand = new AskName(user);
+                    invoker.takeCommand(askNamecommand);
+                    break;
+                case 3:
+                    AskTime askTimeCommand = new AskTime(user);
+                    invoker.takeCommand(askTimeCommand);
+                    break;
+                case 4:
+                    newSalesPerson newSalesPersonCommand = new newSalesPerson(user);
+                    invoker.takeCommand(newSalesPersonCommand);
+                    break;
+                case 5:
+                    AskInventory askInventoryCommand = new AskInventory(user);
+                    invoker.takeCommand(askInventoryCommand);
+                    break;
+                case 6:
+                    InventoryItemDetails inventoryItemDetailsCommand = new InventoryItemDetails(user);
+                    invoker.takeCommand(inventoryItemDetailsCommand);
+                    break;
+                case 7:
+                    BuyItem buyItemCommand = new BuyItem(user);
+                    invoker.takeCommand(buyItemCommand);
+                    break;
+                case 8:
+                    endInteractions endInteractionsCommand = new endInteractions(user);
+                    invoker.takeCommand(endInteractionsCommand);
+                    break;
+                default:
+                    break;
+            }
+            invoker.placeCommand();
+        }
     }
 
     void runParallel() {
@@ -75,6 +128,7 @@ public class Simulator implements SysOut {
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
+        buyerDay(northFNCD);
     }
 
     void open(FNCD fncd, int day){
