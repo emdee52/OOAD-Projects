@@ -1,3 +1,9 @@
+/*
+ * 
+ * Part of the implementation of the command pattern for commands
+ * 
+ */
+
 public interface BuyerCommand extends SysOut{
     void execute();
 }
@@ -9,7 +15,7 @@ class FNCDSelect implements BuyerCommand{
         this.bRequest = BuyerRequest;
     }
     public void execute() {
-        bRequest.choosingFNCD(bRequest.currentFNCD);
+        bRequest.choosingFNCD();
     }
 }
 

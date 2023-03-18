@@ -1,3 +1,9 @@
+/*
+ * 
+ * Factory pattern implementation below for staff
+ * 
+ */
+
 public abstract class StaffFactory {
     protected abstract Staff createStaff();
 

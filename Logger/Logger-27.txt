@@ -1,189 +1,114 @@
->>> Start Simulation Day 27 Sun
+>>> Start Simulation Day 27 Fri
 The North FNCD is opening...
+North: Hired a new Intern named Lucy-11
 Type: Car
 Type in list: 4
 Type: PerfCar
-Type in list: 3
-North: Bought Corvette-5, a Dirty Used PerfCar for $16,518.40
-Type: Pickup
 Type in list: 4
+Type: Pickup
+Type in list: 2
+North: Bought F-250-5, a Dirty Broken Pickup for $9,793.00
+North: Bought Colorado-5, a Sparkling Broken Pickup for $7,713.00
 Type: Electric
 Type in list: 4
 Type: Motorcycle
-Type in list: 4
+Type in list: 3
+North: Bought CBR1000-5, a Dirty Used Motorcycle for $8,356.80
 Type: MonsterTruck
 Type in list: 4
 Type: SUV
 Type in list: 4
 Type: SportsCar
-Type in list: 3
-North: Bought Aventus-7, a Dirty Used SportsCar for $22,612.80
+Type in list: 4
 Type: Sedan
 Type in list: 4
 The South FNCD is opening...
-South: Hired a new Intern named Ethel-14
 Type: Car
 Type in list: 4
 Type: PerfCar
 Type in list: 4
 Type: Pickup
-Type in list: 3
-South: Bought F-250-4, a Clean Used Pickup for $9,934.40
+Type in list: 4
 Type: Electric
 Type in list: 4
 Type: Motorcycle
 Type in list: 4
 Type: MonsterTruck
-Type in list: 2
-South: Bought Raminator-3, a Clean LikeNew MonsterTruck for $20,351.00
-South: Bought Batman-4, a Clean Broken MonsterTruck for $15,099.50
+Type in list: 4
 Type: SUV
 Type in list: 4
 Type: SportsCar
-Type in list: 3
-South: Bought Gallery-7, a Dirty Broken SportsCar for $19,677.00
+Type in list: 4
 Type: Sedan
 Type in list: 4
 The North FNCD interns are washing...
-Intern Desi-11 washed Mustang-4 Dirty to Dirty using Detailed method
-Intern Desi-11 washed Corvette-5 Dirty to Dirty using Detailed method
-Intern Fred-13 washed Mustang-4 Dirty to Dirty using ElbowGrease method
-Intern Fred-13 washed Corvette-5 Dirty to Dirty using ElbowGrease method
-Intern Lucy-13 washed Mustang-4 Dirty to Clean using Chemical method
-Intern Lucy-13 washed Corvette-5 Dirty to Clean using Chemical method
+Intern Lucy-10 washed Taycan-5 Dirty to Clean using ElbowGrease method
+Intern Lucy-10 washed F-250-5 Dirty to Clean using ElbowGrease method
+Intern Desi-10 washed CBR1000-5 Dirty to Clean using Detailed method
+Intern Desi-10 got a bonus of $200.00!
+Intern Desi-10 washed Lift Clean to Sparkling using Detailed method
+Intern Lucy-11 washed Aventus Clean to Dirty using  Chemical method
+Intern Lucy-11 washed Avenger Clean to Dirty using  Chemical method
 The South FNCD interns are washing...
-Gallery-7 became Broken
-Intern Desi-13 washed Gallery-7 Dirty to Clean using Chemical method
-Intern Desi-13 got a bonus of $75.00!
-Ranger-3 became Broken
-Intern Desi-13 washed Ranger-3 Clean to Sparkling using  Chemical method
-Intern Fred-14 washed Corvette-3 Clean to Clean using  Chemical method
-Intern Fred-14 washed Colorado-3 Clean to Clean using  Chemical method
-Intern Ethel-14 washed Corvette-3 Clean to Clean using Detailed method
-Intern Ethel-14 washed Colorado-3 Clean to Clean using Detailed method
+Intern Ethel-10 washed Ranger-2 Dirty to Clean using Detailed method
+Intern Ethel-10 washed F-250-2 Dirty to Clean using Detailed method
+Intern Fred-11 washed Ranger-2 Clean to Clean using Detailed method
+Intern Fred-11 washed F-250-2 Clean to Clean using Detailed method
+Intern Ethel-11 washed Ranger-2 Clean to Clean using ElbowGrease method
+Intern Ethel-11 washed F-250-2 Clean to Clean using ElbowGrease method
 The North FNCD mechanics are repairing...
-Mechanic Scotty did not fix the Used Corvette-5
-Mechanic Scotty got a bonus of $750.00!
-Mechanic Scotty fixed Aventus-7 Used to LikeNew
-Mechanic Fred-9 got a bonus of $300.00!
-Mechanic Fred-9 fixed Corvette-5 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250-5 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado-5 Broken to Used
+Mechanic Lucy-5 did not fix the Used F-250-5
+Mechanic Lucy-5 did not fix the Used Colorado-5
+Mechanic Fred-10 did not fix the Used F-250-5
+Mechanic Fred-10 got a bonus of $200.00!
+Mechanic Fred-10 fixed Colorado-5 Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic Fred-7 did not fix the Broken Ranger-3
-Mechanic Fred-7 did not fix the Used F-250-4
-Mechanic Fred-8 did not fix the Broken Ranger-3
-Mechanic Fred-8 got a bonus of $200.00!
-Mechanic Fred-8 fixed F-250-4 Used to LikeNew
-Mechanic Lucy-11 got a bonus of $200.00!
-Mechanic Lucy-11 fixed Ranger-3 Broken to Used
-Mechanic Lucy-11 got a bonus of $500.00!
-Mechanic Lucy-11 fixed Batman-4 Broken to Used
 The North FNCD salespeople are selling...
-The North FNCD has 1 buyers today...
-Buyer Han-42 wants a Motorcycle (WantsOne)
-Buyer Han-42 decided not to buy.
+The North FNCD has 2 buyers today...
+Buyer Luke-43 wants a SUV (JustLooking)
+Buyer Luke-43 decided not to buy.
+Buyer Leia-43 wants a SportsCar (NeedsOne)
+Buyer Leia-43 is buying! Salesperson Monica gets a bonus of $1,500.00!
+Buyer Leia-43 bought Clean LikeNew Super-4 for base price of $85,318.00
 The South FNCD salespeople are selling...
-The South FNCD has 5 buyers today...
-Buyer Chewy-42 wants a Sedan (NeedsOne)
-Buyer Chewy-42 is buying! Salesperson Ethel-12 gets a bonus of $500.00!
-Buyer Chewy-42 bought Clean LikeNew Coach-3 for base price of $31,845.00
-Buyer Luke-43 wants a PerfCar (JustLooking)
-Buyer Luke-43 is buying! Salesperson Desi-12 gets a bonus of $1,000.00!
-Buyer Luke-43 bought Clean LikeNew Cayman-4 for base price of $76,330.00
-Buyer Leia-43 wants a SportsCar (WantsOne)
-Buyer Leia-43 decided not to buy.
-Buyer Han-43 wants a SportsCar (JustLooking)
-Buyer Han-43 decided not to buy.
-Buyer Chewy-43 wants a Car (JustLooking)
-Buyer Chewy-43 decided not to buy.
-Intern Desi-13 is leaving the South FNCD
-North: Its Racing Time!
-North FNCD driver participating: Billy
-North FNCD driver participating: Junior-2
-North FNCD driver participating: Caitlyn-2
-Other driver participating: Racer4
-Other driver participating: Racer5
-Other driver participating: Racer6
-Other driver participating: Racer7
-Other driver participating: Racer8
-Other driver participating: Racer9
-Other driver participating: Racer10
-Other driver participating: Racer11
-Other driver participating: Racer12
-Other driver participating: Racer13
-Other driver participating: Racer14
-Other driver participating: Racer15
-Other driver participating: Racer16
-Other driver participating: Racer17
-Other driver participating: Racer18
-Other driver participating: Racer19
-Other driver participating: Racer20
-Place: 1 Racer14
-Place: 2 Racer12
-Place: 3 Caitlyn-2
-Place: 4 Racer5
-Place: 5 Racer10
-Place: 6 Racer17
-Place: 7 Junior-2
-Place: 8 Racer19
-Place: 9 Racer15
-Place: 10 Racer6
-Place: 11 Racer8
-Place: 12 Racer9
-Place: 13 Racer13
-Place: 14 Racer4
-Place: 15 Billy
-Place: 16 Racer7
-Place: 17 Racer18
-Place: 18 Racer11
-Place: 19 Racer20
-Place: 20 Racer16
-South: Its Racing Time!
-South FNCD driver participating: Kat
-South FNCD driver participating: Kat-2
-South FNCD driver participating: Billy-3
-Other driver participating: Racer4
-Other driver participating: Racer5
-Other driver participating: Racer6
-Other driver participating: Racer7
-Other driver participating: Racer8
-Other driver participating: Racer9
-Other driver participating: Racer10
-Other driver participating: Racer11
-Other driver participating: Racer12
-Other driver participating: Racer13
-Other driver participating: Racer14
-Other driver participating: Racer15
-Other driver participating: Racer16
-Other driver participating: Racer17
-Other driver participating: Racer18
-Other driver participating: Racer19
-Other driver participating: Racer20
-Place: 1 Racer18
-Place: 2 Kat-2
-Place: 3 Racer20
-Place: 4 Billy-3
-Place: 5 Racer10
-Place: 6 Racer12
-Place: 7 Racer11
-Place: 8 Racer9
-Place: 9 Racer4
-Place: 10 Racer15
-Place: 11 Racer19
-Place: 12 Racer8
-Place: 13 Kat
-Place: 14 Racer17
-Place: 15 Racer14
-Place: 16 Racer6
-Place: 17 Racer5
-Place: 18 Racer7
-Place: 19 Racer16
-Place: 20 Racer13
-North FNCD: Vehicles in inventory 36
-North FNCD: Vehicles sold count 45
-North FNCD: Money in the budget $2,086,481.80
-South FNCD: Vehicles in inventory 34
-South FNCD: Vehicles sold count 49
-South FNCD: Money in the budget $2,048,307.44
+The South FNCD has 8 buyers today...
+Buyer Han-43 wants a Motorcycle (NeedsOne)
+Buyer Han-43 is buying! Salesperson Fred-9 gets a bonus of $1,250.00!
+Buyer Han-43 bought Clean LikeNew Softail-5 for base price of $18,600.00
+Buyer Chewy-43 wants a SUV (JustLooking)
+Buyer Chewy-43 is buying! Salesperson Desi-7 gets a bonus of $800.00!
+Buyer Chewy-43 bought Sparkling LikeNew Armor-2 for base price of $63,847.50
+Buyer Luke-44 wants a Motorcycle (JustLooking)
+Buyer Luke-44 is buying! Salesperson Ethel-6 gets a bonus of $1,250.00!
+Buyer Luke-44 bought Sparkling LikeNew Ninja-2 for base price of $16,622.00
+Buyer Leia-44 wants a Car (JustLooking)
+Buyer Leia-44 decided not to buy.
+Buyer Han-44 wants a PerfCar (JustLooking)
+Buyer Han-44 decided not to buy.
+Buyer Chewy-44 wants a SUV (NeedsOne)
+Buyer Chewy-44 is buying! Salesperson Fred-9 gets a bonus of $800.00!
+Buyer Chewy-44 bought Clean LikeNew Lift-4 for base price of $45,012.00
+Buyer Luke-45 wants a Motorcycle (JustLooking)
+Buyer Luke-45 is buying! Salesperson Fred-9 gets a bonus of $1,250.00!
+Buyer Luke-45 bought Clean LikeNew Softail-4 for base price of $15,080.00
+Buyer Leia-45 wants a SportsCar (WantsOne)
+Buyer Leia-45 decided not to buy.
+Intern Lucy-11 is leaving the North FNCD
+Mechanic Fred-10 is leaving the North FNCD
+Intern Lucy-10 has been promoted to Mechanic in the North FNCD
+Intern Fred-11 is leaving the South FNCD
+Salesperson Fred-9 is leaving the South FNCD
+Intern Ethel-10 has been promoted to Salesperson in the South FNCD
+North FNCD: Vehicles in inventory 35
+North FNCD: Vehicles sold count 41
+North FNCD: Money in the budget $1,960,939.07
+South FNCD: Vehicles in inventory 31
+South FNCD: Vehicles sold count 53
+South FNCD: Money in the budget $2,474,231.11
 That's it for the day.
->>> End Simulation Day 27 Sun
+>>> End Simulation Day 27 Fri
 

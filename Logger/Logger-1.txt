@@ -1,4 +1,4 @@
->>> Start Simulation Day 1 Tue
+>>> Start Simulation Day 1 Sun
 The North FNCD is opening...
 North: Hired a new Intern named Fred
 North: Hired a new Intern named Ethel
@@ -14,61 +14,61 @@ North: Hired a new Driver named Bob
 North: Hired a new Driver named Joe
 Type: Car
 Type in list: 0
-North: Bought Probe, a Clean Used Car for $10,252.00
-North: Bought Escort, a Dirty Used Car for $10,452.80
-North: Bought Taurus, a Dirty LikeNew Car for $15,465.00
-North: Bought Fiesta, a Dirty Broken Car for $6,655.50
+North: Bought Probe, a Dirty Broken Car for $8,255.00
+North: Bought Escort, a Dirty Used Car for $10,798.40
+North: Bought Taurus, a Clean Used Car for $14,770.40
+North: Bought Fiesta, a Dirty Used Car for $15,460.80
 Type: PerfCar
 Type in list: 0
-North: Bought Europa, a Dirty LikeNew PerfCar for $25,841.00
-North: Bought Cayman, a Dirty Used PerfCar for $27,580.00
-North: ***Budget overrun*** Added $250K, budget now: $215,678.70
-North: Bought Corvette, a Dirty LikeNew PerfCar for $38,075.00
-North: Bought Mustang, a Dirty Broken PerfCar for $14,803.00
+North: Bought Europa, a Clean Broken PerfCar for $13,406.00
+North: Bought Cayman, a Clean Used PerfCar for $18,270.40
+North: Bought Corvette, a Dirty Broken PerfCar for $10,189.00
+North: ***Budget overrun*** Added $250K, budget now: $235,756.40
+North: Bought Mustang, a Clean Used PerfCar for $23,093.60
 Type: Pickup
 Type in list: 0
-North: Bought Ranger, a Dirty Broken Pickup for $12,125.00
-North: Bought F-250, a Clean LikeNew Pickup for $38,113.00
-North: Bought Colorado, a Clean Used Pickup for $11,079.20
-North: Bought Tundra, a Dirty Used Pickup for $10,773.60
+North: Bought Ranger, a Dirty LikeNew Pickup for $11,631.00
+North: Bought F-250, a Dirty Broken Pickup for $8,444.50
+North: Bought Colorado, a Clean Used Pickup for $31,880.80
+North: Bought Tundra, a Dirty LikeNew Pickup for $11,891.00
 Type: Electric
 Type in list: 0
-North: Bought Taycan, a Clean Broken Electric for $16,440.50
-North: Bought Bolt, a Clean Used Electric for $34,664.00
-North: Bought EQS, a Clean Broken Electric for $17,681.00
-North: Bought EV6, a Dirty Broken Electric for $19,972.50
+North: Bought Taycan, a Dirty Used Electric for $23,502.40
+North: Bought Bolt, a Clean Broken Electric for $19,278.50
+North: Bought EQS, a Dirty Broken Electric for $17,954.00
+North: Bought EV6, a Dirty Used Electric for $29,216.80
 Type: Motorcycle
 Type in list: 0
-North: Bought Grom, a Clean LikeNew Motorcycle for $19,922.00
-North: Bought Ninja, a Dirty Used Motorcycle for $4,522.40
-North: Bought Softail, a Dirty Used Motorcycle for $8,643.20
-North: ***Budget overrun*** Added $250K, budget now: $246,936.10
-North: Bought CBR1000, a Clean Used Motorcycle for $10,003.20
+North: Bought Grom, a Clean Broken Motorcycle for $3,704.00
+North: Bought Ninja, a Dirty LikeNew Motorcycle for $19,692.00
+North: Bought Softail, a Dirty Broken Motorcycle for $3,174.50
+North: Bought CBR1000, a Dirty LikeNew Motorcycle for $19,163.00
 Type: MonsterTruck
 Type in list: 0
-North: Bought Batman, a Clean LikeNew MonsterTruck for $35,353.00
-North: Bought Avenger, a Dirty Used MonsterTruck for $21,705.60
-North: Bought Bigfoot, a Clean Broken MonsterTruck for $21,683.00
-North: Bought Grave Digger, a Dirty Broken MonsterTruck for $10,178.00
+North: ***Budget overrun*** Added $250K, budget now: $242,144.90
+North: Bought Batman, a Dirty LikeNew MonsterTruck for $44,079.00
+North: Bought Avenger, a Clean Broken MonsterTruck for $15,911.50
+North: Bought Bigfoot, a Dirty Used MonsterTruck for $17,560.00
+North: Bought Grave Digger, a Clean Used MonsterTruck for $31,484.80
 Type: SUV
 Type in list: 0
-North: Bought Grounded, a Dirty Used SUV for $13,134.40
-North: Bought Armada, a Clean Used SUV for $16,145.60
-North: Bought Armor, a Dirty Broken SUV for $7,779.00
-North: Bought Lift, a Clean LikeNew SUV for $22,349.00
+North: Bought Grounded, a Dirty Used SUV for $16,496.80
+North: Bought Armada, a Dirty Used SUV for $19,293.60
+North: Bought Armor, a Clean Used SUV for $17,562.40
+North: Bought Lift, a Clean LikeNew SUV for $17,121.00
 Type: SportsCar
 Type in list: 0
-North: Bought Hyper, a Dirty Broken SportsCar for $21,238.50
-North: Bought Aventus, a Clean LikeNew SportsCar for $42,899.00
-North: Bought Gallery, a Clean Used SportsCar for $22,409.60
-North: ***Budget overrun*** Added $250K, budget now: $219,334.40
-North: Bought Super, a Dirty LikeNew SportsCar for $42,727.00
+North: Bought Hyper, a Clean LikeNew SportsCar for $35,050.00
+North: Bought Aventus, a Dirty Broken SportsCar for $13,911.50
+North: Bought Gallery, a Dirty Used SportsCar for $23,409.60
+North: Bought Super, a Clean Used SportsCar for $33,421.60
 Type: Sedan
 Type in list: 0
-North: Bought Soul, a Clean Used Sedan for $8,796.00
-North: Bought Avenger, a Dirty Broken Sedan for $5,591.50
-North: Bought Light, a Clean Broken Sedan for $5,557.50
-North: Bought Coralla, a Sparkling Used Sedan for $11,413.60
+North: ***Budget overrun*** Added $250K, budget now: $236,323.70
+North: Bought Soul, a Dirty Used Sedan for $14,598.40
+North: Bought Avenger, a Dirty LikeNew Sedan for $11,693.00
+North: Bought Light, a Dirty LikeNew Sedan for $19,334.00
+North: Bought Coralla, a Dirty LikeNew Sedan for $15,739.00
 The South FNCD is opening...
 South: Hired a new Intern named Desi
 South: Hired a new Intern named Fred-2
@@ -84,120 +84,216 @@ South: Hired a new Driver named Kat
 South: Hired a new Driver named Caitlyn
 Type: Car
 Type in list: 0
-South: Bought Probe-2, a Dirty Used Car for $12,330.40
-South: Bought Escort-2, a Clean Broken Car for $9,712.50
-South: Bought Taurus-2, a Dirty LikeNew Car for $12,098.00
-South: Bought Fiesta-2, a Dirty Used Car for $10,739.20
+South: Bought Probe-2, a Clean Broken Car for $8,530.50
+South: Bought Escort-2, a Clean Used Car for $13,088.80
+South: Bought Taurus-2, a Clean Used Car for $8,559.20
+South: Bought Fiesta-2, a Dirty LikeNew Car for $11,096.00
 Type: PerfCar
 Type in list: 0
-South: Bought Europa-2, a Clean Broken PerfCar for $10,676.50
-South: Bought Cayman-2, a Clean Used PerfCar for $19,979.20
-South: Bought Corvette-2, a Clean Broken PerfCar for $16,010.00
-South: ***Budget overrun*** Added $250K, budget now: $245,528.70
-South: Bought Mustang-2, a Clean Broken PerfCar for $12,925.50
+South: Bought Europa-2, a Dirty Used PerfCar for $27,737.60
+South: Bought Cayman-2, a Clean Used PerfCar for $27,338.40
+South: ***Budget overrun*** Added $250K, budget now: $234,855.50
+South: Bought Corvette-2, a Clean Broken PerfCar for $18,794.00
+South: Bought Mustang-2, a Dirty LikeNew PerfCar for $20,473.00
 Type: Pickup
 Type in list: 0
-South: Bought Ranger-2, a Dirty Used Pickup for $8,554.40
-South: Bought F-250-2, a Dirty Broken Pickup for $17,746.00
-South: Bought Colorado-2, a Dirty Broken Pickup for $17,837.50
-South: Bought Tundra-2, a Clean Used Pickup for $11,611.20
+South: Bought Ranger-2, a Clean Used Pickup for $11,587.20
+South: Bought F-250-2, a Dirty Broken Pickup for $5,415.50
+South: Bought Colorado-2, a Clean LikeNew Pickup for $22,037.00
+South: Bought Tundra-2, a Dirty LikeNew Pickup for $26,166.00
 Type: Electric
 Type in list: 0
-South: Bought Taycan-2, a Clean Broken Electric for $14,203.00
-South: Bought Bolt-2, a Dirty Broken Electric for $22,358.50
-South: Bought EQS-2, a Dirty Broken Electric for $16,103.00
-South: Bought EV6-2, a Clean Broken Electric for $13,964.00
+South: Bought Taycan-2, a Clean Broken Electric for $13,803.00
+South: Bought Bolt-2, a Clean Broken Electric for $16,126.00
+South: Bought EQS-2, a Dirty Used Electric for $24,856.00
+South: Bought EV6-2, a Clean Broken Electric for $19,128.00
 Type: Motorcycle
 Type in list: 0
-South: Bought Grom-2, a Dirty Broken Motorcycle for $7,193.50
-South: Bought Ninja-2, a Dirty LikeNew Motorcycle for $15,908.00
-South: Bought Softail-2, a Clean Broken Motorcycle for $6,884.50
-South: Bought CBR1000-2, a Dirty Used Motorcycle for $9,741.60
+South: Bought Grom-2, a Dirty LikeNew Motorcycle for $11,952.00
+South: Bought Ninja-2, a Dirty LikeNew Motorcycle for $8,311.00
+South: Bought Softail-2, a Dirty LikeNew Motorcycle for $19,105.00
+South: Bought CBR1000-2, a Dirty Broken Motorcycle for $3,233.00
 Type: MonsterTruck
 Type in list: 0
-South: Bought Predator, a Clean LikeNew MonsterTruck for $31,649.00
-South: Bought Raminator, a Clean LikeNew MonsterTruck for $34,722.00
-South: Bought Batman-2, a Dirty Broken MonsterTruck for $12,153.00
-South: ***Budget overrun*** Added $250K, budget now: $243,558.00
-South: Bought Avenger-2, a Sparkling Broken MonsterTruck for $11,341.50
+South: Bought Predator, a Clean Used MonsterTruck for $19,995.20
+South: ***Budget overrun*** Added $250K, budget now: $220,659.60
+South: Bought Raminator, a Dirty LikeNew MonsterTruck for $42,008.00
+South: Bought Batman-2, a Clean Broken MonsterTruck for $16,659.50
+South: Bought Avenger-2, a Clean LikeNew MonsterTruck for $42,821.00
 Type: SUV
 Type in list: 0
-South: Bought Sand, a Clean Broken SUV for $9,127.50
-South: Bought Grounded-2, a Dirty Broken SUV for $7,810.50
-South: Bought Armada-2, a Dirty Used SUV for $18,073.60
-South: Bought Armor-2, a Dirty Used SUV for $18,064.80
+South: Bought Sand, a Dirty LikeNew SUV for $24,949.00
+South: Bought Grounded-2, a Dirty LikeNew SUV for $23,128.00
+South: Bought Armada-2, a Clean LikeNew SUV for $23,297.00
+South: Bought Armor-2, a Clean Used SUV for $13,620.80
 Type: SportsCar
 Type in list: 0
-South: Bought Hyper-2, a Clean LikeNew SportsCar for $26,825.00
-South: Bought Aventus-2, a Dirty Used SportsCar for $26,880.80
-South: Bought Gallery-2, a Dirty Broken SportsCar for $16,606.50
-South: Bought Super-2, a Dirty Broken SportsCar for $16,598.50
+South: Bought Hyper-2, a Clean Broken SportsCar for $21,843.50
+South: Bought Aventus-2, a Sparkling Broken SportsCar for $17,581.00
+South: Bought Gallery-2, a Dirty Broken SportsCar for $12,651.00
+South: ***Budget overrun*** Added $250K, budget now: $242,832.00
+South: Bought Super-2, a Dirty Used SportsCar for $31,276.80
 Type: Sedan
 Type in list: 0
-South: Bought Coach, a Dirty Used Sedan for $9,942.40
-South: Bought Soul-2, a Clean LikeNew Sedan for $19,876.00
-South: Bought Avenger-2, a Dirty LikeNew Sedan for $11,241.00
-South: Bought Light-2, a Dirty LikeNew Sedan for $17,057.00
+South: Bought Coach, a Clean Used Sedan for $9,466.40
+South: Bought Soul-2, a Dirty LikeNew Sedan for $13,900.00
+South: Bought Avenger-2, a Clean Used Sedan for $15,005.60
+South: Bought Light-2, a Dirty Broken Sedan for $7,898.50
 The North FNCD interns are washing...
-Intern Fred washed Escort Dirty to Clean using ElbowGrease method
-Intern Fred washed Taurus Dirty to Clean using ElbowGrease method
+Intern Fred washed Probe Dirty to Clean using Detailed method
+Intern Fred washed Escort Dirty to Clean using Detailed method
 Intern Ethel washed Fiesta Dirty to Clean using Detailed method
-Intern Ethel washed Europa Dirty to Clean using Detailed method
-Intern Lucy washed Cayman Dirty to Dirty using ElbowGrease method
-Intern Lucy washed Corvette Dirty to Dirty using ElbowGrease method
+Intern Ethel washed Corvette Dirty to Clean using Detailed method
+Intern Lucy washed Ranger Dirty to Dirty using ElbowGrease method
+Intern Lucy washed F-250 Dirty to Dirty using ElbowGrease method
 The South FNCD interns are washing...
-Intern Desi washed Probe-2 Dirty to Clean using Detailed method
-Intern Desi washed Taurus-2 Dirty to Clean using Detailed method
-Intern Fred-2 washed Fiesta-2 Dirty to Clean using Detailed method
-Intern Fred-2 washed Ranger-2 Dirty to Clean using Detailed method
-F-250-2 became Broken
-Intern Ethel-2 washed F-250-2 Dirty to Dirty using Chemical method
-Colorado-2 became Broken
-Intern Ethel-2 washed Colorado-2 Dirty to Dirty using Chemical method
+Intern Desi washed Fiesta-2 Dirty to Clean using ElbowGrease method
+Intern Desi washed Europa-2 Dirty to Clean using ElbowGrease method
+Intern Fred-2 washed Mustang-2 Dirty to Clean using Chemical method
+Intern Fred-2 washed F-250-2 Dirty to Clean using Chemical method
+Intern Ethel-2 washed Tundra-2 Dirty to Clean using Chemical method
+Intern Ethel-2 washed EQS-2 Dirty to Clean using Chemical method
 The North FNCD mechanics are repairing...
 Mechanic James got a bonus of $100.00!
-Mechanic James fixed Probe Used to LikeNew
+Mechanic James fixed Probe Broken to Used
 Mechanic James got a bonus of $100.00!
 Mechanic James fixed Escort Used to LikeNew
-Mechanic Scotty did not fix the Broken Fiesta
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe Used to LikeNew
+Mechanic Scotty did not fix the Used Taurus
 Mechanic Spock got a bonus of $100.00!
-Mechanic Spock fixed Fiesta Broken to Used
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Mustang Broken to Used
+Mechanic Spock fixed Taurus Used to LikeNew
+Mechanic Spock did not fix the Used Fiesta
 The South FNCD mechanics are repairing...
 Mechanic Uhura got a bonus of $100.00!
-Mechanic Uhura fixed Probe-2 Used to LikeNew
-Mechanic Uhura got a bonus of $100.00!
-Mechanic Uhura fixed Escort-2 Broken to Used
+Mechanic Uhura fixed Probe-2 Broken to Used
+Mechanic Uhura did not fix the Used Escort-2
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe-2 Used to LikeNew
 Mechanic James-2 got a bonus of $100.00!
 Mechanic James-2 fixed Escort-2 Used to LikeNew
-Mechanic James-2 got a bonus of $100.00!
-Mechanic James-2 fixed Fiesta-2 Used to LikeNew
+Mechanic Scotty-2 did not fix the Used Taurus-2
 Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Europa-2 Broken to Used
-Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Cayman-2 Used to LikeNew
+Mechanic Scotty-2 fixed Europa-2 Used to LikeNew
 The North FNCD salespeople are selling...
-The North FNCD has 0 buyers today...
-The South FNCD salespeople are selling...
-The South FNCD has 3 buyers today...
-Buyer Luke wants a SUV (WantsOne)
-Buyer Luke is buying! Salesperson Ross gets a bonus of $800.00!
-Buyer Luke bought Dirty Used Armada-2 for base price of $36,147.20
-Buyer Leia wants a MonsterTruck (JustLooking)
+The North FNCD has 5 buyers today...
+Buyer Luke wants a PerfCar (NeedsOne)
+Buyer Luke is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke bought Clean Used Mustang for base price of $46,187.20
+Buyer Leia wants a PerfCar (WantsOne)
 Buyer Leia decided not to buy.
-Buyer Han wants a PerfCar (NeedsOne)
-Buyer Han is buying! Salesperson Ross gets a bonus of $1,000.00!
-Buyer Han bought Dirty LikeNew Cayman-2 for base price of $49,948.00
-Intern Fred-2 is leaving the South FNCD
-North FNCD: Vehicles in inventory 36
-North FNCD: Vehicles sold count 0
-North FNCD: Money in the budget $186,865.80
-South FNCD: Vehicles in inventory 34
-South FNCD: Vehicles sold count 2
-South FNCD: Money in the budget $143,071.60
+Buyer Han wants a Sedan (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Electric (NeedsOne)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Sedan (WantsOne)
+Buyer Luke-2 decided not to buy.
+The South FNCD salespeople are selling...
+The South FNCD has 5 buyers today...
+Buyer Leia-2 wants a Motorcycle (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Chandler gets a bonus of $1,250.00!
+Buyer Leia-2 bought Dirty LikeNew Softail-2 for base price of $38,210.00
+Buyer Han-2 wants a MonsterTruck (WantsOne)
+Buyer Han-2 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Han-2 bought Clean LikeNew Avenger-2 for base price of $85,642.00
+Buyer Chewy-2 wants a Sedan (JustLooking)
+Buyer Chewy-2 decided not to buy.
+Buyer Luke-3 wants a SUV (WantsOne)
+Buyer Luke-3 is buying! Salesperson Ross gets a bonus of $800.00!
+Buyer Luke-3 bought Dirty LikeNew Sand for base price of $49,898.00
+Buyer Leia-3 wants a SportsCar (NeedsOne)
+Buyer Leia-3 decided not to buy.
+Intern Lucy is leaving the North FNCD
+Salesperson Chandler is leaving the South FNCD
+Intern Desi has been promoted to Salesperson in the South FNCD
+North: Its Racing Time!
+North FNCD driver participating: Billy
+North FNCD driver participating: Bob
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer5
+Place: 2 Racer13
+Place: 3 Racer10
+Place: 4 Racer19
+Place: 5 Racer3
+Place: 6 Bob
+Place: 7 Racer17
+Place: 8 Racer12
+Place: 9 Racer15
+Place: 10 Racer9
+Place: 11 Racer20
+Place: 12 Racer8
+Place: 13 Billy
+Place: 14 Racer16
+Place: 15 Racer14
+Place: 16 Racer7
+Place: 17 Racer11
+Place: 18 Racer18
+Place: 19 Racer6
+Place: 20 Racer4
+South: Its Racing Time!
+South FNCD driver participating: Junior
+South FNCD driver participating: Kat
+South FNCD driver participating: Caitlyn
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer4
+Place: 2 Racer19
+Place: 3 Racer13
+Place: 4 Racer18
+Place: 5 Junior
+Place: 6 Racer14
+Place: 7 Racer20
+Place: 8 Racer12
+Place: 9 Racer8
+Place: 10 Caitlyn
+Place: 11 Racer9
+Place: 12 Racer15
+Place: 13 Kat
+Place: 14 Racer7
+Place: 15 Racer10
+Place: 16 Racer17
+Place: 17 Racer6
+Place: 18 Racer16
+Place: 19 Racer11
+Place: 20 Racer5
+North FNCD: Vehicles in inventory 35
+North FNCD: Vehicles sold count 1
+North FNCD: Money in the budget $234,634.90
+South FNCD: Vehicles in inventory 33
+South FNCD: Vehicles sold count 3
+South FNCD: Money in the budget $403,262.79
 That's it for the day.
->>> End Simulation Day 1 Tue
+>>> End Simulation Day 1 Sun
 

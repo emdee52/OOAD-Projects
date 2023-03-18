@@ -1,3 +1,9 @@
+/*
+ * 
+ * Part of the implementation of the command pattern for invoker
+ * 
+ */
+
 import java.util.ArrayList;
 
 public class BuyerInvoker {

@@ -8,9 +8,11 @@ public class Simulator implements SysOut {
     public Announcer announcer;
     public Logger logger;
     private Scanner readUser = new Scanner(System.in);
+    ArrayList<FNCD> FNCDS;
     Simulator() {
         numDays = 30;  // magic number for days to run here
         dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class);  // we'll start on a random day (for fun)
+        FNCDS = new ArrayList<>();
     }
 
     // cycling endlessly through enum values
@@ -24,8 +26,17 @@ public class Simulator implements SysOut {
         return days[nextIndex];
     }
 
-    void buyerDay(FNCD defaultFNCD) {
-        Buyer user = new Buyer(defaultFNCD);
+/*
+ * 
+ * Part of the implementation of the command pattern for where commands are requested
+ * 
+ */
+
+    void buyerDay(ArrayList<FNCD> defaultFNCD) {
+        Buyer user = new Buyer(defaultFNCD.get(0));
+        for (FNCD f : defaultFNCD) {
+            user.FNCDList.add(f);
+        }
         BuyerInvoker invoker = new BuyerInvoker();
         int buyerChoice = 0;
         while (buyerChoice != 8) {
@@ -89,6 +100,14 @@ public class Simulator implements SysOut {
 
         FNCD northFNCD = new FNCD("North", announcer);
         FNCD southFNCD = new FNCD("South", announcer);
+
+        FNCDS.add(northFNCD);
+        FNCDS.add(southFNCD);
+
+        ArrayList<FNCD> FNCDList = new ArrayList<>();
+        FNCDList.add(northFNCD);
+        FNCDList.add(southFNCD);
+
         for (int day = 1; day <= numDays; ++day) {
             northFNCD.setDayCount(day);
             southFNCD.setDayCount(day);
@@ -133,7 +152,7 @@ public class Simulator implements SysOut {
             outP(">>> End Simulation Day "+day+" "+dayOfWeek+"\n", announcer, day);
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
-        buyerDay(northFNCD);
+        buyerDay(FNCDList);
     }
 
     void open(FNCD fncd, int day){

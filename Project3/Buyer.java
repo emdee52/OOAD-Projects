@@ -11,8 +11,8 @@ public class Buyer implements SysOut{
     Enums.VehicleType preference;
     FNCD currentFNCD;
     Staff attendingStaff;
+    public ArrayList<FNCD> FNCDList;
     public Announcer announcer;
-    public Logger logger;
     private int numDays = 31;
     private Scanner readUser = new Scanner(System.in);
 
@@ -25,23 +25,34 @@ public class Buyer implements SysOut{
         name = namer.getNext();
         announcer = Fncd.announcer;
         currentFNCD = Fncd;
+        FNCDList = new ArrayList<>();
     }
 
-    public void choosingFNCD(FNCD chosenFNCD) {
+    /*
+     * 
+     * 
+     * Part of the implementation of Command pattern for commands that can be executed
+     * 
+     * 
+     */
+
+    public void choosingFNCD() {
         outP("Choose new FNCD location by typing option number", announcer, numDays);
         outP("1. North FNCD Location", announcer, numDays);
         outP("2. South FNCD Location", announcer, numDays);
         int FNCDLocation = readUser.nextInt();
         if (FNCDLocation == 1) {
-            currentFNCD = chosenFNCD;
+            currentFNCD = FNCDList.get(FNCDLocation -1);
             ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson);
             attendingStaff = FNCDstaff.get(0);
+            announcer = currentFNCD.announcer;
             outP("You chose North FNCD", announcer, numDays);
         }
         else {
-            currentFNCD =chosenFNCD;
+            currentFNCD = FNCDList.get(FNCDLocation -1 );
             ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson);
             attendingStaff = FNCDstaff.get(0);
+            announcer = currentFNCD.announcer;
             outP("You chose South FNCD", announcer, numDays);
         }
     }
