@@ -1,104 +1,66 @@
->>> Start Simulation Day 19 Thur
+>>> Start Simulation Day 19 Fri
 The North FNCD is opening...
-Type: Car
-Type in list: 3
-North: Bought Taurus-4, a Dirty Used Car for $8,283.20
-Type: PerfCar
-Type in list: 4
-Type: Pickup
-Type in list: 4
-Type: Electric
-Type in list: 4
-Type: Motorcycle
-Type in list: 4
-Type: MonsterTruck
-Type in list: 4
-Type: SUV
-Type in list: 4
-Type: SportsCar
-Type in list: 4
-Type: Sedan
-Type in list: 3
-North: Bought Coach-3, a Clean LikeNew Sedan for $19,013.00
 The South FNCD is opening...
-South: Hired a new Driver named Billy-3
-Type: Car
-Type in list: 3
-South: Bought Fiesta-4, a Dirty LikeNew Car for $11,724.00
-Type: PerfCar
-Type in list: 4
-Type: Pickup
-Type in list: 3
-South: Bought Tundra-4, a Dirty Used Pickup for $25,600.80
-Type: Electric
-Type in list: 4
-Type: Motorcycle
-Type in list: 4
-Type: MonsterTruck
-Type in list: 4
-Type: SUV
-Type in list: 4
-Type: SportsCar
-Type in list: 4
-Type: Sedan
-Type in list: 4
+South: Hired a new Intern named Lucy-11
+South: Bought F-250-5, a Clean LikeNew Pickup for $32,901.00
+South: Bought Colorado-5, a Dirty LikeNew Pickup for $17,002.00
+South: Bought Tundra-5, a Dirty LikeNew Pickup for $16,096.00
 The North FNCD interns are washing...
-Intern Desi-6 washed Taurus-4 Dirty to Dirty using Detailed method
-Intern Desi-6 washed Escort Clean to Clean using Detailed method
-Intern Ethel-7 got a bonus of $20.00!
-Intern Ethel-7 washed Taurus-4 Dirty to Sparkling using Detailed method
-Intern Ethel-7 washed Escort Clean to Clean using Detailed method
-Intern Ethel-8 got a bonus of $20.00!
-Intern Ethel-8 washed Escort Clean to Sparkling using Detailed method
-Intern Ethel-8 got a bonus of $100.00!
-Intern Ethel-8 washed Europa Clean to Sparkling using Detailed method
+Intern Ethel-9 washed Colorado-3 Dirty to Clean using ElbowGrease method
+Intern Ethel-9 washed Colorado Clean to Clean using ElbowGrease method
+Intern Lucy-9 got a bonus of $75.00!
+Intern Lucy-9 washed Colorado Clean to Sparkling using ElbowGrease method
+Intern Lucy-9 got a bonus of $75.00!
+Intern Lucy-9 washed EV6 Clean to Sparkling using ElbowGrease method
+Intern Fred-11 washed Grom Clean to Clean using Detailed method
+Intern Fred-11 washed Ninja Clean to Clean using Detailed method
 The South FNCD interns are washing...
-Intern Fred-7 washed Ninja-4 Dirty to Dirty using Detailed method
-Intern Fred-7 washed Armada-4 Dirty to Dirty using Detailed method
-Intern Lucy-7 washed Ninja-4 Dirty to Clean using Chemical method
-Intern Lucy-7 washed Armada-4 Dirty to Clean using Chemical method
-Intern Desi-7 got a bonus of $75.00!
-Intern Desi-7 washed Taycan-4 Dirty to Sparkling using Detailed method
-Intern Desi-7 got a bonus of $100.00!
-Intern Desi-7 washed Coralla-3 Dirty to Sparkling using Detailed method
+Intern Lucy-10 washed Hyper-2 Dirty to Clean using Detailed method
+Intern Lucy-10 washed Lift-3 Dirty to Clean using Detailed method
+Intern Desi-10 washed EQS-4 Dirty to Clean using Detailed method
+Intern Desi-10 washed Colorado-5 Dirty to Clean using Detailed method
+Tundra-5 became LikeNew
+Intern Lucy-11 washed Tundra-5 Dirty to Dirty using ElbowGrease method
+EV6-2 became LikeNew
+Intern Lucy-11 washed EV6-2 Clean to Clean using ElbowGrease method
 The North FNCD mechanics are repairing...
-Mechanic Spock got a bonus of $100.00!
-Mechanic Spock fixed Taurus-4 Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic Uhura did not fix the Broken Armor-2
-Mechanic Uhura got a bonus of $500.00!
-Mechanic Uhura fixed Armada-4 Broken to Used
-Mechanic Ethel-5 did not fix the Broken Armor-2
-Mechanic Ethel-5 got a bonus of $500.00!
-Mechanic Ethel-5 fixed Armada-4 Used to LikeNew
-Mechanic Lucy-6 got a bonus of $500.00!
-Mechanic Lucy-6 fixed Armor-2 Broken to Used
-Mechanic Lucy-6 did not fix the Used Europa-5
 The North FNCD salespeople are selling...
 The North FNCD has 4 buyers today...
-Buyer Chewy-33 wants a SportsCar (NeedsOne)
-Buyer Chewy-33 is buying! Salesperson Monica gets a bonus of $1,500.00!
-Buyer Chewy-33 bought Clean LikeNew Gallery-3 for base price of $89,469.14
-Buyer Luke-34 wants a Sedan (JustLooking)
-Buyer Luke-34 is buying! Salesperson Monica gets a bonus of $500.00!
-Buyer Luke-34 bought Clean LikeNew Coach-3 for base price of $38,026.00
-Buyer Leia-34 wants a SUV (JustLooking)
-Buyer Leia-34 decided not to buy.
-Buyer Han-34 wants a SportsCar (JustLooking)
-Buyer Han-34 decided not to buy.
+Buyer Han-30 wants a Car (NeedsOne)
+Buyer Han-30 is buying! Salesperson Desi-3 gets a bonus of $500.00!
+Buyer Han-30 bought Clean LikeNew Fiesta-3 for base price of $32,889.38
+Buyer Chewy-30 wants a SUV (WantsOne)
+Buyer Chewy-30 is buying! Salesperson Fred-8 gets a bonus of $800.00!
+Buyer Chewy-30 bought Clean LikeNew Lift for base price of $70,681.64
+Buyer Luke-31 wants a Pickup (NeedsOne)
+Buyer Luke-31 decided not to buy.
+Buyer Leia-31 wants a Car (JustLooking)
+Buyer Leia-31 decided not to buy.
 The South FNCD salespeople are selling...
-The South FNCD has 0 buyers today...
-Intern Desi-6 is leaving the North FNCD
-Salesperson Ethel is leaving the North FNCD
-Intern Ethel-7 has been promoted to Salesperson in the North FNCD
-Salesperson Lucy-4 is leaving the South FNCD
-Intern Fred-7 has been promoted to Salesperson in the South FNCD
+The South FNCD has 5 buyers today...
+Buyer Han-31 wants a Electric (JustLooking)
+Buyer Han-31 decided not to buy.
+Buyer Chewy-31 wants a SUV (WantsOne)
+Buyer Chewy-31 decided not to buy.
+Buyer Luke-32 wants a Sedan (JustLooking)
+Buyer Luke-32 is buying! Salesperson Fred-9 gets a bonus of $500.00!
+Buyer Luke-32 bought Clean LikeNew Soul-3 for base price of $32,518.00
+Buyer Leia-32 wants a PerfCar (NeedsOne)
+Buyer Leia-32 decided not to buy.
+Buyer Han-32 wants a SUV (WantsOne)
+Buyer Han-32 is buying! Salesperson Chandler gets a bonus of $800.00!
+Buyer Han-32 bought Clean LikeNew Armada-3 for base price of $37,538.00
+Salesperson Fred-8 is leaving the North FNCD
+Intern Ethel-9 has been promoted to Salesperson in the North FNCD
+Mechanic Ethel-8 is leaving the South FNCD
+Intern Lucy-10 has been promoted to Mechanic in the South FNCD
 North FNCD: Vehicles in inventory 34
-North FNCD: Vehicles sold count 30
-North FNCD: Money in the budget $1,448,142.57
-South FNCD: Vehicles in inventory 36
-South FNCD: Vehicles sold count 38
-South FNCD: Money in the budget $1,935,822.27
+North FNCD: Vehicles sold count 26
+North FNCD: Money in the budget $1,277,002.97
+South FNCD: Vehicles in inventory 34
+South FNCD: Vehicles sold count 30
+South FNCD: Money in the budget $1,198,553.08
 That's it for the day.
->>> End Simulation Day 19 Thur
+>>> End Simulation Day 19 Fri
 

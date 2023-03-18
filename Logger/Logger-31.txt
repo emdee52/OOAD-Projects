@@ -21,7 +21,7 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Asking Salesperson for their name
-Their name is Ethel-10
+Their name is Chandler
 What would you like to do?
 1. Choose FNCD
 2. Ask Salesperson name
@@ -32,7 +32,7 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Asking what time it is
-It is 23:59:21.416597400
+It is 00:05:25.734559300
 What would you like to do?
 1. Choose FNCD
 2. Ask Salesperson name
@@ -43,7 +43,7 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Asking for new Salesperson
-Your new sales person is Ethel-11
+Your new sales person is Desi-10
 What would you like to do?
 1. Choose FNCD
 2. Ask Salesperson name
@@ -54,41 +54,42 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Asking for Inventory
-1. Taurus-2
+1. Escort-2
 2. Fiesta-2
-3. Mustang-2
-4. F-250-2
-5. Taycan-2
-6. Bolt-2
-7. CBR1000-2
-8. Aventus-2
-9. Gallery-2
-10. Coach
-11. Soul-2
-12. Bigfoot-2
-13. Probe-3
-14. Coach-2
-15. Ranger-4
-16. Armor-3
-17. Europa-4
-18. Raminator-2
-19. Corvette-4
-20. Batman-3
-21. Aventus-4
-22. Armor-4
-23. Fiesta-4
-24. Ranger-5
-25. Bigfoot-3
-26. EQS-4
-27. Light-4
-28. Grom-6
-29. Ninja-6
-30. Softail-6
-31. Mustang-5
-32. Tundra-5
-33. Armada-5
-34. Armor-5
-35. Gallery-5
+3. Cayman-2
+4. Corvette-2
+5. Colorado-2
+6. Taycan-2
+7. EV6-2
+8. Grom-2
+9. Ninja-2
+10. CBR1000-2
+11. Predator
+12. Armor-2
+13. Aventus-2
+14. Gallery-2
+15. Super-2
+16. Soul-2
+17. Bigfoot-2
+18. Europa-4
+19. Escort-3
+20. Coach-2
+21. Armor-3
+22. Coralla-3
+23. Tundra-5
+24. Grounded-4
+25. Soul-4
+26. Ranger-6
+27. EV6-4
+28. CBR1000-3
+29. Bigfoot-3
+30. Probe-5
+31. Bolt-5
+32. Armor-4
+33. Super-3
+34. Ranger-7
+35. Europa-5
+36. Batman-4
 What would you like to do?
 1. Choose FNCD
 2. Ask Salesperson name
@@ -99,47 +100,48 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Enter the number of the car you would like to look at
-1. Taurus-2
+1. Escort-2
 2. Fiesta-2
-3. Mustang-2
-4. F-250-2
-5. Taycan-2
-6. Bolt-2
-7. CBR1000-2
-8. Aventus-2
-9. Gallery-2
-10. Coach
-11. Soul-2
-12. Bigfoot-2
-13. Probe-3
-14. Coach-2
-15. Ranger-4
-16. Armor-3
-17. Europa-4
-18. Raminator-2
-19. Corvette-4
-20. Batman-3
-21. Aventus-4
-22. Armor-4
-23. Fiesta-4
-24. Ranger-5
-25. Bigfoot-3
-26. EQS-4
-27. Light-4
-28. Grom-6
-29. Ninja-6
-30. Softail-6
-31. Mustang-5
-32. Tundra-5
-33. Armada-5
-34. Armor-5
-35. Gallery-5
+3. Cayman-2
+4. Corvette-2
+5. Colorado-2
+6. Taycan-2
+7. EV6-2
+8. Grom-2
+9. Ninja-2
+10. CBR1000-2
+11. Predator
+12. Armor-2
+13. Aventus-2
+14. Gallery-2
+15. Super-2
+16. Soul-2
+17. Bigfoot-2
+18. Europa-4
+19. Escort-3
+20. Coach-2
+21. Armor-3
+22. Coralla-3
+23. Tundra-5
+24. Grounded-4
+25. Soul-4
+26. Ranger-6
+27. EV6-4
+28. CBR1000-3
+29. Bigfoot-3
+30. Probe-5
+31. Bolt-5
+32. Armor-4
+33. Super-3
+34. Ranger-7
+35. Europa-5
+36. Batman-4
 
-Type:        PerfCar
-Name:        Europa-4
+Type:        SportsCar
+Name:        Super-2
 Condition:   LikeNew
 Cleanliness: Clean
-SalesPrice:  59381.25
+SalesPrice:  64648.0
 What would you like to do?
 1. Choose FNCD
 2. Ask Salesperson name
@@ -150,43 +152,44 @@ What would you like to do?
 7. Buy item
 8. Leave FNCD
 Enter the number of the car you would like to buy
-1. Taurus-2
+1. Escort-2
 2. Fiesta-2
-3. Mustang-2
-4. F-250-2
-5. Taycan-2
-6. Bolt-2
-7. CBR1000-2
-8. Aventus-2
-9. Gallery-2
-10. Coach
-11. Soul-2
-12. Bigfoot-2
-13. Probe-3
-14. Coach-2
-15. Ranger-4
-16. Armor-3
-17. Europa-4
-18. Raminator-2
-19. Corvette-4
-20. Batman-3
-21. Aventus-4
-22. Armor-4
-23. Fiesta-4
-24. Ranger-5
-25. Bigfoot-3
-26. EQS-4
-27. Light-4
-28. Grom-6
-29. Ninja-6
-30. Softail-6
-31. Mustang-5
-32. Tundra-5
-33. Armada-5
-34. Armor-5
-35. Gallery-5
-Salesperson Ethel-11 gets a bonus of $1,250.00!
-You bought Clean LikeNew Grom-6 for base price of $20,620.00
+3. Cayman-2
+4. Corvette-2
+5. Colorado-2
+6. Taycan-2
+7. EV6-2
+8. Grom-2
+9. Ninja-2
+10. CBR1000-2
+11. Predator
+12. Armor-2
+13. Aventus-2
+14. Gallery-2
+15. Super-2
+16. Soul-2
+17. Bigfoot-2
+18. Europa-4
+19. Escort-3
+20. Coach-2
+21. Armor-3
+22. Coralla-3
+23. Tundra-5
+24. Grounded-4
+25. Soul-4
+26. Ranger-6
+27. EV6-4
+28. CBR1000-3
+29. Bigfoot-3
+30. Probe-5
+31. Bolt-5
+32. Armor-4
+33. Super-3
+34. Ranger-7
+35. Europa-5
+36. Batman-4
+Salesperson Desi-10 gets a bonus of $500.00!
+You bought Clean LikeNew Soul-2 for base price of $26,128.00
 Would you like to add any addons to the vehicle
 1. Warranty
 2. Undercoating

@@ -180,8 +180,6 @@ public class FNCD implements SysOut {
         final int numberInInventory = 4;
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
-            outP("Type: " + t.toString(), announcer, dayCount);
-            outP("Type in list: " + typeInList, announcer, dayCount);
             int need = numberInInventory - typeInList;
             for (int i = 1; i <= need; ++i) addVehicle(t);
         }
