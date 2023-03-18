@@ -1,4 +1,236 @@
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
 Choose new FNCD location by typing option number
 1. North FNCD Location
 2. South FNCD Location
 You chose South FNCD
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Asking Salesperson for their name
+Their name is Fred-4
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Asking what time it is
+It is 21:48:07.171545600
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Asking for new Salesperson
+Your new sales person is Lucy-6
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Asking for Inventory
+1. Probe
+2. Escort
+3. Fiesta
+4. Ranger
+5. Colorado
+6. Tundra
+7. Taycan
+8. EQS
+9. Ninja
+10. Softail
+11. Grave Digger
+12. Grounded
+13. Avenger
+14. Hyper-3
+15. F-250-3
+16. Coach-2
+17. Mustang-3
+18. Bolt-3
+19. Armada-3
+20. Softail-4
+21. Bigfoot-3
+22. Grave Digger-3
+23. Predator-3
+24. Light-3
+25. Armada-4
+26. CBR1000-5
+27. Aventus-6
+28. Escort-4
+29. Bolt-4
+30. Mustang-4
+31. Europa-5
+32. Lift-4
+33. Corvette-5
+34. Aventus-7
+35. Avenger-4
+36. Super-7
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Enter the number of the car you would like to look at
+1. Probe
+2. Escort
+3. Fiesta
+4. Ranger
+5. Colorado
+6. Tundra
+7. Taycan
+8. EQS
+9. Ninja
+10. Softail
+11. Grave Digger
+12. Grounded
+13. Avenger
+14. Hyper-3
+15. F-250-3
+16. Coach-2
+17. Mustang-3
+18. Bolt-3
+19. Armada-3
+20. Softail-4
+21. Bigfoot-3
+22. Grave Digger-3
+23. Predator-3
+24. Light-3
+25. Armada-4
+26. CBR1000-5
+27. Aventus-6
+28. Escort-4
+29. Bolt-4
+30. Mustang-4
+31. Europa-5
+32. Lift-4
+33. Corvette-5
+34. Aventus-7
+35. Avenger-4
+36. Super-7
+
+Type:        Car
+Name:        Escort
+Condition:   LikeNew
+Cleanliness: Sparkling
+SalesPrice:  26132.000000000004
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD
+Enter the number of the car you would like to buy
+1. Probe
+2. Escort
+3. Fiesta
+4. Ranger
+5. Colorado
+6. Tundra
+7. Taycan
+8. EQS
+9. Ninja
+10. Softail
+11. Grave Digger
+12. Grounded
+13. Avenger
+14. Hyper-3
+15. F-250-3
+16. Coach-2
+17. Mustang-3
+18. Bolt-3
+19. Armada-3
+20. Softail-4
+21. Bigfoot-3
+22. Grave Digger-3
+23. Predator-3
+24. Light-3
+25. Armada-4
+26. CBR1000-5
+27. Aventus-6
+28. Escort-4
+29. Bolt-4
+30. Mustang-4
+31. Europa-5
+32. Lift-4
+33. Corvette-5
+34. Aventus-7
+35. Avenger-4
+36. Super-7
+Salesperson Lucy-6 gets a bonus of $1,000.00!
+You bought Sparkling LikeNew Mustang-3 for base price of $41,494.00
+Would you like to add any addons to the vehicle
+1. Warranty
+2. Undercoating
+3. AAA
+4. Radio
+5. None
+Bought warranty add on
+Would you like to add any addons to the vehicle
+1. Warranty
+2. Undercoating
+3. AAA
+4. Radio
+5. None
+Bought undercoating add on
+Would you like to add any addons to the vehicle
+1. Warranty
+2. Undercoating
+3. AAA
+4. Radio
+5. None
+Bought AAA add on
+Would you like to add any addons to the vehicle
+1. Warranty
+2. Undercoating
+3. AAA
+4. Radio
+5. None
+Bought radio add on
+Would you like to add any addons to the vehicle
+1. Warranty
+2. Undercoating
+3. AAA
+4. Radio
+5. None
+No add on
+What would you like to do?
+1. Choose FNCD
+2. Ask Salesperson name
+3. Ask time
+4. Request new Salesperson
+5. Show Inventory
+6. Ask for details of item
+7. Buy item
+8. Leave FNCD

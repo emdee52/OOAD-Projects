@@ -1,114 +1,121 @@
 >>> Start Simulation Day 11 Fri
 The North FNCD is opening...
-North: Hired a new Intern named Desi-4
-North: Bought Grounded-17, a Dirty LikeNew MonsterTruck for $19,689.00
-North: Bought Armada-17, a Dirty Broken MonsterTruck for $11,609.00
-North: Bought Armor-17, a Dirty Used MonsterTruck for $18,045.60
-North: Bought Lift-17, a Dirty Broken MonsterTruck for $10,968.50
-North: Bought Hyper-21, a Clean Used MonsterTruck for $29,462.40
-North: Bought Aventus-21, a Clean Broken MonsterTruck for $14,877.50
-North: ***Budget overrun*** Added $250K, budget now: $237,697.82
-North: Bought Gallery-21, a Dirty LikeNew MonsterTruck for $43,307.00
-North: Bought Super-21, a Clean Broken MonsterTruck for $18,044.50
-North: Bought Soul-17, a Dirty Used MonsterTruck for $9,538.40
-North: Bought Avenger-17, a Clean Used MonsterTruck for $14,501.60
-North: Bought Light-17, a Dirty LikeNew MonsterTruck for $15,367.00
-North: Bought Coralla-17, a Clean Broken MonsterTruck for $5,463.00
+Type: Car
+Type in list: 4
+Type: PerfCar
+Type in list: 4
+Type: Pickup
+Type in list: 4
+Type: Electric
+Type in list: 4
+Type: Motorcycle
+Type in list: 4
+Type: MonsterTruck
+Type in list: 4
+Type: SUV
+Type in list: 4
+Type: SportsCar
+Type in list: 4
+Type: Sedan
+Type in list: 4
 The South FNCD is opening...
-South: Bought Fiesta-3, a Dirty Broken Car for $7,872.00
-South: Bought Sand-17, a Dirty Broken MonsterTruck for $10,916.50
-South: Bought Grounded-18, a Dirty Used MonsterTruck for $12,160.00
-South: Bought Armada-18, a Sparkling Used MonsterTruck for $12,478.40
-South: Bought Armor-18, a Dirty LikeNew MonsterTruck for $18,302.00
-South: Bought Hyper-22, a Dirty Used MonsterTruck for $20,745.60
-South: Bought Aventus-22, a Dirty Used MonsterTruck for $23,332.80
-South: Bought Gallery-22, a Dirty Broken MonsterTruck for $17,195.00
-South: Bought Super-22, a Dirty Broken MonsterTruck for $14,336.00
-South: Bought Coach-17, a Clean Broken MonsterTruck for $9,725.00
-South: Bought Soul-18, a Clean LikeNew MonsterTruck for $19,643.00
-South: Bought Avenger-18, a Dirty Broken MonsterTruck for $6,588.00
-South: Bought Light-18, a Sparkling LikeNew MonsterTruck for $17,723.00
+South: Hired a new Intern named Fred-6
+South: Hired a new Intern named Ethel-6
+Type: Car
+Type in list: 4
+Type: PerfCar
+Type in list: 4
+Type: Pickup
+Type in list: 4
+Type: Electric
+Type in list: 4
+Type: Motorcycle
+Type in list: 4
+Type: MonsterTruck
+Type in list: 4
+Type: SUV
+Type in list: 4
+Type: SportsCar
+Type in list: 4
+Type: Sedan
+Type in list: 4
 The North FNCD interns are washing...
-Intern Fred-3 washed Super-5 Dirty to Clean using Detailed method
-Intern Fred-3 washed Avenger-4 Dirty to Clean using Detailed method
-Intern Ethel-3 got a bonus of $100.00!
-Intern Ethel-3 washed Light-4 Dirty to Sparkling using Detailed method
-Intern Ethel-3 got a bonus of $100.00!
-Intern Ethel-3 washed Coralla-4 Dirty to Sparkling using Detailed method
-Intern Desi-4 washed Coach-4 Dirty to Clean using Detailed method
-Intern Desi-4 washed Sand-5 Dirty to Clean using Detailed method
+Intern Fred-4 got a bonus of $200.00!
+Intern Fred-4 washed Armor Dirty to Sparkling using Detailed method
+Intern Fred-4 got a bonus of $20.00!
+Intern Fred-4 washed Probe-3 Dirty to Sparkling using Detailed method
+Intern Ethel-4 washed Grounded-3 Dirty to Clean using Detailed method
+Intern Ethel-4 washed Taycan-3 Dirty to Clean using Detailed method
+Intern Lucy-5 washed Aventus-3 Dirty to Clean using Detailed method
+Intern Lucy-5 washed Bolt-3 Dirty to Clean using Detailed method
 The South FNCD interns are washing...
-Intern Fred-4 washed Coach Dirty to Clean using Detailed method
-Intern Fred-4 washed Light-2 Dirty to Clean using Detailed method
-Intern Ethel-4 washed Armor-3 Dirty to Clean using Chemical method
-Intern Ethel-4 washed Sand-3 Dirty to Clean using Chemical method
-Intern Lucy-4 washed Super-4 Dirty to Clean using ElbowGrease method
-Intern Lucy-4 washed Coach-3 Dirty to Clean using ElbowGrease method
+Intern Desi-5 washed Armor-2 Dirty to Clean using Chemical method
+Intern Desi-5 washed Gallery-2 Dirty to Clean using Chemical method
+Intern Fred-6 washed Super-2 Dirty to Clean using Chemical method
+Intern Fred-6 washed Coach Dirty to Clean using Chemical method
+Intern Ethel-6 washed Grave Digger-2 Dirty to Dirty using Detailed method
+Intern Ethel-6 washed Coralla-2 Dirty to Dirty using Detailed method
 The North FNCD mechanics are repairing...
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Coralla-4 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-3 Used to LikeNew
 Mechanic James got a bonus of $500.00!
-Mechanic James fixed Armada-6 Broken to Used
-Mechanic Scotty got a bonus of $500.00!
-Mechanic Scotty fixed Armada-6 Used to LikeNew
-Mechanic Scotty did not fix the Used Gallery-7
-Mechanic Lucy got a bonus of $750.00!
-Mechanic Lucy fixed Gallery-7 Used to LikeNew
-Mechanic Lucy got a bonus of $750.00!
-Mechanic Lucy fixed Super-7 Used to LikeNew
+Mechanic James fixed Grounded-3 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-3 Broken to Used
+Mechanic Scotty did not fix the Used Taycan-3
+Mechanic Ethel got a bonus of $200.00!
+Mechanic Ethel fixed F-250-3 Used to LikeNew
+Mechanic Ethel got a bonus of $200.00!
+Mechanic Ethel fixed Taycan-3 Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic Uhura got a bonus of $500.00!
-Mechanic Uhura fixed Sand-3 Used to LikeNew
-Mechanic Uhura did not fix the Broken Hyper-4
-Mechanic Scotty-2 got a bonus of $750.00!
-Mechanic Scotty-2 fixed Hyper-4 Broken to Used
-Mechanic Scotty-2 got a bonus of $750.00!
-Mechanic Scotty-2 fixed Aventus-4 Used to LikeNew
-Mechanic Lucy-2 got a bonus of $750.00!
-Mechanic Lucy-2 fixed Hyper-4 Used to LikeNew
-Mechanic Lucy-2 got a bonus of $750.00!
-Mechanic Lucy-2 fixed Gallery-4 Broken to Used
+Mechanic Desi-2 got a bonus of $750.00!
+Mechanic Desi-2 fixed Super-2 Used to LikeNew
+Mechanic Desi-2 got a bonus of $200.00!
+Mechanic Desi-2 fixed Coach Used to LikeNew
+Mechanic Lucy-4 got a bonus of $300.00!
+Mechanic Lucy-4 fixed Europa-3 Broken to Used
+Mechanic Lucy-4 did not fix the Broken Lift-2
+Mechanic Desi-4 did not fix the Used Europa-3
+Mechanic Desi-4 got a bonus of $500.00!
+Mechanic Desi-4 fixed Lift-2 Broken to Used
 The North FNCD salespeople are selling...
-The North FNCD has 3 buyers today...
-Buyer Chewy-16 wants a MonsterTruck (NeedsOne)
-Buyer Chewy-16 is buying! Salesperson Monica gets a bonus of $1,500.00!
-Buyer Chewy-16 bought Dirty LikeNew Gallery-21 for base price of $86,614.00
-Buyer Luke-17 wants a Sedan (JustLooking)
-Buyer Luke-17 decided not to buy.
-Buyer Leia-17 wants a SportsCar (WantsOne)
-Buyer Leia-17 decided not to buy.
+The North FNCD has 4 buyers today...
+Buyer Han-14 wants a SUV (WantsOne)
+Buyer Han-14 is buying! Salesperson Fred-3 gets a bonus of $800.00!
+Buyer Han-14 bought Sparkling LikeNew Armor for base price of $54,696.09
+Buyer Chewy-14 wants a PerfCar (NeedsOne)
+Buyer Chewy-14 is buying! Salesperson Fred gets a bonus of $1,000.00!
+Buyer Chewy-14 bought Clean LikeNew Cayman for base price of $68,950.00
+Buyer Luke-15 wants a PerfCar (JustLooking)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Motorcycle (NeedsOne)
+Buyer Leia-15 is buying! Salesperson Rachel gets a bonus of $1,250.00!
+Buyer Leia-15 bought Clean LikeNew Grom-4 for base price of $37,762.00
 The South FNCD salespeople are selling...
-The South FNCD has 8 buyers today...
-Buyer Han-17 wants a PerfCar (NeedsOne)
-Buyer Han-17 is buying! Salesperson Lucy-3 gets a bonus of $1,000.00!
-Buyer Han-17 bought Dirty LikeNew Mustang-3 for base price of $75,026.00
-Buyer Chewy-17 wants a Motorcycle (NeedsOne)
-Buyer Chewy-17 is buying! Salesperson Chandler gets a bonus of $1,250.00!
-Buyer Chewy-17 bought Dirty LikeNew Grom-3 for base price of $36,762.00
-Buyer Luke-18 wants a Electric (JustLooking)
-Buyer Luke-18 decided not to buy.
-Buyer Leia-18 wants a Electric (WantsOne)
-Buyer Leia-18 decided not to buy.
-Buyer Han-18 wants a Car (NeedsOne)
-Buyer Han-18 is buying! Salesperson Desi-2 gets a bonus of $500.00!
-Buyer Han-18 bought Clean LikeNew Fiesta-2 for base price of $33,255.00
-Buyer Chewy-18 wants a SportsCar (WantsOne)
-Buyer Chewy-18 decided not to buy.
-Buyer Luke-19 wants a PerfCar (WantsOne)
-Buyer Luke-19 is buying! Salesperson Lucy-3 gets a bonus of $1,000.00!
-Buyer Luke-19 bought Clean LikeNew Mustang-2 for base price of $49,712.00
-Buyer Leia-19 wants a Motorcycle (WantsOne)
-Buyer Leia-19 is buying! Salesperson Lucy-3 gets a bonus of $1,250.00!
-Buyer Leia-19 bought Clean LikeNew Softail-2 for base price of $19,684.00
-Intern Fred-3 is leaving the North FNCD
-Salesperson Lucy-3 is leaving the South FNCD
-Intern Fred-4 has been promoted to Salesperson in the South FNCD
-North FNCD: Vehicles in inventory 152
-North FNCD: Vehicles sold count 15
-North FNCD: Money in the budget $264,618.02
-South FNCD: Vehicles in inventory 147
-South FNCD: Vehicles sold count 18
-South FNCD: Money in the budget $234,669.55
+The South FNCD has 5 buyers today...
+Buyer Han-15 wants a PerfCar (NeedsOne)
+Buyer Han-15 is buying! Salesperson Lucy-2 gets a bonus of $1,000.00!
+Buyer Han-15 bought Clean LikeNew Mustang-2 for base price of $48,470.62
+Buyer Chewy-15 wants a SportsCar (NeedsOne)
+Buyer Chewy-15 is buying! Salesperson Ethel-2 gets a bonus of $1,500.00!
+Buyer Chewy-15 bought Clean LikeNew Gallery-2 for base price of $62,274.38
+Buyer Luke-16 wants a Car (WantsOne)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a MonsterTruck (NeedsOne)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Motorcycle (JustLooking)
+Buyer Han-16 decided not to buy.
+Salesperson Fred is leaving the North FNCD
+Intern Fred-4 has been promoted to Salesperson in the North FNCD
+Intern Fred-6 is leaving the South FNCD
+Mechanic Desi-4 is leaving the South FNCD
+Intern Desi-5 has been promoted to Mechanic in the South FNCD
+North FNCD: Vehicles in inventory 33
+North FNCD: Vehicles sold count 18
+North FNCD: Money in the budget $1,027,619.99
+South FNCD: Vehicles in inventory 34
+South FNCD: Vehicles sold count 16
+South FNCD: Money in the budget $674,605.18
 That's it for the day.
 >>> End Simulation Day 11 Fri
 

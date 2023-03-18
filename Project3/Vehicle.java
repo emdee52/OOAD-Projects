@@ -177,7 +177,7 @@ class SUV extends Vehicle {
     static Namer namer = new Namer(names);
     SUV() {
         super();
-        type = Enums.VehicleType.MonsterTruck;
+        type = Enums.VehicleType.SUV;
         name = namer.getNext();  // every new SUV gets a unique new name
         cost = getCost(15000,25000);
         price = cost * 2;
@@ -192,7 +192,7 @@ class SportsCar extends Vehicle {
     static Namer namer = new Namer(names);
     SportsCar() {
         super();
-        type = Enums.VehicleType.MonsterTruck;
+        type = Enums.VehicleType.SportsCar;
         name = namer.getNext();  // every new sports car gets a unique new name
         cost = getCost(25000,45000);
         price = cost * 2;
@@ -207,7 +207,7 @@ class Sedan extends Vehicle {
     static Namer namer = new Namer(names);
     Sedan() {
         super();
-        type = Enums.VehicleType.MonsterTruck;
+        type = Enums.VehicleType.Sedan;
         name = namer.getNext();  // every new sedan gets a unique new name
         cost = getCost(10000,20000);
         price = cost * 2;

@@ -142,6 +142,8 @@ public class Buyer implements SysOut{
             }
         }
         chosenVehicle.setPrice(v1.price());
+        currentFNCD.moneyIn(chosenVehicle.price);
+        currentFNCD.inventory.remove(chosenVehicle);
     }
 
     public void endInteractions() {
