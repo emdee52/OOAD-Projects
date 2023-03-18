@@ -1,70 +1,60 @@
 The North FNCD is opening...
 The South FNCD is opening...
 The North FNCD interns are washing...
-Intern Fred-9 got a bonus of $100.00!
-Corvette-5 became Broken
-Intern Fred-9 washed Corvette-5 Dirty to Sparkling using Chemical method
-Intern Fred-9 got a bonus of $75.00!
-F-250-6 became Broken
-Intern Fred-9 washed F-250-6 Dirty to Sparkling using Chemical method
-Intern Desi-10 washed Taurus-6 Dirty to Clean using Detailed method
-Intern Desi-10 washed Taycan-6 Dirty to Clean using Detailed method
-Intern Fred-11 washed Bolt-6 Dirty to Clean using Chemical method
-Intern Fred-11 washed Grom Clean to Clean using  Chemical method
+Intern Ethel-12 washed Sand-10 Dirty to Clean using Chemical method
+Intern Ethel-12 washed Grounded-11 Dirty to Clean using Chemical method
+Hyper-13 became Broken
+Intern Desi-12 washed Hyper-13 Dirty to Clean using Chemical method
+Coralla-10 became Broken
+Intern Desi-12 washed Coralla-10 Dirty to Clean using Chemical method
+Intern Ethel-13 washed Avenger-11 Dirty to Clean using Detailed method
+Intern Ethel-13 washed Armor-12 Dirty to Clean using Detailed method
 The South FNCD interns are washing...
-Intern Ethel-11 washed Bigfoot-2 Dirty to Clean using Detailed method
-Intern Ethel-11 washed EQS-6 Dirty to Clean using Detailed method
-Intern Lucy-11 washed CBR1000-6 Dirty to Clean using Detailed method
-Intern Lucy-11 washed Grave Digger-4 Dirty to Clean using Detailed method
-Intern Desi-11 washed Bigfoot-2 Clean to Clean using  Chemical method
-Intern Desi-11 washed CBR1000-4 Clean to Clean using  Chemical method
+Hyper-14 became LikeNew
+Intern Lucy-12 washed Hyper-14 Dirty to Dirty using ElbowGrease method
+Aventus-14 became LikeNew
+Intern Lucy-12 washed Aventus-14 Dirty to Dirty using ElbowGrease method
+Intern Fred-13 got a bonus of $250.00!
+Intern Fred-13 washed Hyper-14 Dirty to Sparkling using Detailed method
+Intern Fred-13 got a bonus of $250.00!
+Intern Fred-13 washed Aventus-14 Dirty to Sparkling using Detailed method
+Intern Lucy-13 washed Gallery-14 Dirty to Clean using Chemical method
+Intern Lucy-13 washed Super-14 Dirty to Clean using Chemical method
 The North FNCD mechanics are repairing...
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Corvette-5 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed F-250-6 Broken to Used
-Mechanic Ethel-8 got a bonus of $300.00!
-Mechanic Ethel-8 fixed Corvette-5 Used to LikeNew
-Mechanic Ethel-8 got a bonus of $200.00!
-Mechanic Ethel-8 fixed F-250-6 Used to LikeNew
-Mechanic Lucy-8 did not fix the Broken Taurus-6
-Mechanic Lucy-8 got a bonus of $200.00!
-Mechanic Lucy-8 fixed Taycan-6 Broken to Used
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Hyper-13 Broken to Used
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Super-13 Used to LikeNew
+Mechanic Desi-5 got a bonus of $750.00!
+Mechanic Desi-5 fixed Hyper-13 Used to LikeNew
+Mechanic Desi-5 got a bonus of $200.00!
+Mechanic Desi-5 fixed Coralla-10 Broken to Used
+Mechanic Lucy-9 did not fix the Used Coralla-10
+Mechanic Lucy-9 did not fix the Used Coach-10
 The South FNCD mechanics are repairing...
-Mechanic Scotty-2 did not fix the Broken Fiesta-6
-Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Mustang-5 Broken to Used
-Mechanic Ethel-7 got a bonus of $100.00!
-Mechanic Ethel-7 fixed Fiesta-6 Broken to Used
-Mechanic Ethel-7 got a bonus of $300.00!
-Mechanic Ethel-7 fixed Mustang-5 Used to LikeNew
-Mechanic Fred-10 got a bonus of $100.00!
-Mechanic Fred-10 fixed Fiesta-6 Used to LikeNew
-Mechanic Fred-10 got a bonus of $200.00!
-Mechanic Fred-10 fixed EQS-6 Used to LikeNew
+Mechanic Desi-7 got a bonus of $300.00!
+Mechanic Desi-7 fixed Cayman-3 Broken to Used
+Mechanic Desi-7 got a bonus of $200.00!
+Mechanic Desi-7 fixed Colorado-3 Broken to Used
+Mechanic Fred-9 got a bonus of $300.00!
+Mechanic Fred-9 fixed Cayman-3 Used to LikeNew
+Mechanic Fred-9 did not fix the Used Colorado-3
+Mechanic Lucy-11 did not fix the Used Colorado-3
+Mechanic Lucy-11 did not fix the Used Grounded-13
 The North FNCD salespeople are selling...
-Buyer Luke-45 wants a MonsterTruck (NeedsOne)
-Buyer Luke-45 decided not to buy.
-Buyer Leia-45 wants a Pickup (WantsOne)
-Buyer Leia-45 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Leia-45 bought Dirty LikeNew F-250-6 for base price of $114,233.20
-Buyer Han-45 wants a Motorcycle (WantsOne)
-Buyer Han-45 is buying! Salesperson Rachel gets a bonus of $1,250.00!
-Buyer Han-45 bought Clean LikeNew Softail-6 for base price of $21,725.62
+Buyer Leia-39 wants a Motorcycle (NeedsOne)
+Buyer Leia-39 is buying! Salesperson Desi-10 gets a bonus of $1,250.00!
+Buyer Leia-39 bought Dirty Used Ninja-5 for base price of $14,288.00
+Buyer Han-39 wants a Pickup (JustLooking)
+Buyer Han-39 decided not to buy.
+Buyer Chewy-39 wants a SportsCar (JustLooking)
+Buyer Chewy-39 decided not to buy.
 The South FNCD salespeople are selling...
-Buyer Chewy-45 wants a Electric (WantsOne)
-Buyer Chewy-45 is buying! Salesperson Fred-8 gets a bonus of $750.00!
-Buyer Chewy-45 bought Sparkling LikeNew Taycan-5 for base price of $68,911.88
-Buyer Luke-46 wants a MonsterTruck (JustLooking)
-Buyer Luke-46 decided not to buy.
-Buyer Leia-46 wants a Motorcycle (WantsOne)
-Buyer Leia-46 decided not to buy.
-Buyer Han-46 wants a MonsterTruck (WantsOne)
-Buyer Han-46 is buying! Salesperson Fred-8 gets a bonus of $1,000.00!
-Buyer Han-46 bought Clean LikeNew Grave Digger-3 for base price of $89,722.00
-Buyer Chewy-46 wants a Pickup (NeedsOne)
-Buyer Chewy-46 is buying! Salesperson Fred-8 gets a bonus of $750.00!
-Buyer Chewy-46 bought Clean LikeNew Colorado-6 for base price of $78,868.00
-Buyer Luke-47 wants a Motorcycle (JustLooking)
-Buyer Luke-47 decided not to buy.
+Buyer Luke-40 wants a Car (NeedsOne)
+Buyer Luke-40 decided not to buy.
+Buyer Leia-40 wants a SUV (WantsOne)
+Buyer Leia-40 decided not to buy.
+Buyer Han-40 wants a Motorcycle (WantsOne)
+Buyer Han-40 is buying! Salesperson Fred-7 gets a bonus of $1,250.00!
+Buyer Han-40 bought Dirty Used Softail-5 for base price of $17,561.60
 That's it for the day.

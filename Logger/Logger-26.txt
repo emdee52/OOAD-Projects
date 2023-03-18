@@ -1,56 +1,52 @@
 The North FNCD is opening...
 The South FNCD is opening...
 The North FNCD interns are washing...
-Intern Desi-10 washed Corvette-5 Dirty to Clean using Detailed method
-Intern Desi-10 washed Taurus-6 Dirty to Clean using Detailed method
-Intern Fred-11 washed Taycan-6 Dirty to Clean using Chemical method
-Intern Fred-11 washed Tundra-6 Dirty to Clean using Chemical method
-Intern Fred-12 washed Grom Clean to Clean using Detailed method
-Intern Fred-12 washed Softail Clean to Clean using Detailed method
+Hyper-13 became Broken
+Intern Ethel-12 washed Hyper-13 Dirty to Clean using Chemical method
+Super-13 became Broken
+Intern Ethel-12 washed Super-13 Dirty to Clean using Chemical method
+Intern Desi-12 washed Coralla-10 Dirty to Clean using Chemical method
+Intern Desi-12 washed Coach-10 Dirty to Clean using Chemical method
+Intern Ethel-13 washed Lift-12 Dirty to Clean using Detailed method
+Intern Ethel-13 washed Sand-12 Dirty to Clean using Detailed method
 The South FNCD interns are washing...
-Intern Ethel-11 got a bonus of $20.00!
-Intern Ethel-11 washed Fiesta-6 Dirty to Sparkling using Detailed method
-Intern Ethel-11 got a bonus of $100.00!
-Intern Ethel-11 washed Mustang-5 Dirty to Sparkling using Detailed method
-Intern Lucy-11 washed EQS-6 Dirty to Clean using Detailed method
-Intern Lucy-11 washed Ranger-7 Dirty to Clean using Detailed method
-Intern Desi-11 washed EV6-6 Dirty to Clean using Chemical method
-Intern Desi-11 washed Predator-4 Dirty to Clean using Chemical method
+Intern Lucy-12 washed Coralla-11 Dirty to Clean using ElbowGrease method
+Intern Lucy-12 washed Coach-11 Dirty to Clean using ElbowGrease method
+Intern Fred-13 washed Soul-12 Dirty to Dirty using Detailed method
+Intern Fred-13 washed Cayman-3 Dirty to Dirty using Detailed method
+Intern Lucy-13 got a bonus of $100.00!
+Intern Lucy-13 washed Soul-12 Dirty to Sparkling using Chemical method
+Intern Lucy-13 got a bonus of $100.00!
+Intern Lucy-13 washed Cayman-3 Dirty to Sparkling using Chemical method
 The North FNCD mechanics are repairing...
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Taurus-6 Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Taycan-6 Used to LikeNew
-Mechanic Ethel-8 did not fix the Used Taurus-6
-Mechanic Ethel-8 got a bonus of $200.00!
-Mechanic Ethel-8 fixed Bolt-6 Used to LikeNew
-Mechanic Fred-9 did not fix the Used Taurus-6
-Mechanic Fred-9 got a bonus of $200.00!
-Mechanic Fred-9 fixed Tundra-6 Broken to Used
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Hyper-13 Broken to Used
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Super-13 Broken to Used
+Mechanic Desi-5 got a bonus of $750.00!
+Mechanic Desi-5 fixed Hyper-13 Used to LikeNew
+Mechanic Desi-5 did not fix the Used Super-13
+Mechanic Lucy-9 got a bonus of $750.00!
+Mechanic Lucy-9 fixed Super-13 Used to LikeNew
+Mechanic Lucy-9 got a bonus of $200.00!
+Mechanic Lucy-9 fixed Coralla-10 Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic Scotty-2 did not fix the Broken CBR1000-6
-Mechanic Scotty-2 did not fix the Broken Grom-7
-Mechanic Ethel-7 got a bonus of $400.00!
-Mechanic Ethel-7 fixed CBR1000-6 Broken to Used
-Mechanic Ethel-7 got a bonus of $400.00!
-Mechanic Ethel-7 fixed Grom-7 Broken to Used
-Mechanic Fred-10 got a bonus of $400.00!
-Mechanic Fred-10 fixed CBR1000-6 Used to LikeNew
-Mechanic Fred-10 got a bonus of $400.00!
-Mechanic Fred-10 fixed Grom-7 Used to LikeNew
+Mechanic Desi-7 got a bonus of $200.00!
+Mechanic Desi-7 fixed Colorado-3 Used to LikeNew
+Mechanic Desi-7 got a bonus of $500.00!
+Mechanic Desi-7 fixed Grounded-13 Used to LikeNew
+Mechanic Fred-9 got a bonus of $500.00!
+Mechanic Fred-9 fixed Lift-13 Used to LikeNew
+Mechanic Fred-9 got a bonus of $750.00!
+Mechanic Fred-9 fixed Hyper-16 Broken to Used
+Mechanic Lucy-11 got a bonus of $750.00!
+Mechanic Lucy-11 fixed Hyper-16 Used to LikeNew
+Mechanic Lucy-11 got a bonus of $750.00!
+Mechanic Lucy-11 fixed Aventus-16 Broken to Used
 The North FNCD salespeople are selling...
-Buyer Leia-47 wants a Pickup (WantsOne)
-Buyer Leia-47 is buying! Salesperson Desi-8 gets a bonus of $750.00!
-Buyer Leia-47 bought Sparkling LikeNew F-250 for base price of $41,614.45
-Buyer Han-47 wants a Car (JustLooking)
-Buyer Han-47 is buying! Salesperson Desi-8 gets a bonus of $500.00!
-Buyer Han-47 bought Clean LikeNew Fiesta-5 for base price of $22,192.00
+Buyer Chewy-40 wants a Electric (JustLooking)
+Buyer Chewy-40 decided not to buy.
 The South FNCD salespeople are selling...
-Buyer Chewy-47 wants a Pickup (WantsOne)
-Buyer Chewy-47 decided not to buy.
-Buyer Luke-48 wants a Pickup (WantsOne)
-Buyer Luke-48 is buying! Salesperson Fred-8 gets a bonus of $750.00!
-Buyer Luke-48 bought Clean Used Ranger-7 for base price of $62,774.40
-Buyer Leia-48 wants a MonsterTruck (JustLooking)
-Buyer Leia-48 decided not to buy.
+Buyer Luke-41 wants a Motorcycle (WantsOne)
+Buyer Luke-41 decided not to buy.
 That's it for the day.

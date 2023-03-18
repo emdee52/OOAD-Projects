@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Scanner;
 
 // Simulator to cycle for select number of days
 public class Simulator implements SysOut {
@@ -6,7 +7,7 @@ public class Simulator implements SysOut {
     Enums.DayOfWeek dayOfWeek;
     public Announcer announcer;
     public Logger logger;
-    public Tracker tracker;
+    private Scanner readUser = new Scanner(System.in);
     Simulator() {
         numDays = 30;  // magic number for days to run here
         dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class);  // we'll start on a random day (for fun)
@@ -37,6 +38,7 @@ public class Simulator implements SysOut {
             outP("6. Ask for details of item", announcer, numDays);
             outP("7. Buy item", announcer, numDays);
             outP("8. Leave FNCD", announcer, numDays);
+            buyerChoice = readUser.nextInt();
             switch (buyerChoice) {
                 case 1:
                     FNCDSelect fncdSelectcommand = new FNCDSelect(user);
@@ -71,6 +73,7 @@ public class Simulator implements SysOut {
                     invoker.takeCommand(endInteractionsCommand);
                     break;
                 default:
+                    outP("Please choose a valid option", announcer, buyerChoice);
                     break;
             }
             invoker.placeCommand();

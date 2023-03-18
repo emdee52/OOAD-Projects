@@ -1,59 +1,52 @@
 The North FNCD is opening...
 The South FNCD is opening...
 The North FNCD interns are washing...
-Intern Desi-2 washed Taurus-3 Dirty to Clean using ElbowGrease method
-Intern Desi-2 washed Taycan-4 Dirty to Clean using ElbowGrease method
-Intern Lucy-3 got a bonus of $20.00!
-Intern Lucy-3 washed Fiesta-3 Dirty to Sparkling using Chemical method
-Intern Lucy-3 got a bonus of $20.00!
-Intern Lucy-3 washed Probe-4 Dirty to Sparkling using Chemical method
-Intern Fred-4 washed EQS-4 Dirty to Clean using Chemical method
-Intern Fred-4 washed Cayman Clean to Clean using  Chemical method
+Intern Lucy-3 washed Gallery Dirty to Clean using ElbowGrease method
+Intern Lucy-3 washed Super Dirty to Clean using ElbowGrease method
+Intern Desi-4 washed Soul Dirty to Clean using Chemical method
+Intern Desi-4 washed Avenger Dirty to Clean using Chemical method
+Intern Fred-5 washed Light Dirty to Clean using ElbowGrease method
+Intern Fred-5 washed Coralla Dirty to Clean using ElbowGrease method
 The South FNCD interns are washing...
-Intern Desi-3 washed Ranger-4 Dirty to Clean using Detailed method
-Intern Desi-3 washed Bolt-4 Dirty to Clean using Detailed method
-Intern Ethel-4 washed Escort-4 Dirty to Clean using ElbowGrease method
-Intern Ethel-4 washed Mustang-3 Dirty to Clean using ElbowGrease method
-Intern Lucy-4 got a bonus of $100.00!
-Intern Lucy-4 washed Europa-2 Clean to Sparkling using  Chemical method
-Intern Lucy-4 got a bonus of $100.00!
-Intern Lucy-4 washed Mustang-2 Clean to Sparkling using  Chemical method
+Intern Ethel-4 washed Coach Dirty to Clean using Detailed method
+Intern Ethel-4 washed Soul-2 Dirty to Clean using Detailed method
+Avenger-2 became Broken
+Intern Ethel-5 washed Avenger-2 Dirty to Dirty using Chemical method
+Light-2 became Broken
+Intern Ethel-5 washed Light-2 Dirty to Dirty using Chemical method
+Intern Lucy-5 washed Avenger-2 Dirty to Dirty using Chemical method
+Intern Lucy-5 washed Light-2 Dirty to Dirty using Chemical method
 The North FNCD mechanics are repairing...
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Probe-4 Broken to Used
-Mechanic Fred got a bonus of $100.00!
-Mechanic Fred fixed Probe-4 Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed Coralla Used to LikeNew
+Mechanic Fred got a bonus of $200.00!
+Mechanic Fred fixed Taycan-3 Used to LikeNew
+Mechanic Ethel got a bonus of $500.00!
+Mechanic Ethel fixed Lift-2 Used to LikeNew
+Mechanic Ethel got a bonus of $750.00!
+Mechanic Ethel fixed Hyper-3 Broken to Used
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Hyper-3 Used to LikeNew
+Mechanic Ethel-3 did not fix the Broken Aventus-3
 The South FNCD mechanics are repairing...
-Mechanic Scotty-2 got a bonus of $100.00!
-Mechanic Scotty-2 fixed Escort-4 Used to LikeNew
-Mechanic Scotty-2 did not fix the Used Mustang-3
-Mechanic Ethel-2 got a bonus of $300.00!
-Mechanic Ethel-2 fixed Mustang-3 Used to LikeNew
-Mechanic Ethel-2 got a bonus of $200.00!
-Mechanic Ethel-2 fixed EV6-4 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Avenger-2 Broken to Used
+Mechanic James-2 did not fix the Broken Light-2
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Avenger-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Light-2 Broken to Used
+Mechanic Fred-4 did not fix the Used Light-2
+Mechanic Fred-4 got a bonus of $500.00!
+Mechanic Fred-4 fixed Lift-3 Broken to Used
 The North FNCD salespeople are selling...
-Buyer Leia-13 wants a Motorcycle (WantsOne)
-Buyer Leia-13 is buying! Salesperson Rachel gets a bonus of $1,250.00!
-Buyer Leia-13 bought Sparkling LikeNew CBR1000 for base price of $20,426.25
-Buyer Han-13 wants a Car (WantsOne)
-Buyer Han-13 decided not to buy.
-Buyer Chewy-13 wants a PerfCar (JustLooking)
-Buyer Chewy-13 decided not to buy.
-Buyer Luke-14 wants a PerfCar (WantsOne)
-Buyer Luke-14 decided not to buy.
+Buyer Luke-11 wants a Pickup (JustLooking)
+Buyer Luke-11 decided not to buy.
 The South FNCD salespeople are selling...
-Buyer Leia-14 wants a PerfCar (NeedsOne)
-Buyer Leia-14 is buying! Salesperson Chandler gets a bonus of $1,000.00!
-Buyer Leia-14 bought Dirty LikeNew Mustang-3 for base price of $65,988.00
-Buyer Han-14 wants a MonsterTruck (NeedsOne)
-Buyer Han-14 is buying! Salesperson Ross gets a bonus of $1,000.00!
-Buyer Han-14 bought Clean LikeNew Raminator for base price of $89,420.00
-Buyer Chewy-14 wants a Electric (WantsOne)
-Buyer Chewy-14 is buying! Salesperson Chandler gets a bonus of $750.00!
-Buyer Chewy-14 bought Clean LikeNew Taycan-2 for base price of $80,182.00
-Buyer Luke-15 wants a Pickup (NeedsOne)
-Buyer Luke-15 is buying! Salesperson Fred-2 gets a bonus of $750.00!
-Buyer Luke-15 bought Clean LikeNew Ranger-4 for base price of $54,026.25
-Buyer Leia-15 wants a Electric (WantsOne)
-Buyer Leia-15 decided not to buy.
+Buyer Leia-11 wants a Pickup (JustLooking)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Motorcycle (JustLooking)
+Buyer Han-11 decided not to buy.
+Buyer Chewy-11 wants a PerfCar (JustLooking)
+Buyer Chewy-11 decided not to buy.
 That's it for the day.

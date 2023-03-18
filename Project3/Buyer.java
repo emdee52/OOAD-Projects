@@ -13,7 +13,6 @@ public class Buyer implements SysOut{
     Staff attendingStaff;
     public Announcer announcer;
     public Logger logger;
-    public Tracker tracker;
     private int numDays = 31;
     private Scanner readUser = new Scanner(System.in);
 
@@ -24,6 +23,8 @@ public class Buyer implements SysOut{
         preference = Utility.randomEnum(Enums.VehicleType.class);
         type = Utility.randomEnum(Enums.BuyerType.class);
         name = namer.getNext();
+        announcer = Fncd.announcer;
+        currentFNCD = Fncd;
     }
 
     public void choosingFNCD(FNCD chosenFNCD) {
@@ -64,14 +65,17 @@ public class Buyer implements SysOut{
             else {
                 attendingStaff = s;
                 outP("Your new sales person is " + attendingStaff.name, announcer, numDays);
+                break;
             }
         }
     }
 
     public void AskingInventory() {
+        int i = 1;
         outP("Asking for Inventory", announcer, numDays);
         for(Vehicle v : currentFNCD.inventory) {
-            outP(v.name, announcer, numDays);
+            outP(i + ". " + v.name, announcer, numDays);
+            i = i + 1;
         }
     }
 
@@ -79,11 +83,12 @@ public class Buyer implements SysOut{
         int i = 1;
         outP("Enter the number of the car you would like to look at", announcer, numDays);
         for(Vehicle v : currentFNCD.inventory) {
-            outP(i + v.name, announcer, numDays);
+            outP(i + ". " + v.name, announcer, numDays);
+            i = i + 1;
         }
         int vehicleDetails = readUser.nextInt() -1;
         Vehicle chosenVehicle = currentFNCD.inventory.get(vehicleDetails);
-        outP("\nType:        " + this.getClass(), announcer, numDays);
+        outP("\nType:        " + chosenVehicle.type.toString(), announcer, numDays);
         outP("Name:        " + chosenVehicle.name, announcer, numDays);
         outP("Condition:   " + chosenVehicle.condition, announcer, numDays);
         outP("Cleanliness: " + chosenVehicle.cleanliness, announcer, numDays);
@@ -94,7 +99,8 @@ public class Buyer implements SysOut{
         int i = 1;
         outP("Enter the number of the car you would like to buy", announcer, numDays);
         for(Vehicle v : currentFNCD.inventory) {
-            outP(i + v.name, announcer, numDays);
+            outP(i + ". " + v.name, announcer, numDays);
+            i = i + 1;
         }
         int vehicleDetails = readUser.nextInt() -1;
         Vehicle chosenVehicle = currentFNCD.inventory.get(vehicleDetails);

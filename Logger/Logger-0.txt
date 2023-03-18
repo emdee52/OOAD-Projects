@@ -1,0 +1,1831 @@
+North: Hired a new Intern named Fred
+North: Hired a new Intern named Ethel
+North: Hired a new Intern named Lucy
+North: Hired a new Mechanic named James
+North: Hired a new Mechanic named Scotty
+North: Hired a new Mechanic named Spock
+North: Hired a new Salesperson named Rachel
+North: Hired a new Salesperson named Monica
+North: Hired a new Salesperson named Phoebe
+North: Hired a new Driver named Billy
+North: Hired a new Driver named Bob
+North: Hired a new Driver named Joe
+North: Bought Probe, a Dirty LikeNew Car for $18,458.00
+North: Bought Escort, a Sparkling LikeNew Car for $11,581.00
+North: Bought Taurus, a Dirty Used Car for $13,652.80
+North: Bought Fiesta, a Dirty LikeNew Car for $14,574.00
+North: Bought Europa, a Clean LikeNew PerfCar for $39,401.00
+North: ***Budget overrun*** Added $250K, budget now: $226,542.20
+North: Bought Cayman, a Clean LikeNew PerfCar for $25,791.00
+North: Bought Corvette, a Dirty Broken PerfCar for $14,339.00
+North: Bought Mustang, a Dirty Used PerfCar for $21,736.80
+North: Bought Ranger, a Dirty Broken Pickup for $18,765.00
+North: Bought F-250, a Dirty Broken Pickup for $14,699.50
+North: Bought Colorado, a Clean Used Pickup for $30,532.00
+North: Bought Tundra, a Dirty LikeNew Pickup for $14,745.00
+North: Bought Taycan, a Dirty LikeNew Electric for $34,433.00
+North: Bought Bolt, a Clean Used Electric for $31,147.20
+North: Bought EQS, a Clean LikeNew Electric for $42,030.00
+North: ***Budget overrun*** Added $250K, budget now: $233,609.10
+North: Bought EV6, a Dirty Used Electric for $20,505.60
+North: Bought Grom, a Clean LikeNew Motorcycle for $15,224.00
+North: Bought Ninja, a Dirty Used Motorcycle for $13,381.60
+North: Bought Softail, a Dirty LikeNew Motorcycle for $6,124.00
+North: Bought CBR1000, a Dirty LikeNew Motorcycle for $6,204.00
+North: Bought Batman, a Dirty Used MonsterTruck for $32,360.00
+North: Bought Avenger, a Dirty Broken MonsterTruck for $19,249.00
+North: Bought Bigfoot, a Dirty LikeNew MonsterTruck for $35,070.00
+North: Bought Grave Digger, a Clean Broken MonsterTruck for $10,375.00
+North: Bought Grounded, a Clean Used MonsterTruck for $14,455.20
+North: Bought Armada, a Dirty Used MonsterTruck for $16,988.00
+North: Bought Armor, a Sparkling Broken MonsterTruck for $11,525.00
+North: Bought Lift, a Clean LikeNew MonsterTruck for $18,724.00
+North: Bought Hyper, a Dirty Broken MonsterTruck for $13,830.50
+North: Bought Aventus, a Dirty Used MonsterTruck for $20,049.60
+North: ***Budget overrun*** Added $250K, budget now: $219,445.20
+North: Bought Gallery, a Dirty LikeNew MonsterTruck for $30,604.00
+North: Bought Super, a Clean Broken MonsterTruck for $17,298.00
+North: Bought Soul, a Dirty Used MonsterTruck for $10,208.80
+North: Bought Avenger, a Dirty Used MonsterTruck for $9,551.20
+North: Bought Light, a Dirty Broken MonsterTruck for $9,578.50
+North: Bought Coralla, a Dirty Broken MonsterTruck for $6,619.50
+South: Hired a new Intern named Desi
+South: Hired a new Intern named Fred-2
+South: Hired a new Intern named Ethel-2
+South: Hired a new Mechanic named Uhura
+South: Hired a new Mechanic named James-2
+South: Hired a new Mechanic named Scotty-2
+South: Hired a new Salesperson named Chandler
+South: Hired a new Salesperson named Ross
+South: Hired a new Salesperson named Joey
+South: Hired a new Driver named Junior
+South: Hired a new Driver named Kat
+South: Hired a new Driver named Caitlyn
+South: Bought Probe-2, a Dirty LikeNew Car for $14,543.00
+South: Bought Escort-2, a Dirty Used Car for $12,742.40
+South: Bought Taurus-2, a Clean Broken Car for $7,198.00
+South: Bought Fiesta-2, a Clean Broken Car for $5,385.00
+South: Bought Europa-2, a Dirty Used PerfCar for $23,532.80
+South: Bought Cayman-2, a Clean Used PerfCar for $16,911.20
+South: ***Budget overrun*** Added $250K, budget now: $247,738.80
+South: Bought Corvette-2, a Dirty Used PerfCar for $21,948.80
+South: Bought Mustang-2, a Dirty LikeNew PerfCar for $29,761.00
+South: Bought Ranger-2, a Clean Used Pickup for $31,757.60
+South: Bought F-250-2, a Dirty LikeNew Pickup for $18,718.00
+South: Bought Colorado-2, a Clean LikeNew Pickup for $24,873.00
+South: Bought Tundra-2, a Clean Broken Pickup for $10,426.50
+South: Bought Taycan-2, a Dirty Used Electric for $27,222.40
+South: Bought Bolt-2, a Dirty Used Electric for $34,607.20
+South: Bought EQS-2, a Clean Broken Electric for $14,267.00
+South: Bought EV6-2, a Clean LikeNew Electric for $33,019.00
+South: Bought Grom-2, a Dirty Used Motorcycle for $4,445.60
+South: ***Budget overrun*** Added $250K, budget now: $249,701.50
+South: Bought Ninja-2, a Dirty LikeNew Motorcycle for $18,940.00
+South: Bought Softail-2, a Clean LikeNew Motorcycle for $17,173.00
+South: Bought CBR1000-2, a Clean LikeNew Motorcycle for $19,099.00
+South: Bought Predator, a Dirty LikeNew MonsterTruck for $44,737.00
+South: Bought Raminator, a Clean Used MonsterTruck for $17,383.20
+South: Bought Batman-2, a Dirty Used MonsterTruck for $27,156.00
+South: Bought Avenger-2, a Dirty Broken MonsterTruck for $15,472.50
+South: Bought Sand, a Dirty Used MonsterTruck for $13,257.60
+South: Bought Grounded-2, a Dirty LikeNew MonsterTruck for $18,666.00
+South: Bought Armada-2, a Clean LikeNew MonsterTruck for $21,642.00
+South: Bought Armor-2, a Dirty Used MonsterTruck for $13,136.80
+South: Bought Hyper-2, a Sparkling Broken MonsterTruck for $18,437.00
+South: ***Budget overrun*** Added $250K, budget now: $243,086.20
+South: Bought Aventus-2, a Dirty Used MonsterTruck for $30,455.20
+South: Bought Gallery-2, a Dirty LikeNew MonsterTruck for $34,254.00
+South: Bought Super-2, a Dirty Broken MonsterTruck for $14,024.50
+South: Bought Coach, a Dirty Used MonsterTruck for $8,866.40
+South: Bought Soul-2, a Dirty Broken MonsterTruck for $8,145.00
+South: Bought Avenger-2, a Clean Used MonsterTruck for $14,684.80
+South: Bought Light-2, a Dirty Broken MonsterTruck for $5,348.00
+The North FNCD has 1 buyers today...
+The South FNCD has 3 buyers today...
+Mechanic Spock is leaving the North FNCD
+Intern Fred has been promoted to Mechanic in the North FNCD
+Salesperson Ross is leaving the South FNCD
+Intern Desi has been promoted to Salesperson in the South FNCD
+Mechanic Uhura is leaving the South FNCD
+Intern Fred-2 has been promoted to Mechanic in the South FNCD
+North: Its Racing Time!
+North FNCD driver participating: Billy
+North FNCD driver participating: Bob
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer20
+Place: 2 Racer3
+Place: 3 Racer5
+Place: 4 Racer11
+Place: 5 Racer17
+Place: 6 Racer13
+Place: 7 Racer12
+Place: 8 Racer9
+Place: 9 Racer4
+Place: 10 Bob
+Place: 11 Racer8
+Place: 12 Racer16
+Place: 13 Racer14
+Place: 14 Racer19
+Place: 15 Racer6
+Place: 16 Racer10
+Place: 17 Billy
+Colorado is now broken.
+Driver Billy is leaving due to injury
+Place: 18 Racer15
+Place: 19 Racer7
+Place: 20 Racer18
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer8
+Place: 2 Racer16
+Place: 3 Racer7
+Place: 4 Racer10
+Place: 5 Racer18
+Place: 6 Racer12
+Place: 7 Racer9
+Place: 8 Racer17
+Place: 9 Racer6
+Place: 10 Racer14
+Place: 11 Racer4
+Place: 12 Racer15
+Place: 13 Racer1
+Place: 14 Racer19
+Place: 15 Racer5
+Place: 16 Racer3
+Place: 17 Racer13
+Place: 18 Racer20
+Place: 19 Racer2
+Place: 20 Racer11
+North: Hired a new Intern named Lucy-2
+North: Hired a new Driver named Billy-2
+North: Bought Taycan-3, a Clean Used Electric for $32,865.60
+North: Bought Lift-2, a Clean Used MonsterTruck for $13,910.40
+North: Bought Sand-2, a Dirty LikeNew MonsterTruck for $23,951.00
+North: Bought Grounded-3, a Dirty LikeNew MonsterTruck for $18,562.00
+North: Bought Armada-3, a Sparkling LikeNew MonsterTruck for $24,373.00
+North: Bought Hyper-3, a Clean Broken MonsterTruck for $14,234.00
+North: Bought Aventus-3, a Dirty Broken MonsterTruck for $16,153.50
+North: Bought Gallery-3, a Clean Used MonsterTruck for $34,438.40
+North: Bought Super-3, a Dirty Used MonsterTruck for $35,161.60
+North: Bought Coralla-2, a Clean Broken MonsterTruck for $7,570.00
+North: Bought Coach-2, a Clean LikeNew MonsterTruck for $13,776.00
+North: Bought Soul-3, a Dirty Broken MonsterTruck for $8,445.00
+North: Bought Avenger-3, a Clean Broken MonsterTruck for $5,009.50
+South: Hired a new Intern named Desi-2
+South: Hired a new Intern named Fred-3
+South: Bought Europa-3, a Clean Used PerfCar for $22,120.80
+South: Bought Armor-3, a Dirty LikeNew MonsterTruck for $20,462.00
+South: Bought Lift-3, a Sparkling Broken MonsterTruck for $10,541.50
+South: Bought Sand-3, a Clean LikeNew MonsterTruck for $19,196.00
+South: Bought Grounded-4, a Dirty Used MonsterTruck for $16,374.40
+South: Bought Hyper-4, a Dirty LikeNew MonsterTruck for $29,957.00
+South: Bought Aventus-4, a Dirty Used MonsterTruck for $20,492.00
+South: Bought Gallery-4, a Dirty Broken MonsterTruck for $21,918.50
+South: Bought Super-4, a Dirty Used MonsterTruck for $24,956.00
+South: Bought Light-3, a Clean Broken MonsterTruck for $8,521.00
+South: Bought Coralla-3, a Dirty LikeNew MonsterTruck for $19,704.00
+South: Bought Coach-3, a Clean LikeNew MonsterTruck for $16,388.00
+South: ***Budget overrun*** Added $250K, budget now: $245,163.41
+South: Bought Soul-4, a Clean Broken MonsterTruck for $9,606.50
+The North FNCD has 0 buyers today...
+The South FNCD has 5 buyers today...
+North: ***Budget overrun*** Added $250K, budget now: $249,959.20
+Mechanic Scotty is leaving the North FNCD
+Intern Ethel has been promoted to Mechanic in the North FNCD
+Salesperson Rachel is leaving the North FNCD
+Intern Lucy has been promoted to Salesperson in the North FNCD
+North: Hired a new Intern named Ethel-3
+North: Hired a new Intern named Lucy-3
+North: Bought Armada-4, a Clean LikeNew MonsterTruck for $16,162.00
+North: Bought Armor-4, a Dirty Broken MonsterTruck for $11,921.50
+North: Bought Lift-4, a Dirty Broken MonsterTruck for $8,594.00
+North: Bought Sand-4, a Clean Broken MonsterTruck for $11,484.50
+North: Bought Hyper-5, a Clean Broken MonsterTruck for $14,049.00
+North: Bought Aventus-5, a Dirty LikeNew MonsterTruck for $31,782.00
+North: Bought Gallery-5, a Dirty Broken MonsterTruck for $15,607.00
+North: Bought Super-5, a Dirty LikeNew MonsterTruck for $37,011.00
+North: Bought Avenger-4, a Dirty Broken MonsterTruck for $7,239.50
+North: Bought Light-4, a Clean Used MonsterTruck for $9,362.40
+North: Bought Coralla-4, a Dirty Broken MonsterTruck for $8,533.00
+North: Bought Coach-4, a Dirty Broken MonsterTruck for $7,298.50
+South: Bought Grounded-5, a Dirty Used MonsterTruck for $17,503.20
+South: Bought Armada-5, a Clean Used MonsterTruck for $16,683.20
+South: Bought Armor-5, a Dirty Used MonsterTruck for $18,728.80
+South: Bought Lift-5, a Clean Broken MonsterTruck for $8,619.00
+South: Bought Hyper-6, a Dirty Used MonsterTruck for $30,182.40
+South: Bought Aventus-6, a Dirty Used MonsterTruck for $35,963.20
+South: Bought Gallery-6, a Dirty LikeNew MonsterTruck for $30,905.00
+South: Bought Super-6, a Dirty LikeNew MonsterTruck for $37,723.00
+South: Bought Soul-5, a Clean Broken MonsterTruck for $5,861.00
+South: Bought Avenger-5, a Dirty Broken MonsterTruck for $6,802.50
+South: Bought Light-5, a Clean Broken MonsterTruck for $6,165.00
+South: Bought Coralla-5, a Dirty Broken MonsterTruck for $8,468.00
+The North FNCD has 2 buyers today...
+The South FNCD has 4 buyers today...
+Intern Fred-3 is leaving the South FNCD
+Salesperson Chandler is leaving the South FNCD
+Intern Ethel-2 has been promoted to Salesperson in the South FNCD
+North: Bought Sand-5, a Clean LikeNew MonsterTruck for $17,417.00
+North: Bought Grounded-6, a Dirty LikeNew MonsterTruck for $21,744.00
+North: Bought Armada-6, a Dirty Broken MonsterTruck for $10,845.00
+North: Bought Armor-6, a Clean Broken MonsterTruck for $10,384.00
+North: ***Budget overrun*** Added $250K, budget now: $230,530.80
+North: Bought Hyper-7, a Dirty LikeNew MonsterTruck for $28,504.00
+North: Bought Aventus-7, a Dirty Used MonsterTruck for $24,318.40
+North: Bought Gallery-7, a Clean Broken MonsterTruck for $14,763.00
+North: Bought Super-7, a Clean LikeNew MonsterTruck for $33,652.00
+North: Bought Coach-5, a Clean LikeNew MonsterTruck for $12,958.00
+North: Bought Soul-6, a Dirty Broken MonsterTruck for $7,707.00
+North: Bought Avenger-6, a Dirty Broken MonsterTruck for $5,614.00
+North: Bought Light-6, a Dirty Broken MonsterTruck for $5,627.50
+South: Hired a new Intern named Desi-3
+South: Hired a new Intern named Fred-4
+South: Bought Ranger-3, a Dirty Used Pickup for $30,736.80
+South: Bought Bolt-3, a Clean Used Electric for $33,551.20
+South: Bought Lift-6, a Dirty LikeNew MonsterTruck for $15,085.00
+South: Bought Sand-6, a Clean LikeNew MonsterTruck for $21,564.00
+South: Bought Grounded-7, a Clean Used MonsterTruck for $13,835.20
+South: Bought Armada-7, a Clean Used MonsterTruck for $19,849.60
+South: Bought Hyper-8, a Clean LikeNew MonsterTruck for $33,452.00
+South: Bought Aventus-8, a Clean Used MonsterTruck for $24,277.60
+South: ***Budget overrun*** Added $250K, budget now: $232,034.02
+South: Bought Gallery-8, a Clean LikeNew MonsterTruck for $38,811.00
+South: Bought Super-8, a Dirty LikeNew MonsterTruck for $30,532.00
+South: Bought Coralla-6, a Dirty LikeNew MonsterTruck for $12,821.00
+South: Bought Coach-6, a Dirty LikeNew MonsterTruck for $14,441.00
+South: Bought Soul-7, a Clean LikeNew MonsterTruck for $14,645.00
+South: Bought Avenger-7, a Clean Broken MonsterTruck for $6,017.00
+The North FNCD has 1 buyers today...
+The South FNCD has 0 buyers today...
+Intern Desi-2 is leaving the South FNCD
+Salesperson Joey is leaving the South FNCD
+Intern Desi-3 has been promoted to Salesperson in the South FNCD
+North: Its Racing Time!
+North FNCD driver participating: Bob
+North FNCD driver participating: Joe
+North FNCD driver participating: Billy-2
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Bob
+Place: 2 Billy-2
+Place: 3 Racer9
+Place: 4 Racer7
+Place: 5 Racer20
+Place: 6 Racer12
+Place: 7 Racer6
+Place: 8 Racer18
+Place: 9 Racer16
+Place: 10 Joe
+Place: 11 Racer10
+Place: 12 Racer5
+Place: 13 Racer4
+Place: 14 Racer19
+Place: 15 Racer8
+Place: 16 Racer13
+Place: 17 Racer15
+Place: 18 Racer14
+Place: 19 Racer11
+Place: 20 Racer17
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer16
+Place: 2 Racer15
+Place: 3 Racer18
+Place: 4 Racer3
+Place: 5 Racer20
+Place: 6 Racer12
+Place: 7 Racer17
+Place: 8 Racer8
+Place: 9 Racer13
+Place: 10 Racer9
+Place: 11 Racer11
+Place: 12 Racer7
+Place: 13 Racer2
+Place: 14 Racer14
+Place: 15 Racer1
+Place: 16 Racer6
+Place: 17 Racer19
+Place: 18 Racer5
+Place: 19 Racer10
+Place: 20 Racer4
+North: Bought Armor-7, a Dirty Broken MonsterTruck for $11,567.50
+North: Bought Lift-7, a Dirty LikeNew MonsterTruck for $23,475.00
+North: Bought Sand-7, a Clean Used MonsterTruck for $15,305.60
+North: Bought Grounded-8, a Dirty Broken MonsterTruck for $9,848.00
+North: Bought Hyper-9, a Dirty Used MonsterTruck for $30,248.00
+North: Bought Aventus-9, a Dirty Used MonsterTruck for $26,479.20
+North: ***Budget overrun*** Added $250K, budget now: $235,027.60
+North: Bought Gallery-9, a Dirty Broken MonsterTruck for $22,230.00
+North: Bought Super-9, a Clean LikeNew MonsterTruck for $43,330.00
+North: Bought Light-7, a Clean Broken MonsterTruck for $7,062.00
+North: Bought Coralla-7, a Dirty Used MonsterTruck for $15,195.20
+North: Bought Coach-7, a Dirty Broken MonsterTruck for $9,006.00
+North: Bought Soul-8, a Sparkling LikeNew MonsterTruck for $12,507.00
+South: Hired a new Intern named Ethel-4
+South: Hired a new Intern named Lucy-4
+South: Bought Armada-8, a Dirty LikeNew MonsterTruck for $20,220.00
+South: Bought Armor-8, a Dirty Broken MonsterTruck for $12,377.50
+South: Bought Lift-8, a Dirty Used MonsterTruck for $17,515.20
+South: Bought Sand-8, a Dirty Used MonsterTruck for $18,390.40
+South: Bought Hyper-10, a Clean Broken MonsterTruck for $17,412.50
+South: Bought Aventus-10, a Dirty LikeNew MonsterTruck for $34,304.00
+South: Bought Gallery-10, a Dirty Used MonsterTruck for $30,772.00
+South: ***Budget overrun*** Added $250K, budget now: $208,968.42
+South: Bought Super-10, a Clean LikeNew MonsterTruck for $42,508.00
+South: Bought Avenger-8, a Dirty LikeNew MonsterTruck for $16,512.00
+South: Bought Light-8, a Dirty LikeNew MonsterTruck for $17,866.00
+South: Bought Coralla-8, a Clean Used MonsterTruck for $12,483.20
+South: Bought Coach-8, a Dirty Broken MonsterTruck for $8,123.00
+The North FNCD has 2 buyers today...
+The South FNCD has 3 buyers today...
+North: Bought Grounded-9, a Clean Broken MonsterTruck for $11,681.00
+North: Bought Armada-9, a Dirty LikeNew MonsterTruck for $17,275.00
+North: Bought Armor-9, a Clean Broken MonsterTruck for $12,295.50
+North: Bought Lift-9, a Clean Broken MonsterTruck for $11,129.50
+North: Bought Hyper-11, a Dirty LikeNew MonsterTruck for $43,624.00
+North: Bought Aventus-11, a Clean Used MonsterTruck for $33,669.60
+North: Bought Gallery-11, a Dirty Broken MonsterTruck for $13,116.00
+North: ***Budget overrun*** Added $250K, budget now: $215,978.80
+North: Bought Super-11, a Clean LikeNew MonsterTruck for $38,048.00
+North: Bought Soul-9, a Dirty Used MonsterTruck for $11,759.20
+North: Bought Avenger-9, a Dirty Broken MonsterTruck for $5,674.00
+North: Bought Light-9, a Dirty Used MonsterTruck for $15,025.60
+North: Bought Coralla-9, a Dirty Used MonsterTruck for $13,950.40
+South: Bought Probe-3, a Dirty Used Car for $8,239.20
+South: Bought Sand-9, a Clean Broken MonsterTruck for $9,791.00
+South: Bought Grounded-10, a Dirty Broken MonsterTruck for $11,290.00
+South: Bought Armada-10, a Clean Used MonsterTruck for $14,298.40
+South: Bought Armor-10, a Clean Broken MonsterTruck for $8,801.50
+South: Bought Hyper-12, a Sparkling Broken MonsterTruck for $20,509.00
+South: Bought Aventus-12, a Dirty Broken MonsterTruck for $19,698.00
+South: Bought Gallery-12, a Clean Broken MonsterTruck for $20,660.00
+South: Bought Super-12, a Dirty Used MonsterTruck for $35,976.80
+South: Bought Coach-9, a Clean Broken MonsterTruck for $6,744.00
+South: Bought Soul-10, a Dirty LikeNew MonsterTruck for $17,788.00
+South: Bought Avenger-10, a Dirty LikeNew MonsterTruck for $14,674.00
+South: Bought Light-10, a Dirty LikeNew MonsterTruck for $11,825.00
+The North FNCD has 8 buyers today...
+The South FNCD has 3 buyers today...
+Intern Lucy-2 is leaving the North FNCD
+Mechanic James is leaving the North FNCD
+Intern Ethel-3 has been promoted to Mechanic in the North FNCD
+Intern Lucy-4 is leaving the South FNCD
+Mechanic Fred-2 is leaving the South FNCD
+Intern Fred-4 has been promoted to Mechanic in the South FNCD
+North: Hired a new Intern named Desi-4
+North: Hired a new Intern named Fred-5
+North: Bought F-250-3, a Sparkling Broken Pickup for $16,695.00
+North: Bought Grom-3, a Dirty Used Motorcycle for $6,316.00
+North: Bought Ninja-3, a Dirty Broken Motorcycle for $7,173.50
+North: Bought Lift-10, a Clean LikeNew MonsterTruck for $16,241.00
+North: Bought Sand-10, a Dirty Broken MonsterTruck for $9,317.00
+North: Bought Grounded-11, a Clean Used MonsterTruck for $13,202.40
+North: Bought Armada-11, a Sparkling LikeNew MonsterTruck for $19,145.00
+North: Bought Hyper-13, a Dirty Broken MonsterTruck for $16,869.00
+North: Bought Aventus-13, a Clean LikeNew MonsterTruck for $40,673.00
+North: Bought Gallery-13, a Dirty Used MonsterTruck for $34,885.60
+North: Bought Super-13, a Clean Used MonsterTruck for $33,122.40
+North: Bought Coralla-10, a Dirty LikeNew MonsterTruck for $16,972.00
+North: Bought Coach-10, a Clean Used MonsterTruck for $8,921.60
+North: Bought Soul-11, a Clean Used MonsterTruck for $11,491.20
+North: Bought Avenger-11, a Dirty Used MonsterTruck for $14,478.40
+South: Hired a new Intern named Ethel-5
+South: Hired a new Intern named Lucy-5
+South: Bought Escort-3, a Dirty Broken Car for $5,038.00
+South: Bought Armor-11, a Clean Broken MonsterTruck for $11,513.50
+South: Bought Lift-11, a Clean Broken MonsterTruck for $8,552.50
+South: Bought Sand-11, a Clean Used MonsterTruck for $12,434.40
+South: Bought Grounded-12, a Dirty Broken MonsterTruck for $10,958.00
+South: Bought Hyper-14, a Dirty Used MonsterTruck for $25,990.40
+South: Bought Aventus-14, a Dirty Used MonsterTruck for $28,105.60
+South: ***Budget overrun*** Added $250K, budget now: $219,261.22
+South: Bought Gallery-14, a Dirty LikeNew MonsterTruck for $31,486.00
+South: Bought Super-14, a Clean Used MonsterTruck for $26,520.80
+South: Bought Light-11, a Clean LikeNew MonsterTruck for $15,787.00
+South: Bought Coralla-11, a Dirty Broken MonsterTruck for $6,320.00
+South: Bought Coach-11, a Dirty LikeNew MonsterTruck for $16,390.00
+South: Bought Soul-12, a Dirty Broken MonsterTruck for $8,638.50
+The North FNCD has 2 buyers today...
+The South FNCD has 6 buyers today...
+North: Bought Softail-3, a Sparkling Broken Motorcycle for $9,391.50
+North: Bought Armada-12, a Clean Broken MonsterTruck for $11,735.00
+North: Bought Armor-12, a Dirty Broken MonsterTruck for $10,181.50
+North: Bought Lift-12, a Dirty Used MonsterTruck for $13,645.60
+North: Bought Sand-12, a Dirty Used MonsterTruck for $14,749.60
+North: Bought Hyper-15, a Dirty Broken MonsterTruck for $15,421.50
+North: ***Budget overrun*** Added $250K, budget now: $229,002.20
+North: Bought Aventus-15, a Dirty LikeNew MonsterTruck for $40,271.00
+North: Bought Gallery-15, a Sparkling Used MonsterTruck for $30,525.60
+North: Bought Super-15, a Dirty Broken MonsterTruck for $15,904.00
+North: Bought Avenger-12, a Clean Used MonsterTruck for $13,877.60
+North: Bought Light-12, a Clean Used MonsterTruck for $14,448.00
+North: Bought Coralla-12, a Dirty Used MonsterTruck for $13,160.80
+North: Bought Coach-12, a Sparkling Broken MonsterTruck for $9,131.00
+South: Bought Cayman-3, a Dirty Broken PerfCar for $16,660.00
+South: Bought Colorado-3, a Dirty Broken Pickup for $14,899.50
+South: Bought Tundra-3, a Sparkling LikeNew Pickup for $29,508.00
+South: Bought Grounded-13, a Dirty Used MonsterTruck for $13,408.00
+South: Bought Armada-13, a Clean LikeNew MonsterTruck for $16,920.00
+South: Bought Armor-13, a Clean LikeNew MonsterTruck for $21,762.00
+South: Bought Lift-13, a Dirty Used MonsterTruck for $12,731.20
+South: Bought Hyper-16, a Dirty Broken MonsterTruck for $20,073.50
+South: Bought Aventus-16, a Dirty Broken MonsterTruck for $19,711.50
+South: Bought Gallery-16, a Clean Used MonsterTruck for $20,064.80
+South: Bought Super-16, a Dirty LikeNew MonsterTruck for $29,497.00
+South: Bought Soul-13, a Clean LikeNew MonsterTruck for $16,531.00
+South: Bought Avenger-13, a Dirty LikeNew MonsterTruck for $10,915.00
+South: Bought Light-13, a Dirty LikeNew MonsterTruck for $14,929.00
+South: Bought Coralla-13, a Dirty Broken MonsterTruck for $7,683.00
+The North FNCD has 1 buyers today...
+The South FNCD has 3 buyers today...
+Intern Fred-5 is leaving the North FNCD
+Salesperson Lucy is leaving the North FNCD
+Intern Lucy-3 has been promoted to Salesperson in the North FNCD
+North: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer8
+Place: 2 Racer5
+Place: 3 Racer4
+Place: 4 Racer2
+Place: 5 Racer9
+Place: 6 Racer12
+Place: 7 Racer19
+Place: 8 Racer11
+Place: 9 Racer17
+Place: 10 Racer3
+Place: 11 Racer15
+Place: 12 Racer10
+Place: 13 Racer13
+Place: 14 Racer20
+Place: 15 Racer14
+Place: 16 Racer7
+Place: 17 Racer1
+Place: 18 Racer18
+Place: 19 Racer16
+Place: 20 Racer6
+South: Its Racing Time!
+South FNCD driver participating: Junior
+South FNCD driver participating: Kat
+South FNCD driver participating: Caitlyn
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Junior
+Place: 2 Racer13
+Place: 3 Racer10
+Place: 4 Racer12
+Place: 5 Racer17
+Place: 6 Racer14
+Place: 7 Racer11
+Place: 8 Racer19
+Place: 9 Racer5
+Place: 10 Racer8
+Place: 11 Racer20
+Place: 12 Racer15
+Place: 13 Racer7
+Place: 14 Racer6
+Place: 15 Racer4
+Place: 16 Kat
+Europa-3 is now broken.
+Driver Kat is leaving due to injury
+Place: 17 Caitlyn
+Cayman-2 is now broken.
+Driver Caitlyn is leaving due to injury
+Place: 18 Racer16
+Place: 19 Racer18
+Place: 20 Racer9
+North: Hired a new Intern named Desi-5
+North: Hired a new Intern named Fred-6
+North: Bought Sand-13, a Dirty LikeNew MonsterTruck for $22,291.00
+North: Bought Grounded-14, a Dirty LikeNew MonsterTruck for $20,044.00
+North: Bought Armada-14, a Clean LikeNew MonsterTruck for $18,381.00
+North: Bought Armor-14, a Clean Used MonsterTruck for $18,293.60
+North: Bought Hyper-17, a Clean Broken MonsterTruck for $20,806.00
+North: Bought Aventus-17, a Dirty Broken MonsterTruck for $19,002.50
+North: ***Budget overrun*** Added $250K, budget now: $238,219.90
+North: Bought Gallery-17, a Dirty Used MonsterTruck for $23,807.20
+North: Bought Super-17, a Clean Used MonsterTruck for $26,970.40
+North: Bought Coach-13, a Dirty Used MonsterTruck for $8,972.80
+North: Bought Soul-14, a Dirty Broken MonsterTruck for $9,216.50
+North: Bought Avenger-14, a Clean Broken MonsterTruck for $6,106.50
+North: Bought Light-14, a Dirty Broken MonsterTruck for $9,858.50
+South: Hired a new Driver named Bob-2
+South: Hired a new Driver named Joe-2
+South: Bought Lift-14, a Dirty LikeNew MonsterTruck for $21,906.00
+South: Bought Sand-14, a Clean Broken MonsterTruck for $9,793.50
+South: Bought Grounded-15, a Dirty LikeNew MonsterTruck for $18,962.00
+South: Bought Armada-15, a Clean Broken MonsterTruck for $8,306.00
+South: Bought Hyper-18, a Dirty Broken MonsterTruck for $21,222.00
+South: Bought Aventus-18, a Dirty LikeNew MonsterTruck for $33,699.00
+South: Bought Gallery-18, a Dirty LikeNew MonsterTruck for $43,123.00
+South: Bought Super-18, a Dirty Used MonsterTruck for $27,752.00
+South: Bought Coralla-14, a Clean LikeNew MonsterTruck for $14,136.00
+South: Bought Coach-14, a Clean Broken MonsterTruck for $7,200.00
+South: Bought Soul-15, a Dirty Broken MonsterTruck for $6,029.50
+South: ***Budget overrun*** Added $250K, budget now: $248,744.02
+South: Bought Avenger-15, a Dirty LikeNew MonsterTruck for $17,878.00
+The North FNCD has 1 buyers today...
+The South FNCD has 5 buyers today...
+Salesperson Lucy-3 is leaving the North FNCD
+Intern Desi-4 has been promoted to Salesperson in the North FNCD
+Mechanic Scotty-2 is leaving the South FNCD
+Intern Ethel-4 has been promoted to Mechanic in the South FNCD
+North: Hired a new Intern named Ethel-6
+North: Bought Taurus-3, a Dirty LikeNew Car for $12,972.00
+North: Bought Armor-15, a Dirty LikeNew MonsterTruck for $22,972.00
+North: Bought Lift-15, a Dirty Used MonsterTruck for $12,777.60
+North: Bought Sand-15, a Dirty Broken MonsterTruck for $8,734.00
+North: Bought Grounded-16, a Dirty Used MonsterTruck for $14,958.40
+North: Bought Hyper-19, a Dirty LikeNew MonsterTruck for $39,365.00
+North: Bought Aventus-19, a Dirty LikeNew MonsterTruck for $34,548.00
+North: Bought Gallery-19, a Sparkling Used MonsterTruck for $24,892.00
+North: Bought Super-19, a Dirty Broken MonsterTruck for $22,137.00
+North: Bought Light-15, a Clean Used MonsterTruck for $8,614.40
+North: Bought Coralla-15, a Dirty Used MonsterTruck for $8,040.00
+North: ***Budget overrun*** Added $250K, budget now: $243,983.60
+North: Bought Coach-15, a Dirty Used MonsterTruck for $8,907.20
+North: Bought Soul-16, a Clean LikeNew MonsterTruck for $11,627.00
+South: Hired a new Intern named Lucy-6
+South: Bought EQS-3, a Dirty Used Electric for $28,625.60
+South: Bought Armada-16, a Dirty Broken MonsterTruck for $8,120.50
+South: Bought Armor-16, a Dirty LikeNew MonsterTruck for $18,110.00
+South: Bought Lift-16, a Dirty Used MonsterTruck for $15,416.80
+South: Bought Sand-16, a Dirty Used MonsterTruck for $12,914.40
+South: Bought Hyper-20, a Clean LikeNew MonsterTruck for $40,503.00
+South: Bought Aventus-20, a Dirty LikeNew MonsterTruck for $32,487.00
+South: Bought Gallery-20, a Dirty LikeNew MonsterTruck for $44,430.00
+South: Bought Super-20, a Dirty Used MonsterTruck for $29,248.80
+South: Bought Avenger-16, a Clean Broken MonsterTruck for $7,611.50
+South: Bought Light-16, a Clean Used MonsterTruck for $13,307.20
+South: Bought Coralla-16, a Dirty Broken MonsterTruck for $8,354.00
+South: Bought Coach-16, a Dirty LikeNew MonsterTruck for $13,315.00
+The North FNCD has 3 buyers today...
+The South FNCD has 5 buyers today...
+Intern Lucy-6 is leaving the South FNCD
+Salesperson Desi-3 is leaving the South FNCD
+Intern Ethel-5 has been promoted to Salesperson in the South FNCD
+Mechanic James-2 is leaving the South FNCD
+Intern Lucy-5 has been promoted to Mechanic in the South FNCD
+North: Bought CBR1000-3, a Dirty LikeNew Motorcycle for $5,084.00
+North: Bought Grom-4, a Clean Used Motorcycle for $8,490.40
+North: Bought Grounded-17, a Clean Broken MonsterTruck for $9,556.50
+North: Bought Armada-17, a Dirty LikeNew MonsterTruck for $16,544.00
+North: Bought Armor-17, a Dirty LikeNew MonsterTruck for $16,336.00
+North: Bought Lift-17, a Dirty Broken MonsterTruck for $10,489.00
+North: Bought Hyper-21, a Dirty Broken MonsterTruck for $18,176.00
+North: Bought Aventus-21, a Dirty Used MonsterTruck for $31,817.60
+North: Bought Gallery-21, a Dirty Used MonsterTruck for $31,955.20
+North: Bought Super-21, a Dirty Used MonsterTruck for $25,628.00
+North: Bought Soul-17, a Clean Broken MonsterTruck for $8,920.00
+North: Bought Avenger-17, a Clean Used MonsterTruck for $13,235.20
+North: Bought Light-17, a Sparkling LikeNew MonsterTruck for $19,983.00
+North: Bought Coralla-17, a Clean LikeNew MonsterTruck for $11,122.00
+South: Hired a new Intern named Desi-6
+South: Hired a new Intern named Fred-7
+South: Hired a new Intern named Ethel-7
+South: Bought Corvette-3, a Dirty Broken PerfCar for $11,854.50
+South: Bought EV6-3, a Dirty Broken Electric for $21,629.00
+South: Bought Sand-17, a Dirty Broken MonsterTruck for $10,824.00
+South: Bought Grounded-18, a Dirty Broken MonsterTruck for $8,003.50
+South: Bought Armada-18, a Clean Used MonsterTruck for $18,055.20
+South: Bought Armor-18, a Dirty Broken MonsterTruck for $12,362.00
+South: Bought Hyper-22, a Dirty Used MonsterTruck for $24,114.40
+South: Bought Aventus-22, a Dirty Broken MonsterTruck for $17,394.50
+South: Bought Gallery-22, a Clean Used MonsterTruck for $29,574.40
+South: Bought Super-22, a Dirty LikeNew MonsterTruck for $26,588.00
+South: Bought Coach-17, a Dirty Broken MonsterTruck for $9,321.00
+South: Bought Soul-18, a Dirty LikeNew MonsterTruck for $19,289.00
+South: Bought Avenger-18, a Dirty Used MonsterTruck for $11,839.20
+South: Bought Light-18, a Dirty Used MonsterTruck for $13,089.60
+The North FNCD has 5 buyers today...
+The South FNCD has 4 buyers today...
+Mechanic Lucy-5 is leaving the South FNCD
+Intern Desi-6 has been promoted to Mechanic in the South FNCD
+North: Its Racing Time!
+North FNCD driver participating: Bob
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer7
+Place: 2 Racer19
+Place: 3 Racer17
+Place: 4 Racer2
+Place: 5 Racer18
+Place: 6 Racer10
+Place: 7 Racer3
+Place: 8 Racer20
+Place: 9 Racer9
+Place: 10 Bob
+Place: 11 Racer13
+Place: 12 Racer8
+Place: 13 Racer4
+Place: 14 Racer5
+Place: 15 Racer6
+Place: 16 Racer15
+Place: 17 Racer14
+Place: 18 Racer12
+Place: 19 Racer11
+Place: 20 Racer16
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer9
+Place: 2 Racer3
+Place: 3 Racer16
+Place: 4 Racer18
+Place: 5 Racer15
+Place: 6 Racer11
+Place: 7 Racer7
+Place: 8 Racer13
+Place: 9 Racer2
+Place: 10 Racer14
+Place: 11 Racer10
+Place: 12 Racer6
+Place: 13 Racer4
+Place: 14 Racer19
+Place: 15 Racer17
+Place: 16 Racer20
+Place: 17 Racer1
+Place: 18 Racer8
+Place: 19 Racer12
+Place: 20 Racer5
+North: Bought Ninja-4, a Clean Used Motorcycle for $12,335.20
+North: Bought Lift-18, a Dirty LikeNew MonsterTruck for $24,719.00
+North: Bought Sand-18, a Clean LikeNew MonsterTruck for $16,045.00
+North: Bought Grounded-19, a Dirty LikeNew MonsterTruck for $21,164.00
+North: Bought Armada-19, a Dirty LikeNew MonsterTruck for $24,384.00
+North: Bought Hyper-23, a Clean Used MonsterTruck for $30,688.80
+North: ***Budget overrun*** Added $250K, budget now: $236,640.30
+North: Bought Aventus-23, a Clean Broken MonsterTruck for $21,849.00
+North: Bought Gallery-23, a Sparkling LikeNew MonsterTruck for $42,074.00
+North: Bought Super-23, a Dirty Used MonsterTruck for $20,554.40
+North: Bought Coralla-18, a Sparkling Broken MonsterTruck for $9,239.50
+North: Bought Coach-18, a Dirty LikeNew MonsterTruck for $19,721.00
+North: Bought Soul-19, a Clean Used MonsterTruck for $12,541.60
+North: Bought Avenger-19, a Clean Used MonsterTruck for $14,752.00
+South: Hired a new Intern named Lucy-7
+South: Bought Fiesta-3, a Dirty LikeNew Car for $10,128.00
+South: Bought Mustang-3, a Dirty LikeNew PerfCar for $25,441.00
+South: Bought Armor-19, a Dirty Used MonsterTruck for $14,032.00
+South: Bought Lift-19, a Clean LikeNew MonsterTruck for $23,043.00
+South: Bought Sand-19, a Dirty Used MonsterTruck for $18,328.00
+South: Bought Grounded-20, a Dirty Broken MonsterTruck for $12,152.50
+South: Bought Hyper-24, a Clean Broken MonsterTruck for $12,612.00
+South: Bought Aventus-24, a Dirty Broken MonsterTruck for $12,560.00
+South: Bought Gallery-24, a Dirty Used MonsterTruck for $20,751.20
+South: Bought Super-24, a Dirty Broken MonsterTruck for $19,169.50
+South: Bought Light-19, a Dirty Used MonsterTruck for $13,967.20
+South: Bought Coralla-19, a Sparkling Used MonsterTruck for $10,357.60
+South: Bought Coach-19, a Dirty LikeNew MonsterTruck for $12,642.00
+South: Bought Soul-20, a Dirty Used MonsterTruck for $12,516.80
+The North FNCD has 4 buyers today...
+The South FNCD has 0 buyers today...
+Salesperson Ethel-2 is leaving the South FNCD
+Intern Fred-7 has been promoted to Salesperson in the South FNCD
+North: Bought Armada-20, a Clean LikeNew MonsterTruck for $21,508.00
+North: Bought Armor-20, a Dirty Used MonsterTruck for $12,955.20
+North: Bought Lift-20, a Dirty LikeNew MonsterTruck for $23,701.00
+North: Bought Sand-20, a Clean Used MonsterTruck for $16,906.40
+North: Bought Hyper-25, a Dirty LikeNew MonsterTruck for $26,609.00
+North: ***Budget overrun*** Added $250K, budget now: $242,917.20
+North: Bought Aventus-25, a Dirty Broken MonsterTruck for $22,051.00
+North: Bought Gallery-25, a Dirty Used MonsterTruck for $34,603.20
+North: Bought Super-25, a Clean LikeNew MonsterTruck for $41,568.00
+North: Bought Avenger-20, a Dirty Broken MonsterTruck for $6,559.50
+North: Bought Light-20, a Clean LikeNew MonsterTruck for $18,518.00
+North: Bought Coralla-20, a Clean Used MonsterTruck for $15,622.40
+North: Bought Coach-20, a Clean Broken MonsterTruck for $9,871.50
+South: Hired a new Intern named Desi-7
+South: Bought Grounded-21, a Dirty Used MonsterTruck for $12,524.00
+South: Bought Armada-21, a Clean Broken MonsterTruck for $10,668.50
+South: Bought Armor-21, a Clean Used MonsterTruck for $15,249.60
+South: Bought Lift-21, a Dirty LikeNew MonsterTruck for $21,158.00
+South: ***Budget overrun*** Added $250K, budget now: $233,886.70
+South: Bought Hyper-26, a Clean LikeNew MonsterTruck for $29,913.00
+South: Bought Aventus-26, a Clean Used MonsterTruck for $32,969.60
+South: Bought Gallery-26, a Dirty LikeNew MonsterTruck for $44,502.00
+South: Bought Super-26, a Clean Used MonsterTruck for $20,274.40
+South: Bought Soul-21, a Dirty Broken MonsterTruck for $9,648.50
+South: Bought Avenger-21, a Dirty LikeNew MonsterTruck for $15,708.00
+South: Bought Light-21, a Dirty Used MonsterTruck for $9,960.80
+South: Bought Coralla-21, a Clean LikeNew MonsterTruck for $18,044.00
+The North FNCD has 8 buyers today...
+The South FNCD has 7 buyers today...
+Intern Lucy-7 is leaving the South FNCD
+Mechanic Desi-6 is leaving the South FNCD
+Intern Ethel-7 has been promoted to Mechanic in the South FNCD
+North: Bought Europa-4, a Dirty LikeNew PerfCar for $39,876.00
+North: Bought Cayman-4, a Dirty Used PerfCar for $25,994.40
+North: Bought Taycan-4, a Clean LikeNew Electric for $34,548.00
+North: Bought Sand-21, a Dirty Broken MonsterTruck for $10,995.00
+North: Bought Grounded-22, a Clean Broken MonsterTruck for $11,697.00
+North: Bought Armada-22, a Clean Used MonsterTruck for $17,164.80
+North: Bought Armor-22, a Clean Used MonsterTruck for $15,754.40
+North: Bought Hyper-27, a Dirty Used MonsterTruck for $35,818.40
+North: Bought Aventus-27, a Dirty Broken MonsterTruck for $17,623.00
+North: Bought Gallery-27, a Dirty Broken MonsterTruck for $14,225.50
+North: Bought Super-27, a Dirty Broken MonsterTruck for $20,833.50
+North: Bought Coach-21, a Clean Broken MonsterTruck for $5,261.50
+North: Bought Soul-22, a Dirty LikeNew MonsterTruck for $15,044.00
+North: Bought Avenger-22, a Clean Used MonsterTruck for $10,972.80
+North: Bought Light-22, a Dirty LikeNew MonsterTruck for $12,083.00
+South: Hired a new Intern named Fred-8
+South: Hired a new Intern named Ethel-8
+South: Bought Probe-4, a Clean LikeNew Car for $19,123.00
+South: Bought Corvette-4, a Dirty LikeNew PerfCar for $26,653.00
+South: Bought Ranger-4, a Dirty LikeNew Pickup for $27,078.00
+South: Bought Lift-22, a Clean LikeNew MonsterTruck for $21,155.00
+South: Bought Sand-22, a Dirty Used MonsterTruck for $14,532.80
+South: Bought Grounded-23, a Dirty Used MonsterTruck for $17,860.80
+South: Bought Armada-23, a Sparkling Broken MonsterTruck for $11,910.00
+South: Bought Hyper-28, a Dirty LikeNew MonsterTruck for $29,511.00
+South: Bought Aventus-28, a Dirty Broken MonsterTruck for $19,342.50
+South: Bought Gallery-28, a Dirty Used MonsterTruck for $22,435.20
+South: Bought Super-28, a Dirty LikeNew MonsterTruck for $33,444.00
+South: Bought Coralla-22, a Dirty Used MonsterTruck for $14,982.40
+South: Bought Coach-22, a Clean Broken MonsterTruck for $8,887.00
+South: Bought Soul-23, a Dirty LikeNew MonsterTruck for $13,957.00
+South: Bought Avenger-23, a Dirty Broken MonsterTruck for $6,153.50
+The North FNCD has 3 buyers today...
+The South FNCD has 3 buyers today...
+Mechanic Ethel is leaving the North FNCD
+Intern Desi-5 has been promoted to Mechanic in the North FNCD
+Salesperson Phoebe is leaving the North FNCD
+Intern Fred-6 has been promoted to Salesperson in the North FNCD
+Mechanic Fred-4 is leaving the South FNCD
+Intern Desi-7 has been promoted to Mechanic in the South FNCD
+North: Hired a new Intern named Lucy-8
+North: Hired a new Intern named Desi-8
+North: Bought Mustang-4, a Dirty Used PerfCar for $24,418.40
+North: Bought Armor-23, a Clean Used MonsterTruck for $19,222.40
+North: Bought Lift-23, a Clean Broken MonsterTruck for $9,448.00
+North: Bought Sand-23, a Dirty Used MonsterTruck for $12,660.80
+North: Bought Grounded-24, a Dirty Broken MonsterTruck for $8,364.50
+North: Bought Hyper-29, a Clean Broken MonsterTruck for $14,320.50
+North: Bought Aventus-29, a Dirty Used MonsterTruck for $20,312.80
+North: Bought Gallery-29, a Clean LikeNew MonsterTruck for $37,480.00
+North: Bought Super-29, a Clean Broken MonsterTruck for $15,117.00
+North: Bought Light-23, a Dirty LikeNew MonsterTruck for $11,284.00
+North: Bought Coralla-23, a Dirty Broken MonsterTruck for $9,017.00
+North: Bought Coach-23, a Dirty LikeNew MonsterTruck for $14,393.00
+North: Bought Soul-24, a Dirty Used MonsterTruck for $13,585.60
+South: Hired a new Intern named Fred-9
+South: Bought Armada-24, a Clean LikeNew MonsterTruck for $22,897.00
+South: ***Budget overrun*** Added $250K, budget now: $240,757.40
+South: Bought Armor-24, a Dirty Broken MonsterTruck for $9,440.00
+South: Bought Lift-24, a Dirty LikeNew MonsterTruck for $16,157.00
+South: Bought Sand-24, a Dirty Broken MonsterTruck for $11,656.00
+South: Bought Hyper-30, a Dirty LikeNew MonsterTruck for $25,627.00
+South: Bought Aventus-30, a Clean LikeNew MonsterTruck for $28,896.00
+South: Bought Gallery-30, a Dirty LikeNew MonsterTruck for $30,432.00
+South: Bought Super-30, a Dirty Used MonsterTruck for $27,859.20
+South: Bought Avenger-24, a Dirty LikeNew MonsterTruck for $13,938.00
+South: Bought Light-24, a Clean Used MonsterTruck for $13,602.40
+South: Bought Coralla-24, a Dirty Used MonsterTruck for $15,568.00
+South: Bought Coach-24, a Dirty LikeNew MonsterTruck for $12,433.00
+The North FNCD has 0 buyers today...
+The South FNCD has 1 buyers today...
+Intern Desi-8 is leaving the North FNCD
+Salesperson Fred-6 is leaving the North FNCD
+Intern Ethel-6 has been promoted to Salesperson in the North FNCD
+Intern Fred-8 is leaving the South FNCD
+North: Its Racing Time!
+North FNCD driver participating: Bob
+North FNCD driver participating: Joe
+North FNCD driver participating: Billy-2
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer14
+Place: 2 Racer19
+Place: 3 Racer11
+Place: 4 Racer5
+Place: 5 Racer16
+Place: 6 Billy-2
+Place: 7 Racer20
+Place: 8 Racer18
+Place: 9 Racer8
+Place: 10 Racer15
+Place: 11 Racer9
+Place: 12 Racer13
+Place: 13 Bob
+Place: 14 Racer12
+Place: 15 Racer7
+Place: 16 Racer17
+Place: 17 Joe
+Corvette is now broken.
+Place: 18 Racer10
+Place: 19 Racer6
+Place: 20 Racer4
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer20
+Place: 2 Racer12
+Place: 3 Racer10
+Place: 4 Racer15
+Place: 5 Racer9
+Place: 6 Racer1
+Place: 7 Racer19
+Place: 8 Racer17
+Place: 9 Racer14
+Place: 10 Racer11
+Place: 11 Racer18
+Place: 12 Racer7
+Place: 13 Racer16
+Place: 14 Racer6
+Place: 15 Racer2
+Place: 16 Racer13
+Place: 17 Racer3
+Place: 18 Racer8
+Place: 19 Racer5
+Place: 20 Racer4
+North: Hired a new Intern named Ethel-9
+North: Hired a new Intern named Lucy-9
+North: Bought Grounded-25, a Clean Broken MonsterTruck for $11,384.50
+North: Bought Armada-25, a Dirty Used MonsterTruck for $15,413.60
+North: Bought Armor-25, a Dirty Used MonsterTruck for $16,557.60
+North: Bought Lift-25, a Clean LikeNew MonsterTruck for $21,779.00
+North: Bought Hyper-31, a Clean Used MonsterTruck for $33,283.20
+North: Bought Aventus-31, a Clean LikeNew MonsterTruck for $34,895.00
+North: Bought Gallery-31, a Dirty LikeNew MonsterTruck for $43,543.00
+North: Bought Super-31, a Clean Broken MonsterTruck for $12,542.00
+North: Bought Soul-25, a Dirty Used MonsterTruck for $12,699.20
+North: Bought Avenger-25, a Dirty LikeNew MonsterTruck for $12,866.00
+North: Bought Light-25, a Dirty Broken MonsterTruck for $9,663.50
+North: Bought Coralla-25, a Dirty Broken MonsterTruck for $6,517.00
+South: Hired a new Intern named Desi-9
+South: Bought Softail-4, a Clean Broken Motorcycle for $3,556.00
+South: Bought Sand-25, a Dirty LikeNew MonsterTruck for $24,920.00
+South: Bought Grounded-26, a Dirty Broken MonsterTruck for $7,629.00
+South: Bought Armada-26, a Dirty LikeNew MonsterTruck for $15,296.00
+South: Bought Armor-26, a Clean Used MonsterTruck for $18,854.40
+South: ***Budget overrun*** Added $250K, budget now: $235,075.80
+South: Bought Hyper-32, a Dirty Used MonsterTruck for $26,345.60
+South: Bought Aventus-32, a Dirty Used MonsterTruck for $33,352.00
+South: Bought Gallery-32, a Clean Broken MonsterTruck for $19,426.50
+South: Bought Super-32, a Clean Broken MonsterTruck for $13,443.50
+South: Bought Coach-25, a Dirty LikeNew MonsterTruck for $10,226.00
+South: Bought Soul-26, a Dirty Broken MonsterTruck for $8,116.00
+South: Bought Avenger-26, a Dirty LikeNew MonsterTruck for $10,140.00
+South: Bought Light-26, a Dirty Used MonsterTruck for $13,667.20
+The North FNCD has 4 buyers today...
+The South FNCD has 1 buyers today...
+North: Bought Europa-5, a Dirty Broken PerfCar for $19,926.00
+North: Bought F-250-4, a Dirty LikeNew Pickup for $33,453.00
+North: Bought Lift-26, a Clean Used MonsterTruck for $13,759.20
+North: Bought Sand-26, a Clean Broken MonsterTruck for $8,236.50
+North: Bought Grounded-27, a Dirty Broken MonsterTruck for $10,452.00
+North: Bought Armada-27, a Dirty LikeNew MonsterTruck for $24,728.00
+North: Bought Hyper-33, a Dirty LikeNew MonsterTruck for $40,054.00
+North: Bought Aventus-33, a Dirty LikeNew MonsterTruck for $37,856.00
+North: Bought Gallery-33, a Clean Used MonsterTruck for $26,418.40
+North: ***Budget overrun*** Added $250K, budget now: $238,432.34
+North: Bought Super-33, a Clean Used MonsterTruck for $34,118.40
+North: Bought Coralla-26, a Clean LikeNew MonsterTruck for $18,452.00
+North: Bought Coach-26, a Dirty LikeNew MonsterTruck for $18,188.00
+North: Bought Soul-27, a Clean Broken MonsterTruck for $9,522.50
+North: Bought Avenger-27, a Clean LikeNew MonsterTruck for $16,444.00
+South: Bought CBR1000-4, a Clean Used Motorcycle for $8,064.00
+South: Bought Armor-27, a Dirty LikeNew MonsterTruck for $18,766.00
+South: Bought Lift-27, a Dirty LikeNew MonsterTruck for $16,011.00
+South: Bought Sand-27, a Clean Used MonsterTruck for $15,490.40
+South: Bought Grounded-28, a Dirty LikeNew MonsterTruck for $18,311.00
+South: Bought Hyper-34, a Dirty LikeNew MonsterTruck for $25,561.00
+South: Bought Aventus-34, a Dirty Used MonsterTruck for $22,291.20
+South: Bought Gallery-34, a Dirty LikeNew MonsterTruck for $36,883.00
+South: ***Budget overrun*** Added $250K, budget now: $218,705.40
+South: Bought Super-34, a Dirty Used MonsterTruck for $35,285.60
+South: Bought Light-27, a Dirty Broken MonsterTruck for $9,672.50
+South: Bought Coralla-27, a Clean Used MonsterTruck for $10,473.60
+South: Bought Coach-27, a Dirty LikeNew MonsterTruck for $19,397.00
+South: Bought Soul-28, a Dirty Broken MonsterTruck for $9,395.00
+The North FNCD has 1 buyers today...
+The South FNCD has 1 buyers today...
+Intern Ethel-8 is leaving the South FNCD
+North: Bought Armada-28, a Dirty LikeNew MonsterTruck for $17,680.00
+North: Bought Armor-28, a Clean Used MonsterTruck for $16,460.00
+North: Bought Lift-28, a Dirty Used MonsterTruck for $19,855.20
+North: Bought Sand-28, a Dirty Used MonsterTruck for $19,062.40
+North: Bought Hyper-35, a Clean LikeNew MonsterTruck for $29,133.00
+North: Bought Aventus-35, a Dirty Broken MonsterTruck for $21,794.00
+North: Bought Gallery-35, a Clean Broken MonsterTruck for $14,985.00
+North: Bought Super-35, a Dirty Used MonsterTruck for $20,323.20
+North: Bought Avenger-28, a Dirty Used MonsterTruck for $8,977.60
+North: Bought Light-28, a Clean Used MonsterTruck for $15,568.00
+North: Bought Coralla-28, a Dirty Broken MonsterTruck for $8,946.00
+North: Bought Coach-28, a Clean Broken MonsterTruck for $8,295.00
+South: Hired a new Intern named Fred-10
+South: Bought Colorado-4, a Dirty Broken Pickup for $7,079.00
+South: Bought Grounded-29, a Clean Broken MonsterTruck for $10,498.00
+South: Bought Armada-29, a Dirty Broken MonsterTruck for $7,693.00
+South: Bought Armor-29, a Dirty Used MonsterTruck for $15,048.80
+South: Bought Lift-29, a Dirty Used MonsterTruck for $14,981.60
+South: Bought Hyper-36, a Dirty Broken MonsterTruck for $18,189.50
+South: Bought Aventus-36, a Sparkling Used MonsterTruck for $23,137.60
+South: Bought Gallery-36, a Dirty Broken MonsterTruck for $16,113.00
+South: Bought Super-36, a Dirty Broken MonsterTruck for $21,168.00
+South: Bought Soul-29, a Dirty Broken MonsterTruck for $9,454.50
+South: Bought Avenger-29, a Clean Used MonsterTruck for $12,850.40
+South: Bought Light-29, a Dirty LikeNew MonsterTruck for $10,142.00
+South: Bought Coralla-29, a Clean Broken MonsterTruck for $8,697.50
+The North FNCD has 5 buyers today...
+The South FNCD has 3 buyers today...
+Mechanic Ethel-7 is leaving the South FNCD
+Intern Fred-9 has been promoted to Mechanic in the South FNCD
+North: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer6
+Place: 2 Racer19
+Place: 3 Racer8
+Place: 4 Racer17
+Place: 5 Racer9
+Place: 6 Racer10
+Place: 7 Racer13
+Place: 8 Racer20
+Place: 9 Racer4
+Place: 10 Racer18
+Place: 11 Racer2
+Place: 12 Racer5
+Place: 13 Racer15
+Place: 14 Racer7
+Place: 15 Racer11
+Place: 16 Racer1
+Place: 17 Racer14
+Place: 18 Racer12
+Place: 19 Racer3
+Place: 20 Racer16
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer7
+Place: 2 Racer16
+Place: 3 Racer4
+Place: 4 Racer18
+Place: 5 Racer8
+Place: 6 Racer12
+Place: 7 Racer1
+Place: 8 Racer10
+Place: 9 Racer9
+Place: 10 Racer15
+Place: 11 Racer3
+Place: 12 Racer6
+Place: 13 Racer5
+Place: 14 Racer13
+Place: 15 Racer2
+Place: 16 Racer20
+Place: 17 Racer19
+Place: 18 Racer17
+Place: 19 Racer11
+Place: 20 Racer14
+North: Bought Sand-29, a Clean Broken MonsterTruck for $8,269.50
+North: Bought Grounded-30, a Sparkling Broken MonsterTruck for $10,717.50
+North: Bought Armada-30, a Dirty Broken MonsterTruck for $12,198.50
+North: Bought Armor-30, a Dirty LikeNew MonsterTruck for $16,702.00
+North: Bought Hyper-37, a Dirty LikeNew MonsterTruck for $25,257.00
+North: Bought Aventus-37, a Dirty Broken MonsterTruck for $20,994.00
+North: Bought Gallery-37, a Clean LikeNew MonsterTruck for $30,406.00
+North: Bought Super-37, a Dirty Broken MonsterTruck for $17,984.00
+North: Bought Coach-29, a Dirty Broken MonsterTruck for $6,835.50
+North: Bought Soul-30, a Clean Broken MonsterTruck for $7,840.00
+North: Bought Avenger-30, a Clean Broken MonsterTruck for $5,781.50
+North: Bought Light-30, a Dirty LikeNew MonsterTruck for $12,326.00
+South: Hired a new Intern named Ethel-10
+South: Bought Lift-30, a Dirty LikeNew MonsterTruck for $15,936.00
+South: Bought Sand-30, a Dirty LikeNew MonsterTruck for $18,340.00
+South: Bought Grounded-31, a Clean Used MonsterTruck for $12,976.80
+South: Bought Armada-31, a Clean Used MonsterTruck for $13,039.20
+South: Bought Hyper-38, a Dirty LikeNew MonsterTruck for $32,319.00
+South: Bought Aventus-38, a Dirty Broken MonsterTruck for $20,987.50
+South: ***Budget overrun*** Added $250K, budget now: $235,384.90
+South: Bought Gallery-38, a Dirty LikeNew MonsterTruck for $36,671.00
+South: Bought Super-38, a Clean LikeNew MonsterTruck for $37,756.00
+South: Bought Coralla-30, a Clean Used MonsterTruck for $14,181.60
+South: Bought Coach-30, a Sparkling Used MonsterTruck for $13,447.20
+South: Bought Soul-31, a Dirty Used MonsterTruck for $15,013.60
+South: Bought Avenger-31, a Clean LikeNew MonsterTruck for $15,589.00
+The North FNCD has 0 buyers today...
+The South FNCD has 2 buyers today...
+Salesperson Ethel-6 is leaving the North FNCD
+Intern Lucy-8 has been promoted to Salesperson in the North FNCD
+Intern Ethel-9 is leaving the North FNCD
+Intern Ethel-10 is leaving the South FNCD
+North: Hired a new Intern named Lucy-10
+North: Hired a new Intern named Desi-10
+North: ***Budget overrun*** Added $250K, budget now: $236,295.66
+North: Bought Armor-31, a Clean LikeNew MonsterTruck for $24,289.00
+North: Bought Lift-31, a Dirty Used MonsterTruck for $12,835.20
+North: Bought Sand-31, a Dirty Broken MonsterTruck for $10,937.50
+North: Bought Grounded-32, a Sparkling Broken MonsterTruck for $10,791.00
+North: Bought Hyper-39, a Clean Broken MonsterTruck for $18,948.00
+North: Bought Aventus-39, a Clean LikeNew MonsterTruck for $43,306.00
+North: Bought Gallery-39, a Clean Used MonsterTruck for $31,185.60
+North: Bought Super-39, a Clean LikeNew MonsterTruck for $35,189.00
+North: Bought Light-31, a Dirty Broken MonsterTruck for $7,719.00
+North: Bought Coralla-31, a Sparkling LikeNew MonsterTruck for $14,921.00
+North: Bought Coach-31, a Clean LikeNew MonsterTruck for $11,624.00
+North: Bought Soul-32, a Dirty Broken MonsterTruck for $8,711.50
+South: Hired a new Intern named Fred-11
+South: Bought Armada-32, a Dirty Broken MonsterTruck for $9,110.50
+South: Bought Armor-32, a Dirty Used MonsterTruck for $19,606.40
+South: Bought Lift-32, a Sparkling LikeNew MonsterTruck for $18,806.00
+South: Bought Sand-32, a Dirty Used MonsterTruck for $19,490.40
+South: Bought Hyper-40, a Clean LikeNew MonsterTruck for $28,342.00
+South: Bought Aventus-40, a Dirty Used MonsterTruck for $32,237.60
+South: ***Budget overrun*** Added $250K, budget now: $240,585.80
+South: Bought Gallery-40, a Dirty Used MonsterTruck for $20,108.80
+South: Bought Super-40, a Dirty LikeNew MonsterTruck for $25,721.00
+South: Bought Avenger-32, a Dirty Used MonsterTruck for $15,763.20
+South: Bought Light-32, a Dirty LikeNew MonsterTruck for $10,959.00
+South: Bought Coralla-32, a Dirty LikeNew MonsterTruck for $13,940.00
+South: Bought Coach-32, a Clean Used MonsterTruck for $13,296.00
+The North FNCD has 6 buyers today...
+The South FNCD has 8 buyers today...
+Intern Fred-11 is leaving the South FNCD
+Salesperson Ethel-5 is leaving the South FNCD
+Intern Desi-9 has been promoted to Salesperson in the South FNCD
+North: Bought Bolt-4, a Clean LikeNew Electric for $36,529.00
+North: Bought EQS-4, a Clean Used Electric for $27,802.40
+North: Bought Grom-5, a Dirty Broken Motorcycle for $4,835.00
+North: Bought Ninja-5, a Dirty Used Motorcycle for $7,144.00
+North: Bought Grounded-33, a Clean Used MonsterTruck for $13,472.00
+North: Bought Armada-33, a Clean Broken MonsterTruck for $9,262.50
+North: Bought Armor-33, a Dirty LikeNew MonsterTruck for $23,288.00
+North: Bought Lift-33, a Clean LikeNew MonsterTruck for $18,753.00
+North: Bought Hyper-41, a Dirty Broken MonsterTruck for $13,138.50
+North: Bought Aventus-41, a Dirty Used MonsterTruck for $27,877.60
+North: Bought Gallery-41, a Dirty Used MonsterTruck for $23,132.80
+North: Bought Super-41, a Dirty Broken MonsterTruck for $20,021.00
+North: Bought Soul-33, a Dirty Broken MonsterTruck for $7,294.00
+North: Bought Avenger-33, a Dirty Used MonsterTruck for $10,929.60
+North: Bought Light-33, a Clean Broken MonsterTruck for $5,650.50
+North: Bought Coralla-33, a Clean Broken MonsterTruck for $6,037.00
+South: Hired a new Intern named Ethel-11
+South: Hired a new Intern named Lucy-11
+South: Bought Escort-4, a Dirty Broken Car for $5,173.50
+South: Bought Softail-5, a Dirty Used Motorcycle for $8,780.80
+South: Bought Sand-33, a Dirty LikeNew MonsterTruck for $23,834.00
+South: Bought Grounded-34, a Dirty Broken MonsterTruck for $8,055.00
+South: Bought Armada-34, a Dirty LikeNew MonsterTruck for $20,167.00
+South: Bought Armor-34, a Clean Used MonsterTruck for $12,036.00
+South: Bought Hyper-42, a Dirty Used MonsterTruck for $33,326.40
+South: Bought Aventus-42, a Dirty Broken MonsterTruck for $14,561.00
+South: Bought Gallery-42, a Clean Broken MonsterTruck for $18,914.50
+South: Bought Super-42, a Dirty LikeNew MonsterTruck for $29,710.00
+South: Bought Coach-33, a Clean Used MonsterTruck for $10,256.80
+South: Bought Soul-34, a Dirty Broken MonsterTruck for $8,699.50
+South: Bought Avenger-34, a Dirty Used MonsterTruck for $9,152.80
+South: Bought Light-34, a Dirty Broken MonsterTruck for $5,964.00
+The North FNCD has 6 buyers today...
+The South FNCD has 2 buyers today...
+Mechanic Fred is leaving the North FNCD
+Intern Lucy-9 has been promoted to Mechanic in the North FNCD
+Salesperson Desi is leaving the South FNCD
+Intern Fred-10 has been promoted to Salesperson in the South FNCD
+North: Hired a new Intern named Desi-11
+North: Bought Lift-34, a Clean Used MonsterTruck for $17,443.20
+North: Bought Sand-34, a Sparkling Used MonsterTruck for $18,869.60
+North: Bought Grounded-35, a Sparkling Broken MonsterTruck for $10,636.00
+North: Bought Armada-35, a Clean LikeNew MonsterTruck for $20,069.00
+North: Bought Hyper-43, a Dirty Broken MonsterTruck for $13,135.50
+North: Bought Aventus-43, a Dirty Broken MonsterTruck for $16,056.50
+North: Bought Gallery-43, a Dirty LikeNew MonsterTruck for $28,474.00
+North: Bought Super-43, a Dirty Broken MonsterTruck for $20,857.50
+North: ***Budget overrun*** Added $250K, budget now: $249,492.93
+North: Bought Coralla-34, a Dirty LikeNew MonsterTruck for $13,110.00
+North: Bought Coach-34, a Sparkling Broken MonsterTruck for $5,343.00
+North: Bought Soul-35, a Dirty LikeNew MonsterTruck for $11,145.00
+North: Bought Avenger-35, a Dirty Used MonsterTruck for $8,305.60
+South: Hired a new Intern named Fred-12
+South: Bought Armor-35, a Dirty Used MonsterTruck for $12,806.40
+South: Bought Lift-35, a Dirty LikeNew MonsterTruck for $21,924.00
+South: Bought Sand-35, a Clean Broken MonsterTruck for $7,951.00
+South: Bought Grounded-36, a Clean LikeNew MonsterTruck for $19,514.00
+South: Bought Hyper-44, a Dirty LikeNew MonsterTruck for $35,345.00
+South: ***Budget overrun*** Added $250K, budget now: $222,728.47
+South: Bought Aventus-44, a Dirty Used MonsterTruck for $34,572.80
+South: Bought Gallery-44, a Dirty Broken MonsterTruck for $17,529.50
+South: Bought Super-44, a Dirty Used MonsterTruck for $28,584.80
+South: Bought Light-35, a Dirty Used MonsterTruck for $13,384.80
+South: Bought Coralla-35, a Clean Broken MonsterTruck for $6,592.00
+South: Bought Coach-35, a Dirty Used MonsterTruck for $9,803.20
+South: Bought Soul-36, a Clean LikeNew MonsterTruck for $18,551.00
+The North FNCD has 5 buyers today...
+The South FNCD has 4 buyers today...
+Salesperson Lucy-8 is leaving the North FNCD
+Intern Lucy-10 has been promoted to Salesperson in the North FNCD
+Intern Fred-12 is leaving the South FNCD
+North: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer9
+Place: 2 Racer10
+Place: 3 Racer2
+Place: 4 Racer11
+Place: 5 Racer3
+Place: 6 Racer4
+Place: 7 Racer8
+Place: 8 Racer18
+Place: 9 Racer17
+Place: 10 Racer1
+Place: 11 Racer13
+Place: 12 Racer7
+Place: 13 Racer20
+Place: 14 Racer6
+Place: 15 Racer19
+Place: 16 Racer14
+Place: 17 Racer15
+Place: 18 Racer16
+Place: 19 Racer5
+Place: 20 Racer12
+South: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer14
+Place: 2 Racer18
+Place: 3 Racer2
+Place: 4 Racer4
+Place: 5 Racer19
+Place: 6 Racer7
+Place: 7 Racer8
+Place: 8 Racer3
+Place: 9 Racer12
+Place: 10 Racer10
+Place: 11 Racer15
+Place: 12 Racer16
+Place: 13 Racer9
+Place: 14 Racer13
+Place: 15 Racer1
+Place: 16 Racer11
+Place: 17 Racer20
+Place: 18 Racer5
+Place: 19 Racer17
+Place: 20 Racer6
+North: Hired a new Intern named Ethel-12
+North: Bought Taurus-4, a Dirty Broken Car for $5,128.00
+North: Bought Cayman-5, a Dirty Broken PerfCar for $14,542.00
+North: Bought Armada-36, a Clean LikeNew MonsterTruck for $23,007.00
+North: Bought Armor-36, a Dirty LikeNew MonsterTruck for $24,068.00
+North: Bought Lift-36, a Dirty Used MonsterTruck for $13,796.00
+North: Bought Sand-36, a Dirty Broken MonsterTruck for $9,152.50
+North: Bought Hyper-45, a Clean Broken MonsterTruck for $18,316.50
+North: Bought Aventus-45, a Clean Broken MonsterTruck for $20,351.00
+North: Bought Gallery-45, a Dirty Used MonsterTruck for $27,292.80
+North: Bought Super-45, a Dirty Broken MonsterTruck for $20,279.50
+North: Bought Avenger-36, a Clean Broken MonsterTruck for $7,277.50
+North: Bought Light-36, a Clean LikeNew MonsterTruck for $16,952.00
+North: Bought Coralla-36, a Clean Used MonsterTruck for $8,556.00
+North: Bought Coach-36, a Dirty Broken MonsterTruck for $8,541.50
+South: Hired a new Intern named Lucy-12
+South: Bought Fiesta-4, a Clean Broken Car for $9,868.00
+South: Bought Grounded-37, a Dirty Used MonsterTruck for $17,343.20
+South: Bought Armada-37, a Dirty Broken MonsterTruck for $11,594.00
+South: Bought Armor-37, a Dirty Broken MonsterTruck for $7,987.00
+South: Bought Lift-37, a Dirty Used MonsterTruck for $18,082.40
+South: Bought Hyper-46, a Clean LikeNew MonsterTruck for $34,821.00
+South: Bought Aventus-46, a Dirty Used MonsterTruck for $32,474.40
+South: ***Budget overrun*** Added $250K, budget now: $241,201.17
+South: Bought Gallery-46, a Clean Used MonsterTruck for $24,400.00
+South: Bought Super-46, a Dirty Broken MonsterTruck for $17,204.00
+South: Bought Soul-37, a Dirty Used MonsterTruck for $12,468.00
+South: Bought Avenger-37, a Clean Used MonsterTruck for $10,696.00
+South: Bought Light-37, a Dirty Broken MonsterTruck for $7,761.00
+South: Bought Coralla-37, a Sparkling Broken MonsterTruck for $5,404.00
+The North FNCD has 1 buyers today...
+The South FNCD has 1 buyers today...
+Salesperson Monica is leaving the North FNCD
+Intern Desi-10 has been promoted to Salesperson in the North FNCD
+Salesperson Fred-10 is leaving the South FNCD
+Intern Ethel-11 has been promoted to Salesperson in the South FNCD
+North: Hired a new Intern named Desi-12
+North: Bought Sand-37, a Dirty Broken MonsterTruck for $10,061.50
+North: Bought Grounded-38, a Clean LikeNew MonsterTruck for $23,005.00
+North: Bought Armada-38, a Dirty LikeNew MonsterTruck for $15,912.00
+North: Bought Armor-38, a Clean LikeNew MonsterTruck for $19,226.00
+North: Bought Hyper-47, a Dirty Broken MonsterTruck for $16,526.00
+North: Bought Aventus-47, a Clean Broken MonsterTruck for $16,123.00
+North: Bought Gallery-47, a Clean Used MonsterTruck for $20,642.40
+North: Bought Super-47, a Dirty Used MonsterTruck for $26,632.80
+North: Bought Coach-37, a Dirty Used MonsterTruck for $8,209.60
+North: Bought Soul-38, a Clean Used MonsterTruck for $12,892.00
+North: Bought Avenger-38, a Dirty Broken MonsterTruck for $8,823.50
+North: Bought Light-38, a Dirty Used MonsterTruck for $13,752.00
+South: Hired a new Intern named Fred-13
+South: Bought Probe-5, a Dirty Broken Car for $7,742.00
+South: Bought Lift-38, a Sparkling LikeNew MonsterTruck for $19,132.00
+South: Bought Sand-38, a Dirty Broken MonsterTruck for $11,914.00
+South: Bought Grounded-39, a Dirty Broken MonsterTruck for $7,748.50
+South: Bought Armada-39, a Clean LikeNew MonsterTruck for $23,834.00
+South: Bought Hyper-48, a Dirty LikeNew MonsterTruck for $34,200.00
+South: Bought Aventus-48, a Dirty Used MonsterTruck for $28,642.40
+South: Bought Gallery-48, a Sparkling Broken MonsterTruck for $15,620.50
+South: Bought Super-48, a Dirty Used MonsterTruck for $26,702.40
+South: Bought Coralla-38, a Sparkling Broken MonsterTruck for $8,408.50
+South: Bought Coach-38, a Clean LikeNew MonsterTruck for $12,448.00
+South: Bought Soul-39, a Dirty Broken MonsterTruck for $6,185.50
+South: ***Budget overrun*** Added $250K, budget now: $246,659.90
+South: Bought Avenger-39, a Clean Used MonsterTruck for $14,036.80
+The North FNCD has 5 buyers today...
+The South FNCD has 5 buyers today...
+Intern Desi-11 is leaving the North FNCD
+Mechanic Ethel-4 is leaving the South FNCD
+Intern Lucy-11 has been promoted to Mechanic in the South FNCD
+North: Hired a new Intern named Ethel-13
+North: Bought Corvette-5, a Clean Used PerfCar for $26,504.00
+North: Bought CBR1000-5, a Clean Broken Motorcycle for $7,964.50
+North: Bought Armor-39, a Dirty LikeNew MonsterTruck for $22,463.00
+North: Bought Lift-39, a Dirty LikeNew MonsterTruck for $23,550.00
+North: Bought Sand-39, a Dirty Used MonsterTruck for $16,588.00
+North: Bought Grounded-40, a Dirty Broken MonsterTruck for $9,400.00
+North: Bought Hyper-49, a Clean Broken MonsterTruck for $17,082.50
+North: Bought Aventus-49, a Dirty Used MonsterTruck for $29,548.80
+North: ***Budget overrun*** Added $250K, budget now: $240,966.41
+North: Bought Gallery-49, a Dirty Used MonsterTruck for $34,382.40
+North: Bought Super-49, a Clean Broken MonsterTruck for $16,948.50
+North: Bought Light-39, a Clean LikeNew MonsterTruck for $10,121.00
+North: Bought Coralla-39, a Dirty LikeNew MonsterTruck for $14,585.00
+North: Bought Coach-39, a Dirty Used MonsterTruck for $8,864.00
+North: Bought Soul-40, a Dirty Broken MonsterTruck for $5,153.00
+South: Hired a new Intern named Lucy-13
+South: Bought Escort-5, a Clean LikeNew Car for $13,809.00
+South: Bought EV6-4, a Clean Broken Electric for $16,581.00
+South: Bought Armada-40, a Dirty Broken MonsterTruck for $9,374.00
+South: Bought Armor-40, a Dirty Used MonsterTruck for $15,432.80
+South: Bought Lift-40, a Dirty LikeNew MonsterTruck for $17,742.00
+South: Bought Sand-40, a Dirty LikeNew MonsterTruck for $22,523.00
+South: Bought Hyper-50, a Dirty Broken MonsterTruck for $17,011.50
+South: Bought Aventus-50, a Dirty LikeNew MonsterTruck for $44,800.00
+South: Bought Gallery-50, a Dirty Broken MonsterTruck for $21,048.00
+South: Bought Super-50, a Dirty Used MonsterTruck for $35,989.60
+South: Bought Avenger-40, a Sparkling LikeNew MonsterTruck for $10,337.00
+South: Bought Light-40, a Clean Used MonsterTruck for $13,437.60
+South: Bought Coralla-40, a Clean Broken MonsterTruck for $7,889.00
+South: Bought Coach-40, a Sparkling Broken MonsterTruck for $7,203.00
+The North FNCD has 3 buyers today...
+The South FNCD has 3 buyers today...
+North: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer14
+Place: 2 Racer2
+Place: 3 Racer10
+Place: 4 Racer7
+Place: 5 Racer6
+Place: 6 Racer11
+Place: 7 Racer5
+Place: 8 Racer8
+Place: 9 Racer3
+Place: 10 Racer17
+Place: 11 Racer4
+Place: 12 Racer16
+Place: 13 Racer1
+Place: 14 Racer18
+Place: 15 Racer9
+Place: 16 Racer13
+Place: 17 Racer12
+Place: 18 Racer20
+Place: 19 Racer15
+Place: 20 Racer19
+South: Its Racing Time!
+South FNCD driver participating: Junior
+South FNCD driver participating: Bob-2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer10
+Place: 2 Racer5
+Place: 3 Racer17
+Place: 4 Junior
+Place: 5 Racer14
+Place: 6 Racer7
+Place: 7 Racer16
+Place: 8 Racer19
+Place: 9 Racer15
+Place: 10 Racer9
+Place: 11 Racer18
+Place: 12 Racer4
+Place: 13 Racer11
+Place: 14 Racer6
+Place: 15 Bob-2
+Place: 16 Racer20
+Place: 17 Racer12
+Place: 18 Racer3
+Place: 19 Racer13
+Place: 20 Racer8
+North: Bought Grom-6, a Clean Broken Motorcycle for $7,983.00
+North: Bought Grounded-41, a Clean Used MonsterTruck for $19,069.60
+North: Bought Armada-41, a Dirty LikeNew MonsterTruck for $17,143.00
+North: Bought Armor-41, a Dirty Broken MonsterTruck for $10,746.00
+North: Bought Lift-41, a Dirty Broken MonsterTruck for $11,139.50
+North: Bought Hyper-51, a Dirty Broken MonsterTruck for $16,854.50
+North: Bought Aventus-51, a Dirty Used MonsterTruck for $33,156.00
+North: Bought Gallery-51, a Clean Used MonsterTruck for $22,698.40
+North: Bought Super-51, a Clean LikeNew MonsterTruck for $38,202.00
+North: Bought Soul-41, a Dirty Broken MonsterTruck for $5,847.00
+North: Bought Avenger-41, a Clean Used MonsterTruck for $8,263.20
+North: ***Budget overrun*** Added $250K, budget now: $249,886.39
+North: Bought Light-41, a Clean Used MonsterTruck for $11,199.20
+North: Bought Coralla-41, a Dirty Broken MonsterTruck for $6,806.00
+South: Bought Ninja-6, a Dirty Used Motorcycle for $5,636.80
+South: Bought Sand-41, a Clean Used MonsterTruck for $19,492.00
+South: Bought Grounded-42, a Clean LikeNew MonsterTruck for $15,176.00
+South: Bought Armada-42, a Dirty Used MonsterTruck for $19,950.40
+South: Bought Armor-42, a Dirty Broken MonsterTruck for $11,321.50
+South: ***Budget overrun*** Added $250K, budget now: $240,073.48
+South: Bought Hyper-52, a Dirty Used MonsterTruck for $32,982.40
+South: Bought Aventus-52, a Clean LikeNew MonsterTruck for $44,802.00
+South: Bought Gallery-52, a Sparkling Broken MonsterTruck for $21,794.50
+South: Bought Super-52, a Dirty Used MonsterTruck for $26,952.80
+South: Bought Coach-41, a Clean Broken MonsterTruck for $8,734.50
+South: Bought Soul-42, a Clean Broken MonsterTruck for $8,161.00
+South: Bought Avenger-42, a Clean Broken MonsterTruck for $6,082.50
+South: Bought Light-42, a Dirty Used MonsterTruck for $12,048.00
+The North FNCD has 1 buyers today...
+The South FNCD has 1 buyers today...
+Intern Fred-13 is leaving the South FNCD
+North: Bought Lift-42, a Dirty Used MonsterTruck for $14,598.40
+North: Bought Sand-42, a Clean Used MonsterTruck for $19,441.60
+North: Bought Grounded-43, a Clean Broken MonsterTruck for $9,556.50
+North: Bought Armada-43, a Clean Broken MonsterTruck for $8,998.00
+North: Bought Hyper-53, a Clean Used MonsterTruck for $32,628.80
+North: Bought Aventus-53, a Dirty Broken MonsterTruck for $13,037.00
+North: Bought Gallery-53, a Clean Broken MonsterTruck for $12,500.50
+North: Bought Super-53, a Clean Used MonsterTruck for $26,760.00
+North: Bought Coralla-42, a Dirty Broken MonsterTruck for $6,533.50
+North: Bought Coach-42, a Dirty Broken MonsterTruck for $6,010.50
+North: Bought Soul-43, a Clean Broken MonsterTruck for $8,375.00
+North: Bought Avenger-43, a Dirty Broken MonsterTruck for $9,699.50
+South: Hired a new Intern named Desi-13
+South: Bought Armor-43, a Dirty Broken MonsterTruck for $7,660.50
+South: Bought Lift-43, a Dirty Used MonsterTruck for $17,788.00
+South: Bought Sand-43, a Dirty Used MonsterTruck for $14,040.80
+South: Bought Grounded-44, a Clean Broken MonsterTruck for $11,750.00
+South: Bought Hyper-54, a Dirty LikeNew MonsterTruck for $28,186.00
+South: ***Budget overrun*** Added $250K, budget now: $243,869.88
+South: Bought Aventus-54, a Dirty LikeNew MonsterTruck for $37,093.00
+South: Bought Gallery-54, a Dirty Broken MonsterTruck for $19,506.00
+South: Bought Super-54, a Dirty LikeNew MonsterTruck for $44,347.00
+South: Bought Light-43, a Clean Used MonsterTruck for $14,268.00
+South: Bought Coralla-43, a Dirty Broken MonsterTruck for $9,000.50
+South: Bought Coach-43, a Dirty Broken MonsterTruck for $7,679.50
+South: Bought Soul-44, a Clean Used MonsterTruck for $14,892.00
+The North FNCD has 6 buyers today...
+The South FNCD has 5 buyers today...
+North: Bought Armada-44, a Dirty LikeNew MonsterTruck for $17,782.00
+North: Bought Armor-44, a Dirty LikeNew MonsterTruck for $18,912.00
+North: Bought Lift-44, a Dirty Broken MonsterTruck for $11,875.50
+North: Bought Sand-44, a Clean Used MonsterTruck for $18,602.40
+North: Bought Hyper-55, a Dirty LikeNew MonsterTruck for $34,604.00
+North: Bought Aventus-55, a Dirty Used MonsterTruck for $34,519.20
+North: Bought Gallery-55, a Sparkling LikeNew MonsterTruck for $27,924.00
+North: Bought Super-55, a Sparkling LikeNew MonsterTruck for $41,207.00
+North: Bought Avenger-44, a Dirty LikeNew MonsterTruck for $10,060.00
+North: Bought Light-44, a Clean LikeNew MonsterTruck for $19,314.00
+North: Bought Coralla-44, a Dirty Used MonsterTruck for $15,808.80
+North: Bought Coach-44, a Dirty LikeNew MonsterTruck for $10,821.00
+South: Bought Mustang-5, a Clean Broken PerfCar for $16,204.50
+South: Bought Grounded-45, a Clean Broken MonsterTruck for $12,075.50
+South: Bought Armada-45, a Dirty Used MonsterTruck for $17,204.80
+South: Bought Armor-45, a Clean Broken MonsterTruck for $11,686.00
+South: Bought Lift-45, a Clean LikeNew MonsterTruck for $19,114.00
+South: Bought Hyper-56, a Dirty Used MonsterTruck for $24,936.80
+South: Bought Aventus-56, a Clean Used MonsterTruck for $25,793.60
+South: Bought Gallery-56, a Clean Broken MonsterTruck for $15,890.50
+South: Bought Super-56, a Dirty LikeNew MonsterTruck for $44,954.00
+South: Bought Soul-45, a Clean Broken MonsterTruck for $6,040.50
+South: Bought Avenger-45, a Dirty Broken MonsterTruck for $9,393.00
+South: Bought Light-45, a Dirty Broken MonsterTruck for $9,558.50
+South: Bought Coralla-45, a Clean Broken MonsterTruck for $7,171.50
+The North FNCD has 3 buyers today...
+The South FNCD has 4 buyers today...
+Salesperson Desi-4 is leaving the North FNCD
+Intern Ethel-12 has been promoted to Salesperson in the North FNCD
+Intern Lucy-13 is leaving the South FNCD
+Salesperson Fred-7 is leaving the South FNCD
+Intern Lucy-12 has been promoted to Salesperson in the South FNCD
+North: Hired a new Intern named Fred-14
+North: Bought Sand-45, a Clean Used MonsterTruck for $13,408.80
+North: Bought Grounded-46, a Dirty Used MonsterTruck for $19,560.00
+North: Bought Armada-46, a Dirty Used MonsterTruck for $17,480.80
+North: Bought Armor-46, a Dirty Broken MonsterTruck for $12,314.50
+North: Bought Hyper-57, a Dirty LikeNew MonsterTruck for $30,566.00
+North: Bought Aventus-57, a Sparkling Broken MonsterTruck for $14,111.50
+North: Bought Gallery-57, a Dirty Used MonsterTruck for $26,296.80
+North: Bought Super-57, a Clean Used MonsterTruck for $32,184.80
+North: Bought Coach-45, a Dirty Used MonsterTruck for $11,419.20
+North: ***Budget overrun*** Added $250K, budget now: $249,896.43
+North: Bought Soul-46, a Dirty Used MonsterTruck for $12,376.80
+North: Bought Avenger-46, a Clean Used MonsterTruck for $9,336.80
+North: Bought Light-46, a Clean LikeNew MonsterTruck for $11,558.00
+South: Hired a new Intern named Ethel-14
+South: Hired a new Intern named Lucy-14
+South: Bought Europa-6, a Dirty Used PerfCar for $31,310.40
+South: Bought Tundra-4, a Clean LikeNew Pickup for $15,726.00
+South: Bought Lift-46, a Clean Broken MonsterTruck for $11,808.50
+South: Bought Sand-46, a Dirty LikeNew MonsterTruck for $16,475.00
+South: Bought Grounded-47, a Dirty LikeNew MonsterTruck for $21,983.00
+South: Bought Armada-47, a Sparkling Used MonsterTruck for $16,149.60
+South: Bought Hyper-58, a Dirty LikeNew MonsterTruck for $36,609.00
+South: Bought Aventus-58, a Dirty Broken MonsterTruck for $17,781.00
+South: Bought Gallery-58, a Dirty LikeNew MonsterTruck for $25,817.00
+South: Bought Super-58, a Clean LikeNew MonsterTruck for $43,707.00
+South: Bought Coralla-46, a Dirty Broken MonsterTruck for $7,838.00
+South: Bought Coach-46, a Dirty Used MonsterTruck for $14,149.60
+South: ***Budget overrun*** Added $250K, budget now: $247,235.96
+South: Bought Soul-47, a Dirty Used MonsterTruck for $12,636.80
+South: Bought Avenger-47, a Clean LikeNew MonsterTruck for $17,303.00
+The North FNCD has 2 buyers today...
+The South FNCD has 0 buyers today...
+Intern Fred-14 is leaving the North FNCD
+Mechanic Ethel-3 is leaving the North FNCD
+Intern Desi-12 has been promoted to Mechanic in the North FNCD
+North: Its Racing Time!
+Other driver participating: Racer1
+Other driver participating: Racer2
+Other driver participating: Racer3
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer14
+Place: 2 Racer2
+Place: 3 Racer4
+Place: 4 Racer6
+Place: 5 Racer8
+Place: 6 Racer16
+Place: 7 Racer13
+Place: 8 Racer17
+Place: 9 Racer5
+Place: 10 Racer19
+Place: 11 Racer15
+Place: 12 Racer11
+Place: 13 Racer18
+Place: 14 Racer12
+Place: 15 Racer10
+Place: 16 Racer3
+Place: 17 Racer1
+Place: 18 Racer20
+Place: 19 Racer9
+Place: 20 Racer7
+South: Its Racing Time!
+South FNCD driver participating: Junior
+South FNCD driver participating: Bob-2
+South FNCD driver participating: Joe-2
+Other driver participating: Racer4
+Other driver participating: Racer5
+Other driver participating: Racer6
+Other driver participating: Racer7
+Other driver participating: Racer8
+Other driver participating: Racer9
+Other driver participating: Racer10
+Other driver participating: Racer11
+Other driver participating: Racer12
+Other driver participating: Racer13
+Other driver participating: Racer14
+Other driver participating: Racer15
+Other driver participating: Racer16
+Other driver participating: Racer17
+Other driver participating: Racer18
+Other driver participating: Racer19
+Other driver participating: Racer20
+Place: 1 Racer6
+Place: 2 Racer9
+Place: 3 Racer15
+Place: 4 Racer7
+Place: 5 Racer20
+Place: 6 Bob-2
+Place: 7 Racer12
+Place: 8 Joe-2
+Place: 9 Racer4
+Place: 10 Racer16
+Place: 11 Racer13
+Place: 12 Racer8
+Place: 13 Racer10
+Place: 14 Racer17
+Place: 15 Racer18
+Place: 16 Junior
+Grom-2 is now broken.
+Place: 17 Racer5
+Place: 18 Racer11
+Place: 19 Racer14
+Place: 20 Racer19
+North: Hired a new Intern named Desi-14
+North: Hired a new Intern named Fred-15
+North: Bought Armor-47, a Clean Used MonsterTruck for $14,667.20
+North: Bought Lift-47, a Dirty LikeNew MonsterTruck for $24,862.00
+North: Bought Sand-47, a Dirty LikeNew MonsterTruck for $18,575.00
+North: Bought Grounded-48, a Dirty Used MonsterTruck for $18,476.00
+North: Bought Hyper-59, a Clean LikeNew MonsterTruck for $32,376.00
+North: Bought Aventus-59, a Dirty Used MonsterTruck for $25,171.20
+North: Bought Gallery-59, a Dirty Used MonsterTruck for $31,671.20
+North: Bought Super-59, a Clean Used MonsterTruck for $27,793.60
+North: Bought Light-47, a Clean Broken MonsterTruck for $6,032.50
+North: Bought Coralla-47, a Dirty Used MonsterTruck for $13,723.20
+North: Bought Coach-47, a Dirty Used MonsterTruck for $13,577.60
+North: ***Budget overrun*** Added $250K, budget now: $240,806.13
+North: Bought Soul-48, a Dirty Used MonsterTruck for $10,160.00
+South: Bought Armada-48, a Dirty LikeNew MonsterTruck for $23,215.00
+South: Bought Armor-48, a Clean Broken MonsterTruck for $11,375.50
+South: Bought Lift-48, a Dirty Broken MonsterTruck for $8,697.50
+South: Bought Sand-48, a Dirty Broken MonsterTruck for $9,373.50
+South: Bought Hyper-60, a Dirty Broken MonsterTruck for $16,319.50
+South: Bought Aventus-60, a Clean LikeNew MonsterTruck for $25,572.00
+South: Bought Gallery-60, a Clean Used MonsterTruck for $30,483.20
+South: Bought Super-60, a Dirty Broken MonsterTruck for $17,016.50
+South: Bought Avenger-48, a Dirty Used MonsterTruck for $8,638.40
+South: Bought Light-48, a Clean LikeNew MonsterTruck for $12,430.00
+South: Bought Coralla-48, a Clean Broken MonsterTruck for $8,759.00
+South: Bought Coach-48, a Clean LikeNew MonsterTruck for $18,215.00
+The North FNCD has 3 buyers today...
+The South FNCD has 3 buyers today...
+Intern Desi-14 is leaving the North FNCD
+Salesperson Desi-9 is leaving the South FNCD
+Intern Desi-13 has been promoted to Salesperson in the South FNCD

@@ -1,62 +1,62 @@
 The North FNCD is opening...
 The South FNCD is opening...
 The North FNCD interns are washing...
-Intern Ethel-8 washed Europa Dirty to Clean using Detailed method
-Intern Ethel-8 washed Mustang-4 Dirty to Clean using Detailed method
-Intern Lucy-8 washed Escort-5 Dirty to Clean using Detailed method
-Intern Lucy-8 got a bonus of $100.00!
-Intern Lucy-8 washed Europa Clean to Sparkling using Detailed method
-Intern Desi-8 washed Mustang Clean to Clean using  Chemical method
-Intern Desi-8 washed EV6 Clean to Clean using  Chemical method
+Intern Lucy-8 washed Armor-7 Dirty to Clean using ElbowGrease method
+Intern Lucy-8 washed Lift-7 Dirty to Clean using ElbowGrease method
+Intern Ethel-9 washed Sand-7 Dirty to Clean using Detailed method
+Intern Ethel-9 washed Grounded-8 Dirty to Clean using Detailed method
+Intern Lucy-9 washed Hyper-9 Dirty to Dirty using Detailed method
+Intern Lucy-9 washed Aventus-9 Dirty to Dirty using Detailed method
 The South FNCD interns are washing...
-Intern Ethel-7 washed Bigfoot-3 Dirty to Clean using Chemical method
-Intern Ethel-7 washed Grave Digger-3 Dirty to Clean using Chemical method
-Intern Desi-7 washed Europa-2 Clean to Clean using  Chemical method
-Intern Desi-7 washed Bolt-4 Clean to Clean using  Chemical method
-Intern Fred-8 washed Europa-2 Clean to Clean using Detailed method
-Intern Fred-8 washed Bolt-4 Clean to Clean using Detailed method
+Intern Fred-9 washed Sand-8 Dirty to Clean using ElbowGrease method
+Intern Fred-9 washed Hyper-10 Dirty to Clean using ElbowGrease method
+Intern Desi-9 washed Aventus-10 Dirty to Clean using Chemical method
+Intern Desi-9 washed Gallery-10 Dirty to Clean using Chemical method
+Intern Fred-10 got a bonus of $100.00!
+Intern Fred-10 washed Avenger-8 Dirty to Sparkling using Chemical method
+Intern Fred-10 got a bonus of $100.00!
+Intern Fred-10 washed Light-8 Dirty to Sparkling using Chemical method
 The North FNCD mechanics are repairing...
-Mechanic Scotty did not fix the Broken Escort-5
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Tundra-5 Used to LikeNew
-Mechanic Lucy-2 got a bonus of $100.00!
-Mechanic Lucy-2 fixed Escort-5 Broken to Used
-Mechanic Lucy-2 got a bonus of $500.00!
-Mechanic Lucy-2 fixed Predator-3 Broken to Used
-Mechanic Lucy-6 got a bonus of $100.00!
-Mechanic Lucy-6 fixed Escort-5 Used to LikeNew
-Mechanic Lucy-6 got a bonus of $500.00!
-Mechanic Lucy-6 fixed Predator-3 Used to LikeNew
+Mechanic Fred did not fix the Used Grounded-8
+Mechanic Fred got a bonus of $750.00!
+Mechanic Fred fixed Aventus-9 Used to LikeNew
+Mechanic Ethel-3 got a bonus of $500.00!
+Mechanic Ethel-3 fixed Grounded-8 Used to LikeNew
+Mechanic Ethel-3 got a bonus of $750.00!
+Mechanic Ethel-3 fixed Gallery-9 Broken to Used
+Mechanic Desi-5 did not fix the Used Gallery-9
+Mechanic Desi-5 did not fix the Broken Light-7
 The South FNCD mechanics are repairing...
+Mechanic Ethel-4 got a bonus of $200.00!
+Mechanic Ethel-4 fixed Coach-8 Broken to Used
+Mechanic Ethel-4 got a bonus of $100.00!
+Mechanic Ethel-4 fixed Probe-3 Used to LikeNew
+Mechanic Ethel-7 got a bonus of $200.00!
+Mechanic Ethel-7 fixed Coach-8 Used to LikeNew
+Mechanic Ethel-7 got a bonus of $500.00!
+Mechanic Ethel-7 fixed Sand-9 Broken to Used
+Mechanic Desi-7 got a bonus of $500.00!
+Mechanic Desi-7 fixed Sand-9 Used to LikeNew
+Mechanic Desi-7 got a bonus of $500.00!
+Mechanic Desi-7 fixed Grounded-10 Broken to Used
 The North FNCD salespeople are selling...
-Buyer Luke-33 wants a Electric (WantsOne)
-Buyer Luke-33 is buying! Salesperson Rachel gets a bonus of $750.00!
-Buyer Luke-33 bought Clean LikeNew EQS-3 for base price of $67,756.00
-Buyer Leia-33 wants a MonsterTruck (JustLooking)
-Buyer Leia-33 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Leia-33 bought Clean LikeNew Predator-2 for base price of $58,056.00
-Buyer Han-33 wants a Motorcycle (WantsOne)
-Buyer Han-33 is buying! Salesperson Rachel gets a bonus of $1,250.00!
-Buyer Han-33 bought Clean LikeNew Softail-5 for base price of $32,276.00
-Buyer Chewy-33 wants a MonsterTruck (JustLooking)
-Buyer Chewy-33 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-33 bought Clean LikeNew Grave Digger-2 for base price of $48,534.38
-Buyer Luke-34 wants a Electric (WantsOne)
-Buyer Luke-34 decided not to buy.
-Buyer Leia-34 wants a Car (JustLooking)
-Buyer Leia-34 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Leia-34 bought Clean LikeNew Taurus-3 for base price of $22,734.38
+Buyer Luke-26 wants a Motorcycle (JustLooking)
+Buyer Luke-26 decided not to buy.
+Buyer Leia-26 wants a MonsterTruck (WantsOne)
+Buyer Leia-26 is buying! Salesperson Ethel-6 gets a bonus of $1,500.00!
+Buyer Leia-26 bought Clean LikeNew Super-25 for base price of $83,136.00
+Buyer Han-26 wants a Motorcycle (JustLooking)
+Buyer Han-26 decided not to buy.
+Buyer Chewy-26 wants a Motorcycle (WantsOne)
+Buyer Chewy-26 decided not to buy.
+Buyer Luke-27 wants a Pickup (NeedsOne)
+Buyer Luke-27 decided not to buy.
 The South FNCD salespeople are selling...
-Buyer Han-34 wants a PerfCar (JustLooking)
-Buyer Han-34 decided not to buy.
-Buyer Chewy-34 wants a Pickup (WantsOne)
-Buyer Chewy-34 decided not to buy.
-Buyer Luke-35 wants a Motorcycle (WantsOne)
-Buyer Luke-35 decided not to buy.
-Buyer Leia-35 wants a Motorcycle (JustLooking)
-Buyer Leia-35 is buying! Salesperson Desi-3 gets a bonus of $1,250.00!
-Buyer Leia-35 bought Sparkling LikeNew Grom-3 for base price of $28,850.00
-Buyer Han-35 wants a PerfCar (JustLooking)
-Buyer Han-35 is buying! Salesperson Lucy-5 gets a bonus of $1,000.00!
-Buyer Han-35 bought Clean LikeNew Europa-2 for base price of $115,976.25
+Buyer Leia-27 wants a MonsterTruck (WantsOne)
+Buyer Leia-27 is buying! Salesperson Ethel-5 gets a bonus of $1,500.00!
+Buyer Leia-27 bought Dirty LikeNew Gallery-26 for base price of $89,004.00
+Buyer Han-27 wants a Electric (WantsOne)
+Buyer Han-27 decided not to buy.
+Buyer Chewy-27 wants a SUV (JustLooking)
+Buyer Chewy-27 decided not to buy.
 That's it for the day.

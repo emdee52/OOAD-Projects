@@ -110,10 +110,6 @@ public class FNCD implements SysOut {
         }
     }
 
-    void BuyerDay() {
-
-    }
-
     ArrayList<Vehicle> getRaceCars(Enums.VehicleType vehicle) { //Returns a list of available race cars depending on type
         ArrayList<Vehicle> AvailableCars = Vehicle.getVehiclesByType(inventory, vehicle);
         ArrayList<Vehicle> raceCars = new ArrayList<>();
@@ -179,22 +175,26 @@ public class FNCD implements SysOut {
     // see if we need any vehicles
     void updateInventory() {
         final int numberInInventory = 4;
+        ArrayList<Enums.VehicleType> vehicleType = new ArrayList<Enums.VehicleType>();
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
             int need = numberInInventory - typeInList;
-            for (int i = 1; i<=need; ++i) addVehicle(t);
+            for (int i = 1; i <= need; ++i) {
+                vehicleType.add(addVehicle(t).type);
+            }
         }
 
     }
 
     // add a vehicle of a type to the inventory
-    void addVehicle(Enums.VehicleType t) {
+    Vehicle addVehicle(Enums.VehicleType t) {
         VehicleFactory factory = VehicleFactory.getFactory(t); // Abstract factory, we won't know what object will call createStaff()
         Vehicle v = factory.createVehicle();
 
         moneyOut(v.cost);  // pay for the vehicle
         outP(this.name + ": Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
         inventory.add(v);
+        return v;
     }
 
     // pay salary to staff and update days worked

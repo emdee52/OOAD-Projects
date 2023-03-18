@@ -22,7 +22,7 @@ public class Logger implements Listener{
     @Override
     public void notifyEvent(String event, int day) {
         try {
-            BufferedWriter out = new BufferedWriter(new FileWriter("Logger/Logger-"+day+".txt", true)); // Create/open file in append mode
+            BufferedWriter out = new BufferedWriter(new FileWriter("Logger/Logger-"+ day +".txt", true)); // Create/open file in append mode
             out.write(event+"\n"); // Write to output stream
             out.close();
         }
