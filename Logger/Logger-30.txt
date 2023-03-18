@@ -1,57 +1,63 @@
 >>> Start Simulation Day 30 Tue
 The North FNCD is opening...
-North: Hired a new Intern named Ethel-15
-North: Bought Ninja-4, a Dirty Used Motorcycle for $7,234.40
+North: Hired a new Intern named Lucy-13
+North: Bought Hyper-5, a Clean Used SportsCar for $30,116.80
 The South FNCD is opening...
-South: Hired a new Intern named Lucy-15
-South: Bought Europa-5, a Dirty Used PerfCar for $19,737.60
-South: Bought Batman-4, a Clean Used MonsterTruck for $22,524.00
 The North FNCD interns are washing...
-Colorado-6 became LikeNew
-Intern Desi-13 washed Colorado-6 Dirty to Clean using ElbowGrease method
-Grom-4 became LikeNew
-Intern Desi-13 washed Grom-4 Dirty to Clean using ElbowGrease method
-Avenger-4 became LikeNew
-Intern Desi-14 washed Avenger-4 Dirty to Dirty using ElbowGrease method
-Hyper-4 became LikeNew
-Intern Desi-14 washed Hyper-4 Dirty to Dirty using ElbowGrease method
-Intern Ethel-15 washed Avenger-4 Dirty to Clean using Detailed method
-Intern Ethel-15 washed Hyper-4 Dirty to Clean using Detailed method
+Intern Fred-12 washed Gallery Dirty to Clean using Chemical method
+Intern Fred-12 washed Coralla Dirty to Clean using Chemical method
+Intern Desi-12 washed Taycan-6 Dirty to Dirty using ElbowGrease method
+Intern Desi-12 washed Super-4 Dirty to Dirty using ElbowGrease method
+Intern Lucy-13 washed Taycan-6 Dirty to Dirty using Detailed method
+Intern Lucy-13 washed Super-4 Dirty to Dirty using Detailed method
 The South FNCD interns are washing...
-Intern Lucy-14 got a bonus of $200.00!
-Intern Lucy-14 washed Armor-2 Dirty to Sparkling using ElbowGrease method
-Intern Lucy-14 got a bonus of $200.00!
-Intern Lucy-14 washed Armor-4 Dirty to Sparkling using ElbowGrease method
-Intern Fred-15 washed Ranger-7 Dirty to Dirty using Detailed method
-Intern Fred-15 washed Europa-5 Dirty to Dirty using Detailed method
-Intern Lucy-15 washed Ranger-7 Dirty to Dirty using ElbowGrease method
-Intern Lucy-15 washed Europa-5 Dirty to Dirty using ElbowGrease method
+Intern Lucy-12 washed Light-4 Dirty to Clean using ElbowGrease method
+Intern Lucy-12 washed Ranger-2 Clean to Clean using ElbowGrease method
+Intern Fred-13 washed Ranger-2 Clean to Clean using  Chemical method
+Intern Fred-13 washed Raminator Clean to Clean using  Chemical method
+Intern Ethel-13 washed Ranger-2 Clean to Clean using Detailed method
+Intern Ethel-13 washed Raminator Clean to Clean using Detailed method
 The North FNCD mechanics are repairing...
-Mechanic Lucy got a bonus of $400.00!
-Mechanic Lucy fixed Ninja-4 Used to LikeNew
+Mechanic Lucy got a bonus of $750.00!
+Mechanic Lucy fixed Super-4 Used to LikeNew
+Mechanic Lucy did not fix the Used Hyper-5
+Mechanic Lucy-6 got a bonus of $750.00!
+Mechanic Lucy-6 fixed Hyper-5 Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic Lucy-6 did not fix the Used Ranger-7
-Mechanic Lucy-6 did not fix the Used Europa-5
-Mechanic Lucy-10 got a bonus of $200.00!
-Mechanic Lucy-10 fixed Ranger-7 Used to LikeNew
-Mechanic Lucy-10 got a bonus of $300.00!
-Mechanic Lucy-10 fixed Europa-5 Used to LikeNew
-Mechanic Lucy-11 got a bonus of $500.00!
-Mechanic Lucy-11 fixed Batman-4 Used to LikeNew
 The North FNCD salespeople are selling...
-The North FNCD has 1 buyers today...
-Buyer Chewy-45 wants a PerfCar (JustLooking)
-Buyer Chewy-45 decided not to buy.
+The North FNCD has 4 buyers today...
+Buyer Leia-44 wants a Motorcycle (NeedsOne)
+Buyer Leia-44 decided not to buy.
+Buyer Han-44 wants a SUV (NeedsOne)
+Buyer Han-44 is buying! Salesperson Lucy-5 gets a bonus of $800.00!
+Buyer Han-44 bought Clean LikeNew Armor-3 for base price of $41,506.88
+Buyer Chewy-44 wants a SUV (WantsOne)
+Buyer Chewy-44 is buying! Salesperson Fred-7 gets a bonus of $800.00!
+Buyer Chewy-44 bought Sparkling LikeNew Sand-3 for base price of $35,048.00
+Buyer Luke-45 wants a Electric (WantsOne)
+Buyer Luke-45 is buying! Salesperson Lucy-2 gets a bonus of $750.00!
+Buyer Luke-45 bought Clean LikeNew Bolt-3 for base price of $66,168.00
 The South FNCD salespeople are selling...
-The South FNCD has 1 buyers today...
-Buyer Luke-46 wants a Motorcycle (JustLooking)
+The South FNCD has 4 buyers today...
+Buyer Leia-45 wants a Car (NeedsOne)
+Buyer Leia-45 is buying! Salesperson Desi-11 gets a bonus of $500.00!
+Buyer Leia-45 bought Clean LikeNew Escort-4 for base price of $39,286.00
+Buyer Han-45 wants a Sedan (JustLooking)
+Buyer Han-45 is buying! Salesperson Desi-11 gets a bonus of $500.00!
+Buyer Han-45 bought Clean LikeNew Light-4 for base price of $22,270.00
+Buyer Chewy-45 wants a Electric (WantsOne)
+Buyer Chewy-45 is buying! Salesperson Fred-9 gets a bonus of $750.00!
+Buyer Chewy-45 bought Clean LikeNew EV6-4 for base price of $119,506.64
+Buyer Luke-46 wants a Pickup (JustLooking)
 Buyer Luke-46 decided not to buy.
-North FNCD: Vehicles in inventory 36
-North FNCD: Vehicles sold count 40
-North FNCD: Money in the budget $1,940,612.23
-South FNCD: Vehicles in inventory 36
-South FNCD: Vehicles sold count 46
-South FNCD: Money in the budget $2,004,579.07
+Mechanic Fred-10 is leaving the North FNCD
+Intern Fred-12 has been promoted to Mechanic in the North FNCD
+North FNCD: Vehicles in inventory 33
+North FNCD: Vehicles sold count 52
+North FNCD: Money in the budget $2,699,997.27
+South FNCD: Vehicles in inventory 33
+South FNCD: Vehicles sold count 36
+South FNCD: Money in the budget $1,716,621.66
 That's it for the day.
 >>> End Simulation Day 30 Tue
 

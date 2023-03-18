@@ -40,17 +40,17 @@ public class Buyer implements SysOut{
         outP("Choose new FNCD location by typing option number", announcer, numDays);
         outP("1. North FNCD Location", announcer, numDays);
         outP("2. South FNCD Location", announcer, numDays);
-        int FNCDLocation = readUser.nextInt();
+        int FNCDLocation = readUser.nextInt(); //Decide between FNCD using the number
         if (FNCDLocation == 1) {
             currentFNCD = FNCDList.get(FNCDLocation -1);
-            ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson);
+            ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson); //Switches some variables around out of necessity or for more convienience
             attendingStaff = FNCDstaff.get(0);
             announcer = currentFNCD.announcer;
             outP("You chose North FNCD", announcer, numDays);
         }
         else {
             currentFNCD = FNCDList.get(FNCDLocation -1 );
-            ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson);
+            ArrayList<Staff> FNCDstaff = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson); //Same as comment above
             attendingStaff = FNCDstaff.get(0);
             announcer = currentFNCD.announcer;
             outP("You chose South FNCD", announcer, numDays);
@@ -71,11 +71,11 @@ public class Buyer implements SysOut{
         outP("Asking for new Salesperson", announcer, numDays);
         ArrayList<Staff> salesPersons = Staff.getStaffByType(currentFNCD.staff, Enums.StaffType.Salesperson);
         for (Staff s : salesPersons) {
-            if (s.name == attendingStaff.name){
+            if (s.name == attendingStaff.name){ //Skips over salesperson if they're the same person
             }
             else {
                 attendingStaff = s;
-                outP("Your new sales person is " + attendingStaff.name, announcer, numDays);
+                outP("Your new sales person is " + attendingStaff.name, announcer, numDays); //Gets new Salesperson
                 break;
             }
         }
@@ -83,7 +83,7 @@ public class Buyer implements SysOut{
 
     public void AskingInventory() {
         int i = 1;
-        outP("Asking for Inventory", announcer, numDays);
+        outP("Asking for Inventory", announcer, numDays); //Loops through entire inventory
         for(Vehicle v : currentFNCD.inventory) {
             outP(i + ". " + v.name, announcer, numDays);
             i = i + 1;
@@ -92,13 +92,15 @@ public class Buyer implements SysOut{
 
     public void AskingDetails() {
         int i = 1;
-        outP("Enter the number of the car you would like to look at", announcer, numDays);
+        outP("Enter the number of the car you would like to look at", announcer, numDays); //Loops through entire inventory
         for(Vehicle v : currentFNCD.inventory) {
             outP(i + ". " + v.name, announcer, numDays);
             i = i + 1;
         }
-        int vehicleDetails = readUser.nextInt() -1;
-        Vehicle chosenVehicle = currentFNCD.inventory.get(vehicleDetails);
+        int vehicleDetails = readUser.nextInt() -1; //Get specific vehicles details by typing in number next to vehicle you want
+        Vehicle chosenVehicle = currentFNCD.inventory.get(vehicleDetails); 
+
+        //Prints information
         outP("\nType:        " + chosenVehicle.type.toString(), announcer, numDays);
         outP("Name:        " + chosenVehicle.name, announcer, numDays);
         outP("Condition:   " + chosenVehicle.condition, announcer, numDays);

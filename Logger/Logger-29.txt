@@ -1,79 +1,59 @@
 >>> Start Simulation Day 29 Mon
 The North FNCD is opening...
-North: Hired a new Intern named Desi-14
-North: Bought Hyper-4, a Dirty Broken SportsCar for $16,971.50
+North: Bought Corvette-4, a Dirty Used PerfCar for $22,407.20
+North: Bought Taycan-6, a Dirty Used Electric for $26,021.60
+North: Bought Super-4, a Clean Broken SportsCar for $15,567.50
 The South FNCD is opening...
-South: Hired a new Intern named Fred-15
-South: Bought Ranger-7, a Dirty Broken Pickup for $8,799.50
 The North FNCD interns are washing...
-Intern Ethel-13 got a bonus of $120.00!
-Intern Ethel-13 washed Raminator-3 Dirty to Sparkling using Detailed method
-Intern Ethel-13 got a bonus of $20.00!
-Intern Ethel-13 washed Fiesta-4 Dirty to Sparkling using Detailed method
-Intern Desi-13 washed F-250-6 Dirty to Clean using ElbowGrease method
-Intern Desi-13 washed Grom-4 Dirty to Clean using ElbowGrease method
-Intern Desi-14 washed Hyper-4 Dirty to Dirty using ElbowGrease method
-Intern Desi-14 washed Light Clean to Clean using ElbowGrease method
+CBR1000-5 became LikeNew
+Intern Ethel-10 washed CBR1000-5 Dirty to Dirty using ElbowGrease method
+Corvette-4 became LikeNew
+Intern Ethel-10 washed Corvette-4 Dirty to Dirty using ElbowGrease method
+Intern Fred-12 washed CBR1000-5 Dirty to Clean using Chemical method
+Intern Fred-12 washed Corvette-4 Dirty to Clean using Chemical method
+Intern Desi-12 washed Taycan-6 Dirty to Clean using ElbowGrease method
+Intern Desi-12 washed Gallery Clean to Dirty using ElbowGrease method
 The South FNCD interns are washing...
-Intern Fred-14 washed Probe-5 Dirty to Clean using Detailed method
-Intern Fred-14 washed Bolt-5 Dirty to Clean using Detailed method
-Intern Lucy-14 washed Ranger-7 Dirty to Dirty using ElbowGrease method
-Intern Lucy-14 washed Aventus-2 Clean to Clean using ElbowGrease method
-Intern Fred-15 washed Ranger-7 Dirty to Clean using Detailed method
-Intern Fred-15 washed Aventus-2 Clean to Clean using Detailed method
+Intern Lucy-12 washed Escort-4 Dirty to Clean using ElbowGrease method
+Intern Lucy-12 washed Grave Digger-3 Dirty to Clean using ElbowGrease method
+Intern Fred-13 washed Light-4 Dirty to Dirty using Chemical method
+Intern Fred-13 washed Ranger-2 Clean to Clean using  Chemical method
+Intern Ethel-13 washed Light-4 Dirty to Dirty using Detailed method
+Intern Ethel-13 washed Ranger-2 Clean to Clean using Detailed method
 The North FNCD mechanics are repairing...
-Mechanic Lucy got a bonus of $500.00!
-Mechanic Lucy fixed Raminator-3 Used to LikeNew
+Mechanic Lucy did not fix the Broken Coralla
 Mechanic Lucy got a bonus of $200.00!
-Mechanic Lucy fixed Colorado-6 Used to LikeNew
-Mechanic Fred-6 got a bonus of $400.00!
-Mechanic Fred-6 fixed Grom-4 Broken to Used
-Mechanic Fred-6 got a bonus of $200.00!
-Mechanic Fred-6 fixed Avenger-4 Broken to Used
-Mechanic Lucy-8 got a bonus of $400.00!
-Mechanic Lucy-8 fixed Grom-4 Used to LikeNew
-Mechanic Lucy-8 did not fix the Used Avenger-4
+Mechanic Lucy fixed Taycan-6 Used to LikeNew
+Mechanic Lucy-6 got a bonus of $200.00!
+Mechanic Lucy-6 fixed Coralla Broken to Used
+Mechanic Lucy-6 got a bonus of $750.00!
+Mechanic Lucy-6 fixed Super-4 Broken to Used
+Mechanic Fred-10 got a bonus of $200.00!
+Mechanic Fred-10 fixed Coralla Used to LikeNew
+Mechanic Fred-10 did not fix the Used Super-4
 The South FNCD mechanics are repairing...
-Mechanic Lucy-6 got a bonus of $500.00!
-Mechanic Lucy-6 fixed Armor-2 Broken to Used
-Mechanic Lucy-6 got a bonus of $500.00!
-Mechanic Lucy-6 fixed Armor-4 Broken to Used
-Mechanic Lucy-10 got a bonus of $500.00!
-Mechanic Lucy-10 fixed Armor-2 Used to LikeNew
-Mechanic Lucy-10 got a bonus of $500.00!
-Mechanic Lucy-10 fixed Armor-4 Used to LikeNew
-Mechanic Lucy-11 got a bonus of $200.00!
-Mechanic Lucy-11 fixed Ranger-7 Broken to Used
 The North FNCD salespeople are selling...
 The North FNCD has 2 buyers today...
-Buyer Luke-44 wants a Car (JustLooking)
-Buyer Luke-44 decided not to buy.
-Buyer Leia-44 wants a Motorcycle (NeedsOne)
-Buyer Leia-44 is buying! Salesperson Desi-11 gets a bonus of $1,250.00!
-Buyer Leia-44 bought Sparkling LikeNew Softail for base price of $20,383.12
+Buyer Luke-43 wants a SportsCar (NeedsOne)
+Buyer Luke-43 is buying! Salesperson Lucy-2 gets a bonus of $1,500.00!
+Buyer Luke-43 bought Clean LikeNew Hyper-4 for base price of $84,846.00
+Buyer Leia-43 wants a MonsterTruck (WantsOne)
+Buyer Leia-43 decided not to buy.
 The South FNCD salespeople are selling...
-The South FNCD has 5 buyers today...
-Buyer Han-44 wants a SUV (JustLooking)
-Buyer Han-44 decided not to buy.
-Buyer Chewy-44 wants a Pickup (WantsOne)
-Buyer Chewy-44 decided not to buy.
-Buyer Luke-45 wants a PerfCar (NeedsOne)
-Buyer Luke-45 is buying! Salesperson Desi-10 gets a bonus of $1,000.00!
-Buyer Luke-45 bought Clean LikeNew Corvette-4 for base price of $53,676.00
-Buyer Leia-45 wants a Car (JustLooking)
-Buyer Leia-45 decided not to buy.
-Buyer Han-45 wants a MonsterTruck (NeedsOne)
-Buyer Han-45 is buying! Salesperson Desi-12 gets a bonus of $1,000.00!
-Buyer Han-45 bought Clean LikeNew Grave Digger-3 for base price of $59,860.00
-Salesperson Ethel-12 is leaving the North FNCD
-Intern Ethel-13 has been promoted to Salesperson in the North FNCD
-Intern Fred-14 is leaving the South FNCD
+The South FNCD has 3 buyers today...
+Buyer Han-43 wants a Motorcycle (WantsOne)
+Buyer Han-43 decided not to buy.
+Buyer Chewy-43 wants a Electric (JustLooking)
+Buyer Chewy-43 decided not to buy.
+Buyer Luke-44 wants a SportsCar (JustLooking)
+Buyer Luke-44 decided not to buy.
+Intern Ethel-10 is leaving the North FNCD
 North FNCD: Vehicles in inventory 35
-North FNCD: Vehicles sold count 40
-North FNCD: Money in the budget $1,948,956.63
-South FNCD: Vehicles in inventory 34
-South FNCD: Vehicles sold count 46
-South FNCD: Money in the budget $2,047,950.67
+North FNCD: Vehicles sold count 49
+North FNCD: Money in the budget $2,585,192.80
+South FNCD: Vehicles in inventory 36
+South FNCD: Vehicles sold count 33
+South FNCD: Money in the budget $1,530,693.69
 That's it for the day.
 >>> End Simulation Day 29 Mon
 

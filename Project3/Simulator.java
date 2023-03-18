@@ -40,6 +40,8 @@ public class Simulator implements SysOut {
         BuyerInvoker invoker = new BuyerInvoker();
         int buyerChoice = 0;
         while (buyerChoice != 8) {
+
+            //Print menu and choose by typing number
             outP("What would you like to do?", announcer, 31);
             outP("1. Choose FNCD", announcer, 31);
             outP("2. Ask Salesperson name", announcer, 31);
@@ -49,7 +51,13 @@ public class Simulator implements SysOut {
             outP("6. Ask for details of item", announcer, 31);
             outP("7. Buy item", announcer, 31);
             outP("8. Leave FNCD", announcer, 31);
-            buyerChoice = readUser.nextInt();
+            buyerChoice = readUser.nextInt(); //Gets user input
+
+            /*
+             * 
+             * Part of implementation of command pattern
+             * 
+             */
             switch (buyerChoice) {
                 case 1:
                     FNCDSelect fncdSelectcommand = new FNCDSelect(user);

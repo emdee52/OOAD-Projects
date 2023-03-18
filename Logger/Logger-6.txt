@@ -1,92 +1,87 @@
 >>> Start Simulation Day 6 Sat
 The North FNCD is opening...
-North: Hired a new Intern named Desi-3
-North: Hired a new Intern named Fred-4
 North: Hired a new Intern named Ethel-4
-North: Bought Cayman-3, a Dirty Used PerfCar for $28,422.40
-North: Bought Hyper-3, a Dirty Used SportsCar for $32,157.60
+North: Bought Colorado-3, a Dirty Used Pickup for $22,079.20
+North: Bought Grave Digger-2, a Dirty LikeNew MonsterTruck for $36,753.00
 The South FNCD is opening...
-South: Bought Probe-3, a Dirty Used Car for $14,815.20
-South: Bought Tundra-3, a Clean Used Pickup for $13,753.60
+South: Hired a new Intern named Lucy-4
+South: Hired a new Intern named Desi-4
+South: Bought EQS-3, a Dirty Broken Electric for $12,921.00
+South: Bought Ninja-3, a Clean Broken Motorcycle for $3,519.00
 The North FNCD interns are washing...
-Intern Desi-3 washed CBR1000 Dirty to Dirty using Chemical method
-Intern Desi-3 washed Batman Dirty to Dirty using Chemical method
-Intern Fred-4 washed CBR1000 Dirty to Clean using ElbowGrease method
-Intern Fred-4 washed Batman Dirty to Clean using ElbowGrease method
-Intern Ethel-4 washed Avenger Dirty to Clean using Chemical method
-Intern Ethel-4 washed Bigfoot Dirty to Clean using Chemical method
+Intern Lucy-3 washed Softail Dirty to Clean using Detailed method
+Intern Lucy-3 washed CBR1000 Dirty to Clean using Detailed method
+Intern Desi-3 washed Bigfoot Dirty to Clean using Chemical method
+Intern Desi-3 washed Hyper Dirty to Clean using Chemical method
+Gallery became LikeNew
+Intern Ethel-4 washed Gallery Dirty to Clean using ElbowGrease method
+Avenger became LikeNew
+Intern Ethel-4 washed Avenger Dirty to Clean using ElbowGrease method
 The South FNCD interns are washing...
-Intern Desi-2 washed Colorado-2 Dirty to Clean using ElbowGrease method
-Intern Desi-2 washed Taycan-2 Dirty to Clean using ElbowGrease method
-Intern Fred-3 washed Bolt-2 Dirty to Clean using ElbowGrease method
-Intern Fred-3 washed EV6-2 Dirty to Clean using ElbowGrease method
-Intern Lucy-3 washed Grom-2 Dirty to Clean using ElbowGrease method
-Intern Lucy-3 washed Ninja-2 Dirty to Clean using ElbowGrease method
+Intern Fred-4 washed Tundra-2 Dirty to Clean using Detailed method
+Intern Fred-4 washed Softail-2 Dirty to Clean using Detailed method
+Intern Lucy-4 washed Grounded-2 Dirty to Clean using Detailed method
+Intern Lucy-4 washed Aventus-2 Dirty to Clean using Detailed method
+Intern Desi-4 washed Gallery-2 Dirty to Clean using Chemical method
+Intern Desi-4 washed Super-2 Dirty to Clean using Chemical method
 The North FNCD mechanics are repairing...
 Mechanic James got a bonus of $500.00!
-Mechanic James fixed Bigfoot Used to LikeNew
+Mechanic James fixed Grave Digger Used to LikeNew
 Mechanic James got a bonus of $500.00!
-Mechanic James fixed Grounded Used to LikeNew
-Mechanic Scotty got a bonus of $500.00!
-Mechanic Scotty fixed Armor Broken to Used
-Mechanic Scotty did not fix the Broken Lift
+Mechanic James fixed Grounded Broken to Used
+Mechanic Lucy did not fix the Used Grounded
 Mechanic Lucy got a bonus of $500.00!
-Mechanic Lucy fixed Armor Used to LikeNew
-Mechanic Lucy got a bonus of $500.00!
-Mechanic Lucy fixed Lift Broken to Used
+Mechanic Lucy fixed Armor Broken to Used
+Mechanic Fred-3 got a bonus of $500.00!
+Mechanic Fred-3 fixed Grounded Used to LikeNew
+Mechanic Fred-3 got a bonus of $500.00!
+Mechanic Fred-3 fixed Armor Used to LikeNew
 The South FNCD mechanics are repairing...
-Mechanic James-2 got a bonus of $500.00!
-Mechanic James-2 fixed Predator Used to LikeNew
-Mechanic James-2 got a bonus of $750.00!
-Mechanic James-2 fixed Hyper-2 Broken to Used
-Mechanic Desi got a bonus of $750.00!
-Mechanic Desi fixed Hyper-2 Used to LikeNew
-Mechanic Desi got a bonus of $750.00!
-Mechanic Desi fixed Aventus-2 Used to LikeNew
-Mechanic Ethel-2 got a bonus of $750.00!
-Mechanic Ethel-2 fixed Gallery-2 Used to LikeNew
-Mechanic Ethel-2 got a bonus of $200.00!
-Mechanic Ethel-2 fixed Coach Used to LikeNew
+Mechanic James-2 got a bonus of $400.00!
+Mechanic James-2 fixed Softail-2 Used to LikeNew
+Mechanic James-2 did not fix the Broken CBR1000-2
+Mechanic Scotty-2 did not fix the Broken CBR1000-2
+Mechanic Scotty-2 got a bonus of $500.00!
+Mechanic Scotty-2 fixed Raminator Used to LikeNew
+Mechanic Ethel-2 got a bonus of $400.00!
+Mechanic Ethel-2 fixed CBR1000-2 Broken to Used
+Mechanic Ethel-2 did not fix the Broken Armada-2
 The North FNCD salespeople are selling...
-The North FNCD has 8 buyers today...
-Buyer Chewy-8 wants a Sedan (JustLooking)
-Buyer Chewy-8 decided not to buy.
-Buyer Luke-9 wants a Car (JustLooking)
-Buyer Luke-9 decided not to buy.
-Buyer Leia-9 wants a Motorcycle (JustLooking)
-Buyer Leia-9 decided not to buy.
-Buyer Han-9 wants a Pickup (NeedsOne)
-Buyer Han-9 is buying! Salesperson Monica gets a bonus of $750.00!
-Buyer Han-9 bought Dirty LikeNew F-250-3 for base price of $75,282.00
-Buyer Chewy-9 wants a PerfCar (JustLooking)
-Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Chewy-9 bought Clean LikeNew Cayman for base price of $61,980.00
-Buyer Luke-10 wants a MonsterTruck (NeedsOne)
-Buyer Luke-10 is buying! Salesperson Fred gets a bonus of $1,000.00!
-Buyer Luke-10 bought Dirty LikeNew Bigfoot for base price of $74,403.75
-Buyer Leia-10 wants a MonsterTruck (NeedsOne)
-Buyer Leia-10 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Leia-10 bought Clean LikeNew Avenger for base price of $68,678.00
-Buyer Han-10 wants a PerfCar (NeedsOne)
-Buyer Han-10 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-Buyer Han-10 bought Dirty Used Cayman-3 for base price of $56,844.80
+The North FNCD has 3 buyers today...
+Buyer Chewy-7 wants a Pickup (JustLooking)
+Buyer Chewy-7 decided not to buy.
+Buyer Luke-8 wants a SUV (JustLooking)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a Electric (NeedsOne)
+Buyer Leia-8 decided not to buy.
 The South FNCD salespeople are selling...
-The South FNCD has 2 buyers today...
-Buyer Chewy-10 wants a Motorcycle (JustLooking)
-Buyer Chewy-10 decided not to buy.
-Buyer Luke-11 wants a Motorcycle (NeedsOne)
-Buyer Luke-11 decided not to buy.
-Intern Fred-4 is leaving the North FNCD
-Salesperson Monica is leaving the North FNCD
-Intern Desi-3 has been promoted to Salesperson in the North FNCD
-Salesperson Lucy-2 is leaving the South FNCD
-Intern Desi-2 has been promoted to Salesperson in the South FNCD
-North FNCD: Vehicles in inventory 31
-North FNCD: Vehicles sold count 10
-North FNCD: Money in the budget $720,209.49
-South FNCD: Vehicles in inventory 36
-South FNCD: Vehicles sold count 6
-South FNCD: Money in the budget $422,547.24
+The South FNCD has 8 buyers today...
+Buyer Han-8 wants a SUV (JustLooking)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a Electric (NeedsOne)
+Buyer Chewy-8 is buying! Salesperson Fred-2 gets a bonus of $750.00!
+Buyer Chewy-8 bought Dirty Used Taycan-3 for base price of $65,220.80
+Buyer Luke-9 wants a Electric (JustLooking)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Sedan (WantsOne)
+Buyer Leia-9 is buying! Salesperson Chandler gets a bonus of $500.00!
+Buyer Leia-9 bought Dirty Used Soul-2 for base price of $24,848.00
+Buyer Han-9 wants a Electric (JustLooking)
+Buyer Han-9 is buying! Salesperson Ethel-3 gets a bonus of $750.00!
+Buyer Han-9 bought Clean LikeNew Taycan-2 for base price of $53,716.00
+Buyer Chewy-9 wants a SportsCar (NeedsOne)
+Buyer Chewy-9 decided not to buy.
+Buyer Luke-10 wants a Pickup (WantsOne)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Sedan (JustLooking)
+Buyer Leia-10 decided not to buy.
+Intern Desi-4 is leaving the South FNCD
+North FNCD: Vehicles in inventory 36
+North FNCD: Vehicles sold count 7
+North FNCD: Money in the budget $422,360.03
+South FNCD: Vehicles in inventory 33
+South FNCD: Vehicles sold count 11
+South FNCD: Money in the budget $756,354.50
 That's it for the day.
 >>> End Simulation Day 6 Sat
 
