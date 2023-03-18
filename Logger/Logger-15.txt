@@ -1,47 +1,90 @@
+>>> Start Simulation Day 15 Tue
 The North FNCD is opening...
+North: Bought Colorado-4, a Dirty Broken Pickup for $12,205.50
+North: Bought Armor-23, a Clean Broken MonsterTruck for $11,190.00
+North: Bought Lift-23, a Dirty Broken MonsterTruck for $11,470.50
+North: Bought Sand-23, a Dirty LikeNew MonsterTruck for $17,313.00
+North: Bought Grounded-24, a Dirty Used MonsterTruck for $13,319.20
+North: Bought Hyper-29, a Dirty LikeNew MonsterTruck for $32,746.00
+North: Bought Aventus-29, a Dirty LikeNew MonsterTruck for $35,288.00
+North: Bought Gallery-29, a Dirty Broken MonsterTruck for $15,838.50
+North: Bought Super-29, a Dirty Used MonsterTruck for $30,556.80
+North: Bought Light-23, a Dirty LikeNew MonsterTruck for $13,425.00
+North: Bought Coralla-23, a Clean LikeNew MonsterTruck for $14,251.00
+North: Bought Coach-23, a Dirty Broken MonsterTruck for $7,850.50
+North: Bought Soul-24, a Dirty Broken MonsterTruck for $9,212.50
 The South FNCD is opening...
+South: Hired a new Intern named Lucy-6
+South: Bought Armada-24, a Clean Used MonsterTruck for $15,358.40
+South: Bought Armor-24, a Dirty LikeNew MonsterTruck for $22,484.00
+South: Bought Lift-24, a Dirty Broken MonsterTruck for $7,502.00
+South: Bought Sand-24, a Sparkling Broken MonsterTruck for $10,093.00
+South: Bought Hyper-30, a Clean Broken MonsterTruck for $14,516.50
+South: Bought Aventus-30, a Clean Broken MonsterTruck for $19,309.00
+South: Bought Gallery-30, a Dirty Broken MonsterTruck for $16,370.00
+South: Bought Super-30, a Clean LikeNew MonsterTruck for $26,833.00
+South: Bought Avenger-24, a Dirty LikeNew MonsterTruck for $12,167.00
+South: Bought Light-24, a Clean LikeNew MonsterTruck for $12,717.00
+South: Bought Coralla-24, a Dirty LikeNew MonsterTruck for $10,266.00
+South: Bought Coach-24, a Dirty Used MonsterTruck for $9,291.20
 The North FNCD interns are washing...
-Intern Ethel-6 washed Coach-4 Dirty to Clean using Chemical method
-Intern Ethel-6 washed Grounded-6 Dirty to Clean using Chemical method
-Intern Lucy-8 washed Armada-6 Dirty to Clean using ElbowGrease method
-Intern Lucy-8 washed Armor-6 Dirty to Clean using ElbowGrease method
-Intern Desi-8 washed Hyper-7 Dirty to Clean using ElbowGrease method
-Intern Desi-8 washed Aventus-7 Dirty to Clean using ElbowGrease method
+Lift-7 became LikeNew
+Intern Lucy-5 washed Lift-7 Dirty to Dirty using ElbowGrease method
+Sand-7 became LikeNew
+Intern Lucy-5 washed Sand-7 Dirty to Dirty using ElbowGrease method
+Intern Desi-5 washed Lift-7 Dirty to Dirty using Detailed method
+Intern Desi-5 washed Sand-7 Dirty to Dirty using Detailed method
+Intern Fred-6 washed Lift-7 Dirty to Dirty using Chemical method
+Intern Fred-6 washed Sand-7 Dirty to Dirty using Chemical method
 The South FNCD interns are washing...
-Intern Fred-8 washed Soul-5 Dirty to Clean using Detailed method
-Intern Fred-8 washed Avenger-5 Dirty to Clean using Detailed method
-Intern Ethel-8 washed Light-5 Dirty to Clean using Chemical method
-Intern Ethel-8 washed Coralla-5 Dirty to Clean using Chemical method
-Intern Fred-9 washed Lift-6 Dirty to Dirty using ElbowGrease method
-Intern Fred-9 washed Super-8 Dirty to Dirty using ElbowGrease method
+Intern Lucy-4 washed Lift-5 Dirty to Clean using ElbowGrease method
+Intern Lucy-4 washed Hyper-6 Dirty to Clean using ElbowGrease method
+Intern Ethel-5 washed Gallery-6 Dirty to Clean using Chemical method
+Intern Ethel-5 washed Soul-5 Dirty to Clean using Chemical method
+Intern Lucy-6 washed Coralla-5 Dirty to Clean using Detailed method
+Intern Lucy-6 washed Lift-6 Dirty to Clean using Detailed method
 The North FNCD mechanics are repairing...
-Mechanic Fred got a bonus of $500.00!
-Mechanic Fred fixed Armada-6 Used to LikeNew
-Mechanic Fred got a bonus of $500.00!
-Mechanic Fred fixed Armor-6 Used to LikeNew
-Mechanic Ethel-3 got a bonus of $750.00!
-Mechanic Ethel-3 fixed Aventus-7 Used to LikeNew
-Mechanic Ethel-3 got a bonus of $750.00!
-Mechanic Ethel-3 fixed Gallery-7 Broken to Used
-Mechanic Desi-5 got a bonus of $750.00!
-Mechanic Desi-5 fixed Gallery-7 Used to LikeNew
-Mechanic Desi-5 got a bonus of $200.00!
-Mechanic Desi-5 fixed Soul-6 Broken to Used
+Mechanic James got a bonus of $750.00!
+Mechanic James fixed Aventus-9 Broken to Used
+Mechanic James did not fix the Broken Gallery-9
+Mechanic Lucy got a bonus of $750.00!
+Mechanic Lucy fixed Aventus-9 Used to LikeNew
+Mechanic Lucy got a bonus of $750.00!
+Mechanic Lucy fixed Gallery-9 Broken to Used
+Mechanic Desi-4 got a bonus of $750.00!
+Mechanic Desi-4 fixed Gallery-9 Used to LikeNew
+Mechanic Desi-4 got a bonus of $200.00!
+Mechanic Desi-4 fixed Light-7 Broken to Used
 The South FNCD mechanics are repairing...
-Mechanic Ethel-4 got a bonus of $200.00!
-Mechanic Ethel-4 fixed Coralla-5 Used to LikeNew
-Mechanic Ethel-4 did not fix the Used Grounded-7
-Mechanic Ethel-7 got a bonus of $500.00!
-Mechanic Ethel-7 fixed Grounded-7 Used to LikeNew
-Mechanic Ethel-7 got a bonus of $500.00!
-Mechanic Ethel-7 fixed Armada-7 Used to LikeNew
-Mechanic Desi-7 got a bonus of $750.00!
-Mechanic Desi-7 fixed Aventus-8 Used to LikeNew
-Mechanic Desi-7 got a bonus of $200.00!
-Mechanic Desi-7 fixed Avenger-7 Broken to Used
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Soul-5 Broken to Used
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Avenger-5 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Soul-5 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Coralla-5 Used to LikeNew
+Mechanic Lucy-2 got a bonus of $500.00!
+Mechanic Lucy-2 fixed Lift-6 Used to LikeNew
+Mechanic Lucy-2 did not fix the Used Sand-6
 The North FNCD salespeople are selling...
+The North FNCD has 2 buyers today...
+Buyer Luke-24 wants a MonsterTruck (JustLooking)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Motorcycle (NeedsOne)
+Buyer Leia-24 is buying! Salesperson Phoebe gets a bonus of $1,250.00!
+Buyer Leia-24 bought Clean LikeNew CBR1000 for base price of $35,482.00
 The South FNCD salespeople are selling...
-Buyer Luke-24 wants a Motorcycle (NeedsOne)
-Buyer Luke-24 is buying! Salesperson Fred-7 gets a bonus of $1,250.00!
-Buyer Luke-24 bought Clean LikeNew CBR1000-2 for base price of $38,198.00
+The South FNCD has 0 buyers today...
+Intern Ethel-5 is leaving the South FNCD
+Mechanic Lucy-2 is leaving the South FNCD
+Intern Lucy-4 has been promoted to Mechanic in the South FNCD
+North FNCD: Vehicles in inventory 196
+North FNCD: Vehicles sold count 22
+North FNCD: Money in the budget $124,989.98
+South FNCD: Vehicles in inventory 198
+South FNCD: Vehicles sold count 20
+South FNCD: Money in the budget $29,726.85
 That's it for the day.
+>>> End Simulation Day 15 Tue
+

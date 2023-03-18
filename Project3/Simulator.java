@@ -29,15 +29,15 @@ public class Simulator implements SysOut {
         BuyerInvoker invoker = new BuyerInvoker();
         int buyerChoice = 0;
         while (buyerChoice != 8) {
-            outP("What would you like to do?", announcer, numDays);
-            outP("1. Choose FNCD", announcer, numDays);
-            outP("2. Ask Salesperson name", announcer, numDays);
-            outP("3. Ask time", announcer, numDays);
-            outP("4. Request new Salesperson", announcer, numDays);
-            outP("5. Show Inventory", announcer, numDays);
-            outP("6. Ask for details of item", announcer, numDays);
-            outP("7. Buy item", announcer, numDays);
-            outP("8. Leave FNCD", announcer, numDays);
+            outP("What would you like to do?", announcer, 31);
+            outP("1. Choose FNCD", announcer, 31);
+            outP("2. Ask Salesperson name", announcer, 31);
+            outP("3. Ask time", announcer, 31);
+            outP("4. Request new Salesperson", announcer, 31);
+            outP("5. Show Inventory", announcer, 31);
+            outP("6. Ask for details of item", announcer, 31);
+            outP("7. Buy item", announcer, 31);
+            outP("8. Leave FNCD", announcer, 31);
             buyerChoice = readUser.nextInt();
             switch (buyerChoice) {
                 case 1:
@@ -90,7 +90,9 @@ public class Simulator implements SysOut {
         FNCD northFNCD = new FNCD("North", announcer);
         FNCD southFNCD = new FNCD("South", announcer);
         for (int day = 1; day <= numDays; ++day) {
-            out(">>> Start Simulation Day "+day+" "+dayOfWeek);
+            northFNCD.setDayCount(day);
+            southFNCD.setDayCount(day);
+            outP(">>> Start Simulation Day "+day+" "+dayOfWeek, announcer, day);
 
             open(northFNCD, day);
             open(southFNCD, day);
@@ -128,7 +130,7 @@ public class Simulator implements SysOut {
             tracker.updateStaffTotal(Staff.staffEarned);
 
             outP("That's it for the day.", announcer, day);
-            out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
+            outP(">>> End Simulation Day "+day+" "+dayOfWeek+"\n", announcer, day);
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }
         buyerDay(northFNCD);
@@ -172,7 +174,9 @@ public class Simulator implements SysOut {
             if (vSold != null) {
                 fncd.soldVehicles.add(vSold);
                 fncd.moneyIn(vSold.price);
-                fncd.inventory.removeIf(n -> n.name == vSold.name);
+                fncd.inventory.remove(vSold);
+                //fncd.inventory.removeIf(n -> n.name == vSold.name);
+                //fncd.inventory.removeIf ( n -> Objects.equals(n.name, currentStaff.name));
             }
         }
     }

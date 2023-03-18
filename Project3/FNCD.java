@@ -13,8 +13,6 @@ public class FNCD implements SysOut {
     private double budget;   // big money pile
     private int dayCount;
     public Announcer announcer;
-    public Logger logger;
-    public Tracker tracker;
 
     FNCD(String name, Announcer ann) {
         this.name = name;
@@ -26,6 +24,11 @@ public class FNCD implements SysOut {
         moneyEarned = 0;
         announcer = ann;
     }
+
+    public void setDayCount(int day) {
+        dayCount = day;
+    }
+
     double getBudget() {
         return budget;    // I'm keeping this private to be on the safe side
     }
@@ -175,26 +178,22 @@ public class FNCD implements SysOut {
     // see if we need any vehicles
     void updateInventory() {
         final int numberInInventory = 4;
-        ArrayList<Enums.VehicleType> vehicleType = new ArrayList<Enums.VehicleType>();
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
             int need = numberInInventory - typeInList;
-            for (int i = 1; i <= need; ++i) {
-                vehicleType.add(addVehicle(t).type);
-            }
+            for (int i = 1; i <= need; ++i) addVehicle(t);
         }
 
     }
 
     // add a vehicle of a type to the inventory
-    Vehicle addVehicle(Enums.VehicleType t) {
+    void addVehicle(Enums.VehicleType t) {
         VehicleFactory factory = VehicleFactory.getFactory(t); // Abstract factory, we won't know what object will call createStaff()
         Vehicle v = factory.createVehicle();
 
         moneyOut(v.cost);  // pay for the vehicle
         outP(this.name + ": Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost), announcer, dayCount);
         inventory.add(v);
-        return v;
     }
 
     // pay salary to staff and update days worked
@@ -274,8 +273,8 @@ public class FNCD implements SysOut {
         // We're all good here, how are you?
         // Quick little summary of happenings, you could do better
 
-        out(this.name+" FNCD: Vehicles in inventory "+inventory.size());
-        out(this.name+" FNCD: Vehicles sold count "+soldVehicles.size());
-        out(this.name+" FNCD: Money in the budget "+ Utility.asDollar(getBudget()));
+        outP(this.name+" FNCD: Vehicles in inventory "+inventory.size(), announcer, dayCount);
+        outP(this.name+" FNCD: Vehicles sold count "+soldVehicles.size(), announcer, dayCount);
+        outP(this.name+" FNCD: Money in the budget "+ Utility.asDollar(getBudget()), announcer, dayCount);
     }
 }
