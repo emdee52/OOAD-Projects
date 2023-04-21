@@ -1,14 +1,14 @@
-public class ProAthlete extends Job {
+public class Mechanic extends Job{
     //An example of lazy Instatiation Singelton
-    private static String name = "Pro Athlete";
-    private static ProAthlete uniqueInstance;
+    private static String name = "Mechanic";
+    private static Mechanic uniqueInstance;
 
-    private static int startingSalary = 70000;
-    private static int maxSalary = 100000;
-    private static int luckyNumber = 4;
+    private static int startingSalary = 50000;
+    private static int maxSalary = 60000;
+    private static int luckyNumber = 6;
 
     private Player player;
-    private ProAthlete() {
+    private Mechanic() {
         this.setStartingSalary(startingSalary);
         this.setMaxSalary(maxSalary);
         this.setLuckyNumber(luckyNumber);
@@ -19,9 +19,9 @@ public class ProAthlete extends Job {
         return uniqueInstance.player;
     }
 
-    public static ProAthlete getInstance() {
+    public static Mechanic getInstance() {
         if (uniqueInstance == null) {
-            uniqueInstance = new ProAthlete();
+            uniqueInstance = new Mechanic();
         }
         return uniqueInstance;
     }

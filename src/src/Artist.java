@@ -1,5 +1,6 @@
 public class Artist extends Job{
     //An example of lazy Instatiation Singelton
+    public static String name = "Artist";
     private static Artist uniqueInstance;
 
     private static int startingSalary = 40000;
@@ -11,6 +12,11 @@ public class Artist extends Job{
         this.setStartingSalary(startingSalary);
         this.setMaxSalary(maxSalary);
         this.setLuckyNumber(luckyNumber);
+        this.setName(name);
+    }
+
+    public Player getPlayer() {
+        return uniqueInstance.player;
     }
 
     public static Artist getInstance() {

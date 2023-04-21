@@ -5,7 +5,7 @@ public class Player {
     EducationLevel educationLevel;
     int numberOfKids;
     public Job currentJob;
-    int playerNumber = 0;
+    public int playerNumber = 0;
     int actionCards = 0;
     int kids = 0;
     int turnOrderSpin = 0;
