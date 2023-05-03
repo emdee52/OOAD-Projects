@@ -4,19 +4,31 @@ public class Board {
     private Scanner readUser = new Scanner(System.in);
     private Random rand = new Random();
     public ArrayList<Player> Players = new ArrayList<Player>();
-    public int tiles[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};
+    public ArrayList<Player> RetiredPlayers = new ArrayList<Player>();
+    public int salaryTiles[] = {5, 10, 20, 31, 37, 44, 52, 61, 72, 83, 89, 94};
+    public int CollegeCareerPathChoice;
 
     public static void main(String[] args) {
         Board GameLife = new Board();
-        GameLife.startGame();
+        GameLife.playGame();
     }
 
-    public void startGame() {
+    public void playGame() {
         System.out.println("Welcome to the Game of Life!");
         System.out.println("How many players are playing?");
         getPlayerAmount();
         turnOrder();
-        turn();
+        for(int i = 0; i < Players.size(); i++) {
+            System.out.println("Player " + Players.get(i).playerNumber + " what would you like to do?");
+            System.out.println("1. Go to College");
+            System.out.println("2. Career Path");
+            CollegeCareerPath(Players.get(i));
+        }
+        
+        while(checkAllRetirement() == false) {
+            turn();
+        }
+        retirementProcess();
     }
 
     public int spin() {
@@ -30,6 +42,17 @@ public class Board {
         else {
             return "black";
         }
+    }
+
+    public boolean checkAllRetirement(){
+        boolean allRetired = true;
+        for(int i = 0; i < Players.size(); i++) {
+            System.out.println(Players.get(i).playerNumber + " Retirement status: " + Players.get(i).retired);
+            if(Players.get(i).retired == false) {
+                allRetired = false;
+            }
+        }
+        return allRetired;
     }
 
     public ArrayList<Player> getPlayerAmount() {
@@ -66,6 +89,96 @@ public class Board {
     }
 
     public void turn() {
+        for(int i = 0; i < Players.size(); i++) {
+            Player currentPlayer = Players.get(i);
+            System.out.println("It is Player " + currentPlayer.playerNumber + "'s turn");
+            int PlayerSpin = spin();
+
+            System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
+            checkLuckyNumber(currentPlayer, PlayerSpin);
+
+            if(CollegeCareerPathChoice == 1) {
+                CollegePath(currentPlayer, PlayerSpin);
+            }
+            else {
+                currentPlayer.tileNumber += PlayerSpin;
+            }
+            currentPlayer.tileNumber += PlayerSpin;
+            System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
+            System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
+            if (currentPlayer.tileNumber == 1 /*Placeholder number */) {
+                drawCard();
+            }
+            if(currentPlayer.tileNumber > 2 /*Placeholder number */) { 
+                getSalary(currentPlayer);
+            }
+            if(currentPlayer.tileNumber >= 98 /*Placeholder number */) {
+                retirePlayer(currentPlayer);
+            }
+        }
+    }
+
+    public void CollegeCareerPath(Player currPlayer) {
+        CollegeCareerPathChoice = readUser.nextInt();
+        while(CollegeCareerPathChoice != 1 || CollegeCareerPathChoice != 2) {
+            if(CollegeCareerPathChoice == 1) {
+                System.out.println("Player " + currPlayer.playerNumber + " chose to go to college");
+                return;
+            }
+            else if (CollegeCareerPathChoice == 2) {
+                System.out.println("Player "+ currPlayer.playerNumber + " chose career path");
+                ArrayList<Job> jobChoices = getJobChoices(EducationLevel.Uneducated);
+                chooseJob(jobChoices, currPlayer);
+                return;
+            }
+            else {
+                System.out.println("Please choose a proper option");
+            }
+        }
+    }
+
+    public void CollegePath(Player currentPlayer, int playerSpin) {
+        boolean mileStoneReached = false;
+        System.out.println("Player " + currentPlayer.playerNumber + " spun " + playerSpin + " in college");
+        checkLuckyNumber(currentPlayer, playerSpin);
+        currentPlayer.careerCollegeTiles = currentPlayer.careerCollegeTiles + playerSpin;
+        System.out.println("Player " + currentPlayer.playerNumber + " on " + currentPlayer.careerCollegeTiles + " tile");
+        if(currentPlayer.careerCollegeTiles >= 10 && mileStoneReached == false) {
+            currentPlayer.careerCollegeTiles = 10;
+            mileStoneReached = true;    
+            System.out.println("Player " + currentPlayer.playerNumber + " graduated");
+        }
+        else if(currentPlayer.careerCollegeTiles > 12) {
+            currentPlayer.careerCollegeTiles = 13;
+            mileStoneReached = true;
+            int extraMove = currentPlayer.careerCollegeTiles - 12;
+        }
+    }
+
+    public void retirePlayer(Player retiringPlayer) {
+        retiringPlayer.retired = true;
+    }
+
+    public void retirementProcess() {
+        ArrayList<Integer> totalWealth = new ArrayList<>();
+        int retirementBonus = 400000;
+        for(int i = 0; i < RetiredPlayers.size(); i++) {
+            Player currPlayer = RetiredPlayers.get(i);
+            int totalPlayerWealth = retirementBonus;
+            retirementBonus -= 100000;
+            totalPlayerWealth = currPlayer.money + totalPlayerWealth;
+            totalPlayerWealth += (currPlayer.kids * 50000) + totalPlayerWealth;
+            totalPlayerWealth += (currPlayer.actionCards * 100000) + totalPlayerWealth;
+            totalWealth.add(totalPlayerWealth);
+        }
+
+        Collections.sort(totalWealth);
+
+        //Annouce winners
+
+    }
+
+    public void drawCard() {
         CommandInvoker cardCommand = new CommandInvoker();
         for(int i = 0; i < Players.size(); i++) {
             Player currentPlayer = Players.get(i);
@@ -82,10 +195,91 @@ public class Board {
                     break;
                 default:
                     break;
+            }   
+        }
+    }
+
+    public void checkLuckyNumber(Player currentPlayer, int spunNumber) {
+        for(int i = 0; i < Players.size(); i++) {
+            if(Players.get(i).currentJob != null) {
+                if(spunNumber == Players.get(i).currentJob.getLuckyNumber()) {
+                    System.out.println("Player " + currentPlayer.playerNumber + " rolled Player " + Players.get(i).playerNumber + "'s lucky number");
+                    System.out.println("Player " + currentPlayer.playerNumber + " paying " + Players.get(i).playerNumber + "10,000 dollars");
+                    currentPlayer.money -= 10000;
+                    Players.get(i).money += 10000;
+                }
             }
-            
+        }
+    }
+
+    public ArrayList<Job> getJobChoices(EducationLevel educationLevel) {
+        ArrayList<Job> jobs = new ArrayList<Job>();
+
+        if (educationLevel == EducationLevel.Educated) {
+            //Programmer, Doctor, Teacher, Lawyer
+            if (Programmer.getInstance().getPlayer() == null) {
+                jobs.add(Programmer.getInstance());
+            }
+            if (Doctor.getInstance().getPlayer() == null) {
+                jobs.add(Doctor.getInstance());
+            }
+            if (Teacher.getInstance().getPlayer() == null) {
+                jobs.add(Teacher.getInstance());
+            }
+            if (Lawyer.getInstance().getPlayer() == null) {
+                jobs.add(Lawyer.getInstance());
+            }
+        }
+        else { // Not educated
+            //Artist, Pro-Athlete, Mechanic, Entertainer
+            if (Artist.getInstance().getPlayer() == null) {
+                jobs.add(Artist.getInstance());
+            }
+            if (ProAthlete.getInstance().getPlayer() == null) {
+                jobs.add(ProAthlete.getInstance());
+            }
+            if (Mechanic.getInstance().getPlayer() == null) {
+                jobs.add(Mechanic.getInstance());
+            }
+            if (Entertainer.getInstance().getPlayer() == null) {
+                jobs.add(Entertainer.getInstance());
+            }
+        }
+        ArrayList<Job> twojobs = new ArrayList<Job>();
+        int jobSize;
+        int random;
+
+        while(jobs.size() > 0 && twojobs.size() < 2) {
+            jobSize = jobs.size() - 1;
+            random = (int) (Math.random() * jobSize);
+            twojobs.add(jobs.get(random));
+            jobs.remove(random);
+
         }
 
+        return twojobs;
+    }
+
+    public void chooseJob(ArrayList<Job> jobChoices, Player jobPlayer) {
+        System.out.println("Which job do you want?");
+        for(int i = 0; i < jobChoices.size(); i++) { 
+            System.out.println((i + 1) + ". " + jobChoices.get(i).getName() + " Salary: " + jobChoices.get(i).getCurrentSalary() + " Lucky Number: " + jobChoices.get(i).getLuckyNumber());
+        }
+        int jobNumber = readUser.nextInt();
+        if(jobNumber == 1) {
+            System.out.println("Player " + jobPlayer.playerNumber + " chose" + jobChoices.get(jobNumber -1).getName());
+            jobPlayer.currentJob = jobChoices.get(jobNumber -1);
+        }
+        else {
+            System.out.println("Player " + jobPlayer.playerNumber + " chose" + jobChoices.get(jobNumber -1).getName());
+            jobPlayer.currentJob = jobChoices.get(jobNumber -1);
+        }
+    }
+
+    public void getSalary(Player paidPlayer) {
+        if(paidPlayer.currentJob != null) {
+            paidPlayer.currentJob.getRaise();
+        }   
     }
 
     // Method to select a target player from the list of players

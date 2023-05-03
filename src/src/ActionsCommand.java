@@ -31,6 +31,6 @@ class CollectActionCard implements ActionsCommand {
         this.card = receivedCard;
     }
     public void execute() {
-
+        card.collect();
     }
 }

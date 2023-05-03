@@ -4,15 +4,19 @@ import java.util.Random;
 
 public class Player {
     String name;
-    int money;
+    int money = 200000;
     EducationLevel educationLevel;
-    int numberOfKids;
-    public Job currentJob;
+    public Job currentJob = null;
     public int playerNumber = 0;
     int actionCards = 0;
     int kids = 0;
     int turnOrderSpin = 0;
     int tileNumber = 0;
+    boolean retired = false;
+    public int careerCollegeTiles = 0; //12
+    public int lifeNightSchoolTiles = 0; //9
+    public int lifeFamilyTiles = 0; // 9
+    public int safeRiskyTiles = 0;// 7
     private static final Random Rand = new Random();
 
     Player(int playerNum) {

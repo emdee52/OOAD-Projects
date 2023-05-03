@@ -92,4 +92,13 @@ public class ActionCard {
 
         return actionCards;
     }
+
+    public void steal() {
+    }
+
+    public void spin() {
+    }
+
+    public void collect() {
+    }
 }
