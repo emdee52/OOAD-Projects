@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Scanner;
-import java.util.Random;
+import java.util.*;
 
 public class Board {
     private Scanner readUser = new Scanner(System.in);
@@ -89,5 +86,30 @@ public class Board {
             
         }
 
+    }
+
+    // Method to select a target player from the list of players
+    private static Player selectTarget(Player currentPlayer, List<Player> players) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Select a target player:");
+
+        // Show a list of available players to choose from
+        for (int i = 0; i < players.size(); i++) {
+            if (players.get(i) != currentPlayer) {
+                System.out.println((i + 1) + ": " + players.get(i).getName());
+            }
+        }
+
+        // Get the user's choice
+        int choice = scanner.nextInt();
+        Player targetPlayer = players.get(choice - 1);
+
+        // Return null if the current player is chosen, else will return selected player
+        if (targetPlayer == currentPlayer) {
+            System.out.println("Invalid choice. You cannot target yourself.");
+            return null;
+        }
+
+        return targetPlayer;
     }
 }

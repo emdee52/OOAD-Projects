@@ -1,6 +1,9 @@
 import java.util.ArrayList;
+import java.util.Random;
+
 
 public class Player {
+    String name;
     int money;
     EducationLevel educationLevel;
     int numberOfKids;
@@ -10,6 +13,7 @@ public class Player {
     int kids = 0;
     int turnOrderSpin = 0;
     int tileNumber = 0;
+    private static final Random Rand = new Random();
 
     Player(int playerNum) {
         playerNumber = playerNum;
@@ -36,6 +40,17 @@ public class Player {
             return 0;
         }
     }
+
+    public void addMoney(int cash) {
+        money += cash;
+    }
+
+    public int spin() {
+        return Rand.nextInt(10) + 1;
+    }
+
+    public String getName() { return name;}
+
 
 //    public void assignJob(Job job) {
 //        currentJob = job;
