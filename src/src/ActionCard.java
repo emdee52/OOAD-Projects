@@ -21,7 +21,7 @@ public class ActionCard {
 
     // Command pattern invoker - Executes the action associated with the card
     public void performAction(Player player, List<Player> players, TargetSelector targetSelector) {
-        action.execute(player, players, targetSelector); //  Not all cards, require players and/or targetSelector
+        action.execute(player, players, targetSelector); //  Not all cards require players and/or targetSelector
     }
 
     // Command pattern interface for action card behavior
