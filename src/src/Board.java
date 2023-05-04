@@ -224,6 +224,7 @@ public class Board {
 
     }
 
+    /*Heres the draw card function that needs to worked on */
     public void drawCard() {
         CommandInvoker cardCommand = new CommandInvoker();
         for(int i = 0; i < Players.size(); i++) {
