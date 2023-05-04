@@ -6,7 +6,9 @@ public class Board {
     public ArrayList<Player> Players = new ArrayList<Player>();
     public ArrayList<Player> RetiredPlayers = new ArrayList<Player>();
     public int salaryTiles[] = {5, 10, 20, 31, 37, 44, 52, 61, 72, 83, 89, 94};
+    public int childrenTile[] = {38, 59};
     public int CollegeCareerPathChoice;
+    public Job jobs;
 
     public static void main(String[] args) {
         Board GameLife = new Board();
@@ -28,7 +30,7 @@ public class Board {
         while(checkAllRetirement() == false) {
             turn();
         }
-        retirementProcess();
+        calculateWinner();
     }
 
     public int spin() {
@@ -47,7 +49,6 @@ public class Board {
     public boolean checkAllRetirement(){
         boolean allRetired = true;
         for(int i = 0; i < Players.size(); i++) {
-            System.out.println(Players.get(i).playerNumber + " Retirement status: " + Players.get(i).retired);
             if(Players.get(i).retired == false) {
                 allRetired = false;
             }
@@ -61,6 +62,24 @@ public class Board {
             Players.add(new Player(i + 1));
         }
         return Players;
+    }
+
+    public boolean checkSalaryTiles(int tileNumber) {
+        for (int i = 0; i < salaryTiles.length; i++) {
+            if (salaryTiles[i] == tileNumber) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    boolean checkChildrenTile(int tileNumber) {
+        for (int i = 0; i < childrenTile.length; i++) {
+            if (salaryTiles[i] == tileNumber) {
+                return true;
+            }
+        }
+        return false;
     }
 
     public void turnOrder() {
@@ -100,20 +119,32 @@ public class Board {
             if(CollegeCareerPathChoice == 1) {
                 CollegePath(currentPlayer, PlayerSpin);
             }
-            else {
-                currentPlayer.tileNumber += PlayerSpin;
-            }
             currentPlayer.tileNumber += PlayerSpin;
             System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
             System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
-            if (currentPlayer.tileNumber == 1 /*Placeholder number */) {
+
+            if(currentPlayer.tileNumber >= 98 ) {
+                retirePlayer(currentPlayer);
+            }
+
+            if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
                 drawCard();
             }
-            if(currentPlayer.tileNumber > 2 /*Placeholder number */) { 
-                getSalary(currentPlayer);
+            if(checkChildrenTile(currentPlayer.tileNumber)) {
+                if (currentPlayer.tileNumber == 38) {
+                    System.out.println("Player " + currentPlayer.playerNumber + " now has a twins");
+                }
+                else {
+                    System.out.println("Player " + currentPlayer.playerNumber + " now has a kid");
+                }
             }
-            if(currentPlayer.tileNumber >= 98 /*Placeholder number */) {
-                retirePlayer(currentPlayer);
+            
+            if(currentPlayer.tileNumber >= salaryTiles[currentPlayer.salaryTier]) { 
+                if (currentPlayer.salaryTier == salaryTiles.length) {
+
+                }
+                currentPlayer.salaryTier += 1;
+                getSalary(currentPlayer);
             }
         }
     }
@@ -123,11 +154,13 @@ public class Board {
         while(CollegeCareerPathChoice != 1 || CollegeCareerPathChoice != 2) {
             if(CollegeCareerPathChoice == 1) {
                 System.out.println("Player " + currPlayer.playerNumber + " chose to go to college");
+                System.out.println("Player " + currPlayer.playerNumber + " paid 100,000");
+                currPlayer.money -= 100000;
                 return;
             }
             else if (CollegeCareerPathChoice == 2) {
                 System.out.println("Player "+ currPlayer.playerNumber + " chose career path");
-                ArrayList<Job> jobChoices = getJobChoices(EducationLevel.Uneducated);
+                ArrayList<Job> jobChoices = jobs.getJobChoices(EducationLevel.Uneducated);
                 chooseJob(jobChoices, currPlayer);
                 return;
             }
@@ -141,12 +174,15 @@ public class Board {
         boolean mileStoneReached = false;
         System.out.println("Player " + currentPlayer.playerNumber + " spun " + playerSpin + " in college");
         checkLuckyNumber(currentPlayer, playerSpin);
+
         currentPlayer.careerCollegeTiles = currentPlayer.careerCollegeTiles + playerSpin;
         System.out.println("Player " + currentPlayer.playerNumber + " on " + currentPlayer.careerCollegeTiles + " tile");
+        
         if(currentPlayer.careerCollegeTiles >= 10 && mileStoneReached == false) {
             currentPlayer.careerCollegeTiles = 10;
             mileStoneReached = true;    
             System.out.println("Player " + currentPlayer.playerNumber + " graduated");
+
         }
         else if(currentPlayer.careerCollegeTiles > 12) {
             currentPlayer.careerCollegeTiles = 13;
@@ -157,24 +193,34 @@ public class Board {
 
     public void retirePlayer(Player retiringPlayer) {
         retiringPlayer.retired = true;
+        Players.remove(retiringPlayer);
+        RetiredPlayers.add(retiringPlayer);
     }
 
-    public void retirementProcess() {
+    public void calculateWinner() {
         ArrayList<Integer> totalWealth = new ArrayList<>();
-        int retirementBonus = 400000;
+        int retirementBonus = 100000 * (RetiredPlayers.size() + 1);
         for(int i = 0; i < RetiredPlayers.size(); i++) {
             Player currPlayer = RetiredPlayers.get(i);
             int totalPlayerWealth = retirementBonus;
             retirementBonus -= 100000;
+            System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " recieved their retirement bonus of " + retirementBonus);
             totalPlayerWealth = currPlayer.money + totalPlayerWealth;
             totalPlayerWealth += (currPlayer.kids * 50000) + totalPlayerWealth;
             totalPlayerWealth += (currPlayer.actionCards * 100000) + totalPlayerWealth;
             totalWealth.add(totalPlayerWealth);
+            System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " total wealth: " + totalPlayerWealth);
         }
 
         Collections.sort(totalWealth);
 
         //Annouce winners
+        for(int i = 0; i < RetiredPlayers.size(); i++) {
+            if (i == 0) {
+                System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " is the winner!");
+            }
+            System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " is in position " + (i + 1));
+        }
 
     }
 
@@ -182,7 +228,6 @@ public class Board {
         CommandInvoker cardCommand = new CommandInvoker();
         for(int i = 0; i < Players.size(); i++) {
             Player currentPlayer = Players.get(i);
-            currentPlayer.tileNumber += spin();
             switch (currentPlayer.tileNumber) {
                 case 1:
                     cardCommand.addCommand(null);
@@ -212,58 +257,10 @@ public class Board {
         }
     }
 
-    public ArrayList<Job> getJobChoices(EducationLevel educationLevel) {
-        ArrayList<Job> jobs = new ArrayList<Job>();
-
-        if (educationLevel == EducationLevel.Educated) {
-            //Programmer, Doctor, Teacher, Lawyer
-            if (Programmer.getInstance().getPlayer() == null) {
-                jobs.add(Programmer.getInstance());
-            }
-            if (Doctor.getInstance().getPlayer() == null) {
-                jobs.add(Doctor.getInstance());
-            }
-            if (Teacher.getInstance().getPlayer() == null) {
-                jobs.add(Teacher.getInstance());
-            }
-            if (Lawyer.getInstance().getPlayer() == null) {
-                jobs.add(Lawyer.getInstance());
-            }
-        }
-        else { // Not educated
-            //Artist, Pro-Athlete, Mechanic, Entertainer
-            if (Artist.getInstance().getPlayer() == null) {
-                jobs.add(Artist.getInstance());
-            }
-            if (ProAthlete.getInstance().getPlayer() == null) {
-                jobs.add(ProAthlete.getInstance());
-            }
-            if (Mechanic.getInstance().getPlayer() == null) {
-                jobs.add(Mechanic.getInstance());
-            }
-            if (Entertainer.getInstance().getPlayer() == null) {
-                jobs.add(Entertainer.getInstance());
-            }
-        }
-        ArrayList<Job> twojobs = new ArrayList<Job>();
-        int jobSize;
-        int random;
-
-        while(jobs.size() > 0 && twojobs.size() < 2) {
-            jobSize = jobs.size() - 1;
-            random = (int) (Math.random() * jobSize);
-            twojobs.add(jobs.get(random));
-            jobs.remove(random);
-
-        }
-
-        return twojobs;
-    }
-
     public void chooseJob(ArrayList<Job> jobChoices, Player jobPlayer) {
         System.out.println("Which job do you want?");
         for(int i = 0; i < jobChoices.size(); i++) { 
-            System.out.println((i + 1) + ". " + jobChoices.get(i).getName() + " Salary: " + jobChoices.get(i).getCurrentSalary() + " Lucky Number: " + jobChoices.get(i).getLuckyNumber());
+            System.out.println((i + 1) + ". " + jobChoices.get(i).getName() + " Salary: " + jobChoices.get(i).getStartingSalary() + " Lucky Number: " + jobChoices.get(i).getLuckyNumber());
         }
         int jobNumber = readUser.nextInt();
         if(jobNumber == 1) {
@@ -278,7 +275,9 @@ public class Board {
 
     public void getSalary(Player paidPlayer) {
         if(paidPlayer.currentJob != null) {
-            paidPlayer.currentJob.getRaise();
+            paidPlayer.money += paidPlayer.currentJob.getStartingSalary();
+            System.out.println("Player " + paidPlayer.playerNumber + " recieved their salary of " +  paidPlayer.currentJob.getStartingSalary());
+            System.out.println("Player " + paidPlayer.playerNumber + " has total of " +  paidPlayer.money + " dollars");
         }   
     }
 

@@ -12,12 +12,13 @@ public class Player {
     int kids = 0;
     int turnOrderSpin = 0;
     int tileNumber = 0;
+    boolean collegeStatus = false;
     boolean retired = false;
     public int careerCollegeTiles = 0; //12
     public int lifeNightSchoolTiles = 0; //9
     public int lifeFamilyTiles = 0; // 9
     public int safeRiskyTiles = 0;// 7
-    private static final Random Rand = new Random();
+    public int salaryTier = 0;
 
     Player(int playerNum) {
         playerNumber = playerNum;
