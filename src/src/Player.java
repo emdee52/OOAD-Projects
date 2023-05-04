@@ -13,6 +13,9 @@ public class Player {
     int turnOrderSpin = 0;
     int tileNumber = 0;
     boolean collegeStatus = false;
+    boolean nightSchoolStatus = false;
+    boolean familyStatus = false;
+    boolean riskyStatus = false;
     boolean retired = false;
     public int careerCollegeTiles = 0; //12
     public int lifeNightSchoolTiles = 0; //9

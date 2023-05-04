@@ -7,7 +7,7 @@ public class Board {
     public ArrayList<Player> RetiredPlayers = new ArrayList<Player>();
     public int salaryTiles[] = {5, 10, 20, 31, 37, 44, 52, 61, 72, 83, 89, 94};
     public int childrenTile[] = {38, 59};
-    public int CollegeCareerPathChoice;
+    public int stopTiles[] = {};
     public Job jobs;
 
     public static void main(String[] args) {
@@ -116,46 +116,62 @@ public class Board {
             System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
             checkLuckyNumber(currentPlayer, PlayerSpin);
 
-            if(CollegeCareerPathChoice == 1) {
+            if(currentPlayer.collegeStatus) {
                 CollegePath(currentPlayer, PlayerSpin);
             }
-            currentPlayer.tileNumber += PlayerSpin;
-            System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
-            System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
+            else if(currentPlayer.nightSchoolStatus) {
 
+            }
+            else if(currentPlayer.familyStatus) {
+
+            }
+            else if(currentPlayer.riskyStatus) {
+
+            }
+            else {
+                currentPlayer.tileNumber += PlayerSpin;
+                System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
+                System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
+            }
+            
+            //Check player retired
             if(currentPlayer.tileNumber >= 98 ) {
                 retirePlayer(currentPlayer);
             }
 
             if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
                 drawCard();
+                currentPlayer.actionCards += 1;
             }
+
             if(checkChildrenTile(currentPlayer.tileNumber)) {
                 if (currentPlayer.tileNumber == 38) {
                     System.out.println("Player " + currentPlayer.playerNumber + " now has a twins");
+                    currentPlayer.kids += 2;
                 }
                 else {
                     System.out.println("Player " + currentPlayer.playerNumber + " now has a kid");
+                    currentPlayer.kids += 1;
                 }
             }
             
             if(currentPlayer.tileNumber >= salaryTiles[currentPlayer.salaryTier]) { 
-                if (currentPlayer.salaryTier == salaryTiles.length) {
-
+                if (currentPlayer.salaryTier != salaryTiles.length) {
+                    currentPlayer.salaryTier += 1;
                 }
-                currentPlayer.salaryTier += 1;
                 getSalary(currentPlayer);
             }
         }
     }
 
     public void CollegeCareerPath(Player currPlayer) {
-        CollegeCareerPathChoice = readUser.nextInt();
+        int CollegeCareerPathChoice = readUser.nextInt();
         while(CollegeCareerPathChoice != 1 || CollegeCareerPathChoice != 2) {
             if(CollegeCareerPathChoice == 1) {
                 System.out.println("Player " + currPlayer.playerNumber + " chose to go to college");
                 System.out.println("Player " + currPlayer.playerNumber + " paid 100,000");
                 currPlayer.money -= 100000;
+                currPlayer.collegeStatus = true;
                 return;
             }
             else if (CollegeCareerPathChoice == 2) {
