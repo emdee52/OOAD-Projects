@@ -7,7 +7,6 @@ public class Board {
     public ArrayList<Player> RetiredPlayers = new ArrayList<Player>();
     public int salaryTiles[] = {5, 10, 20, 31, 37, 44, 52, 61, 72, 83, 89, 94, 200};
     public int childrenTile[] = {38, 59};
-    public int stopTiles[] = {};
     public Job jobs;
     List<ActionCard> actionCards = ActionCard.generateActionCards();
 
@@ -112,7 +111,8 @@ public class Board {
         milestoneStrategyHelper context;
         for(int i = 0; i < Players.size(); i++) {
             Player currentPlayer = Players.get(i);
-            System.out.println("It is Player " + currentPlayer.playerNumber + "'s turn");
+            if(currentPlayer.retired == false) {
+                System.out.println("It is Player " + currentPlayer.playerNumber + "'s turn");
             int PlayerSpin = spin();
 
             System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
@@ -204,6 +204,7 @@ public class Board {
                 }
                 getSalary(currentPlayer);
             }
+            }
         }
     }
 
@@ -290,8 +291,8 @@ public class Board {
     }
 
     public void retirePlayer(Player retiringPlayer) {
+        System.out.println("Player " + retiringPlayer.playerNumber + " has reached the end of the game and are now retiring.");
         retiringPlayer.retired = true;
-        Players.remove(retiringPlayer);
         RetiredPlayers.add(retiringPlayer);
     }
 
