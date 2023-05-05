@@ -141,7 +141,9 @@ public class Board {
             }
 
             if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
+//                System.out.println("Current money: " + currentPlayer.money);
                 drawCard();
+//                System.out.println("After drawing card money: " + currentPlayer.money);
                 currentPlayer.actionCards += 1;
             }
 
@@ -246,12 +248,13 @@ public class Board {
         for (Player currentPlayer : Players) {
             // Draw the top card from the deck
             ActionCard drawnCard = actionCards.remove(0);
+            actionCards.add(drawnCard);
 
             // Set the owner of the card
             drawnCard.setOwner(currentPlayer);
             currentPlayer.ownedActionCards.add(drawnCard);
 
-            System.out.println(currentPlayer.getName() + " drew the card: " + drawnCard.getDescription());
+            System.out.println(currentPlayer.playerNumber + " drew the card: " + drawnCard.getDescription());
             // Perform the action of the card
             drawnCard.performAction(currentPlayer, Players, this::selectTarget);
         }
@@ -299,12 +302,12 @@ public class Board {
     // Method to select a target player from the list of players
     private Player selectTarget(Player currentPlayer, List<Player> players) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Select a target player:");
+        System.out.println("Select a target player (INPUT PLAYER NUMBER):");
 
         // Show a list of available players to choose from
         for (int i = 0; i < players.size(); i++) {
             if (players.get(i) != currentPlayer) {
-                System.out.println((i + 1) + ": " + players.get(i).getName());
+                System.out.println( "Player " + (i + 1));
             }
         }
 

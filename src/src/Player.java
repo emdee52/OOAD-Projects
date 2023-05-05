@@ -58,7 +58,7 @@ public class Player {
     public int spin() {
         Random random = new Random();
         int spinResult = random.nextInt(10) + 1;
-        System.out.println(getName() + " spun the spinner and it landed on " + spinResult);
+        System.out.println("Player " + playerNumber + " spun the spinner and it landed on " + spinResult);
         return spinResult;
     }
 
