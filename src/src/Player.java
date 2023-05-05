@@ -14,10 +14,14 @@ public class Player {
     int turnOrderSpin = 0;
     int tileNumber = 0;
     boolean collegeStatus = false;
+    boolean marriedStatus = false;
     boolean nightSchoolStatus = false;
     boolean familyStatus = false;
     boolean riskyStatus = false;
     boolean retired = false;
+    boolean kidsStatus = false;
+    boolean Milestone[] = {false, false, false, false, false, false};
+    int milestoneStatus = 0;
     public int careerCollegeTiles = 0; //12
     public int lifeNightSchoolTiles = 0; //9
     public int lifeFamilyTiles = 0; // 9
