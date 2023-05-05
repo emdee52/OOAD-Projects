@@ -224,6 +224,7 @@ public class Board {
             System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " recieved their retirement bonus of " + retirementBonus);
             totalPlayerWealth = currPlayer.money + totalPlayerWealth;
             totalPlayerWealth += (currPlayer.kids * 50000) + totalPlayerWealth;
+//            for (ActionCard card : currPlayer.ownedActionCards) totalPlayerWealth += card.getValue();
             totalPlayerWealth += (currPlayer.actionCards * 100000) + totalPlayerWealth;
             totalWealth.add(totalPlayerWealth);
             System.out.println("Player " + RetiredPlayers.get(i).playerNumber + " total wealth: " + totalPlayerWealth);
@@ -248,6 +249,8 @@ public class Board {
 
             // Set the owner of the card
             drawnCard.setOwner(currentPlayer);
+            currentPlayer.ownedActionCards.add(drawnCard);
+
             System.out.println(currentPlayer.getName() + " drew the card: " + drawnCard.getDescription());
             // Perform the action of the card
             drawnCard.performAction(currentPlayer, Players, this::selectTarget);

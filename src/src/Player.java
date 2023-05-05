@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 
@@ -22,6 +23,7 @@ public class Player {
     public int lifeFamilyTiles = 0; // 9
     public int safeRiskyTiles = 0;// 7
     public int salaryTier = 0;
+    List<ActionCard> ownedActionCards = new ArrayList<>();
 
     Player(int playerNum) {
         playerNumber = playerNum;
