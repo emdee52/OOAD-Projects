@@ -38,7 +38,7 @@ public class ActionCard {
         List<ActionCard> actionCards = new ArrayList<>();
 
         // Add action cards to the deck
-        actionCards.add(new ActionCard("Take money from another player", 3000, (player, players, targetSelector) -> {
+        actionCards.add(new ActionCard("Spin and take spin result times $1,000 from another player", 3000, (player, players, targetSelector) -> {
             int spinnerResult = player.spin();
             int amount = spinnerResult * 1000;
             Player targetPlayer = targetSelector.selectTarget(player, players);
@@ -49,6 +49,7 @@ public class ActionCard {
         }));
 
         actionCards.add(new ActionCard("Pay $5,000 to another player", 2000, (player, players, targetSelector) -> {
+            // Selects the other player
             Player targetPlayer = targetSelector.selectTarget(player, players);
             if (targetPlayer != null) {
                 player.addMoney(-5000);
@@ -81,7 +82,40 @@ public class ActionCard {
 
         actionCards.add(new ActionCard("Pay $5,000 to the bank", 2000, (player, players, targetSelector) -> player.addMoney(-5000)));
 
-        // TODO: Add more action cards as needed
+        actionCards.add(new ActionCard("Every player spins for money from the bank", 2000, (player, players, targetSelector) -> {
+            for (Player p : players) {
+                int spinResult = p.spin();
+                if (spinResult >= 1 && spinResult <= 3) {
+                    p.addMoney(2000);
+                } else if (spinResult >= 4 && spinResult <= 7) {
+                    p.addMoney(4000);
+                } else if (spinResult >= 8 && spinResult <= 10) {
+                    p.addMoney(7000);
+                }
+            }
+        }));
+
+        actionCards.add(new ActionCard("Two players spin for prize", 2000, (player, players, targetSelector) -> {
+            int playerSpin = player.spin();
+
+            // Selects the other player
+            Player otherPlayer = targetSelector.selectTarget(player, players);
+            int otherPlayerSpin = otherPlayer.spin();
+
+            // The player with the higher spin result wins
+            Player winner;
+            int winningSpin;
+            if (playerSpin >= otherPlayerSpin) {
+                winner = player;
+                winningSpin = playerSpin;
+            } else {
+                winner = otherPlayer;
+                winningSpin = otherPlayerSpin;
+            }
+
+            // The winner receives $1,250 times the result of their spin
+            winner.addMoney(1250 * winningSpin);
+        }));
 
         // Shuffle the action cards
         Collections.shuffle(actionCards);
