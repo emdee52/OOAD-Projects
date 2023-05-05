@@ -15,6 +15,7 @@ public class Board {
         GameLife.playGame();
     }
 
+    //Basic outline to play game
     public void playGame() {
         System.out.println("Welcome to the Game of Life!");
         System.out.println("How many players are playing?");
@@ -33,10 +34,12 @@ public class Board {
         calculateWinner();
     }
 
+    //Simulate spinner from game
     public int spin() {
         return rand.nextInt(9) + 1;
     }
 
+    //Simulate spinner from game to get the colors
     public String getColor(int spunNumber) {
         if (spunNumber % 2 == 0) {
             return "red";
@@ -46,6 +49,7 @@ public class Board {
         }
     }
 
+    //Checks to see if all players are retired
     public boolean checkAllRetirement(){
         boolean allRetired = true;
         for(int i = 0; i < Players.size(); i++) {
@@ -56,6 +60,7 @@ public class Board {
         return allRetired;
     }
 
+    //See how many players you're playing with
     public ArrayList<Player> getPlayerAmount() {
         int numPlayers = readUser.nextInt();
         for (int i = 0; i < numPlayers; i++) {
@@ -64,6 +69,7 @@ public class Board {
         return Players;
     }
 
+    //See if special tile to prevent card draw 
     public boolean checkSalaryTiles(int tileNumber) {
         for (int i = 0; i < salaryTiles.length; i++) {
             if (salaryTiles[i] == tileNumber) {
@@ -73,6 +79,7 @@ public class Board {
         return false;
     }
 
+    //See if special tile to prevent card draw 
     boolean checkChildrenTile(int tileNumber) {
         for (int i = 0; i < childrenTile.length; i++) {
             if (salaryTiles[i] == tileNumber) {
@@ -82,15 +89,19 @@ public class Board {
         return false;
     }
 
+    //Determines turn order at beginning of game by having highest spinner go first
     public void turnOrder() {
         int pos = 0;
         int playerSpin = spin();
+
+        //All players roll to see their numbers
         for(int i = 0; i < Players.size(); i++) {
             playerSpin = spin();
             Players.get(i).turnOrderSpin = playerSpin;
             System.out.println("Player number: " + Players.get(i).playerNumber + " Player turn spin: " + Players.get(i).turnOrderSpin);
         }
 
+        //Sorts Players list into descending order using selection sort
         for (int i = 0; i < Players.size(); i++) {
             pos = i;
             for (int j = 0; j < Players.size(); j++) {
@@ -102,6 +113,7 @@ public class Board {
             }
         }
 
+        //Print order
         for (int i = 0; i < Players.size(); i++) {
             System.out.println("Player" + Players.get(i).playerNumber + " spun " + Players.get(i).turnOrderSpin);
         }
@@ -118,7 +130,7 @@ public class Board {
                 System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
                 checkLuckyNumber(currentPlayer, PlayerSpin);
 
-
+                //See if certain milestone reached with diverging paths
                 if(currentPlayer.tileNumber >= 26 && currentPlayer.Milestone[2] == false) {
                     System.out.println("Player " + currentPlayer.playerNumber + " has hit a milestone!");
                     LifeNightPath(currentPlayer);
@@ -126,13 +138,8 @@ public class Board {
                 if(currentPlayer.tileNumber >= 46 && currentPlayer.Milestone[3] == false) {
                     LifeFamilyPath(currentPlayer);
                 }
-                if(currentPlayer.lifeFamilyTiles >= 10 && currentPlayer.Milestone[4] == false) {
 
-                }
-                if(currentPlayer.tileNumber >= 74 && currentPlayer.Milestone[5] == false) {
-
-                }
-
+                //Send player into milestone path instead of regular path
                 if(currentPlayer.collegeStatus) {
                     context = new milestoneStrategyHelper(new graduatedMilestone());
                     context.executeMilestoneAction(currentPlayer, PlayerSpin);
@@ -180,6 +187,7 @@ public class Board {
                     retirePlayer(currentPlayer);
                 }
 
+                //Check if special tile otherwise draw card
                 if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
     //                System.out.println("Current money: " + currentPlayer.money);
                     drawCard();
@@ -187,6 +195,7 @@ public class Board {
                     currentPlayer.actionCards += 1;
                 }
 
+                //Random kids that you can get throughout regular path and add
                 if(checkChildrenTile(currentPlayer.tileNumber)) {
                     if (currentPlayer.tileNumber == 38) {
                         System.out.println("Player " + currentPlayer.playerNumber + " now has a twins");
@@ -198,6 +207,7 @@ public class Board {
                     }
                 }
                 
+                //Pay player if they pass over salary tile
                 if(currentPlayer.tileNumber >= salaryTiles[currentPlayer.salaryTier]) { 
                     if (currentPlayer.salaryTier != salaryTiles.length) {
                         currentPlayer.salaryTier += 1;
@@ -208,10 +218,12 @@ public class Board {
         }
     }
 
+    //Used to determine path player wants to go
     public void CollegeCareerPath(Player currPlayer) {
         int CollegeCareerPathChoice = readUser.nextInt();
         while(CollegeCareerPathChoice != 1 || CollegeCareerPathChoice != 2) {
             if(CollegeCareerPathChoice == 1) {
+                //Marks player as someone that goes through college path
                 System.out.println("Player " + currPlayer.playerNumber + " chose to go to college");
                 System.out.println("Player " + currPlayer.playerNumber + " paid 100,000");
                 currPlayer.money -= 100000;
@@ -219,6 +231,7 @@ public class Board {
                 return;
             }
             else if (CollegeCareerPathChoice == 2) {
+                //Get job if 
                 System.out.println("Player "+ currPlayer.playerNumber + " chose career path");
                 currPlayer.milestoneStatus += 1;
                 ArrayList<Job> jobChoices = jobs.getJobChoices(EducationLevel.Uneducated);
@@ -231,6 +244,7 @@ public class Board {
         }
     }
 
+    //Used to determine path player wants to go
     public void LifeNightPath(Player currPlayer) {
         int PathChoice = 0;
         System.out.println("Player " + currPlayer.playerNumber + " what would you like to do?");
@@ -243,6 +257,7 @@ public class Board {
         while(PathChoice != 1 || PathChoice != 2) {
             PathChoice = readUser.nextInt();
             if(PathChoice == 1) {
+                //Marks player as someone that goes through night school path
                 System.out.println("Player " + currPlayer.playerNumber + " chose to go to night school");
                 System.out.println("Player " + currPlayer.playerNumber + " paid 100,000");
                 currPlayer.money -= 100000;
@@ -265,11 +280,13 @@ public class Board {
         }
     }
 
+    //Used to determine path player wants to go
     public void LifeFamilyPath(Player currPlayer) {
         int PathChoice = 0;
         System.out.println("Player " + currPlayer.playerNumber + " what would you like to do?");
         System.out.println("1. Go to Family Path");
-         System.out.println("2. Go on with life");
+        System.out.println("2. Go on with life");
+
         while(PathChoice != 1 || PathChoice != 2) {
             PathChoice = readUser.nextInt();
             if(PathChoice == 1) {
@@ -290,11 +307,13 @@ public class Board {
         }
     }
 
+    //retire player
     public void retirePlayer(Player retiringPlayer) {
         System.out.println("Player " + retiringPlayer.playerNumber + " has reached the end of the game and are now retiring.");
         retiringPlayer.retired = true;
         RetiredPlayers.add(retiringPlayer);
     }
+
 
     public void calculateWinner() {
         ArrayList<Integer> totalWealth = new ArrayList<>();
@@ -343,8 +362,6 @@ public class Board {
         }
     }
 
-
-
     public void checkLuckyNumber(Player currentPlayer, int spunNumber) {
         for(int i = 0; i < Players.size(); i++) {
             if(Players.get(i).currentJob != null) {
@@ -374,6 +391,7 @@ public class Board {
         }
     }
 
+    //Pay player
     public void getSalary(Player paidPlayer) {
         if(paidPlayer.currentJob != null) {
             paidPlayer.money += paidPlayer.currentJob.getStartingSalary();

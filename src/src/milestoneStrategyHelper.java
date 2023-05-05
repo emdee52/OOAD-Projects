@@ -1,3 +1,10 @@
+/*
+ * 
+ * Uses strategy pattern
+ * 
+ */
+
+
 public class milestoneStrategyHelper {
     private milestone milestones;
 
