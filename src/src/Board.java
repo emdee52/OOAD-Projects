@@ -9,6 +9,7 @@ public class Board {
     public int childrenTile[] = {38, 59};
     public int stopTiles[] = {};
     public Job jobs;
+    List<ActionCard> actionCards = ActionCard.generateActionCards();
 
     public static void main(String[] args) {
         Board GameLife = new Board();
@@ -240,26 +241,20 @@ public class Board {
 
     }
 
-    /*Heres the draw card function that needs to worked on */
     public void drawCard() {
-        CommandInvoker cardCommand = new CommandInvoker();
-        for(int i = 0; i < Players.size(); i++) {
-            Player currentPlayer = Players.get(i);
-            switch (currentPlayer.tileNumber) {
-                case 1:
-                    cardCommand.addCommand(null);
-                    break;
-                case 2:
-                    cardCommand.addCommand(null);
-                    break;
-                case 3:
-                    cardCommand.addCommand(null);
-                    break;
-                default:
-                    break;
-            }   
+        for (Player currentPlayer : Players) {
+            // Draw the top card from the deck
+            ActionCard drawnCard = actionCards.remove(0);
+
+            // Set the owner of the card
+            drawnCard.setOwner(currentPlayer);
+            System.out.println(currentPlayer.getName() + " drew the card: " + drawnCard.getDescription());
+            // Perform the action of the card
+            drawnCard.performAction(currentPlayer, Players, this::selectTarget);
         }
     }
+
+
 
     public void checkLuckyNumber(Player currentPlayer, int spunNumber) {
         for(int i = 0; i < Players.size(); i++) {
@@ -299,7 +294,7 @@ public class Board {
     }
 
     // Method to select a target player from the list of players
-    private static Player selectTarget(Player currentPlayer, List<Player> players) {
+    private Player selectTarget(Player currentPlayer, List<Player> players) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Select a target player:");
 

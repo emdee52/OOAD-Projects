@@ -77,13 +77,9 @@ public class ActionCard {
             highestSpinner.addMoney(10000 * highestSpin);
         }));
 
-        actionCards.add(new ActionCard("Collect $10,000 from the bank", 1000, (player, players, targetSelector) -> {
-            player.addMoney(10000);
-        }));
+        actionCards.add(new ActionCard("Collect $10,000 from the bank", 1000, (player, players, targetSelector) -> player.addMoney(10000)));
 
-        actionCards.add(new ActionCard("Pay $5,000 to the bank", 2000, (player, players, targetSelector) -> {
-            player.addMoney(-5000);
-        }));
+        actionCards.add(new ActionCard("Pay $5,000 to the bank", 2000, (player, players, targetSelector) -> player.addMoney(-5000)));
 
         // TODO: Add more action cards as needed
 
@@ -91,14 +87,5 @@ public class ActionCard {
         Collections.shuffle(actionCards);
 
         return actionCards;
-    }
-
-    public void steal() {
-    }
-
-    public void spin() {
-    }
-
-    public void collect() {
     }
 }
