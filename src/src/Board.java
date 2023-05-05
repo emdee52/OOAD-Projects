@@ -113,97 +113,97 @@ public class Board {
             Player currentPlayer = Players.get(i);
             if(currentPlayer.retired == false) {
                 System.out.println("It is Player " + currentPlayer.playerNumber + "'s turn");
-            int PlayerSpin = spin();
+                int PlayerSpin = spin();
 
-            System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
-            checkLuckyNumber(currentPlayer, PlayerSpin);
+                System.out.println("Player " + currentPlayer.playerNumber + " spun " + PlayerSpin);
+                checkLuckyNumber(currentPlayer, PlayerSpin);
 
 
-            if(currentPlayer.tileNumber >= 26 && currentPlayer.Milestone[2] == false) {
-                System.out.println("Player " + currentPlayer.playerNumber + " has hit a milestone!");
-                LifeNightPath(currentPlayer);
-            }
-            if(currentPlayer.tileNumber >= 46 && currentPlayer.Milestone[3] == false) {
-                LifeFamilyPath(currentPlayer);
-            }
-            if(currentPlayer.lifeFamilyTiles >= 10 && currentPlayer.Milestone[4] == false) {
-
-            }
-            if(currentPlayer.tileNumber >= 74 && currentPlayer.Milestone[5] == false) {
-
-            }
-
-            if(currentPlayer.collegeStatus) {
-                context = new milestoneStrategyHelper(new graduatedMilestone());
-                context.executeMilestoneAction(currentPlayer, PlayerSpin);
-                if(currentPlayer.careerCollegeTiles >= 10 && currentPlayer.currentJob == null) {
-                    ArrayList<Job> jobChoices = jobs.getJobChoices(EducationLevel.Educated);
-                    chooseJob(jobChoices, currentPlayer);
+                if(currentPlayer.tileNumber >= 26 && currentPlayer.Milestone[2] == false) {
+                    System.out.println("Player " + currentPlayer.playerNumber + " has hit a milestone!");
+                    LifeNightPath(currentPlayer);
                 }
-            }
-            if (currentPlayer.marriedStatus == false && currentPlayer.tileNumber >= 14) {
-                context = new milestoneStrategyHelper(new marriedMilestone());
-                context.executeMilestoneAction(currentPlayer, PlayerSpin);
+                if(currentPlayer.tileNumber >= 46 && currentPlayer.Milestone[3] == false) {
+                    LifeFamilyPath(currentPlayer);
+                }
+                if(currentPlayer.lifeFamilyTiles >= 10 && currentPlayer.Milestone[4] == false) {
 
-                int giftSpin = spin() * 10000;
-                System.out.println("Player " + currentPlayer.playerNumber + " spun " + giftSpin/10000);
+                }
+                if(currentPlayer.tileNumber >= 74 && currentPlayer.Milestone[5] == false) {
 
-                currentPlayer.money += giftSpin * (Players.size() - 1);
+                }
 
-                for(int j = 0; j < Players.size(); j++) {
-                    if(Players.get(j) != currentPlayer) {
-                        System.out.println("Player " + Players.get(j).playerNumber + " paid Player " + currentPlayer.playerNumber +" " + giftSpin + " in wedding gifts");
-                        Players.get(j).money -= giftSpin;
+                if(currentPlayer.collegeStatus) {
+                    context = new milestoneStrategyHelper(new graduatedMilestone());
+                    context.executeMilestoneAction(currentPlayer, PlayerSpin);
+                    if(currentPlayer.careerCollegeTiles >= 10 && currentPlayer.currentJob == null) {
+                        ArrayList<Job> jobChoices = jobs.getJobChoices(EducationLevel.Educated);
+                        chooseJob(jobChoices, currentPlayer);
                     }
                 }
-            }
-            else if(currentPlayer.nightSchoolStatus) {
-                context = new milestoneStrategyHelper(new nightSchoolMilestone());
-                context.executeMilestoneAction(currentPlayer, PlayerSpin);
-            }
-            else if(currentPlayer.familyStatus) {
-                context = new milestoneStrategyHelper(new familyMilestone());
-                context.executeMilestoneAction(currentPlayer, PlayerSpin);
-            }
-            if(currentPlayer.kidsStatus) {
-                context = new milestoneStrategyHelper(new kidsMilestone());
-                context.executeMilestoneAction(currentPlayer, PlayerSpin);
-            }
-            else {
-                currentPlayer.tileNumber += PlayerSpin;
-                System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
-                System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
-            }
+                if (currentPlayer.marriedStatus == false && currentPlayer.tileNumber >= 14) {
+                    context = new milestoneStrategyHelper(new marriedMilestone());
+                    context.executeMilestoneAction(currentPlayer, PlayerSpin);
 
-            //Check player retired
-            if(currentPlayer.tileNumber >= 98 ) {
-                retirePlayer(currentPlayer);
-            }
+                    int giftSpin = spin() * 10000;
+                    System.out.println("Player " + currentPlayer.playerNumber + " spun " + giftSpin/10000);
 
-            if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
-//                System.out.println("Current money: " + currentPlayer.money);
-                drawCard();
-//                System.out.println("After drawing card money: " + currentPlayer.money);
-                currentPlayer.actionCards += 1;
-            }
+                    currentPlayer.money += giftSpin * (Players.size() - 1);
 
-            if(checkChildrenTile(currentPlayer.tileNumber)) {
-                if (currentPlayer.tileNumber == 38) {
-                    System.out.println("Player " + currentPlayer.playerNumber + " now has a twins");
-                    currentPlayer.kids += 2;
+                    for(int j = 0; j < Players.size(); j++) {
+                        if(Players.get(j) != currentPlayer) {
+                            System.out.println("Player " + Players.get(j).playerNumber + " paid Player " + currentPlayer.playerNumber +" " + giftSpin + " in wedding gifts");
+                            Players.get(j).money -= giftSpin;
+                        }
+                    }
+                }
+                else if(currentPlayer.nightSchoolStatus) {
+                    context = new milestoneStrategyHelper(new nightSchoolMilestone());
+                    context.executeMilestoneAction(currentPlayer, PlayerSpin);
+                }
+                else if(currentPlayer.familyStatus) {
+                    context = new milestoneStrategyHelper(new familyMilestone());
+                    context.executeMilestoneAction(currentPlayer, PlayerSpin);
+                }
+                if(currentPlayer.kidsStatus) {
+                    context = new milestoneStrategyHelper(new kidsMilestone());
+                    context.executeMilestoneAction(currentPlayer, PlayerSpin);
                 }
                 else {
-                    System.out.println("Player " + currentPlayer.playerNumber + " now has a kid");
-                    currentPlayer.kids += 1;
+                    currentPlayer.tileNumber += PlayerSpin;
+                    System.out.println("Player " + currentPlayer.playerNumber + " moved " + PlayerSpin + " spaces");
+                    System.out.println("Player " + currentPlayer.playerNumber + " on tile " + currentPlayer.tileNumber);
                 }
-            }
-            
-            if(currentPlayer.tileNumber >= salaryTiles[currentPlayer.salaryTier]) { 
-                if (currentPlayer.salaryTier != salaryTiles.length) {
-                    currentPlayer.salaryTier += 1;
+
+                //Check player retired
+                if(currentPlayer.tileNumber >= 98 ) {
+                    retirePlayer(currentPlayer);
                 }
-                getSalary(currentPlayer);
-            }
+
+                if(checkSalaryTiles(currentPlayer.tileNumber) == false && checkChildrenTile(currentPlayer.tileNumber) == false) {
+    //                System.out.println("Current money: " + currentPlayer.money);
+                    drawCard();
+    //                System.out.println("After drawing card money: " + currentPlayer.money);
+                    currentPlayer.actionCards += 1;
+                }
+
+                if(checkChildrenTile(currentPlayer.tileNumber)) {
+                    if (currentPlayer.tileNumber == 38) {
+                        System.out.println("Player " + currentPlayer.playerNumber + " now has a twins");
+                        currentPlayer.kids += 2;
+                    }
+                    else {
+                        System.out.println("Player " + currentPlayer.playerNumber + " now has a kid");
+                        currentPlayer.kids += 1;
+                    }
+                }
+                
+                if(currentPlayer.tileNumber >= salaryTiles[currentPlayer.salaryTier]) { 
+                    if (currentPlayer.salaryTier != salaryTiles.length) {
+                        currentPlayer.salaryTier += 1;
+                    }
+                    getSalary(currentPlayer);
+                }
             }
         }
     }
